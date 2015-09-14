@@ -1,0 +1,15 @@
+#This is simplified POS tagset used in the Dutch semantic tagger
+noun	noun
+verb	verb
+adj	adjective
+adv	adverb
+num	number
+interj	interjection
+prep	preposition
+conj	conjuction
+art	article
+pron	pronoun
+punc	puctuation
+sent	sentence marker
+
+

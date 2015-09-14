@@ -21,6 +21,7 @@ http://aclweb.org/anthology/N/N15/N15-1137.pdf
 
 For more details about the USAS tagger, see our website:
 http://ucrel.lancs.ac.uk/usas/
+Others collaborating on multilingual lexicon development are listed on this site.
 
 This work is licensed under a 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative 

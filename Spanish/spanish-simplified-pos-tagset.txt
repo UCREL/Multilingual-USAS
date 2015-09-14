@@ -1,0 +1,20 @@
+adj	adjective
+adv	adverb
+art	article
+part	particle
+conj	conjunction
+intj	interjection
+noun	noun
+num	number
+prep	preposition
+pron	pronoun
+verb	verb
+pnoun	proper noun
+port	Portmanteau word
+abbr	abbreviation
+sys	symbols
+punc	punctuation
+fw	foreign word
+
+
+

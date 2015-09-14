@@ -1,0 +1,14 @@
+noun	noun
+verb	verb
+adj	adjective
+adv	adverb
+pnoun	proper noun
+det	determiner
+conj	conjunction
+num	number
+prep	preposition
+intj	interjection
+pron	pronoun
+punc	punctuation
+
+

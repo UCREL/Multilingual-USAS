@@ -1,0 +1,20 @@
+#This is a simplified POS Chiense tagset used in the Chinese semantic tagger.
+Noun:	noun
+Verb:	verb
+Adj:	adjective
+adv:	adverb
+Num:	number
+loc:	localiser
+msr:	measure word
+ono:	onomatopoeia 
+mark:	Marker
+part:	particle
+det:	determiner
+pnoun:	proper noun
+Pron:	pronoun
+prep:	preposition
+Conj:	conjunction
+intj:	interjection
+fw:	foreign word
+punc:	punctuation
+
