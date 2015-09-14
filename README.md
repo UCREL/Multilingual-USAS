@@ -1,11 +1,9 @@
 # Multilingual-USAS
 Lexicons for the Multilingual UCREL Semantic Analysis System 
 
-The UCREL semantic analysis system (USAS) is a framework for undertaking the 
-automatic semantic analysis of text. The framework has been designed and 
-used across a number of research projects and this page collects 
-together various pointers to those projects and publications produced 
-since 1990.
+The UCREL semantic analysis system (USAS) is a framework for undertaking 
+the automatic semantic analysis of text. The framework has been designed 
+and used across a number of research projects since 1990.
 
 The USAS framework initially in English is being extended to other languages.
 This repository houses the lexicons and tagsets for the non-English versions
@@ -28,3 +26,9 @@ This work is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative 
 Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 License</a>.
+
+If you are interested in getting involved in creating lexicons for new 
+languages or updating the existing ones then please get in touch with: 
+Paul Rayson (p.rayson@lancaster.ac.uk) and Scott Piao 
+(s.piao@lancaster.ac.uk) at Lancaster University.
+
