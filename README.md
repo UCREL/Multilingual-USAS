@@ -27,7 +27,7 @@ Ricardo-María Jiménez, Dawn Knight, Michal Kren, Laura Löfberg, Rao Muhammad 
 Jawad Shafi, Phoey Lee Teh and Olga Mudraya. (2016) 
 Lexical Coverage Evaluation of Large-scale Multilingual Semantic Lexicons for Twelve Languages. 
 In proceedings of the 10th edition of the Language Resources and Evaluation Conference 
-(LREC2016), Portoroz, Slovenia.
+(LREC2016), Portoroz, Slovenia, pp. 2614-2619.
 http://www.lrec-conf.org/proceedings/lrec2016/summaries/257.html
 
 For more details about the USAS tagger, see our website:
