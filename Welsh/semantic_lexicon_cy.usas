@@ -1,0 +1,2745 @@
+#Welsh Semantic Lexicon - Experimental initial version based on Welsh-English bilexicon available at website:
+#http://www.cs.cf.ac.uk/fun/welsh/LexiconWE.html built by Mark H. Nodine. Version 1.91 (Last updated June 14 2003).
+a	a	conj	Z5
+a	a	pron	Z8
+Abergwaun	Abergwaun	prop	Z2
+Aber.honddu	Aber.honddu	prop	Z2 Z3c
+Abertawe	Abertawe	prop	Z2
+Aberteifi	Aberteifi	prop	Z2 Z1mf
+abladol	abladol	adj	Q3
+abrwysg	abrwysg	adj	O4.2-
+absennol	absennol	adj	S1.1.3- A3-
+absennus	absennus	adj	Q2.2/A5.2- Q2.2/A5.1- G2.2-
+academig	academig	adj	P1/S2mf
+acennog	acennog	adj	Q3 A11.1+
+acw	acw	adv	M6 T1.2
+ach	ach	interj	Z4
+achlust	achlust	adj	X5.1+ S8+
+achlysurol	achlysurol	adj	N6-
+achos	achos	conj	Z5/A2.2
+achos	achos	prep	Z5/A2.2
+achubol	achubol	adj	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
+achul	achul	adj	N5-/A2.1 O4.1/A2.1
+achwyn.gar	achwyn.gar	adj	Q2.2/E2-
+achyddol	achyddol	adj	S4
+adariaethol	adariaethol	adj	L2
+adeiniog	adeiniog	adj	L2
+adfeiliedig	adfeiliedig	adj	O4.2-/A2.1 B2-
+adferfol	adferfol	adj	Q3
+adforion	adforion	n	Z5
+adfydus	adfydus	adj	S8-
+adfywiol	adfywiol	adj	B2+ A5.1+/A2.1
+adlaw	adlaw	adj	S7.1- S1.2.5-
+adloniadol	adloniadol	adj	K1 S1.1.1 S7.4+
+adnabyddus	adnabyddus	adj	S9
+adnoddau	adnoddau	n	A9+ W3
+adweinyddol	adweinyddol	adj	S7.1+
+adweithiol	adweithiol	adj	A1.1.1 Y1
+Adda	Adda	prop	Z1m
+addas	addas	adj	A1.2+
+addawol	addawol	adj	A7+/Q2.2 A8
+addefedig	addefedig	adj	Q2.2 B3 A1.8+ S7.4+/M1
+addfain	addfain	adj	A13.4 N3.2-/B1
+addfwyn	addfwyn	adj	E3+
+addfwyndeg	addfwyndeg	adj	G2.1
+addfwynol	addfwynol	adj	E3+
+addoer	addoer	adj	E4.1- A5.1-
+addolgar	addolgar	adj	S9
+addurnedig	addurnedig	adj	O4.2+
+addurnol	addurnol	adj	O4.1
+addysgiadol	addysgiadol	adj	Q2.1
+addysgol	addysgol	adj	P1
+aele	aele	adj	E4.1- A5.1-
+aeronotig	aeronotig	adj	M5/A1.1.1
+aethus	aethus	adj	E4.1-
+afiach	afiach	adj	B2-
+aflafar	aflafar	adj	O4.2-
+aflan	aflan	adj	O4.2-
+aflednais	aflednais	adj	S1.2.3+ S1.2.4-
+aflesol	aflesol	adj	A5.1-
+aflonydd	aflonydd	adj	X5.2- M1
+aflonyddus	aflonyddus	adj	X5.1- A2.1+
+afluniaidd	afluniaidd	adj	O4.4 O4.2-
+aflwyddiannus	aflwyddiannus	adj	X9.2-
+afradlon	afradlon	adj	N5.2+
+afraid	afraid	adj	S6-
+afrasol	afrasol	adj	O4.2- S1.2.4- G2.2- S9
+afreidiol	afreidiol	adj	S6-
+afreolus	afreolus	adj	A1.7- S7.1-
+afresymol	afresymol	adj	S1.2.6-
+afrifed	afrifed	adj	N5+
+afrosgo	afrosgo	adj	O4.2-
+afrwydd	afrwydd	adj	A12-
+afrywiog	afrywiog	adj	S1.2.3+ G2.2-
+agerw	agerw	adj	F2
+agoriadol	agoriadol	adj	A1.1.1 T2+
+agos	agos	adv	A13.4
+agos	agos	prep	M1/N3.3-
+agosaol	agosaol	adj	M1 A1.1.1 Q2.2
+angall	angall	adj	S1.2.6-
+angenfilaidd	angenfilaidd	adj	A5.1--- N3.2+++ O4.2---
+angenrheidiol	angenrheidiol	adj	S6+ A11.1+
+angerddol	angerddol	adj	X5.2+
+anghanonaidd	anghanonaidd	adj	A5.2/A7 A5.4/X2.1
+angharedig	angharedig	adj	S1.2/S8- S1.2.2+
+anghenus	anghenus	adj	I1.1-
+angheuol	angheuol	adj	L1- X9.2+ O4.2-
+anghofiedig	anghofiedig	adj	X2.2-
+anghofus	anghofus	adj	S2.1/X2.2-
+anghorfforol	anghorfforol	adj	N3.2- N5- O4.1%
+anghredadwy	anghredadwy	adj	A5.1+++ A5.2-/A8
+Anghrist	Anghrist	prop	S9 Z1m/E2- G2.2-
+anghydnabyddus	anghydnabyddus	adj	X2.2- A6.2-
+anghydryw	anghydryw	adj	A6.3+
+anghydweddol	anghydweddol	adj	A6.1-
+anghyfaddas	anghyfaddas	adj	A1.2-
+anghyfannedd	anghyfannedd	adj	S2-/H4
+anghyfansoddiadol	anghyfansoddiadol	adj	G1.1
+anghyfartal	anghyfartal	adj	A6.1-
+anghyfarwydd	anghyfarwydd	adj	X2.2- A6.2-
+anghyfeb	anghyfeb	adj	L3-/F4 N5--- B2-/S4
+anghyfeillgar	anghyfeillgar	adj	S1.2.1-
+anghyfiaith	anghyfiaith	adj	M7
+anghyfiawn	anghyfiawn	adj	S1.2 G2.2-
+anghyfieithus	anghyfieithus	adj	M7
+anghyflawn	anghyflawn	adj	N5.1-
+anghyfleus	anghyfleus	adj	A12- S8-
+anghyfnewidiol	anghyfnewidiol	adj	A2.1-
+anghyfreithlon	anghyfreithlon	adj	G2.1-
+anghyfrifol	anghyfrifol	adj	S1.2.6-
+anghyfforddus	anghyfforddus	adj	O4.2- E1
+anghyffredin	anghyffredin	adj	A6.2-
+anghymen	anghymen	adj	O4.2-
+anghymeradwy	anghymeradwy	adj	X7- E2-
+anghymesur	anghymesur	adj	N5.2+
+anghymharol	anghymharol	adj	A6.1+
+anghymharus	anghymharus	adj	B2- A5.1-
+anghymodlawn	anghymodlawn	adj	S7.1+ A2.1-
+anghymwys	anghymwys	adj	B2- A1.2-
+anghynefin	anghynefin	adj	X2.2- A6.2-
+anghynnes	anghynnes	adj	B2- O4.6-
+anghyson	anghyson	adj	A6.1-
+anghysonair	anghysonair	adj	A7-
+anghysylltiol	anghysylltiol	adj	X7-
+anghysylltus	anghysylltus	adj	A7- S1.2.6- X2.5-
+anghytbwys	anghytbwys	adj	A6.1- O4.1/B1
+anghytrig	anghytrig	adj	Z6
+anghywair	anghywair	adj	B2- A5.1-
+anghywir	anghywir	adj	A5.3- S1.2.4-
+angladdol	angladdol	adj	L1-/S1.1.1
+Anglicanaidd	Anglicanaidd	adj	S9
+angylaidd	angylaidd	adj	A5.1+ S9
+alaeth	alaeth	adj	E4.1-
+alaethus	alaethus	adj	E4.1-
+alcali%aidd	alcali%aidd	adj	O1
+Almaenaidd	Almaenaidd	adj	Z2/S2mf Z2/Q3
+Almaenig	Almaenig	adj	Z2/S2mf Z2/Q3
+allan	allan	adv	S3.2
+allanol	allanol	adj	K5.1 O2/M6
+alltud	alltud	adj	M7/S2mf W1/S2mf
+amaethyddol	amaethyddol	adj	F4
+amaturaidd	amaturaidd	adj	I3.2-/S2mf
+ambell	ambell	adj	N6-
+amdrist	amdrist	adj	E4.1-
+amdro	amdro	adj	M1
+amddifad	amddifad	adj	S4-
+amddyfrwys	amddyfrwys	adj	A13.3
+Americanaidd	Americanaidd	adj	Z2/S2mf
+amgaee%dig	amgaee%dig	adj	A1.8+ A10-
+amgylchfydol	amgylchfydol	adj	W5 W3
+amgylchiadol	amgylchiadol	adj	O4.1 G2.1 A4.1
+amgylchynol	amgylchynol	adj	M6 A1.8+ A10- G3
+amharchus	amharchus	adj	S7.2-
+amharod	amharod	adj	O4.1 X2.6- X7-
+amharus	amharus	adj	O4.2-/A2.1 B2-
+amhendant	amhendant	adj	A7-
+amhenodol	amhenodol	adj	A7-
+amherffaith	amherffaith	adj	O4.2- A5.1- A1.2-
+amhersonol	amhersonol	adj	S1.2.1-
+amherthnasol	amherthnasol	adj	A1.2-
+amherthynol	amherthynol	adj	A1.2-
+amheuol	amheuol	adj	A7-
+amheus	amheus	adj	A7-
+amheuthun	amheuthun	adj	O4.2+
+amhlaid	amhlaid	adj	G2.2+/E2
+amhlantadwy	amhlantadwy	adj	S4
+amhleidiol	amhleidiol	adj	G2.2+/E2
+amhoblogaidd	amhoblogaidd	adj	E2-
+amhosibl	amhosibl	adj	A7- A12-
+amhriodol	amhriodol	adj	G2.2-
+amhrisiadwy	amhrisiadwy	adj	I1.3+ A11.1+ E4.1+
+amhrofiadol	amhrofiadol	adj	X2.2- X9.1- I3.2-
+amhwrpasol	amhwrpasol	adj	A1.2-
+amhwyllog	amhwyllog	adj	S1.2.6- E4.1+
+amhwyllus	amhwyllus	adj	S1.2.6- E4.1+
+aml	aml	adv	N6+
+amlblyg	amlblyg	adj	A6.3+
+amleiriog	amleiriog	adj	Q3
+amlochrog	amlochrog	adj	N5+
+amodol	amodol	adj	A2.2 Z7 Q3
+amorffus	amorffus	adj	O4.4 A4.1- W3
+amrwd	amrwd	adj	F1
+amryddawn	amryddawn	adj	A6.3+
+amryfal	amryfal	adj	A6.3+
+amryfath	amryfath	adj	A4.2-
+amryfodd	amryfodd	adj	A6.3+
+amrygyr	amrygyr	adj	A1.1.1 X5.1+
+amryw	amryw	adj	N5
+amrywiol	amrywiol	adj	A4.2-
+amrywion	amrywion	n	A4.1
+amserol	amserol	adj	T1.2/A1.2+
+amseryddol	amseryddol	adj	T1/N4
+amwyll	amwyll	adj	A13.3
+amwys	amwys	adj	Q3 A7-
+Amwythig	Amwythig	prop	Z2
+amyneddgar	amyneddgar	adj	B2-/S2mf
+anachaidd	anachaidd	adj	G2.1-
+anad	anad	adj	A4.2+ G2.1/S2mf
+anad	anad	prep	N4
+anadferadwy	anadferadwy	adj	A1.1.2
+anadnabyddus	anadnabyddus	adj	X2.2-
+anaddas	anaddas	adj	B2- A1.2-
+anaddef	anaddef	adj	O4.2-
+anaelau	anaelau	adj	A5.1--- L1-
+anaele	anaele	adj	A13.3
+anafraid	anafraid	adj	S6+ A11.1+
+anafus	anafus	adj	A1.1.2
+analluog	analluog	adj	X9.1-
+anaml	anaml	adj	N6-
+anaml	anaml	adv	N6-
+anamlwg	anamlwg	adj	A10-
+anamserol	anamserol	adj	T1.2/A1.2-
+anaraf	anaraf	adj	E3- X5.2+ A1.7-
+anarferedig	anarferedig	adj	T3---
+anarferol	anarferol	adj	A6.2-
+anarfog	anarfog	adj	G3-
+anatomaidd	anatomaidd	adj	B1
+anawdd	anawdd	adj	O4.1 X8+ X5.2+ N5+ A12-
+Andreas	Andreas	prop	Z1m
+andwyol	andwyol	adj	A1.1.2
+aneffeithiol	aneffeithiol	adj	A1.5.2-
+aneglur	aneglur	adj	A7- A10- O4.3 O4.1
+aneirif	aneirif	adj	N5+
+anelog	anelog	adj	S8+
+anelw	anelw	adj	A1.5.2- I1.1-
+anesboniadwy	anesboniadwy	adj	X2.5-
+anesmwyth	anesmwyth	adj	E6-
+anewyllysgar	anewyllysgar	adj	X7- X5.2-
+anfad	anfad	adj	G2.2- A5.1+
+anfaddeugar	anfaddeugar	adj	G2.2-/S1.2 A12-
+anfanol	anfanol	adj	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
+anfanteisiol	anfanteisiol	adj	A5.1-
+anfarwol	anfarwol	adj	T2++
+anfeddyginiaethol	anfeddyginiaethol	adj	B2-
+anfeidraidd	anfeidraidd	adj	T2++
+anfeidrol	anfeidrol	adj	T2++
+anferth	anferth	adj	N3.2+++
+anferthol	anferthol	adj	N3.2+++
+anfodlon	anfodlon	adj	X7- X5.2-
+anfoddog	anfoddog	adj	E4.2-
+anfoesol	anfoesol	adj	G2.2-
+anfonedig	anfonedig	adj	M2 A2.2
+anfonheddig	anfonheddig	adj	A5.1-
+anfucheddol	anfucheddol	adj	G2.2-
+anfuddiol	anfuddiol	adj	A1.5.2- I1.1-
+anfwyn	anfwyn	adj	S1.2/S8- S1.2.2+
+anfynud	anfynud	adj	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
+anfynych	anfynych	adj	N6-
+anfytynaidd	anfytynaidd	adj	O4.2-
+anfyw	anfyw	adj	L1-
+anfywiol	anfywiol	adj	L1-
+anffaeledig	anffaeledig	adj	A5.3++
+anffodus	anffodus	adj	A1.4-/S2mf
+anffyddlon	anffyddlon	adj	S6- A5.2- S9
+anffynadwy	anffynadwy	adj	X9.2-
+an.guriol	an.guriol	adj	E5-
+anhael	anhael	adj	S1.2.2+ N5---
+anhapus	anhapus	adj	E4.1- E2- A1.4-
+anheddol	anheddol	adj	H4
+anhepgor	anhepgor	adj	A11.1++
+anhepgorol	anhepgorol	adj	S6+ A4.2+
+anhraethol	anhraethol	adj	O4.2-
+anhrefnus	anhrefnus	adj	G2.2- O4.2-
+anhrin.gar	anhrin.gar	adj	A12-
+anhuddol	anhuddol	adj	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+anhunawd	anhunawd	adj	B1 X2.5+
+anhunog	anhunog	adj	B1
+anhyblyg	anhyblyg	adj	A2.1-
+anhydawdd	anhydawdd	adj	A12- O4.1
+anhyderus	anhyderus	adj	S1.2.3-
+anhydrin	anhydrin	adj	A12-
+anhydwf	anhydwf	adj	O3
+anhydwyth	anhydwyth	adj	O4.1
+anhyddwyn	anhyddwyn	adj	O4.2-
+anhyfedr	anhyfedr	adj	O4.2-
+anhyfreg	anhyfreg	adj	A5.1+++
+anhyfryd	anhyfryd	adj	O4.2-
+anhyffordd	anhyffordd	adj	M6 A12-
+anhygar	anhygar	adj	O4.2-
+anhyglyw	anhyglyw	adj	X3.2-
+anhygoel	anhygoel	adj	A6.2- A5.1+ A5.2-
+anhygyreb	anhygyreb	adj	M6 A12-
+anhylwydd	anhylwydd	adj	A1.4-/S2mf
+anhysbys	anhysbys	adj	X2.2-
+anial	anial	adj	M1 S5-
+anianyddol	anianyddol	adj	B3
+anifeilaidd	anifeilaidd	adj	E3-
+anifeilig	anifeilig	adj	L2mfn S5+c O2c
+animeiddiedig	animeiddiedig	adj	X5.2+
+anlwcus	anlwcus	adj	A1.4-
+anllad	anllad	adj	A1.1.2
+anllosgadwy	anllosgadwy	adj	O4.6+/A15-
+anllythrennog	anllythrennog	adj	Q3 X2.2-
+annaearol	annaearol	adj	A6.2- S9
+annatodol	annatodol	adj	A12- O4.1
+annaturiol	annaturiol	adj	A6.2- A5.4-
+annaturus	annaturus	adj	B2- A5.1-
+anneallus	anneallus	adj	X9.1-
+annedwydd	annedwydd	adj	E4.1- E2- A1.4-
+anneddfol	anneddfol	adj	G2.1-
+anneilwng	anneilwng	adj	S1.1.4- G2.2-
+annelwig	annelwig	adj	O4.4
+annerbyniol	annerbyniol	adj	X7- E2-
+annethau	annethau	adj	O4.2-
+annewisol	annewisol	adj	A1.2-
+annhebyg	annhebyg	adj	A6.1-
+annhebygol	annhebygol	adj	A7-
+annheilwng	annheilwng	adj	S1.1.4- G2.2-
+annherfynol	annherfynol	adj	T2+++ N5+
+annhiriog	annhiriog	adj	A9-
+annhirion	annhirion	adj	E3-
+annhueddol	annhueddol	adj	X7-
+annhymig	annhymig	adj	T4+
+anni%au	anni%au	adj	A7-
+annibynnol	annibynnol	adj	S5-
+annichon	annichon	adj	A7- A12-
+anniddan	anniddan	adj	S8- 04.2-
+anniddig	anniddig	adj	E3-
+annifai	annifai	adj	G2.2-
+annifeiriol	annifeiriol	adj	N5+
+annifyr	annifyr	adj	E4.1- N3.2-
+annigonol	annigonol	adj	N5-
+annileadwy	annileadwy	adj	O4.1
+anninasol	anninasol	adj	E3- O4.2-
+annioddefol	annioddefol	adj	O4.2-
+anniogel	anniogel	adj	A15-
+anniolchgar	anniolchgar	adj	S1.2.4-
+annirfoddol	annirfoddol	adj	X7- S6+ A1.7-
+annirnadwy	annirnadwy	adj	X2.5-
+annisgrifadwy	annisgrifadwy	adj	A7-
+annisgwyl	annisgwyl	adj	X2.6-
+annisgwyliadwy	annisgwyliadwy	adj	X2.6-
+anniwall	anniwall	adj	X7/N5++
+anniwarth	anniwarth	adj	G2.2- A5.1-
+annoeth	annoeth	adj	S1.2.6-
+annof	annof	adj	E3- X5.2+ A1.7-
+annomestig	annomestig	adj	Z6
+annormal	annormal	adj	A6.2-
+annosbarth	annosbarth	adj	G2.2- O4.2-
+annosbarthus	annosbarthus	adj	A1.7- S7.1-
+annuwiol	annuwiol	adj	T1.2 S9
+annyledus	annyledus	adj	N5.2+
+annymunol	annymunol	adj	O4.2-
+annynol	annynol	adj	G2.2-
+anobeithiol	anobeithiol	adj	E4.1-
+anochel	anochel	adj	A1.9-
+anodd	anodd	adj	O4.1 X8+ X5.2+ N5+ A12-
+anoddefgar	anoddefgar	adj	X5.2+/S1.2 E3-/S1.2
+anolygus	anolygus	adj	O4.2-
+anonest	anonest	adj	A5.2-
+anorchfygol	anorchfygol	adj	S7.1+ N5+ S1.2.3+
+anorfod	anorfod	adj	A12-
+anorffen	anorffen	adj	T2+++ N5+
+anorffenedig	anorffenedig	adj	N5.1-
+anorthrech	anorthrech	adj	S7.1+
+anrasol	anrasol	adj	O4.2- S1.2.4- G2.2- S9
+anrheithgar	anrheithgar	adj	L2/F1 S7.3+
+anrhywiol	anrhywiol	adj	S3.2-
+ansad	ansad	adj	A2.1+ E3- O4.1
+ansicr	ansicr	adj	A7-
+ansoddeiriol	ansoddeiriol	adj	Q3
+ansyber	ansyber	adj	O4.2-
+anturiaethus	anturiaethus	adj	A6.2- E5+
+anturus	anturus	adj	A6.2- E5+
+anufudd	anufudd	adj	S8-
+anunion	anunion	adj	A10-
+anwadal	anwadal	adj	A2.1+ O4.1 S1.2
+anwahanadwy	anwahanadwy	adj	S5+++ A1.7+++
+anwaraidd	anwaraidd	adj	A5.1- G2.1- O4.2- S1.2.4-
+anwastad	anwastad	adj	O4.4 A6.3+ A6.1-
+anweddus	anweddus	adj	G2.2-
+anweladwy	anweladwy	adj	X3.4- A11.2-
+anweledig	anweledig	adj	X3.4-
+anwelladwy	anwelladwy	adj	B2-
+anwesog	anwesog	adj	O4.2+
+anwir	anwir	adj	A5.2-
+anwireddus	anwireddus	adj	A5.2-
+anwiw	anwiw	adj	S1.1.4- G2.2-
+anwrteithiedig	anwrteithiedig	adj	S1.2.4- F4-
+anwrthbrofiadwy	anwrthbrofiadwy	adj	A7+ A5.2+
+anwybodus	anwybodus	adj	X9.1- S1.2.4-
+anwych	anwych	adj	T2+ M6 A2.2
+anwydog	anwydog	adj	B2- O4.6-
+anymarferol	anymarferol	adj	A1.6 S1.2.6-
+anymwybodol	anymwybodol	adj	B1 X2.2-
+anynad	anynad	adj	E3-
+anysgrifenedig	anysgrifenedig	adj	Q1.2-
+anystwyth	anystwyth	adj	O4.1
+anystyriol	anystyriol	adj	A1.3-
+anystywallt	anystywallt	adj	A12-
+apocryffaidd	apocryffaidd	adj	A5.2/A7 A5.4/X2.1
+apostolaidd	apostolaidd	adj	S9
+arab	arab	adj	S1.2.4-
+arabus	arabus	adj	X9.1+ Q2.2/X9.1+ Q1.2/X9.1+
+arail	arail	adj	S1.1.3+ B3
+araul	araul	adj	W4 E4.1+
+arbrofol	arbrofol	adj	X2.4 Y1
+archwaethus	archwaethus	adj	X3.1+ A5.1+
+ardrethol	ardrethol	adj	I2.2
+ardyst	ardyst	adj	Q2.2/A5.2+ A10+/A5.2+
+ardystiedig	ardystiedig	adj	Q2.2/A5.2+ A10+/A5.2+
+ardderchog	ardderchog	adj	A5.1+++
+arddun	arddun	adj	A5.1+++
+arddunol	arddunol	adj	A5.1+++
+arferol	arferol	adj	A6.2+
+arfog	arfog	adj	G3 B1
+arforol	arforol	adj	W3/M4 W4
+argel	argel	adj	A10-
+argoelus	argoelus	adj	S9
+argraffedig	argraffedig	adj	Q1.2
+argyhoeddiadol	argyhoeddiadol	adj	A7+/Q2.2
+ar.hosol	ar.hosol	adj	M8 T2++@ H4@ S7.1-@
+ariannaid	ariannaid	adj	O1.1 I1 O2
+ariannaidd	ariannaidd	adj	O4.1 O4.3
+ariannol	ariannol	adj	I1
+arobryn	arobryn	adj	S1.1.4+ G2.2+
+arogleuog	arogleuog	adj	X3.5 O4.2+
+arswydus	arswydus	adj	E5-
+arteithiol	arteithiol	adj	E6-
+artistig	artistig	adj	C1
+arthog	arthog	adj	S1.2.4-
+aruthrol	aruthrol	adj	N3.2+++
+arweiniol	arweiniol	adj	S7.1+ A2.2 M2 A1.1.1
+arwraidd	arwraidd	adj	E5+
+arwrol	arwrol	adj	E5+
+arwyar	arwyar	adj	O4.3 O4.2-
+arwych	arwych	adj	G2.1
+arwyddluniol	arwyddluniol	adj	X4.1 Q1.1 A6.2+
+arwyddocaol	arwyddocaol	adj	A11.1+ N5+
+arwylaidd	arwylaidd	adj	E4.1-
+arwynebol	arwynebol	adj	A4.2- A8 S1.2 A11.1-
+asbri%ol	asbri%ol	adj	X5.2+
+asgellog	asgellog	adj	L2
+asgetig	asgetig	adj	S1.1.3-/S2mf S9
+asidig	asidig	adj	O1 X3.1 X9.1+ A1.1.2
+astrus	astrus	adj	A12+ X2.5-
+astud	astud	adj	X5.1+ S8+
+asur	asur	adj	O4.3
+aswy	aswy	adj	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2-
+asynnaidd	asynnaidd	adj	S1.2.6-
+ataliol	ataliol	adj	S8-
+atebol	atebol	adj	S7.1-
+ategol	ategol	adj	S8+ A1.1.1 K5.1 I1.1 A10+
+atethol	atethol	adj	E2- A5.1-
+atfydd	atfydd	adv	A7
+atgas	atgas	adj	E2-
+atgofus	atgofus	adj	A6.1+
+atgyfnerthol	atgyfnerthol	adj	O4.1/A2.1 N5+/A2.1
+atomig	atomig	adj	Y1
+atseiniol	atseiniol	adj	X3.2 N5+
+atyniadol	atyniadol	adj	O4.2+ S3.2
+Athen	Athen	prop	Z2
+athletaidd	athletaidd	adj	K5.1
+athraidd	athraidd	adj	N5.1+
+athrawiaethol	athrawiaethol	adj	S9
+athrofaol	athrofaol	adj	P1 S5+
+athronyddol	athronyddol	adj	A1.6 E6+ P1
+aur	aur	adj	O1.1 O4.3 I1
+awchlym	awchlym	adj	N3.8+ T4
+awchus	awchus	adj	N3.8+ T4
+awduraidd	awduraidd	adj	A4.1 Q4.1 K2
+awdurdodol	awdurdodol	adj	S7.1+ X2.2
+awelog	awelog	adj	W4 E6+
+awenog	awenog	adj	Q3
+awgrymiadol	awgrymiadol	adj	S1.2.4- Q1.1
+Awstin	Awstin	prop	Z1m
+Awstralia	Awstralia	prop	Z2
+Awstria	Awstria	prop	Z2 Z1
+awtocratig	awtocratig	adj	S7.1+
+awtomatig	awtomatig	adj	O2/S5- M3fn G3
+awyddfrydig	awyddfrydig	adj	X5.2+
+awyddus	awyddus	adj	X7+
+awyrgylchol	awyrgylchol	adj	W1
+awyrog	awyrog	adj	Y1
+awyrol	awyrol	adj	Q1.3
+babanaidd	babanaidd	adj	T3--
+babiaidd	babiaidd	adj	T3--
+Babilon	Babilon	prop	Z2 Z3c
+bachgennaidd	bachgennaidd	adj	T3-/S2.2
+bachigol	bachigol	adj	Q3 S1.2.1+/Q2.2
+bachog	bachog	adj	A1.7+ A9+ X5.2+
+baldorddus	baldorddus	adj	Q2.1 X3.2
+balmaidd	balmaidd	adj	O4.6+ S1.2.6-
+bannog	bannog	adj	N3.7+ N5+
+barbaraidd	barbaraidd	adj	E3-
+bardas	bardas	n	L2mfnc F1c N3.2-/S2mf
+barddol	barddol	adj	Q3
+barddonol	barddonol	adj	Q3
+barfog	barfog	adj	O4.2
+barnol	barnol	adj	G2.1
+barnyddol	barnyddol	adj	G2.1
+Bartholomeus	Bartholomeus	prop	Z1m
+barus	barus	adj	X7/N5++
+barwnol	barwnol	adj	O4.2+ N3.2+
+bas	bas	adj	K2 K3
+bathol	bathol	adj	A1.1.1
+bawaidd	bawaidd	adj	O4.2-
+beichiog	beichiog	adj	B1 A11.1+%
+beichus	beichus	adj	A12-
+beiddgar	beiddgar	adj	E5+
+beirniadol	beirniadol	adj	Q2.2 A11.1+ A15-
+bellach	bellach	adv	Z4
+bendigedig	bendigedig	adj	A5.1+
+benyw	benyw	adj	S2.1f
+benywol	benywol	adj	S2.1f
+berth	berth	adj	O4.2+
+berthog	berthog	adj	I1.1+
+berw	berw	adj	E3- O4.6+
+berwedig	berwedig	adj	E3- O4.6+
+berwr	berwr	n	L3
+beth	beth	inter	Z8 Z5
+beunos	beunos	adv	N6+
+beunydd	beunydd	adv	Q4.2 B4/S2mf
+beunyddiol	beunyddiol	adj	Q4.2 B4/S2mf
+biwrocrataidd	biwrocrataidd	adj	G1.1 S8-
+blaen	blaen	adj	Z4
+blaenaf	blaenaf	adj	N4 P1@
+blaen.gar	blaen.gar	adj	A11.1+ A11.2+
+blaenllaw	blaenllaw	adj	M2
+blaenllym	blaenllym	adj	N3.8+ T4
+blaenorol	blaenorol	adj	N4
+blasus	blasus	adj	X3.1+ X7+/S3.2
+ble	ble	inter	M6
+blewiach	blewiach	n	X9.2-
+blewog	blewog	adj	O4.5 A7- A15- E5-
+blinderog	blinderog	adj	B2- X5.2-
+blodeuog	blodeuog	adj	L3 Q3
+blodeuol	blodeuol	adj	L3
+blwydd	blwydd	adj	T1.3 P1c
+blynedd	blynedd	n	T1.3
+blynyddol	blynyddol	adj	Q4.1 L3
+blysig	blysig	adj	S1.2.2+
+bochgoch	bochgoch	adj	A5.1+ O4.3 E4.1+
+bodlon	bodlon	adj	X7+
+boddhaol	boddhaol	adj	E4.2+ E2+
+boddhaus	boddhaus	adj	E4.2+ E2+
+boliog	boliog	adj	N3.2+
+bolrwth	bolrwth	adj	S1.2.2+
+boneddigion	boneddigion	n	S2.2m
+bon.gam	bon.gam	adj	Q2.2/E3-
+bonllwm	bonllwm	adj	A10+
+bore	bore	adj	T4+
+boreol	boreol	adj	T1.3
+brac	brac	adj	S6- A1.7-
+braen	braen	adj	A1.1.2 A5.1- G2.2- B2- Z4 N5+
+braidd	braidd	adv	Z4 E2++
+braisg	braisg	adj	I1.1
+brasterog	brasterog	adj	O1
+bratiog	bratiog	adj	E4.1+
+brawdol	brawdol	adj	S4
+brawychedig	brawychedig	adj	E5-
+brawychus	brawychus	adj	O4.2-
+breg	breg	adj	S1.2.5-/O4.1 B2-
+bregus	bregus	adj	S1.2.5- O4.1
+breiniol	breiniol	adj	A5.1+ A10-
+brenhinaidd	brenhinaidd	adj	S7.1+/A6.1+
+brenhinol	brenhinol	adj	S7.1+/S2mf
+breuddwydiol	breuddwydiol	adj	X2 X2.1 X7++
+brigwyn	brigwyn	adj	O4.3 O4.3/S2mf F2 F1 B1
+brithliw	brithliw	adj	L2mfn
+briw	briw	adj	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+brodorol	brodorol	adj	M6/S2mf
+bron	bron	adv	A13.4
+brown	brown	adj	O4.3
+brown.goch	brown.goch	adj	O4.3
+brwd	brwd	adj	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++
+brwdfrydig	brwdfrydig	adj	X5.2+
+brycheulyd	brycheulyd	adj	O4.3 X3.4
+Brynbuga	Brynbuga	prop	Z2
+bryniog	bryniog	adj	W3
+brysiog	brysiog	adj	N3.8+
+Bryste	Bryste	prop	Z2
+buandroed	buandroed	adj	L2
+bucheddol	bucheddol	adj	A5.3+/A2.1
+buddiol	buddiol	adj	I1.1+ A1.5.2+
+buddugol	buddugol	adj	X9.2+/S7.3 X9.2+/G3 A9+
+buddugoliaethus	buddugoliaethus	adj	X9.2+
+bugeiliol	bugeiliol	adj	S1.1.1 S9 F4
+busnesgar	busnesgar	adj	S1.1.3+++
+bwaog	bwaog	adj	O4.4
+Bwlgaria	Bwlgaria	prop	Z2
+bwn.gleraidd	bwn.gleraidd	adj	X9.2-
+bwrdeisiol	bwrdeisiol	adj	M7/G1.1
+bwriadol	bwriadol	adj	X7+
+bwystfilaidd	bwystfilaidd	adj	E3-
+bwytadwy	bwytadwy	adj	F1
+bwyteig	bwyteig	adj	S1.2.2+
+bychanus	bychanus	adj	A5.1-
+bydol	bydol	adj	X2.2/S1.1.1 A1.6 A9+
+byddarol	byddarol	adj	X3.2++
+bygwthiol	bygwthiol	adj	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+bygythiol	bygythiol	adj	S9
+byrbwyll	byrbwyll	adj	A1.3-
+byreiriog	byreiriog	adj	Q2.1/N5-
+byrfyfyr	byrfyfyr	adj	N3.8+
+byr.hoedlog	byr.hoedlog	adj	O3
+byth	byth	adv	T1.1 N6+++ A13
+bythgofiadwy	bythgofiadwy	adj	T1.1 N6+++ A13
+bythol	bythol	adj	T2+++
+bytholwyrdd	bytholwyrdd	adj	L3
+byw	byw	adj	L1+ X5.2+
+bywgraffiadol	bywgraffiadol	adj	S2
+bywgraffyddol	bywgraffyddol	adj	S2
+bywiog	bywiog	adj	X5.2+ L1+%
+bywiol	bywiol	adj	H4 L1+
+cableddus	cableddus	adj	S7.2-/S9
+cadarnhaol	cadarnhaol	adj	A7+ Q3
+cadeiriol	cadeiriol	adj	S7.1+
+Cadi	Cadi	prop	Z1f
+cadofyddol	cadofyddol	adj	X4.2 G3
+cadwedig	cadwedig	adj	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
+caead	caead	adj	A10-
+caee%dig	caee%dig	adj	A10- T2-
+Caerdydd	Caerdydd	prop	Z2
+Caeredin	Caeredin	prop	Z2
+Caerefrog	Caerefrog	prop	Z2 Z1mf
+Caergaint	Caergaint	prop	Z2 Z1mf
+Caergrawnt	Caergrawnt	prop	Z2
+Caergybi	Caergybi	prop	Z2
+Caergystennin	Caergystennin	prop	Z2
+Caerliwelydd	Caerliwelydd	prop	Z2 Z1mf
+Caerloyw	Caerloyw	prop	Z2 Z1mf
+Caerludd	Caerludd	prop	Z2
+Caerlleon	Caerlleon	prop	Z2 Z1mf
+Caerodor	Caerodor	prop	Z2
+caerog	caerog	adj	H1
+Caersalem	Caersalem	prop	Z2 Z3
+Caerwrangon	Caerwrangon	prop	Z2
+cafnog	cafnog	adj	O4.4
+cagledig	cagledig	adj	O4.2-
+canghennog	canghennog	adj	O4.4 M6
+Caint	Caint	prop	Z2 Z1mf
+Calfaria	Calfaria	prop	Z2
+calonnog	calonnog	adj	S1.2.1+ E5+ B2+ A5.4+ F1/E4.2+
+call	call	adj	S1.2.6+ X9.1+
+camarweiniol	camarweiniol	adj	A5.2-
+campus	campus	adj	A5.1+++
+camsyniol	camsyniol	adj	A5.3-
+can	can	adj	O4.3 O4.3/S2mf F2 F1 B1
+candryll	candryll	adj	A1.1.2
+canfyddadwy	canfyddadwy	adj	X3.4+ A11.2+
+canlynol	canlynol	adj	N4
+canllaith	canllaith	adj	I2.2 A9-
+canmoladwy	canmoladwy	adj	S1.1.4+ S7.2+
+canmoliaethus	canmoliaethus	adj	S7.2+/Q2.2
+cannaid	cannaid	adj	O4.3 O4.3/S2mf F2 F1 B1
+canoldirol	canoldirol	adj	M6
+canolig	canolig	adj	A5.1
+canolog	canolog	adj	A11.1+ M6
+canolradd	canolradd	adj	N5 N4
+canonaidd	canonaidd	adj	S9
+canys	canys	conj	Z5/A2.2
+carbwl	carbwl	adj	O4.2-
+carcus	carcus	adj	E6-
+caregog	caregog	adj	O4.1 E1-
+carfaglog	carfaglog	adj	O4.2-
+cariadus	cariadus	adj	E2+
+carn	carn	adj	X2.2+/G2.2-
+carpiog	carpiog	adj	E4.1+
+cartrefol	cartrefol	adj	O4.1 H4 O4.2-
+carthol	carthol	adj	B3
+caruaidd	caruaidd	adj	E2+
+cas	cas	adj	E2-
+Castellnewydd	Castellnewydd	prop	Z2
+Catrin	Catrin	prop	Z1f
+cathaidd	cathaidd	adj	L2 O4.2
+catholig	catholig	adj	S9/S2mf
+cau	cau	adj	W3
+cawraidd	cawraidd	adj	S2/N3.2+mf N3.2+/S5
+cawsaidd	cawsaidd	adj	A5.1- F1 X3.5
+cawsion	cawsion	n	F1
+cecrus	cecrus	adj	E3-
+cefn.grwm	cefn.grwm	adj	M2
+cefnllwm	cefnllwm	adj	A10+
+cefnog	cefnog	adj	A10+ E1+
+cefnogol	cefnogol	adj	S8+
+cegrwth	cegrwth	adj	X3.4 O4.4
+ceidwadol	ceidwadol	adj	G1.2/S2mf A2.1-/S2mf
+ceinciog	ceinciog	adj	N5+ A2.1+
+celanedd	celanedd	n	A1.1.2
+celfydd	celfydd	adj	X9.1+ I3.2+
+celfyddydol	celfyddydol	adj	A5.4-
+celwyddog	celwyddog	adj	M1 M6 A5.2-
+cellog	cellog	adj	B1 Q1.3
+cellweirus	cellweirus	adj	E4.1+
+cemegol	cemegol	adj	O1
+cenedlaethol	cenedlaethol	adj	M7/S2mf
+cenfigennus	cenfigennus	adj	S1.2.2+
+cenhedlig	cenhedlig	adj	S9/S2mf
+cennog	cennog	adj	O4.1
+cerddgar	cerddgar	adj	K2 A6.1+
+cerddorol	cerddorol	adj	K4/K2
+Cernyw	Cernyw	prop	Z2
+Cesar	Cesar	prop	Z1m/T1.1.1
+cestog	cestog	adj	N3.2+
+cethin	cethin	adj	W2-
+ci%aidd	ci%aidd	adj	E6-
+cibog	cibog	adj	B1 E2-
+cicaion	cicaion	n	L3
+cignoeth	cignoeth	adj	O4.1 X9.1+
+cigog	cigog	adj	O4.2
+cigyddlyd	cigyddlyd	adj	E3-
+cilagored	cilagored	adj	A10+
+cildyn	cildyn	adj	A2.1-/X2.1
+cildynnus	cildynnus	adj	A2.1-/X2.1
+cilyddol	cilyddol	adj	N2
+cinetig	cinetig	adj	Y1
+ciwt	ciwt	adj	O4.2+
+claear	claear	adj	O4.6 X5.2-
+claer	claer	adj	M2 A7+ A10+ I1.1 B4 O4.1
+clapiog	clapiog	adj	O4.5
+clasurol	clasurol	adj	T3+ K2
+clau	clau	adj	N3.8+
+cleisiog	cleisiog	adj	B2- A1.1.2
+clerigol	clerigol	adj	Q1.2 S9
+clinigol	clinigol	adj	B3 S1.2.1-
+clodfawr	clodfawr	adj	X9.1+
+clodwiw	clodwiw	adj	S7.2+
+cloe%dig	cloe%dig	adj	A1.7+
+cloff	cloff	adj	B2-
+clogyrnaidd	clogyrnaidd	adj	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
+clonc	clonc	adj	X2.5-
+clo\s	clo\s	adj	A1.1.1 A10- T2-
+cludadwy	cludadwy	adj	Q4.3
+clwc	clwc	adj	X2.5-
+clymog	clymog	adj	A12- L3
+clywadwy	clywadwy	adj	X3.2+
+cnapiog	cnapiog	adj	O4.5
+cnawdol	cnawdol	adj	O4.2
+cnydfawr	cnydfawr	adj	X9.2+
+cnydiog	cnydiog	adj	X9.2+
+cochrudd	cochrudd	adj	O4.3 G1.2/S2mf
+codog	codog	adj	O4.4
+coediog	coediog	adj	L3
+coedd	coedd	adj	A10+
+coeg	coeg	adj	N5--- M1/M4
+coegfalch	coegfalch	adj	X9.2- S1.2.3+
+coeglyd	coeglyd	adj	X9.2- S1.2.3+
+coegwych	coegwych	adj	O4.3
+coelgrefyddol	coelgrefyddol	adj	S9
+coesgam	coesgam	adj	Q2.2/E3-
+coeth	coeth	adj	G2.1
+cofiadwy	cofiadwy	adj	X2.2+ A11.2+
+cofrestredig	cofrestredig	adj	Q1.2 N4 M4
+cofus	cofus	adj	X5.1+
+coginiol	coginiol	adj	F1
+colegol	colegol	adj	P1 S5+
+colladwy	colladwy	adj	T2-
+comfforddus	comfforddus	adj	O4.2+
+comiwnyddol	comiwnyddol	adj	G1.2/S2mf
+concrit	concrit	adj	A1.1.1 A7+/A2.1
+Conwy	Conwy	prop	Z2 Z1mf
+corawl	corawl	adj	K2
+corbys	corbys	n	F1
+corffol	corffol	adj	O4.2
+corfforaethol	corfforaethol	adj	I2.1/S5
+corfforedig	corfforedig	adj	I2.1/S5
+corfforol	corfforol	adj	B1
+coronog	coronog	adj	S7.1+ M6 B3 X9.2+
+cosbedigaethol	cosbedigaethol	adj	G2.1
+cosbol	cosbol	adj	G2.1
+costfawr	costfawr	adj	I1.3+
+costog	costog	adj	S1.2.4-
+costus	costus	adj	I1.3+
+cotymaidd	cotymaidd	adj	X2.3+
+craciog	craciog	adj	A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+
+crach	crach	adj	B2-
+crachfonheddig	crachfonheddig	adj	O4.2+ S1.2.4+
+craf	craf	n	F1 L3
+crafog	crafog	adj	A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1
+craffus	craffus	adj	X5.2+ X9.1+
+crai	crai	adj	T3-
+crand	crand	adj	N1 I1
+craslyd	craslyd	adj	O4.2-
+creadigol	creadigol	adj	C1/S2mf
+crebach	crebach	adj	N3.2-/A2.1 E2-@
+credadun	credadun	adj	X2.1 S9%
+credadwy	credadwy	adj	A5.2+/A8
+crediniol	crediniol	adj	X2.1 S9%
+crefyddol	crefyddol	adj	S9
+creigiog	creigiog	adj	W3/L3 O4.1 A12- E1- B2-
+crepach	crepach	adj	B1 E5-
+cri	cri	adj	T3- O4.2+ B1 W4 S1.2.3+
+crintach	crintach	adj	S1.2.2+
+crisbin	crisbin	adj	O4.5
+crisial	crisial	adj	O1.1 O2
+Cristnogol	Cristnogol	adj	Z1mf
+croch	croch	adj	X3.2+
+croendenau	croendenau	adj	N5-/A2.1 O4.1/A2.1
+croendew	croendew	adj	N3.7 O4.5
+croenddu	croenddu	adj	O4.3
+croes	croes	adj	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+croesawgar	croesawgar	adj	S1.2.1+
+croesawus	croesawus	adj	S1.2.1+
+croeslinol	croeslinol	adj	O4.4
+Croesoswallt	Croesoswallt	prop	Z2
+croesryw	croesryw	adj	A2.1+
+croesymgroes	croesymgroes	adj	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+crog	crog	adj	M2 M1 M8 G2.1 S7.1-
+crwbi	crwbi	adj	O4.3
+crwca	crwca	adj	O4.4 G2.1-
+crwydrol	crwydrol	adj	M1 X5.1-
+crychlyd	crychlyd	adj	O4.4
+cryfhaol	cryfhaol	adj	S1.2.5+/A2.1 O4.1/A2.1
+cryn	cryn	adj	N5+
+cryn	cryn	adv	A13.5
+crynedig	crynedig	adj	M1 E5-
+cryno	cryno	adj	N3.2-
+crynswth	crynswth	adj	I1.1
+cuall	cuall	adj	N3.8+
+cuchiog	cuchiog	adj	B1 E2-
+cudd	cudd	adj	A10-
+cuddiedig	cuddiedig	adj	A10-
+curiedig	curiedig	adj	N5.2+ X9.2- N3.2-/A2.1
+cwbl	cwbl	adj	A13.2
+cwbl	cwbl	adv	A13.5 A13.6 A13.2
+cwerylgar	cwerylgar	adj	E3-
+cwla	cwla	adj	A5.1-
+cwrtais	cwrtais	adj	S1.2.4+
+cwsg	cwsg	adj	B1 E5-
+cwynfanus	cwynfanus	adj	E4.1-
+cybyddlyd	cybyddlyd	adj	S1.2.2+ N5---
+cycyllog	cycyllog	adj	B5
+cychwi%or	cychwi%or	adj	E2+
+cyd	cyd	adj	F1
+cydffurfiol	cydffurfiol	adj	A6.1+
+cydnaws	cydnaws	adj	O4.2+ S1.2.1+
+cydol	cydol	adj	N5.1+
+cydradd	cydradd	adj	A6.1+
+cydrychiol	cydrychiol	adj	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
+cydryw	cydryw	adj	A6.1+
+cydwastad	cydwastad	adj	O4.4 Q2.2 M2
+cydweddol	cydweddol	adj	A6.1+
+cydwladol	cydwladol	adj	M7/S5+c K5.1 K5.1/S2mf
+cydwybodol	cydwybodol	adj	A1.3+
+cydymdeimladol	cydymdeimladol	adj	X2.5+/E1 S8+ A6.1+
+cydymgeisiol	cydymgeisiol	adj	S7.3+
+cydysmalio	cydysmalio	adj	F1
+cyfa	cyfa	adj	N5.1+
+cyfaddas	cyfaddas	adj	N3.2/A5.1+ N3.2 A1.2+ M2 B2-
+cyfagos	cyfagos	adj	M1/N3.3-
+cyfallwy	cyfallwy	adj	N5+ A1.2+ A5.1+
+cyfandirol	cyfandirol	adj	Z2/S2mf
+cyfanfydol	cyfanfydol	adj	W3 M7 A1.8+ N5.1+ X2.2 A5.2+
+cyfanheddol	cyfanheddol	adj	H4
+cyfannedd	cyfannedd	adj	H4
+cyfansawdd	cyfansawdd	adj	O4.1
+cyfansoddiadol	cyfansoddiadol	adj	M1
+cyfansoddol	cyfansoddol	adj	G1.2/S2mf O1/A1.8+
+cyfareddol	cyfareddol	adj	S9
+cyfartal	cyfartal	adj	A6.1+
+cyfarwydd	cyfarwydd	adj	S9
+cyfatal	cyfatal	adj	A7- E6- X6- S2-/H4 W4
+cyfatebol	cyfatebol	adj	Q1.2 A6.1+
+cyfeb	cyfeb	adj	B1 A11.1+%
+cyfeiliornus	cyfeiliornus	adj	A5.3- A5.2-
+cyfeillgar	cyfeillgar	adj	K5.1
+cyfeiriadol	cyfeiriadol	adj	Q2.2 Q1.2
+cyferbyn	cyferbyn	adj	M6
+cyferbyniol	cyferbyniol	adj	E2-
+cyfiawn	cyfiawn	adj	A14 T3--- T1.3- N3.3---
+cyflawn	cyflawn	adj	T2- Q1.2
+cyfleus	cyfleus	adj	A12+ S8+
+cyflin	cyflin	adj	A6.1+ T1.1.2
+cyfnesaf	cyfnesaf	adj	N4
+cyfnewidiol	cyfnewidiol	adj	W4 A2.1+
+cyfnodol	cyfnodol	adj	N6
+cyfochrog	cyfochrog	adj	A6.1+ T1.1.2
+cyfochrol	cyfochrol	adj	I1.1
+cyfoed	cyfoed	adj	T1.1.2/S2mf
+cyfoes	cyfoes	adj	T1.1.2/S2mf
+cyfoesol	cyfoesol	adj	T1.1.2/S2mf
+cyfoglyd	cyfoglyd	adj	B2-
+cyfor	cyfor	adj	N5.1+
+cyforiog	cyforiog	adj	N5++
+cyfrannog	cyfrannog	adj	S1.1.3+
+cyfrannol	cyfrannol	adj	A9- A2.2 S1.1.3+
+cyfreithiol	cyfreithiol	adj	G2.1 G2.1+
+cyfreithlon	cyfreithlon	adj	G2.1+
+cyfrifedig	cyfrifedig	adj	A5.4+
+cyfrifiadeg	cyfrifiadeg	adj	Y2 N2
+cyfrifiadurol	cyfrifiadurol	adj	Y2
+cyfrifol	cyfrifol	adj	A2.2 S6+ S7.1 S1.2.6+ X6+
+cyfrin	cyfrin	adj	A10-
+cyfrinachol	cyfrinachol	adj	A10-
+cyfriniol	cyfriniol	adj	A6.2-
+cyfrodedd	cyfrodedd	adj	O4.4 G2.2- B2-/X1
+cyfrwys	cyfrwys	adj	X9.1+
+cyfryw	cyfryw	adj	E2+
+cyfundrefnol	cyfundrefnol	adj	X4.2
+cyfunol	cyfunol	adj	S5+ A1.1.1
+cyfunrhywiol	cyfunrhywiol	adj	S3.2/S2mf
+cyfurdd	cyfurdd	adj	I2.1/S5c
+cyfwerth	cyfwerth	adj	A6.1+
+cyfwyneb	cyfwyneb	adj	E1/B1 A1.1.1
+cyfyng	cyfyng	adj	N3.7- N5-
+cyfystyr	cyfystyr	adj	A2.2
+cyffelyb	cyffelyb	adj	E2+
+cyffelybiaethol	cyffelybiaethol	adj	Q3 Q1.1 C1
+cyffion	cyffion	n	A9+ F1 S4 O2 I1.1 G2.1/O2%
+cyfforddus	cyfforddus	adj	O4.2+
+cyffredin	cyffredin	adj	M7
+cyffredin	cyffredin	n	M7
+cyffrous	cyffrous	adj	X5.2+
+cygnog	cygnog	adj	O4.1
+cyngan	cyngan	adj	A1.2+
+cynghreiriol	cynghreiriol	adj	S5+
+cyhoedd	cyhoedd	adj	A10+
+cyhoeddus	cyhoeddus	adj	A10+
+cyhyrog	cyhyrog	adj	B1 S1.2.6+
+cylchol	cylchol	adj	N6+
+cylchredol	cylchredol	adj	B1
+cylchynol	cylchynol	adj	M6 A1.8+ A10- G3
+cyllidol	cyllidol	adj	G2.1/S2mf
+cyman	cyman	adj	T2- Q1.2
+cymdeithasgar	cymdeithasgar	adj	S1.2.1+
+cymdeithasol	cymdeithasol	adj	S1.1.1 I1.1/G1.1
+cymedrol	cymedrol	adj	N5-/A2.1 S7.1+
+cymelliadol	cymelliadol	adj	X5.2+
+cymen	cymen	adj	S1.2.6+ X9.1+
+cymeradwy	cymeradwy	adj	A5.1+
+cymesur	cymesur	adj	S9
+cymesurol	cymesurol	adj	A6.1+
+cymharol	cymharol	adj	Q3
+cymhellol	cymhellol	adj	A1.3-
+cymhenllyd	cymhenllyd	adj	E6-
+cymhercyn	cymhercyn	adj	B2-
+cymhleth	cymhleth	adj	H1 B2-/X1
+cymhwysol	cymhwysol	adj	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+cymon	cymon	adj	S7.1-/S2mf
+Cymraeg	Cymraeg	adj	Z2 Z2/Q3
+Cymreig	Cymreig	adj	Z2 Z2/Q3
+Cymreigaidd	Cymreigaidd	adj	Z2 Z2/Q3
+Cymroaidd	Cymroaidd	adj	Z2 Z2/Q3
+cymunol	cymunol	adj	S1.1.2+
+cymwynasgar	cymwynasgar	adj	S6+ S8+
+cymwys	cymwys	adj	N3.2/A5.1+ N3.2 A1.2+ M2 B2-
+cymwysiadol	cymwysiadol	adj	A1.5.2+
+cymylog	cymylog	adj	W4 O4.1 A4.2-
+cymysg	cymysg	adj	A6.3+ S1.1.3+ S2
+cymysglyd	cymysglyd	adj	O4.2- X2.5-
+cymysgryw	cymysgryw	adj	L2mfn
+cyn	cyn	adv	A13
+cyn	cyn	prep	N4
+cynamserol	cynamserol	adj	T4+
+cyndyn	cyndyn	adj	A2.1-/X2.1
+cynddeiriog	cynddeiriog	adj	A13.3
+cynddilywaidd	cynddilywaidd	adj	T1.1.1
+cynefin	cynefin	adj	X2.2+
+cynefinol	cynefinol	adj	A6.2+
+cynffon.gar	cynffon.gar	adj	S7.1- S1.2.5-
+cynhenid	cynhenid	adj	A6.2+
+cynhennus	cynhennus	adj	A7-
+cynhesol	cynhesol	adj	E2+ O4.2+ S1.2.1+
+cynhwynol	cynhwynol	adj	X9.1+ K2
+cynhwysfawr	cynhwysfawr	adj	P1
+cynhyrchiol	cynhyrchiol	adj	X9.2+
+cynhyrfiol	cynhyrfiol	adj	A1.1.1
+cynilion	cynilion	n	I1.1
+cynnil	cynnil	adj	I1.3- N5-
+cynoesol	cynoesol	adj	E1/B1 T1.1.1
+cynradd	cynradd	adj	G1.2 P1 B2-
+cynrychioliadol	cynrychioliadol	adj	Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1
+cyntaf	cyntaf	adj	N4 P1@
+cyntaf	cyntaf	adv	N4
+cynulleidfaol	cynulleidfaol	adj	S5+ S9
+cynyddol	cynyddol	adj	N5+/A2.1
+cynyddraddol	cynyddraddol	adj	N5+/A2.1
+cyraeddadwy	cyraeddadwy	adj	A7+
+cyrains	cyrains	n	F1
+cyr.haeddgar	cyr.haeddgar	adj	Q2.2 Q2.1 X3 A10+
+cyrliog	cyrliog	adj	O4.4
+cysain	cysain	adj	A6.1+ A6.1+/X3.2 Q3
+cysefin	cysefin	adj	A5.4+
+cysetlyd	cysetlyd	adj	A4.2+ A1.3/N5.2+
+cysgbair	cysgbair	adj	F3
+cysglyd	cysglyd	adj	B1 A1.1.1/N5-
+cysgodol	cysgodol	adj	G2.2- O4.3
+cyson	cyson	adj	A2.1- N2
+cystadleuol	cystadleuol	adj	S7.3+
+cystuddiedig	cystuddiedig	adj	B2- E4.1- E6-
+cystuddiol	cystuddiol	adj	B2- E4.1- E6-
+cysurus	cysurus	adj	O4.2+
+cysylltiedig	cysylltiedig	adj	A2.2 S5+ M3 A1.1.1
+cytras	cytras	adj	S5+
+cythreulig	cythreulig	adj	G2.2-
+cythryblus	cythryblus	adj	E6-
+cyweithas	cyweithas	adj	S1.2.1+
+cywerth	cywerth	adj	A6.1+
+cywilyddgar	cywilyddgar	adj	S1.2.3-
+cywilyddus	cywilyddus	adj	G2.2- A5.1-
+chi	chi	pron	Z8mf
+chwantus	chwantus	adj	S3.2+ S1.2.2+ X5.2+
+chwaraegar	chwaraegar	adj	E4.1+
+chwareus	chwareus	adj	E4.1+
+chwarterol	chwarterol	adj	N6
+chwe	chwe	adj	N1 T3 T1.2
+chwech	chwech	adj	N1 T3 T1.2
+chweched	chweched	adj	N1
+chwedleugar	chwedleugar	adj	Q2.1+
+chwedlonol	chwedlonol	adj	S9/Q2.2
+chweg	chweg	adj	F1
+chwerthinllyd	chwerthinllyd	adj	S1.2.6-
+chwidr	chwidr	adj	E3- X5.2+ A1.7-
+chwilboeth	chwilboeth	adj	O4.6+
+chwilfrydig	chwilfrydig	adj	X5.2+ A6.2-
+chwilgar	chwilgar	adj	X5.2+ A6.2-
+chwim	chwim	adj	B1 N3.8+
+chwimwth	chwimwth	adj	B1 N3.8+
+chwipyn	chwipyn	adv	N3.8+++
+chwithig	chwithig	adj	A6.2-
+chwyddedig	chwyddedig	adj	S1.2.3+
+chwyldroadol	chwyldroadol	adj	T3---
+chwynnog	chwynnog	adj	S1.2.5- O4.1
+chwyrn	chwyrn	adj	W3/M4
+chwyslyd	chwyslyd	adj	B1
+chyda	chyda	prep	Z5
+dadansoddol	dadansoddol	adj	X2.4
+dadleuol	dadleuol	adj	A6.2-
+daearegol	daearegol	adj	W3
+daearol	daearol	adj	W1
+daearyddol	daearyddol	adj	W3
+Dafydd	Dafydd	prop	Z1m
+dallbleidiol	dallbleidiol	adj	S1.2.3+
+damcaniaethol	damcaniaethol	adj	A1.6
+damhegol	damhegol	adj	O4.4
+damniol	damniol	adj	E2-
+damweiniol	damweiniol	adj	K2
+dansoddol	dansoddol	adj	Q4.1 A9+
+danteithiol	danteithiol	adj	O4.2+
+darbodus	darbodus	adj	A9-
+darfodedig	darfodedig	adj	T2-
+darluniadol	darluniadol	adj	Q4.2
+darluniaidd	darluniaidd	adj	O4.2+
+darllenadwy	darllenadwy	adj	X5.2+ Q1.2
+darpar	darpar	adj	X7+
+daufiniog	daufiniog	adj	N1 T3 T1.2
+dawnus	dawnus	adj	X9.1+
+dealladwy	dealladwy	adj	X2.5+
+dealledig	dealledig	adj	X2.5+
+deallgar	deallgar	adj	X9.1+ S1.2.6+
+deallol	deallol	adj	X2.1/S2mf
+decplyg	decplyg	adj	N5
+dechreuol	dechreuol	adj	Q1.2
+dedwydd	dedwydd	adj	E4.1+ E4.2+
+deddfol	deddfol	adj	G2.1+
+defnyddiol	defnyddiol	adj	A1.5.2+
+deg	deg	adj	N1 T3
+degfed	degfed	adj	N4 N1
+degol	degol	adj	N1/N2
+deng	deng	adj	N1 T3
+dengyn	dengyn	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+deheuol	deheuol	adj	M6
+deifiol	deifiol	adj	O4.6+
+deiliog	deiliog	adj	L3
+deinamig	deinamig	adj	A2.1+
+deintiol	deintiol	adj	B1 B3
+del	del	adj	A13.5
+delfrydol	delfrydol	adj	X4.1 A5.1+++
+den.gar	den.gar	adj	O4.2+ S3.2
+deniadol	deniadol	adj	O4.2+ S3.2
+derbyniol	derbyniol	adj	A5.1+
+destlus	destlus	adj	O4.2+ A2.1-
+dethol	dethol	adj	X7+
+deubegwn	deubegwn	adj	A6.1- W3 O3 B2-/X1
+deublyg	deublyg	adj	N5
+deuddegfed	deuddegfed	adj	N4 N1
+deunaw	deunaw	adj	N1 T3
+deuol	deuol	adj	N1
+dewisol	dewisol	adj	X7+ A6.3+
+dianghenraid	dianghenraid	adj	S6-
+dialeddol	dialeddol	adj	G2.1
+dialgar	dialgar	adj	E3-
+diamau	diamau	adj	A7+
+diamheuaeth	diamheuaeth	adj	A7+
+diamodol	diamodol	adj	Z7- N5.1+ A1.7-
+diamwys	diamwys	adj	A7+
+diamynedd	diamynedd	adj	X5.2+/S1.2 E3-/S1.2
+diarfog	diarfog	adj	A1.1.1/A9- G3 S1.2.1+
+diargyhoedd	diargyhoedd	adj	G2.2+
+diar.hebol	diar.hebol	adj	Q3
+diarswyd	diarswyd	adj	E5+
+diateg	diateg	adj	S8- I1.1- A10-
+diatreg	diatreg	adj	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+diau	diau	adj	A5.2+ A5.4+
+diberygl	diberygl	adj	E3+
+dibrin	dibrin	adj	A13.3 N5++
+dibriod	dibriod	adj	S4
+dibris	dibris	adj	A1.3-
+dibwys	dibwys	adj	A11.1-
+dibynadwy	dibynadwy	adj	A5.1+ A5.3+
+dibynnol	dibynnol	adj	S7.1-/S2mf
+dicllon	dicllon	adj	E3- W4
+dicra	dicra	adj	E2- B2-
+dichellgar	dichellgar	adj	X9.1+
+dichlyn	dichlyn	adj	A1.3+ E6-
+dichlynaidd	dichlynaidd	adj	A10+ E1+
+dichonadwy	dichonadwy	adj	A7+
+dichonol	dichonol	adj	A7+ O3
+didaro	didaro	adj	A2.1-
+dideimlad	dideimlad	adj	E1-
+didoriad	didoriad	adj	T2++
+didrefn	didrefn	adj	X7-
+diduedd	diduedd	adj	G2.2+/E2
+diddan	diddan	adj	E4.1+
+diddanion	diddanion	n	S1.2.4+
+diddig	diddig	adj	E4.2+
+diddim	diddim	adj	N5.1-
+diddiolch	diddiolch	adj	E4.2- A12-
+diddorol	diddorol	adj	X5.2+
+diddos	diddos	adj	O4.1/O1.2- A5.3+
+diddysg	diddysg	adj	P1-
+diedifar	diedifar	adj	E1/S1.2.5+ S9
+dieflig	dieflig	adj	G2.2-
+dieffaith	dieffaith	adj	A1.5.2-
+diegni	diegni	adj	O4.1
+dieisiau	dieisiau	adj	S6-
+dieithr	dieithr	adj	A6.2-
+dienaid	dienaid	adj	E1-
+dienw	dienw	adj	A10-/Q2.2
+dienwir	dienwir	adj	Q2.2
+dietifedd	dietifedd	adj	X7-
+dieuog	dieuog	adj	G2.1+ G2.2+
+diewyllys	diewyllys	adj	G2.1
+difaddau	difaddau	adj	G2.2-/S1.2 A12-
+difai	difai	adj	G2.2+
+difalch	difalch	adj	S7.1-
+difantais	difantais	adj	A5.1-
+difaol	difaol	adj	A1.5.1 F1
+difarw	difarw	adj	T2++
+difater	difater	adj	X5.2- A5.1
+difeius	difeius	adj	G2.2+
+diferiog	diferiog	adj	X9.1+
+diferol	diferol	adj	O1.2/M1
+difethgar	difethgar	adj	N5.2+
+diflin	diflin	adj	X5.2+
+difraw	difraw	adj	X5.2- A5.1
+difrif	difrif	adj	A5.2+
+difrifddwys	difrifddwys	adj	O4.2 A5.2+
+difrifol	difrifol	adj	A11.1+ A15- E4.1-
+difrycheulyd	difrycheulyd	adj	O4.2+
+difyfyr	difyfyr	adj	N3.8+
+difyr	difyr	adj	O4.2+
+difywyd	difywyd	adj	L1- O4.2-
+diffaith	diffaith	adj	N5.2+ X9.2- N3.2-/A2.1
+diffuant	diffuant	adj	A5.2+ A5.4+
+diffurf	diffurf	adj	O4.4 A4.1- W3
+diffwys	diffwys	adj	E3- X5.2+ A1.7-
+diffygiol	diffygiol	adj	A5.1-
+digalon	digalon	adj	E4.1-
+digamsyniol	digamsyniol	adj	A7+
+digartref	digartref	adj	H4-/S2c
+digidol	digidol	adj	Y2 N1
+digofus	digofus	adj	E3- W4
+digost	digost	adj	I1.3+ A11.1+ E4.1+
+digwsg	digwsg	adj	B1
+digyfeiliant	digyfeiliant	adj	S5-
+digyfnewid	digyfnewid	adj	A2.1-
+digyfrwng	digyfrwng	adj	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+digyffro	digyffro	adj	E1-
+digymar	digymar	adj	A5.1+++
+digymorth	digymorth	adj	S1.2.5- S7.1- X9.1-
+digynnydd	digynnydd	adj	M6
+digysgod	digysgod	adj	O4.2-
+digysur	digysur	adj	E4.1-
+digyswllt	digyswllt	adj	A2.2-
+dihangol	dihangol	adj	A1.7- X2.2- Y2
+dihalog	dihalog	adj	G2.2+
+dihysbydd	dihysbydd	adj	T2++ X5.2+
+dilafar	dilafar	adj	Q2.1 A10-
+diledryw	diledryw	adj	A5.4+ O4.1 A14 A4.2+ G2.2+
+dilewyrch	dilewyrch	adj	O4.2- A5.1-
+dilin	dilin	adj	S1.2.4+ O4.2+ O4.1
+dilywodraeth	dilywodraeth	adj	A1.7- S7.1-
+dillyn	dillyn	adj	S1.2.4+ O4.2+ O4.1
+dinerth	dinerth	adj	S7.1-
+dinesig	dinesig	adj	G1.1 S1.2.4+ G2.1 H1%
+dinistriol	dinistriol	adj	A1.1.2
+diniwed	diniwed	adj	E3+
+diobaith	diobaith	adj	E4.1- X5.2+
+dioddefgar	dioddefgar	adj	B2-/S2mf
+diofal	diofal	adj	A1.3- E6+
+diofyn	diofyn	adj	A1.9
+diogel	diogel	adj	O2
+dioglyd	dioglyd	adj	X5.2-/S1.2
+diolchgar	diolchgar	adj	S1.2.4+ E4.2+
+diolwg	diolwg	adj	O4.2-
+diorffen	diorffen	adj	T2+++ N5+
+dir	dir	adj	A4.2+ A7+
+diraddiol	diraddiol	adj	S7.2- A5.1-/A2.1 A1.1.2
+diras	diras	adj	S9/S7.2-
+dirdynnol	dirdynnol	adj	A13.3 B2-
+direidus	direidus	adj	G2.2-
+direol	direol	adj	A1.7- S7.1-
+dirfawr	dirfawr	adj	N3.2+ N5+
+dirgeledig	dirgeledig	adj	A10-
+diriaethol	diriaethol	adj	A1.1.1 A7+/A2.1
+dirifedi	dirifedi	adj	N5+
+dirlawn	dirlawn	adj	O1.2 N5.1+ O4.1
+dirweddol	dirweddol	adj	A13.3
+dirwestol	dirwestol	adj	O4.6+
+diryw	diryw	adj	B2-/S3.2- S7.1-
+dirywiedig	dirywiedig	adj	A5.1-/A2.1
+dirywiol	dirywiol	adj	S3.2-
+disbaidd	disbaidd	adj	B2-/S3.2-
+diserch	diserch	adj	E2-
+disglair	disglair	adj	O4.3 X9.1+ E4.1+
+disgrifiadol	disgrifiadol	adj	Q2.2
+disgwyliedig	disgwyliedig	adj	X2.6+
+distadl	distadl	adj	A11.1--
+distaw	distaw	adj	X3.2- A10-
+distrywgar	distrywgar	adj	A1.1.2 S8-
+distrywiol	distrywiol	adj	A1.1.2
+diswta	diswta	adj	N3.8+
+disyfyd	disyfyd	adj	N3.8+
+disylwedd	disylwedd	adj	S1.2.6- A1.5.2-
+disyml	disyml	adj	A12+ A6.2+ O4.1 X9.1-
+disymud	disymud	adj	M8 A2.1-
+disymwth	disymwth	adj	N3.8+
+disynnwyr	disynnwyr	adj	S1.2.6-
+diwair	diwair	adj	G2.2+ S3.2- O4.2
+diwall	diwall	adj	E4.2+ A1.2+
+diweniaith	diweniaith	adj	O4.2-
+diwenwyn	diwenwyn	adj	Z6
+diwerth	diwerth	adj	I1.3- A1.5.2- A5.1-
+diwethaf	diwethaf	adj	T2++ T1.3
+diwinyddol	diwinyddol	adj	S9
+diwybod	diwybod	adj	X2.2-
+diwyd	diwyd	adj	X5.1+/S1.2
+diwydiannol	diwydiannol	adj	I4
+diwylliadol	diwylliadol	adj	C1 S1.1.1 S5+
+diwylliedig	diwylliedig	adj	S1.2.4+ O4.2+ P1
+diymadferth	diymadferth	adj	S1.2.5- S7.1- X9.1-
+diymaros	diymaros	adj	X5.2+/S1.2 E3-/S1.2
+diymhon.gar	diymhon.gar	adj	S1.2.3-
+diymod	diymod	adj	M8
+diymwad	diymwad	adj	A5.2+
+diymwybod	diymwybod	adj	B1 X2.2-
+diynni	diynni	adj	O4.1
+diysbryd	diysbryd	adj	X5.2-
+diysgog	diysgog	adj	A2.1-
+diystwr	diystwr	adj	A11.1-/Q1.1 Q3 X9.2-
+diystyriol	diystyriol	adj	S1.2.3+
+diystyrllyd	diystyrllyd	adj	E2- A5.1-
+do	do	adv	Z4
+dodi	dodi	adj	A5.4-
+doe	doe	adv	T1.1.1
+doethlyd	doethlyd	adj	O4.2+ X9.1+
+dolefus	dolefus	adj	Q2.2 X3.2
+dolurus	dolurus	adj	B2-
+domestig	domestig	adj	B4/S2mf
+dramatig	dramatig	adj	K4 E1/N5.2+ N3.8++
+draw	draw	adv	M6
+dreng	dreng	adj	E3-
+drudfawr	drudfawr	adj	I1.3+
+drwgdybus	drwgdybus	adj	X2.1/A5.1- G2.1-
+drycinog	drycinog	adj	W4 E3-
+drygionus	drygionus	adj	A5.1- G2.2- O4.2- B2-
+drygnaws	drygnaws	adj	G2.2- E3-
+drylliedig	drylliedig	adj	E4.1-
+drylliog	drylliog	adj	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+dryslyd	dryslyd	adj	X2.5-
+drythyll	drythyll	adj	A10+ E1+
+dudew	dudew	adj	O4.2- O4.3 G2.2-
+dulas	dulas	adj	E3-
+Dulyn	Dulyn	prop	Z2
+duraidd	duraidd	adj	O1.1 O2 S1.2.5+ O4.3
+duwiol	duwiol	adj	S9
+duwiolfrydig	duwiolfrydig	adj	Z4 S9
+dwbl	dwbl	adj	N5+/A2.1
+dwyflynyddol	dwyflynyddol	adj	N6+
+dwyfronnol	dwyfronnol	adj	B1
+dwyieithog	dwyieithog	adj	Q3
+Dwynwen	Dwynwen	prop	Z1mf S3.2/S2mf Q1.2/S3.2
+dwyreiniol	dwyreiniol	adj	M6
+dwywaith	dwywaith	adv	N6
+dy	dy	adj	Z8
+dy	dy	pron	Z8mf
+dyblyg	dyblyg	adj	N5
+dybryd	dybryd	adj	B2-
+dychmygol	dychmygol	adj	A5.2-
+dychrynllyd	dychrynllyd	adj	O4.2-
+dyddiol	dyddiol	adj	Q4.2 B4/S2mf
+dyfal	dyfal	adj	X5.1+/S1.2
+dyfeisgar	dyfeisgar	adj	X9.1+
+Dyfnaint	Dyfnaint	prop	Z2 Z1mf
+dyfodol	dyfodol	adj	T1.1.3
+Dyfrdwy	Dyfrdwy	prop	Z2 Z1mf
+dyfriog	dyfriog	adj	M4 K5.1/M4
+dyfrllyd	dyfrllyd	adj	O1.2 O1.2/N5.2+ S1.2.5- B1
+dyfrol	dyfrol	adj	M4 K5.1/M4
+dyladwy	dyladwy	adj	I1.3/S5+
+dylanwadol	dylanwadol	adj	S7.1+ A2.2
+dyledus	dyledus	adj	I1.3/S5+
+dylyfu	dylyfu	v	B1
+dymunol	dymunol	adj	O4.2+ X7+
+dynad	dynad	n	L3
+dynamig	dynamig	adj	A2.1+
+dyneiddiol	dyneiddiol	adj	S2
+dyn.garol	dyn.garol	adj	S1.2.2-
+dyrchafedig	dyrchafedig	adj	S1.2.3+ N3.7+
+dyrchafol	dyrchafol	adj	A11.1+/A2.1 N3.7+/A2.1
+dysgedig	dysgedig	adj	X2.3+ X9.1+
+dywal	dywal	adj	E3-
+e	e	pron	Z8m
+ebargofus	ebargofus	adj	X2.2-
+ebrwydd	ebrwydd	adj	N3.8+
+economaidd	economaidd	adj	I1.3- I2.1
+echreiddig	echreiddig	adj	A6.2-
+echrydus	echrydus	adj	E5-
+echryslon	echryslon	adj	A5.1-
+edifar	edifar	adj	E4.1-
+Efa	Efa	prop	Z1f
+efallai	efallai	adv	A7
+efo	efo	prep	Z5
+effeithiol	effeithiol	adj	X9.2+
+effro	effro	adj	B1 X2.5+
+eglur	eglur	adj	M2 A7+ A10+ I1.1 B4 O4.1
+eglur.haol	eglur.haol	adj	Q2.2/A7+ A2.2
+eglwysig	eglwysig	adj	S9/H1c S9c
+egni%ol	egni%ol	adj	X5.2+
+egwan	egwan	adj	S1.2.5- O4.1 S7.1- A5.1-
+egwyddorol	egwyddorol	adj	N3.7+ N5+
+ehud	ehud	adj	B2- N5
+ei	ei	adj	Z8m
+ei	ei	pron	Z8m
+eich	eich	adj	Z8
+eich	eich	pron	Z8mf
+eidalaidd	eidalaidd	adj	Z2/S2mf Z2/Q3 F1
+eiddgar	eiddgar	adj	X5.2+
+eiddigeddus	eiddigeddus	adj	E4.1-/S3.2 E4.1-/A9
+eiddil	eiddil	adj	A13.4 N3.2-/B1
+eiddo	eiddo	pron	Z8m
+eiddoch	eiddoch	pron	Z8
+eiddof	eiddof	pron	I4 G3
+eiddom	eiddom	pron	Z8
+eiddot	eiddot	pron	Z8
+eiddynt	eiddynt	pron	Z8
+Eifftaidd	Eifftaidd	adj	Z2/S2mf
+eilchwyl	eilchwyl	adv	N6+ Z4
+ein	ein	adj	Z8
+ein	ein	pron	Z8
+eirian	eirian	adj	O4.3 X9.1+ E4.1+
+eirias	eirias	adj	O4.6+ E1 A1.5.1
+eisin	eisin	n	F1
+eisoes	eisoes	adv	T1.1.1
+eithaf	eithaf	adv	A13.5 A13.6 A13.2
+eithafol	eithafol	adj	N5.1+++ N5.2+
+eithr	eithr	conj	A13.6
+eithriadol	eithriadol	adj	A6.2-
+Elen	Elen	prop	Z1f
+elfennol	elfennol	adj	A12+
+elinog	elinog	adj	O4.4
+eliptig	eliptig	adj	O4.4 A10-
+elusen.gar	elusen.gar	adj	S8+ S1.2.2-
+elusennol	elusennol	adj	S8+ S1.2.2-
+Ellmynaidd	Ellmynaidd	adj	Z2/S2mf Z2/Q3
+emosiynol	emosiynol	adj	E1
+empeiraidd	empeiraidd	adj	X2.4
+Emrys	Emrys	prop	Z1m
+enbyd	enbyd	adj	A15-
+eneiniog	eneiniog	adj	S9
+enfawr	enfawr	adj	N3.2+++
+en.giriol	en.giriol	adj	G2.2-
+enillfawr	enillfawr	adj	I1.1+
+enillgar	enillgar	adj	S8+ E4.2+ A1.5.2+ X9.2+
+enwedig	enwedig	adj	A4.2+ A6.2-
+enwol	enwol	adj	S7.1 A3 I1.3 Q3
+eofn	eofn	adj	E5+
+epilgar	epilgar	adj	A1.1.1/N5+ N5+
+epiliog	epiliog	adj	A1.1.1/N5+ N5+
+er	er	conj	Z5
+erbyn	erbyn	prep	M6
+Ercwlff	Ercwlff	prop	Z1m
+erchliw	erchliw	adj	A5.1- O4.3
+erchyll	erchyll	adj	O4.2-
+eres	eres	adj	A5.1+
+erioed	erioed	adv	T1.1 N6+++ A13
+ers	ers	prep	N4
+erwydd	erwydd	n	S8-
+eryraidd	eryraidd	adj	L2mfn
+Eryri	Eryri	prop	Z2
+esblygol	esblygol	adj	A2.1+
+Eseia	Eseia	prop	Z1m
+esgobaethol	esgobaethol	adj	S9/M7
+esgobol	esgobol	adj	S9
+esgud	esgud	adj	N3.8+
+esgynnol	esgynnol	adj	M1 M6/N3.7+ X9.2+/A2.1
+esmwyth	esmwyth	adj	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+
+estron	estron	adj	M7
+estronaidd	estronaidd	adj	A6.2-
+estronol	estronol	adj	A6.2-
+esthetig	esthetig	adj	O4.2+/C1
+esyth	esyth	n	K5.1
+etifeddol	etifeddol	adj	A9+/S4
+eto	eto	adv	T1.1.2
+eto	eto	conj	T1.1.2
+etholadwy	etholadwy	adj	A1.2+ S4
+eu	eu	adj	Z8
+eu	eu	pron	Z8mfn
+euog	euog	adj	G2.1- E4.1-
+euraid	euraid	adj	O4.3 A11.1+ A5.1+
+Ewropeaidd	Ewropeaidd	adj	Z3
+ewyllysgar	ewyllysgar	adj	X7+
+feallai	feallai	adv	A7
+fel	fel	conj	E2+
+felly	felly	adv	Z5
+fesul	fesul	prep	M6
+fi	fi	pron	Z8mf
+fideo	fideo	adj	Q4.3
+fory	fory	adv	T1.1.3
+fry	fry	adv	M6 A5.1++
+fy	fy	adj	Z8
+fy	fy	pron	Z8mf
+Fychan	Fychan	prop	Z1mf
+fynychaf	fynychaf	adv	A13.2
+ffaeledig	ffaeledig	adj	A5.3-
+ffaglog	ffaglog	adj	O4.6+ E3- A11.2+
+ffansi%ol	ffansi%ol	adj	A7-
+ffantasteg	ffantasteg	adj	A5.1+ N5++ A6.2- A5.2-
+ffarwel	ffarwel	interj	Q2.2
+ffasiynol	ffasiynol	adj	O4.2+ E2+ T3-
+ffederal	ffederal	adj	S5+
+ffein	ffein	adj	G2.1
+ffel	ffel	adj	N3.8+ T4
+ffenestrog	ffenestrog	adj	H2
+fferllyd	fferllyd	adj	O4.6-
+ffest	ffest	adj	F1-
+ffiaidd	ffiaidd	adj	O4.2- S1.2.1-
+ffigurol	ffigurol	adj	Q3 Q1.1 C1
+ffisegol	ffisegol	adj	B3
+ffit	ffit	adj	N3.2/A5.1+ N3.2 A1.2+ M2 B2-
+ffiwdal	ffiwdal	adj	G1.2
+fflamadwy	fflamadwy	adj	O4.6+/A15-
+fflamgoch	fflamgoch	adj	O4.6+ Q2.2%
+fflamllyd	fflamllyd	adj	Z4
+Fflandrys	Fflandrys	prop	Z2
+fflat	fflat	adj	O4.4 N5- A6.1+ K2
+Fflint	Fflint	prop	Z1mf
+fflwcs	fflwcs	n	X9.2-
+fflwch	fflwch	adj	N5.1+
+ffodus	ffodus	adj	A1.4+
+ffortunus	ffortunus	adj	A1.4+
+ffowls	ffowls	n	L2
+ffraegar	ffraegar	adj	E3-
+Ffrainc	Ffrainc	prop	Z2 Z1mf
+Ffrengig	Ffrengig	adj	Z2/S2mf Z2/Q3
+ffres	ffres	adj	T3- O4.2+ B1 W4 S1.2.3+
+ffroch	ffroch	adj	E3-
+ffroenuchel	ffroenuchel	adj	S1.2.3+ S1.2.1-
+ffrom	ffrom	adj	E3- W4
+ffrwydrol	ffrwydrol	adj	G3/O1.1
+ffuantus	ffuantus	adj	A5.4-
+ffug	ffug	adj	A5.2-
+ffugiol	ffugiol	adj	A5.2-
+ffurfiol	ffurfiol	adj	S1.2.1- G1.1 A6.2+ O4.2
+ffwdanus	ffwdanus	adj	E6-
+ffwndrus	ffwndrus	adj	X2.5- O4.1
+ffyddlon	ffyddlon	adj	S9/S2c
+ffynadwy	ffynadwy	adj	I1.1+
+ffyniannus	ffyniannus	adj	I1.1+
+gaeafaidd	gaeafaidd	adj	W4 O4.2-
+gafaelgar	gafaelgar	adj	A1.1.1
+galarus	galarus	adj	E4.1-
+galwedigaethol	galwedigaethol	adj	I3.1
+galluog	galluog	adj	X9.1+
+gargam	gargam	adj	X3.2 A1.1.1 E3- Q2.2 S3.2@
+gau	gau	adj	A5.2-
+geirwir	geirwir	adj	A5.2+
+gelyniaethus	gelyniaethus	adj	S1.2.1- E3- E2-
+gelynol	gelynol	adj	S1.2.1- E3- E2-
+genedigol	genedigol	adj	M6/S2mf
+genethaidd	genethaidd	adj	S2.1f
+geneuol	geneuol	adj	Q2.1/P1
+genidol	genidol	adj	Q3
+ger	ger	prep	M6
+gerbron	gerbron	prep	N4
+gerfydd	gerfydd	prep	M6
+gerllaw	gerllaw	prep	M1/N3.3-
+gerwin	gerwin	adj	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
+gewynnog	gewynnog	adj	O4.1/S1.2.5+
+gilydd	gilydd	pron	A6.1-/Z8
+glafoerion	glafoerion	n	A5.2-
+glanhaol	glanhaol	adj	B4 G2.2+/A2.1
+glanwaith	glanwaith	adj	B4 A4.2+
+glasgoch	glasgoch	adj	O4.3
+glastwraidd	glastwraidd	adj	F4 A9+
+glawog	glawog	adj	W4
+gleision	gleision	n	F1
+gludiog	gludiog	adj	O4.5 A12-
+glwys	glwys	adj	A1.1.1
+glynol	glynol	adj	O1
+gnawd	gnawd	adj	A6.2+
+go	go	adv	Z4 E2++
+gobeithiol	gobeithiol	adj	X2.6+ E4.1+ X9.2+ A5.1+
+goblygedig	goblygedig	adj	A10-
+gocheladwy	gocheladwy	adj	A1.9
+gochelgar	gochelgar	adj	A1.3+
+godidog	godidog	adj	A5.1+++
+godinebus	godinebus	adj	S4/G2.2-
+godrudd	godrudd	adj	E3- X5.2+ A1.7-
+goddefadwy	goddefadwy	adj	S7.4+
+goddefol	goddefol	adj	A5.1+ S7.4+
+goddrychol	goddrychol	adj	E1
+gofalus	gofalus	adj	A1.3+ E6-
+gofidus	gofidus	adj	E4.1-
+gofodol	gofodol	adj	N6
+gofynnol	gofynnol	adj	S6+ A11.1+
+gogledd	gogledd	adj	M6
+gogleddol	gogleddol	adj	M6
+gogoneddus	gogoneddus	adj	O4.2+ E4.1+
+gogyfer	gogyfer	adj	M6
+gogyfer	gogyfer	prep	M6
+gogyfuwch	gogyfuwch	adj	A6.1+
+gohebol	gohebol	adj	Q1.2 A6.1+
+goludog	goludog	adj	I1.1+
+golygol	golygol	adj	X3.4
+golygus	golygus	adj	A13.5
+golygyddol	golygyddol	adj	Q4.2
+gorau	gorau	adj	A5.1+++ A13.2 G2.2+++ O4.2+++
+gorbendant	gorbendant	adj	G3 M2
+gorchestol	gorchestol	adj	A5.1+++
+gorchmynnol	gorchmynnol	adj	Q3
+gorddethol	gorddethol	adj	A2.1+
+goreuon	goreuon	n	A5.1+++ A13.2 G2.2+++ O4.2+++
+gorfanwl	gorfanwl	adj	A1.3+
+gorfodol	gorfodol	adj	S6+
+gorfoleddus	gorfoleddus	adj	E4.1+++
+gorfynt	gorfynt	adj	E4.2+/S1.2 S1.2.3+
+gorfywiog	gorfywiog	adj	A1.1.1/N5.2+
+gorffennol	gorffennol	adj	M6
+gorffwyll	gorffwyll	adj	A1.1.1/N5+
+gorffwyllog	gorffwyllog	adj	A13.3
+gor.hyderus	gor.hyderus	adj	G3 M2
+goris	goris	prep	M6
+gorllewinol	gorllewinol	adj	Q4.3 Q4.1
+gorllyd	gorllyd	adj	X2.5-
+gormesol	gormesol	adj	A1.7+ W4
+gormodol	gormodol	adj	N5.2+
+gorthrymedig	gorthrymedig	adj	S7.1+
+gorthrymus	gorthrymus	adj	A1.7+ W4
+goruchaf	goruchaf	adj	N3.7+++ N5+++
+goruchel	goruchel	adj	N3.7+ N5+
+goruwch	goruwch	prep	M6 A5.1++
+goruwchddynol	goruwchddynol	adj	X9.1+++ S9
+goruwchnaturiol	goruwchnaturiol	adj	S9
+gorwag	gorwag	adj	X9.2- S1.2.3+
+gorweiddiog	gorweiddiog	adj	B2-
+gosod	gosod	adj	A5.2-
+gosodedig	gosodedig	adj	S9 X6+ G2.1
+gostyngedig	gostyngedig	adj	S7.1-
+graddedig	graddedig	adj	P1 A11.1+/A2.1
+graddol	graddol	adj	T2++
+graean	graean	n	O1.1
+graeanog	graeanog	adj	O1.1
+graen	graen	adj	E4.1- A5.1-
+grafelog	grafelog	adj	W3 X3.2
+graffegol	graffegol	adj	C1
+gramadegol	gramadegol	adj	Q3
+graslon	graslon	adj	Z4
+grasol	grasol	adj	Z4
+grawnwin	grawnwin	n	F1 L3
+greddfol	greddfol	adj	X2.1
+gresynol	gresynol	adj	A1.1.2
+gresynus	gresynus	adj	E4.1- N3.2-
+grisialaidd	grisialaidd	adj	O1.1 O2
+gro	gro	n	O1.1
+Groeg	Groeg	adj	Z2/S2mf
+Groegaidd	Groegaidd	adj	Z2/S2mf
+Gruffudd	Gruffudd	prop	Z1mf
+grugog	grugog	adj	L3
+grymus	grymus	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+gwacsaw	gwacsaw	adj	A11.1-
+gwaddolog	gwaddolog	adj	I1.1+/A9-
+gwaedlyd	gwaedlyd	adj	A13.3
+gwaelach	gwaelach	adj	S7.1--/S2mf A5.1--/S2mf
+gwaeth	gwaeth	adj	A5.1--
+gwaethaf	gwaethaf	adj	S7.1+
+gwageddus	gwageddus	adj	S1.2.6-
+gwagelog	gwagelog	adj	A1.3+
+gwaglaw	gwaglaw	adj	N5--- M1/M4
+gwahaniaethol	gwahaniaethol	adj	A6.1- X3 A5.1+
+gwahanol	gwahanol	adj	A6.1-
+gwaharddedig	gwaharddedig	adj	G2.1-/O2
+gwahoddedigion	gwahoddedigion	n	S2mf
+gwahoddus	gwahoddus	adj	Q2.2
+gwallgof	gwallgof	adj	A13.3
+Gwallter	Gwallter	prop	Z1m
+gwalltog	gwalltog	adj	O4.5 A7- A15- E5-
+gwallus	gwallus	adj	A1.1.2
+gwamal	gwamal	adj	A2.1+
+gwancus	gwancus	adj	S1.2.2+
+gwanllyd	gwanllyd	adj	S1.2.5- S7.1-
+gwantan	gwantan	adj	A2.1+ E3- O4.1
+gwaradwyddus	gwaradwyddus	adj	G2.2- A5.1-
+gwaraidd	gwaraidd	adj	E3+
+gwarchaee%dig	gwarchaee%dig	adj	G3
+gwarcheidiol	gwarcheidiol	adj	S7.1+/S2mf S4/S2mf S8+/A15+/S2mf
+gwareiddiedig	gwareiddiedig	adj	P1 A5.1+ O4.2+ S1.2.4+
+gwargrwm	gwargrwm	adj	M1
+gwartheg	gwartheg	n	L2fn S2.1f/O4.2-
+gwarthus	gwarthus	adj	G2.2- A5.1-
+gwasaidd	gwasaidd	adj	S7.1- S1.2.5-
+gwasgaredig	gwasgaredig	adj	M1 N3.6+/A2.1
+gwasgarog	gwasgarog	adj	M1 N3.6+/A2.1
+gwastad	gwastad	adj	O4.4 Q2.2 M2
+gwastadol	gwastadol	adj	T2++ N6+
+gwastraffus	gwastraffus	adj	N5.2+
+gwatwarus	gwatwarus	adj	Q2.2/S1.2.4- S7.2-
+gwawdlyd	gwawdlyd	adj	Q2.2/S1.2.4- S7.2-
+gwedi	gwedi	adv	N4
+gwedi	gwedi	prep	N4
+gweddgar	gweddgar	adj	O4.4/A2.1+ X7+
+gweddigar	gweddigar	adj	S9
+gweddol	gweddol	adj	A1.1.1
+gweddol	gweddol	adv	A13.4 G2.2+
+gwehilion	gwehilion	n	Q2.2/Z6 S7.4- X7-
+gweili	gweili	adj	N5--- M1/M4
+gweinidogaethol	gweinidogaethol	adj	G1.1
+gweinyddol	gweinyddol	adj	S7.1+
+gweithfaol	gweithfaol	adj	I4
+gweithgar	gweithgar	adj	O4.1 X8+ X5.2+ N5+ A12-
+gweithiol	gweithiol	adj	I2.1/S2mf G1.1c S7.1+/S5+c
+gweithredol	gweithredol	adj	A1.1.1
+gweladwy	gweladwy	adj	X3.4+ A11.2+
+gweledig	gweledig	adj	X3.4 X2.1 S1.1.1 X2.5+ A7+
+gweledol	gweledol	adj	X3.4
+gwelwlas	gwelwlas	adj	A11.1- O4.3
+gwell	gwell	adj	A5.1++
+gwelltog	gwelltog	adj	L3
+gwenerol	gwenerol	adj	B1
+gwenfflam	gwenfflam	adj	O4.6+ E3- A11.2+
+gwenieithus	gwenieithus	adj	S7.2+/Q2.2 O4.2+
+gwenith	gwenith	n	F1
+gwenwynig	gwenwynig	adj	E3- A15-
+gwib	gwib	adj	M1 X5.1-
+gwiddon	gwiddon	n	L2 I1%
+Gwilym	Gwilym	prop	Z1m
+gwinau	gwinau	adj	L2/Q2.1
+gwineugoch	gwineugoch	adj	L2/Q2.1
+gwir	gwir	adj	A5.2+ A5.4+
+gwirebaidd	gwirebaidd	adj	X2.5-
+gwirfoddol	gwirfoddol	adj	K2
+gwirioneddol	gwirioneddol	adj	A5.2+ A5.4+
+gwisgi	gwisgi	adj	N3.8+
+gwiw	gwiw	adj	N3.2/A5.1+ N3.2 A1.2+ M2 B2-
+gwladaidd	gwladaidd	adj	W3
+gwladgarol	gwladgarol	adj	S6+
+gwladwriaethol	gwladwriaethol	adj	Q2.1
+gwlanennog	gwlanennog	adj	B5
+gwlatgar	gwlatgar	adj	S6+
+gwledig	gwledig	adj	F4/M7
+gwleddol	gwleddol	adj	E4.1+
+gwleidiadol	gwleidiadol	adj	G1.2
+gwleidyddol	gwleidyddol	adj	G1.2
+gwlithog	gwlithog	adj	O1.2
+gwlybyrog	gwlybyrog	adj	O1.2
+gwobrwyol	gwobrwyol	adj	A5.1+/A2.2 I1.1+ S1.1.4+
+gwrandawyr	gwrandawyr	n	K1/S2mfc S2mfc S1.1.3+
+gwreigaidd	gwreigaidd	adj	S2.1
+gwresog	gwresog	adj	O4.6+ E2+
+gwridog	gwridog	adj	A5.1+ O4.3 E4.1+
+gwrol	gwrol	adj	E5+
+gwrthfiotig	gwrthfiotig	adj	B3
+gwrthgroch	gwrthgroch	adj	S1.2.1-
+gwrthnysig	gwrthnysig	adj	A2.1-/X2.1
+gwrthodedig	gwrthodedig	adj	X7-
+gwrthol	gwrthol	adv	S8+ K5.1/I1 M1 M6 K2
+gwrthrychol	gwrthrychol	adj	X7+
+gwrthryfelgar	gwrthryfelgar	adj	S8- E3-
+gwrthsain	gwrthsain	adj	X3.2-
+gwrthwyneb	gwrthwyneb	adj	M6
+gwrthwyneb	gwrthwyneb	prep	M6
+gwrthwynebol	gwrthwynebol	adj	S8-/E2- A6.1-
+gwrthwynebus	gwrthwynebus	adj	S8-
+gwryw	gwryw	adj	S2.2m
+gwrywaidd	gwrywaidd	adj	S2.2
+gwrywol	gwrywol	adj	S2.2
+Gwy	Gwy	prop	Z2
+gwybyddol	gwybyddol	adj	X2.1
+gwybyddus	gwybyddus	adj	X2.2+ S3.2/B1%
+Gwyddelig	Gwyddelig	adj	Z2/S2mf Z2/Q3
+gwyddonol	gwyddonol	adj	Y1
+gwygl	gwygl	adj	O4.6+
+gwylaidd	gwylaidd	adj	S1.2.3-
+gwyliadwrus	gwyliadwrus	adj	X3.4 X5.1+
+gwynfydedig	gwynfydedig	adj	Z4 E4.2+ S9
+gwynfydus	gwynfydus	adj	E4.2++ O4.2+
+gwyn.galchog	gwyn.galchog	adj	O4.3 A10-
+gwynias	gwynias	adj	O4.3 O4.3/S2mf F2 F1 B1
+gwyntog	gwyntog	adj	W4
+gwyrdraws	gwyrdraws	adj	S1.2.3+ G2.2-
+gwyrdroe%dig	gwyrdroe%dig	adj	A2.1+ G2.2-/A2.1
+gwyrddlas	gwyrddlas	adj	W5
+gwyrgam	gwyrgam	adj	O4.4 G2.1-
+gwyrthiol	gwyrthiol	adj	S9 X2.6-
+gwyryfol	gwyryfol	adj	S3.2/S2mf
+gwythlon	gwythlon	adj	E3- W4
+gwyw	gwyw	adj	O4.2- O4.1
+gyda	gyda	prep	Z5
+gyddfol	gyddfol	adj	Q3
+gynt	gynt	adv	T1.1.1
+ha	ha	interj	Q2.2
+hael	hael	adj	S1.2.2- N5+
+haelfrydig	haelfrydig	adj	S1.2.2- N5+
+haelionus	haelionus	adj	S1.2.2- N5+
+haenog	haenog	adj	A1.1.1
+hafaidd	hafaidd	adj	T1.3
+hafal	hafal	adj	A6.1+
+hagen	hagen	conj	A13.6
+hagr	hagr	adj	O4.2-
+haidd	haidd	n	L3
+halog	halog	adj	G2.2- A1.1.2
+hamddenol	hamddenol	adj	N3.8-
+hanesyddol	hanesyddol	adj	T1.1.1 T3+
+hanfodol	hanfodol	adj	S6+ A4.2+
+haniaethol	haniaethol	adj	Q4.1 A9+
+hanner	hanner	adj	N1 A13.4
+Harri	Harri	prop	Z1mf
+haws	haws	adj	A12++
+heblaw	heblaw	prep	M6
+Hebraeg	Hebraeg	adj	Z2/Q3 Z2/S2mfn
+Hebreaidd	Hebreaidd	adj	Z2/Q3 Z2/S2mfn
+Hebreig	Hebreig	adj	Z2/Q3 Z2/S2mfn
+heddiw	heddiw	adv	T1.1.2
+heddychlon	heddychlon	adj	E3+
+heddychol	heddychol	adj	E3+
+hefelydd	hefelydd	adj	A6.1+
+hefyd	hefyd	adv	N5++
+hefyd	hefyd	conj	A6.1+
+heglog	heglog	adj	O4.1 O4.2+
+heibio	heibio	adv	M6
+heidiog	heidiog	adj	S1.2.1+
+heini	heini	adj	A1.1.1
+heintus	heintus	adj	B2- X5.2+
+helaeth	helaeth	adj	A13.3 N5++
+helaethwych	helaethwych	adj	O4.1 O4.2
+helbulus	helbulus	adj	E6-
+hendrwm	hendrwm	adj	X3.5 X3.1 T3+ X5.2-
+Henffordd	Henffordd	prop	Z2 Z3c
+hereticaidd	hereticaidd	adj	S9/A6.1- X2.1/A6.1-
+herfeiddiol	herfeiddiol	adj	E5+
+hergar	hergar	adj	A12- A6.1- S7.3+
+heterogenus	heterogenus	adj	A6.3+
+heulog	heulog	adj	W4 E4.1+
+hi	hi	pron	Z8f
+hinsoddol	hinsoddol	adj	W4
+hirbell	hirbell	adj	N3.3+
+hirben	hirben	adj	X7+
+hirgul	hirgul	adj	O4.4
+hir.hoedlog	hir.hoedlog	adj	X7+
+Hisbaen	Hisbaen	prop	Z2
+hoenus	hoenus	adj	E4.1+
+hoffus	hoffus	adj	O4.2+
+hogennaidd	hogennaidd	adj	S2.1f
+holgar	holgar	adj	X2.4
+hollalluog	hollalluog	adj	S7.1+ N3.2+ S9m
+hollddoeth	hollddoeth	adj	A13.2
+hollgyfoethog	hollgyfoethog	adj	S7.1+ N3.2+ S9m
+holliach	holliach	adj	N5.1+
+hollol	hollol	adj	A5.1+++
+hollol	hollol	adv	A13.5 A13.6 A13.2
+hollwybodol	hollwybodol	adj	S9
+homogenus	homogenus	adj	A6.1+
+honedig	honedig	adj	Q2.2/A5.2
+Hu	Hu	prop	Z1m
+hudol	hudol	adj	X5.2+ S9
+hudolus	hudolus	adj	X5.2+ S9
+hufennaidd	hufennaidd	adj	O4.3 O4.5 F1
+hun	hun	pron	S5-
+hunanddigonol	hunanddigonol	adj	S5-
+hunaneglur	hunaneglur	adj	S5-
+hunan.gar	hunan.gar	adj	S5-
+hunanol	hunanol	adj	S1.2.3+ S1.2.2+
+hunanreolus	hunanreolus	adj	S5-
+hunanysgogol	hunanysgogol	adj	O2/S5- M3fn G3
+hurt	hurt	adj	B2- E4.1- A1.1.2
+Hwn.gariad	Hwn.gariad	n	Z2/S2mf
+Hwn.gariaidd	Hwn.gariaidd	adj	Z2/S2mf
+hwnt	hwnt	adv	M6 N4
+hwyl	hwyl	interj	Z4
+hwyliog	hwyliog	adj	X5.2+
+hwylus	hwylus	adj	A12+
+hwynt	hwynt	pron	Z8mfn
+hwyrach	hwyrach	adj	T4-- T1.1.3 N4
+hwyrach	hwyrach	adv	A7
+hwyrdrwm	hwyrdrwm	adj	N3.8-
+hwyrfrydig	hwyrfrydig	adj	N3.8-
+hwyrgynnydd	hwyrgynnydd	adj	B2-/X1
+hwyrol	hwyrol	adj	T1.3
+hy	hy	adj	O4.1 E5+
+hybarch	hybarch	adj	T3+
+hyblyg	hyblyg	adj	O4.5 A2.1+
+hydawdd	hydawdd	adj	O4.1/O1.2
+hyderus	hyderus	adj	S2mf
+hydr	hydr	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+hydrefol	hydrefol	adj	T1.3
+hydrin	hydrin	adj	S7.1-
+hydwyll	hydwyll	adj	S1.2.6-
+hydwyth	hydwyth	adj	O1.1
+hydyn	hydyn	adj	S7.1-
+hyfedr	hyfedr	adj	X2.2+/S2mf X9.1+/S2mf
+hyfrydlon	hyfrydlon	adj	O4.2+
+hyfwyn	hyfwyn	adj	S1.2/S8+ S1.2.2-
+hyfforddiadol	hyfforddiadol	adj	P1 K5.1
+hyfforddus	hyfforddus	adj	P1
+hygar	hygar	adj	S1.2.1+
+hyglod	hyglod	adj	A11.1+ S7.2+
+hyglyw	hyglyw	adj	X3.2+
+hygoelus	hygoelus	adj	S1.2.6-
+hygred	hygred	adj	A5.2+/A8
+hygyrch	hygyrch	adj	S1.2.1+ A9+ A12+ M6
+hyhi	hyhi	pron	Z8f
+hylaw	hylaw	adj	A1.5.2+ N3.3- X9.1+
+hylif	hylif	adj	O1.2
+hylithr	hylithr	adj	X9.1+
+hylosg	hylosg	adj	E6- A12- O4/A15-
+hylwydd	hylwydd	adj	I1.1+
+hynaf	hynaf	adj	T3+++
+hynafol	hynafol	adj	T3++
+hynaws	hynaws	adj	A4.1
+hynny	hynny	pron	A13.3 A6.1+
+hynod	hynod	adj	X2.2+
+hysbys	hysbys	adj	X2.2+ S3.2/B1%
+hytrach	hytrach	adv	Z4 E2++
+hywedd	hywedd	adj	P1
+i	i	pron	Z8mf
+iach	iach	adj	B2+ X9.2+ A5.1+
+iachus	iachus	adj	B2+ X9.2+ A5.1+
+Iago	Iago	prop	Z1m
+iau	iau	adj	T3--/S2mf S7.1--/S2mf G2.1/S2mf
+iawn	iawn	adj	A5.3+/A2.1
+iawn	iawn	adv	A13.3
+ideal	ideal	adj	X4.1 A5.1+++
+iechydol	iechydol	adj	O4.2+
+ieithyddol	ieithyddol	adj	Q3
+ieuaf	ieuaf	adj	T3--/S2mf S7.1--/S2mf G2.1/S2mf
+ieuengach	ieuengach	adj	T3--/S2mf S7.1--/S2mf G2.1/S2mf
+ingol	ingol	adj	E6-
+ill	ill	pron	Z8mfn
+Ioan	Ioan	prop	Z1m S9/O1.2
+Iorddonen	Iorddonen	prop	Z2 Z1mf
+Iorwerth	Iorwerth	prop	Z1m
+iraidd	iraidd	adj	T3- O4.2+ B1 W4 S1.2.3+
+irllawn	irllawn	adj	E3-
+is	is	adj	S7.1--/S2mf A5.1--/S2mf
+is	is	pfx	M6
+is	is	prep	M6
+isaf	isaf	adj	N3.7--- X3.2---
+Isalmaen	Isalmaen	prop	Z2 Z1mf
+iselfryd	iselfryd	adj	S7.1-
+iselfrydig	iselfrydig	adj	S7.1-
+iselwael	iselwael	adj	Q1.1 X7+
+islaw	islaw	prep	M6
+isod	isod	adv	M6
+israddol	israddol	adj	S7.1--/S2mf A5.1--/S2mf
+iswasanaethgar	iswasanaethgar	adj	S7.1- A11.1-
+italaidd	italaidd	adj	Q1.2
+Iwan	Iwan	prop	Z1m S9/O1.2
+Iwerddon	Iwerddon	prop	Z2 Z1mf
+Iwerydd	Iwerydd	prop	Z2
+jyst	jyst	adv	A14 T3--- T1.3- N3.3---
+lefel	lefel	adj	O4.4 Q2.2 M2
+Lerpwl	Lerpwl	prop	Z2 Z3c
+Libanus	Libanus	prop	Z2
+Lowri	Lowri	prop	Z1f
+Luc	Luc	prop	Z1m S9/Q1.2
+lwcus	lwcus	adj	A1.4+
+llac	llac	adj	X5.2- N3.8-
+llachar	llachar	adj	O4.3 X9.1+ E4.1+
+lladradaidd	lladradaidd	adj	A10-
+lladronllyd	lladronllyd	adj	G2.1- A5.2-
+lladdedig	lladdedig	adj	L1-
+llaes	llaes	adj	X7+
+llaes	llaes	adv	X7+
+llafar	llafar	adj	Q3 A11.2+
+llafurfawr	llafurfawr	adj	Q2.2 A5.1+/A2.1
+llafurus	llafurus	adj	X8+/A12-
+llai	llai	adj	A13.6
+llamsachus	llamsachus	adj	M1
+Llanllieni	Llanllieni	prop	Z2
+llariaidd	llariaidd	adj	F2
+llarpiog	llarpiog	adj	O4.2- A1.1.2
+llathr	llathr	adj	O4.3 X9.1+ E4.1+
+llawchwith	llawchwith	adj	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2-
+llawen	llawen	adj	E4.1+
+llawer	llawer	adv	A13.3 N6+
+llawfeddygol	llawfeddygol	adj	B3
+llawn	llawn	adv	A13.5 A13.6 A13.2
+llebanaidd	llebanaidd	adj	O4.2- O4.1
+llechwraidd	llechwraidd	adj	A10-
+lled	lled	adv	A13.6
+lledfeddw	lledfeddw	adj	E1
+llednais	llednais	adj	N3.2- S1.2.3-
+llegach	llegach	adj	S1.2.5- O4.1 S7.1- A5.1-
+lleiaf	lleiaf	adj	A13.7
+lleiafrifol	lleiafrifol	adj	N5-
+lleisiol	lleisiol	adj	Q3 A11.2+
+llen.gar	llen.gar	adj	Q4.1
+llenyddol	llenyddol	adj	Q4.1
+lleol	lleol	adj	H3/S2mf F2/H1c
+llesfawr	llesfawr	adj	S8+
+llesg	llesg	adj	S1.2.5- A5.1-
+llesol	llesol	adj	A5.1+ A1.5.2+
+lletbai	lletbai	adj	O4.1
+lletchwith	lletchwith	adj	A12- O4.2- E1
+lletraws	lletraws	adj	O4.4
+lletygar	lletygar	adj	S1.2.1+
+llethol	llethol	adj	A1.7+ W4
+llethrog	llethrog	adj	M2
+lleuadol	lleuadol	adj	W1
+lleuog	lleuog	adj	A5.1-
+llewaidd	llewaidd	adj	L2mfn
+llibin	llibin	adj	B2-
+llidiog	llidiog	adj	E3- W4
+llidus	llidus	adj	B2
+llifeiriol	llifeiriol	adj	N5+ M1 P1 B2-
+llinellaidd	llinellaidd	adj	N4 O4.4
+llinellog	llinellog	adj	N4 O4.4
+llipa	llipa	adj	B2-
+lliprynnaidd	lliprynnaidd	adj	B2-
+llithrig	llithrig	adj	O4.5 G2.2-
+lloerol	lloerol	adj	W1
+llon	llon	adj	E4.2+
+llonydd	llonydd	adj	X3.2- E3+ A1.1.1/N5-
+llorwedd	llorwedd	adj	O4.4
+llosg	llosg	adj	O4.6+ E1 A1.5.1
+lludlyd	lludlyd	adj	O4.3
+lluddedig	lluddedig	adj	B2- X5.2-
+llugoer	llugoer	adj	O4.6 X5.2-
+Llundain	Llundain	prop	Z2
+lluniaidd	lluniaidd	adj	O4.2+
+llurigog	llurigog	adj	Q1.2
+llwglyd	llwglyd	adj	F1-/B1 S1.2.2+ A1.5.1/N5+
+llwgr	llwgr	adj	G2.2- A1.1.2 A5.1-
+Llwyd	Llwyd	prop	Z1m
+Llwydlo	Llwydlo	prop	Z2
+llwyddiannus	llwyddiannus	adj	X9.2+
+llwyr	llwyr	adj	N5.1+
+llwyr	llwyr	adv	A13.2
+llwythog	llwythog	adj	N5+ E6-
+llychlyd	llychlyd	adj	O4.1 O4.2- O4.3 X5.2-
+Llydaw	Llydaw	prop	Z2
+llyfndew	llyfndew	adj	O4.4/A2.1+ X7+
+llygadog	llygadog	adj	B1 O4.1
+llygadol	llygadol	adj	X3.4
+llygadrwth	llygadrwth	adj	N3.7+
+llygatgroes	llygatgroes	adj	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+llygatraff	llygatraff	adj	X5.2+ X9.1+
+llygeidiog	llygeidiog	adj	B1 O4.1
+llygredig	llygredig	adj	G2.2- A1.1.2 A5.1-
+llyngesol	llyngesol	adj	M4
+llymdost	llymdost	adj	E4.1-
+llymrig	llymrig	adj	O1.2
+llymsur	llymsur	adj	O4.1
+llysaidd	llysaidd	adj	S1.2.4+ O4.2+
+llysblant	llysblant	n	M1 S1.1.3+
+llysgenhadol	llysgenhadol	adj	G1.1
+llysieuol	llysieuol	adj	L3/Q4.1
+llysnafeddog	llysnafeddog	adj	O4.5 O4.2-
+llythrennol	llythrennol	adj	Q3 A5.3+
+llywaeth	llywaeth	adj	A9-
+llywodraethol	llywodraethol	adj	S7.1+ A1.7+
+llywyddol	llywyddol	adj	G1.1/S7.1+
+mabaidd	mabaidd	adj	S4
+Mabli	Mabli	prop	Z1f
+mabol	mabol	adj	S4
+mabolaidd	mabolaidd	adj	T3-
+mad	mad	adj	A5.1+ G2.2+ O4.2+
+madreddog	madreddog	adj	A1.1.2 A5.1- G2.2- B2- Z4 N5+
+maddeuol	maddeuol	adj	G2.1
+maethlon	maethlon	adj	B2+/F1 S8+
+Mair	Mair	prop	Z1f
+maith	maith	adv	X7+
+maleisus	maleisus	adj	E3-
+Mali	Mali	prop	Z1f
+mamaidd	mamaidd	adj	S4
+mamol	mamol	adj	S4
+manblu	manblu	n	F1/B1 A1.1.1
+Manceinion	Manceinion	prop	Z2 Z3c
+manteisiol	manteisiol	adj	A5.1+ A1.5.2+
+Marc	Marc	prop	Z1m S9/O1.2
+marchnadol	marchnadol	adj	I2.1
+marchogol	marchogol	adj	K5.1
+Marged	Marged	prop	Z1f
+Mari	Mari	prop	Z1f
+marwaidd	marwaidd	adj	L1- O4.2-
+masnachol	masnachol	adj	I2.2/Q2.2
+masw	masw	adj	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+
+masweddol	masweddol	adj	A1.1.2
+materol	materol	adj	O1 B5 O2 X2.2 S1.2
+mathemategol	mathemategol	adj	N2
+mawnog	mawnog	adj	O1.1
+mawreddog	mawreddog	adj	N1 I1
+mawrfrydig	mawrfrydig	adj	S1.2.2-
+mawrwych	mawrwych	adj	O4.2+
+mecanyddol	mecanyddol	adj	O2 A6.2+
+medrig	medrig	adj	N3.1
+medrus	medrus	adj	X9.1+ A5.1+
+meddiannau	meddiannau	n	I1.1 A1.5.2+
+meddwol	meddwol	adj	F2++ X5.2+++
+meddyginiaethol	meddyginiaethol	adj	B3
+meddylgar	meddylgar	adj	S1.2.2- X2.1
+meddyliol	meddyliol	adj	X2 B2/X2 S1.2.6-
+megis	megis	conj	A13
+megis	megis	prep	A13
+meidrol	meidrol	adj	A1.7+
+meistrolgar	meistrolgar	adj	S7.1+ X9.1+
+melynddu	melynddu	adj	O4.3
+melltigedig	melltigedig	adj	Q2.2 A1.4-
+merchedaidd	merchedaidd	adj	S2.1
+Mererid	Mererid	prop	Z1f
+merf	merf	adj	X3.1
+metelaidd	metelaidd	adj	O4.1
+methiannus	methiannus	adj	X9.2- A5.1-/A2.1
+meudwyaidd	meudwyaidd	adj	S5-/S2mf
+Meurig	Meurig	prop	Z1mf
+mewn	mewn	prep	M6
+mewnfodol	mewnfodol	adj	A3+
+mewnol	mewnol	adj	K5.1 O2/M6
+mewnsyllgar	mewnsyllgar	adj	S1.2
+mi	mi	pron	Z8mf
+Mihangel	Mihangel	prop	Z1m
+milain	milain	adj	E3- W4
+mileinig	mileinig	adj	E3-
+milofyddol	milofyddol	adj	L2
+milwriaethus	milwriaethus	adj	G2.1-/G1.2/S2mf
+milwrol	milwrol	adj	G3
+mindlws	mindlws	adj	E4.1+/S1.2.6-
+miniog	miniog	adj	N3.8+ T4
+mirain	mirain	adj	A1.1.1
+misi	misi	adj	A4.2+ A1.3/N5.2+
+misol	misol	adj	N6+
+modern	modern	adj	T3---
+Modlen	Modlen	prop	Z1f
+moesegol	moesegol	adj	G2.2+
+Moesen	Moesen	prop	Z1m
+moesgar	moesgar	adj	S1.2.4+
+moesol	moesol	adj	X4.1
+moethus	moethus	adj	O4.2++
+molecyleg	molecyleg	adj	O1
+mordwyol	mordwyol	adj	M4
+Morgannwg	Morgannwg	prop	Z2 Z3c
+morol	morol	adj	G3/M4/S2mf
+morwrol	morwrol	adj	M4
+morwynol	morwynol	adj	S3.2/S2mf
+Moses	Moses	prop	Z1m
+mud	mud	adj	X3.2- X9.1- S1.2.6-
+mudol	mudol	adj	O2 K6 Q1.3
+murol	murol	adj	C1
+musgrell	musgrell	adj	S1.2.5- A5.1-
+mwrn	mwrn	adj	O4.6+
+mws	mws	adj	T3+ O4.2- X5.2-
+mwth	mwth	adj	L2
+mwy	mwy	adj	A13.3 N6++
+mwy	mwy	adv	A13.3 N6++
+mwyaf	mwyaf	adj	N5+++
+mwynol	mwynol	adj	O1
+mwys	mwys	adj	Q3 A7-
+mwythau	mwythau	n	S7.4+ F2 S9@
+mwythus	mwythus	adj	O4.2+
+myfi	myfi	pron	Z8mf
+myfi%ol	myfi%ol	adj	S1.2.3+
+myfyrgar	myfyrgar	adj	P1
+myfyriol	myfyriol	adj	X2.1
+mygedol	mygedol	adj	S7.2+ I1.1-
+myngus	myngus	adj	A11.2-
+mympwyol	mympwyol	adj	A1.4
+myn	myn	prep	M6
+mynachaidd	mynachaidd	adj	S9
+mynegol	mynegol	adj	Q3
+mynwesol	mynwesol	adj	B1
+mynych	mynych	adj	M1/N6+
+mynyddig	mynyddig	adj	W3
+Myrddin	Myrddin	prop	Z1m/S9
+mysyglog	mysyglog	adj	L3
+na	na	conj	Z6
+na	na	adv	Z4
+nacaol	nacaol	adj	C1
+naddo	naddo	adv	Z4
+naff	naff	adj	S7.1--/S2mf A5.1--/S2mf
+naill	naill	conj	Z5
+namyn	namyn	prep	A1.8-
+naturiol	naturiol	adj	X9.1+ K2
+naturus	naturus	adj	E3- W4
+nawddoglyd	nawddoglyd	adj	S1.2.3+ S7.1++
+nawfed	nawfed	adj	N1
+nawr	nawr	adv	Z4
+nefol	nefol	adj	O4.2+ S9
+negyddol	negyddol	adj	C1
+Neifion	Neifion	prop	Z1/W1 S9/T1.1.1@
+neilltuedig	neilltuedig	adj	S3.1-
+neilltuol	neilltuol	adj	A4.2+
+neis	neis	adj	O4.2+ S1.2.1+
+neithiorol	neithiorol	adj	S4
+nemor	nemor	adj	N5-
+nepell	nepell	adv	A13.3 N3.3+ X9.2+
+nerfus	nerfus	adj	E6-
+nerthol	nerthol	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+nes	nes	adj	N3.3--
+nes	nes	adv	N3.3--
+nes	nes	prep	F4
+nesaf	nesaf	adj	N3.3---
+net	net	adj	A9+ I1.1
+neu	neu	conj	Z5
+newydd	newydd	adv	A14 T3--- T1.3- N3.3---
+newyddiadurol	newyddiadurol	adj	O4.2
+newyddion	newyddion	n	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3
+newynog	newynog	adj	F1-/B1 S1.2.2+ A1.5.1/N5+
+nhw	nhw	adj	Z8
+nhw	nhw	pron	Z8mfn
+ni	ni	pron	Z8
+nid	nid	adv	Z6
+niferog	niferog	adj	N5+
+nifylog	nifylog	adj	A4.2-
+niweidiol	niweidiol	adj	A1.1.2
+niwlog	niwlog	adj	W4 O4.1 A4.2-
+nobl	nobl	adj	O4.2+
+nodedig	nodedig	adj	S7.1+
+nodweddiadol	nodweddiadol	adj	O4.1 A4.2+ N2
+noddlyd	noddlyd	adj	O1.2 S1.2.4-
+noethlwm	noethlwm	adj	O4.2-
+noethlymun	noethlymun	adj	A14
+noglyd	noglyd	adj	X5.2-
+nosol	nosol	adj	B1/T1.3 L2
+nwydol	nwydol	adj	S3.2
+nwydwyllt	nwydwyllt	adj	A1.3-
+nwyfus	nwyfus	adj	X5.2+
+nwyol	nwyol	adj	O1.3
+nychlyd	nychlyd	adj	B2- O4.2-
+nyni	nyni	pron	Z8
+o	o	interj	Z4
+oblegid	oblegid	conj	Z5/A2.2
+oblegid	oblegid	prep	Z5/A2.2
+obry	obry	adv	M6
+och	och	interj	Z4
+ochrol	ochrol	adj	M6
+odiaeth	odiaeth	adj	A5.1+++
+odiaeth	odiaeth	adv	A13.3
+oddeutu	oddeutu	adv	Z5 M6
+oddeutu	oddeutu	prep	Z5 M6
+oddi	oddi	prep	Z5
+oddieithr	oddieithr	prep	Z5
+oddigerth	oddigerth	prep	Z5
+oedrannus	oedrannus	adj	T3++ T3
+oerfelog	oerfelog	adj	B2- O4.6-
+oerllyd	oerllyd	adj	O4.6-
+oesol	oesol	adj	T3++ T3
+ofer	ofer	adj	X9.2- S1.2.3+
+ofergoelus	ofergoelus	adj	S9
+ofnadwy	ofnadwy	adj	A13.3
+ofnog	ofnog	adj	E5-
+ofnus	ofnus	adj	E5-
+offerynnol	offerynnol	adj	A11.1+ K2
+ogylch	ogylch	prep	Z5 M6
+onglog	onglog	adj	O4.4 X4.1 K5.1
+oherwydd	oherwydd	prep	Z5/A2.2
+oherwydd	oherwydd	conj	Z5/A2.2
+olaf	olaf	adj	T2++ T1.3
+olafiaid	olafiaid	n	T1.1.3/T1.3
+olynol	olynol	adj	N4
+oll	oll	adv	A13.2
+ond	ond	conj	A13.6
+ond	ond	prep	A1.8-
+onest	onest	adj	A5.2+
+oni	oni	prep	A1.8-
+onide	onide	adv	A6.1-
+opiniynllyd	opiniynllyd	adj	X2.1/A2.1-
+optig	optig	adj	B1 X3.4
+organaidd	organaidd	adj	L1 W5
+oriog	oriog	adj	A2.1+
+os	os	conj	Z7
+Oswallt	Oswallt	prop	Z1m
+Owain	Owain	prop	Z1m
+pa	pa	inter	Z5 Z8
+Padrig	Padrig	prop	Z1mf
+paganaidd	paganaidd	adj	S9/S2mf
+paham	paham	adv	A2.2
+pam	pam	adv	A2.2
+pan	pan	conj	Z5
+pantiog	pantiog	adj	W3
+parchus	parchus	adj	S7.2+
+par.haol	par.haol	adj	T2++ T1.3
+par.haus	par.haus	adj	T2++ T1.3
+parti%ol	parti%ol	adj	N5.1-
+parthed	parthed	prep	Z5 M6
+patriarchaidd	patriarchaidd	adj	S4
+pawb	pawb	pron	Z8/N5.1+c
+pe	pe	conj	Z7
+pechadurus	pechadurus	adj	G2.2- A5.1+
+ped	ped	conj	Z7
+pedantig	pedantig	adj	A4.2/N5.2+
+Pedr	Pedr	prop	Z1m
+pedrongl	pedrongl	adj	O4.4 A6.1+ N2 S7.4
+pedryfan	pedryfan	adj	N1 T3 T1.2
+peddestrig	peddestrig	adj	M3/S2mf
+pefr	pefr	adj	O4.2+ O4.3
+pegynol	pegynol	adj	A4.2+
+peiriannol	peiriannol	adj	O2 A6.2+
+peirianyddol	peirianyddol	adj	O2 A6.2+
+pell	pell	adv	N3.3+
+pellach	pellach	adj	N5+/A2.1
+pellennig	pellennig	adj	A13.3 N3.3+ X9.2+
+penagored	penagored	adj	A10+ T2+
+penbaladr	penbaladr	adj	G3/S7.1+/S2mf B3/H1
+penboeth	penboeth	adj	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++
+penchwiban	penchwiban	adj	B2- S1.2.6-
+pendant	pendant	adj	A7+++
+pendefigaidd	pendefigaidd	adj	G2.2+ S7.1+ O4.2+
+penderfynol	penderfynol	adj	A2.2 A7+ X6+
+pendew	pendew	adj	N3.7 O4.5
+pendrwm	pendrwm	adj	A11.1++ N5++ A5.1++ A1.1.1 L1-
+penfeddw	penfeddw	adj	B2- S1.2.6-
+penfoel	penfoel	adj	B1
+Penfro	Penfro	prop	Z1mf
+penffol	penffol	adj	S1.2.6-
+pen.galed	pen.galed	adj	S1.2.3+
+pen.gam	pen.gam	adj	G2.2-
+pen.gryf	pen.gryf	adj	S1.2.3+
+penigamp	penigamp	adj	A5.1+++
+penisel	penisel	adj	E4.1-
+penllwyd	penllwyd	adj	O4.3
+pennaf	pennaf	adj	S7.1+
+pennoeth	pennoeth	adj	A10+
+penodol	penodol	adj	Q2.2 X7+
+penrhydd	penrhydd	adj	A1.7-
+pensaerniol	pensaerniol	adj	H1 O4.1
+pensyfrdan	pensyfrdan	adj	E5-
+pentrefol	pentrefol	adj	M7
+penuchel	penuchel	adj	E4.2+/S1.2 S1.2.3+
+penwan	penwan	adj	S1.2.5- O4.1 S7.1- A5.1-
+penysgafn	penysgafn	adj	W2 O4.6+
+peraidd	peraidd	adj	F1
+peraroglaidd	peraroglaidd	adj	X3.5 A5.1+
+perchnogol	perchnogol	adj	A9+
+perffaith	perffaith	adj	A5.1+++
+peripatetig	peripatetig	adj	M6
+persawrus	persawrus	adj	X3.5 A5.1+
+persbectif	persbectif	adj	X4.1 C1
+personol	personol	adj	S5- S1.2.1+
+pert	pert	adj	A6.2-
+perthnasol	perthnasol	adj	A1.5.2+
+perthynasol	perthynasol	adj	A1.2+ A1.5.2+
+perthynol	perthynol	adj	S4mf Q3%
+petrual	petrual	adj	O4.4 A6.1+ N2 S7.4
+petrusgar	petrusgar	adj	S1.2.3-
+petryal	petryal	adj	O4.4 A6.1+ N2 S7.4
+petryalog	petryalog	adj	O4.4
+peth	peth	adj	A13.5
+piglas	piglas	adj	A11.1- O4.3
+pigog	pigog	adj	O4.1 S1.2 A12-
+pitw	pitw	adj	A11.1- N3.2-
+piwis	piwis	adj	E3-
+plaen	plaen	adj	A13.3
+plagus	plagus	adj	E3-
+pleidgar	pleidgar	adj	S8+/S2mf
+plentynnaidd	plentynnaidd	adj	S1.2/T3- S1.2.6-
+pleserus	pleserus	adj	O4.2+
+pletiog	pletiog	adj	B5
+plod	plod	adj	B5
+pluog	pluog	adj	O4.1
+plwm	plwm	adj	S7.1+ A2.2 M2 A1.1.1
+plwyfol	plwyfol	adj	A1.7+ S9
+plwyfolion	plwyfolion	n	S9/S2mf
+pob	pob	adj	S1.1.2+
+poblog	poblog	adj	N5+/S2
+poblogaidd	poblogaidd	adj	E2+ S5+
+poenus	poenus	adj	B2- E4.1-
+porffor	porffor	adj	O4.3
+porthiannus	porthiannus	adj	A10+ E1+
+posibl	posibl	adj	A7+
+posidiol	posidiol	adj	A7+
+pregethwrol	pregethwrol	adj	S9/S2mf
+preifat	preifat	adj	G3/S2mf B1
+presennol	presennol	adj	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
+preswyl	preswyl	adj	H4
+prid	prid	adj	E2+/S2mf
+priddlyd	priddlyd	adj	S1.2.1+ O4.1
+prif	prif	adj	Q2.2 A1.1.1 G3
+prin	prin	adv	A13.7
+priod	priod	adj	A9+
+priodasol	priodasol	adj	S4
+priodol	priodol	adj	S9
+profiadol	profiadol	adj	X9.1+ X2.2+ X3 I3.2
+proffesedig	proffesedig	adj	Q2.2/A5.2
+proffidiol	proffidiol	adj	I1.1+ A1.5.2+
+proffwydol	proffwydol	adj	Q2.2/T1.1.3/S9 X2.6+
+prosa%ig	prosa%ig	adj	A6.2+
+prudd	prudd	adj	M7/L1- Q3%
+pruddaidd	pruddaidd	adj	E4.1- A5.1-
+pruddglwyfus	pruddglwyfus	adj	E4.1- B2-/X1 I2.1/N5- O4.4
+pryd	pryd	adv	T1.3
+pryd	pryd	inter	Z5
+pryderus	pryderus	adj	E6-
+prydlon	prydlon	adj	T1.2/A1.2+
+prynhawnol	prynhawnol	adj	T1.3
+prysgwydd	prysgwydd	n	L3/A1.1.2
+pumed	pumed	adj	N1
+pur	pur	adv	Z4 E2++
+pwerus	pwerus	adj	S7.1+ S1.2.5+ N3
+pwrpasol	pwrpasol	adj	A1.2+
+pwy	pwy	inter	Z8
+Pwyl	Pwyl	prop	Z2
+pwyllog	pwyllog	adj	A1.3+ A10-
+pwysfawr	pwysfawr	adj	N3.5+ X5.2- O4.2-
+pwysleisiol	pwysleisiol	adj	E6+
+pybyr	pybyr	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+pydredig	pydredig	adj	A1.1.2 A5.1- G2.2- B2- Z4 N5+
+pygddu	pygddu	adj	M2 K5.1 X7+ M1 X3.2 H1
+Pyrs	Pyrs	prop	Z1mf
+real	real	adj	A13.3
+reiatlyd	reiatlyd	adj	E3- A13.3/N5+
+reit	reit	adv	A5.3+/A2.1
+rhad	rhad	adj	S6- A1.7-
+rhadlon	rhadlon	adj	Z4
+rhagarweiniol	rhagarweiniol	adj	T2+ A12+
+rhagbaratoawl	rhagbaratoawl	adj	A1.1.1/N4
+rhagfarnllyd	rhagfarnllyd	adj	S5+
+rhagor	rhagor	adj	A13.3 N6++
+rhagorach	rhagorach	adj	A5.1++
+rhagorol	rhagorol	adj	A5.1+++
+rhagrithiol	rhagrithiol	adj	A6.1-/X2.1
+rhagweithiol	rhagweithiol	adj	S7.1+
+rhai	rhai	adj	A13.5
+rhain	rhain	pron	Z5 Z8
+rhamantus	rhamantus	adj	S3.2mf Q4/S5
+rhedegog	rhedegog	adj	M1/N3.8+ K5.1 G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3.3 A6.3+ K4
+rhedegol	rhedegol	adj	W3/M4 W3/M5 O3 E1
+rheidiol	rheidiol	adj	S6+ A11.1+
+rheini	rheini	pron	Z5 Z8
+rheiny	rheiny	pron	Z5 Z8
+rhemp	rhemp	adj	X2.2+/G2.2-
+rheolaidd	rheolaidd	adj	N6+/S2mf G3/S2mf
+rhesymegol	rhesymegol	adj	X2.1 S1.2.6+ A1.6
+rhesymol	rhesymol	adj	S1.2.6+ A5.1+ I1.3-
+rhewllyd	rhewllyd	adj	O4.6- W4 S1.2.1-
+rhewydd	rhewydd	adj	A1.1.2
+rhieniol	rhieniol	adj	S4
+rhinweddol	rhinweddol	adj	G2.2+
+Rhisiart	Rhisiart	prop	Z1m
+rhithwir	rhithwir	adj	A13.4
+Rhobert	Rhobert	prop	Z1m
+rhodresgar	rhodresgar	adj	S1.2.3+
+rhonc	rhonc	adj	A5.1 S7.1++
+rhost	rhost	adj	F1 O4.6+
+rhuddion	rhuddion	n	F1
+Rhufain	Rhufain	prop	Z2
+Rhufeinig	Rhufeinig	adj	Z2/S2mf T1.1.1/S2mf
+rhwydd	rhwydd	adj	A12+
+rhwyfus	rhwyfus	adj	X5.2- M1
+rhwym	rhwym	adj	A1.7+ S6+ A7+++
+rhwymedig	rhwymedig	adj	A1.7+ S6+ A7+++
+rhwysgfawr	rhwysgfawr	adj	S1.2.3+
+rhwystrus	rhwystrus	adj	E4.1- E5-
+rhydlyd	rhydlyd	adj	O4.1 X9.1-
+Rhydychen	Rhydychen	prop	Z2 Z1mf Z3/P1
+rhydyllog	rhydyllog	adj	A1.1.1
+rhyddfrydig	rhyddfrydig	adj	G1.2/S2mf
+rhyddfrydol	rhyddfrydol	adj	G1.2/S2mf
+rhyddieithol	rhyddieithol	adj	Q3
+rhyfelgar	rhyfelgar	adj	G3
+rhyfelog	rhyfelog	adj	G3/S5+ G3/M7
+rhyfon	rhyfon	n	F1
+rhyngwladol	rhyngwladol	adj	M7/S5+c K5.1 K5.1/S2mf
+rhyngwladwriaethol	rhyngwladwriaethol	adj	M7/S5+c K5.1 K5.1/S2mf
+rhynllyd	rhynllyd	adj	B1 E1
+rhython	rhython	n	F1 L2 L3 B1%
+rhyw	rhyw	adj	A13.5
+rhyw	rhyw	adv	A13.5
+rhywbryd	rhywbryd	adv	T1/A7- T1.1.1
+rhywdro	rhywdro	adv	T1/A7- T1.1.1
+rhywiog	rhywiog	adj	S1.2/S8+ S1.2.2-
+rhywiogaethol	rhywiogaethol	adj	A4.2-
+rhywiol	rhywiol	adj	S3.2
+rhywle	rhywle	adv	M6
+rhywrai	rhywrai	n	Z8
+rhywsut	rhywsut	adv	X4.2 A13.4
+Sabothol	Sabothol	adj	T1.3/S9
+sacramentaidd	sacramentaidd	adj	S9
+sad	sad	adj	O4.5
+Saesneg	Saesneg	adj	Z1mf
+safadwy	safadwy	adj	L2/H4
+safnrhwth	safnrhwth	adj	A10+ T2+
+safonol	safonol	adj	A5.1 G2.2 Q1.1 O2@
+saff	saff	adj	Z4
+saith	saith	adj	N1 T3 T1.2
+salw	salw	adj	I1.1- A5.1- N5- E4.1- X9.1-
+sanctaidd	sanctaidd	adj	S9
+sar.haus	sar.haus	adj	Q2.2/S1.2.4-
+sarrug	sarrug	adj	S1.2.1-
+sathredig	sathredig	adj	M7
+sawl	sawl	pron	Z8
+Sbaenig	Sbaenig	adj	Z2/Q3 F1%
+sbasmodig	sbasmodig	adj	N6-
+sbeitlyd	sbeitlyd	adj	E3-
+sectyddol	sectyddol	adj	S9/A6.1-
+sef	sef	adv	Z5
+sefydledig	sefydledig	adj	T3+
+sefydlog	sefydlog	adj	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
+segur	segur	adj	A1.5.1- A1.5.2- X5.2-
+sengl	sengl	adj	A4.2+
+seicolegol	seicolegol	adj	X1
+seimlyd	seimlyd	adj	O4.5
+seinegol	seinegol	adj	Q3
+seinyddol	seinyddol	adj	Q3
+Seisnig	Seisnig	adj	Z1mf
+Seisnigaidd	Seisnigaidd	adj	Z1mf
+seithfed	seithfed	adj	N1
+seithug	seithug	adj	A1.5.2-
+selog	selog	adj	X5.2+
+Selyf	Selyf	prop	Z1mf
+serch	serch	conj	Z5
+serch	serch	prep	A2.1-
+serchog	serchog	adj	E2+
+serchol	serchol	adj	S3.2
+serchus	serchus	adj	E2+
+seremoni%ol	seremoni%ol	adj	S1.1.1
+serfyll	serfyll	adj	A2.1+ E3- O4.1
+serol	serol	adj	S9 W1
+serth	serth	adj	A1.1.1 X2.3+
+seryddol	seryddol	adj	N3.2+++
+sgaprwth	sgaprwth	adj	S1.2.4-
+sgilgar	sgilgar	adj	X9.1+
+sgwar	sgwar	adj	O4.4 A6.1+ N2 S7.4
+siaradus	siaradus	adj	Q2.1+
+Siarl	Siarl	prop	Z1m
+siarp	siarp	adj	O1 K2 F3%
+sidanaidd	sidanaidd	adj	O4.5
+sidanblu	sidanblu	n	B4
+sigledig	sigledig	adj	M1 A7- A5.1-
+simsan	simsan	adj	M1 A7- A5.1-
+siomedig	siomedig	adj	E4.2-
+sionc	sionc	adj	N3.8+
+Sioned	Sioned	prop	Z1f
+siriol	siriol	adj	E4.1+
+siwrnai	siwrnai	adv	N6- T1.1.1
+slei	slei	adj	A10-
+slic	slic	adj	W5
+smart	smart	adj	B2-
+sobr	sobr	adj	F2 S1.2.6+
+sorod	sorod	n	O4.2- A1.5.2-
+sosialaidd	sosialaidd	adj	G1.2/S2mf
+sownd	sownd	adj	F1-
+Steffan	Steffan	prop	Z1m
+straegar	straegar	adj	Q2.1
+stwrllyd	stwrllyd	adj	A11.2+
+sut	sut	inter	Z5 A13.3
+swci	swci	adj	E3+/S7.1+
+swil	swil	adj	E5- S1.2.1-
+swnllyd	swnllyd	adj	E3-
+swta	swta	adj	N3.8+ S1.2.1-
+swyddogol	swyddogol	adj	G1.1/S2mf S7.1+/S2mf
+swynol	swynol	adj	O4.2+ S9%
+syber	syber	adj	F2 S1.2.6+
+syberw	syberw	adj	E4.2+/S1.2 S1.2.3+
+sychedig	sychedig	adj	B1/F2 X7+
+sychlyd	sychlyd	adj	O1.2-
+sydyn	sydyn	adj	N3.8+
+syfrdan	syfrdan	adj	E5-
+sylweddol	sylweddol	adj	N3.2+ O4.1%
+symol	symol	adj	A5.1
+symudadwy	symudadwy	adj	M2
+symudol	symudol	adj	M2 M1 A2.1+ E1 H4/A2.1
+syn	syn	adj	X2.6-
+synfyfyriol	synfyfyriol	adj	X2.1/E4.1-
+synhwyrol	synhwyrol	adj	S1.2.6+
+syrthiedig	syrthiedig	adj	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+sythweledol	sythweledol	adj	X2
+taclus	taclus	adj	O4.2+ A2.1-
+taeog	taeog	adj	S1.2.1-
+taeogaidd	taeogaidd	adj	S1.2.1-
+taer	taer	adj	A5.2+
+tafol	tafol	n	M4 A9-
+tafotrwg	tafotrwg	adj	O4.2- K5.1/G2.2-
+tafotrydd	tafotrydd	adj	Q2.1++
+Tafwys	Tafwys	prop	Z2 Z3c
+tal	tal	adj	N3.7+
+talentog	talentog	adj	X9.1+
+talgryf	talgryf	adj	S1.2.5+ O4.1 S6+
+taloedd	taloedd	n	N3.8 N5 I1.3
+talog	talog	adj	S1.2.3+ X5.2+
+talpiog	talpiog	adj	O4.5
+tanbaid	tanbaid	adj	O4.6+ O4.3 E1
+tanddaearol	tanddaearol	adj	M3c G2.1-/S5+c A10-
+tanforol	tanforol	adj	M4fn
+tanllyd	tanllyd	adj	O4.6+ O4.3 E1
+tanodd	tanodd	adv	M6
+taran	taran	adv	Z4 E2++
+taw	taw	conj	A13.3 A6.1+
+tawdd	tawdd	adj	O4.6
+tawedog	tawedog	adj	X3.2- A10-
+tebygol	tebygol	adj	A7+
+technegol	technegol	adj	Y1 I4 X9.1
+technolegol	technolegol	adj	Y1
+teimladol	teimladol	adj	E1
+teithiol	teithiol	adj	M1
+telaid	telaid	adj	O4.2+
+telediw	telediw	adj	O4.2+ N5+
+telynegol	telynegol	adj	Q3
+terfysgaidd	terfysgaidd	adj	E3- A13.3/N5+
+terfysgol	terfysgol	adj	G2.1-/S2mf
+termllyd	termllyd	adj	Q2.2
+terrwyn	terrwyn	adj	E5+
+terwyn	terwyn	adj	O4.6+ O4.3 E1
+tesog	tesog	adj	W4 E4.1+
+teuluaidd	teuluaidd	adj	S4c A4.1c
+teuluol	teuluol	adj	B4/S2mf
+teyrn.garol	teyrn.garol	adj	S6+
+ti	ti	pron	Z8mf
+tila	tila	adj	S1.2.5- A5.1-
+Timotheus	Timotheus	prop	Z1m
+tirf	tirf	adj	T3- O4.2+ B1 W4 S1.2.3+
+tiriog	tiriog	adj	A9+/M7
+tiriogaethol	tiriogaethol	adj	G3/S2mf
+tirion	tirion	adj	A4.1
+toc	toc	adv	N3.8+
+toddion	toddion	n	O1.2/M1
+toeslyd	toeslyd	adj	O4.5
+tolciog	tolciog	adj	O4.4
+tomlyd	tomlyd	adj	O4.2-
+Tomos	Tomos	prop	Z1mf
+tonnog	tonnog	adj	O4.4 O4.1
+torcalonnus	torcalonnus	adj	E4.1-
+tordyn	tordyn	adj	A1.7+
+toreithiog	toreithiog	adj	A13.3 N5++
+tori%aidd	tori%aidd	adj	G1.2
+tost	tost	adj	A5.1- S1.2.5+ S1.2.1- O4.2-
+tosturiol	tosturiol	adj	X2.5+/S1.2
+tra	tra	adv	T2- M6
+tra	tra	conj	T1.3
+trachefn	trachefn	adv	N6+ Z4
+trachwantus	trachwantus	adj	S1.2.2+
+traddodiadol	traddodiadol	adj	S1.1.1 A6.2+ T3++
+trafferthus	trafferthus	adj	A12- E6- E3-
+tragwyddol	tragwyddol	adj	T2+++
+tragywydd	tragywydd	adj	T2+++
+trahaus	trahaus	adj	S1.2.3+
+tramgwyddus	tramgwyddus	adj	G2.2-
+tramor	tramor	adj	M6
+trancedig	trancedig	adj	L1-
+trawiadol	trawiadol	adj	I3.1- E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+
+trawmatig	trawmatig	adj	E4.1-
+trebl	trebl	adj	N5+/A2.1
+trech	trech	adj	S7.1++/S2mf A5.1++/S2mf
+Trefaldwyn	Trefaldwyn	prop	Z1mf
+trefnus	trefnus	adj	S7.1-/S2mf
+trefol	trefol	adj	M7
+treiddgar	treiddgar	adj	X3.2 X2.5+
+treiddiol	treiddiol	adj	X3.2 X2.5+
+tremygus	tremygus	adj	Q2.2/S1.2.4-
+trigain	trigain	adj	N1 T3
+trigeinfed	trigeinfed	adj	N4
+trigiannol	trigiannol	adj	H4
+trigolion	trigolion	n	H4/S2mf
+trochion	trochion	n	B4
+troe%dig	troe%dig	adj	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+troednoeth	troednoeth	adj	B1
+troedol	troedol	adj	M3
+troellog	troellog	adj	M2 B1 O4.4
+trofannol	trofannol	adj	M7 W4
+trofaus	trofaus	adj	S1.2.3+ G2.2-
+troseddol	troseddol	adj	G2.1-/S2mf
+trosodd	trosodd	adv	T2- M6
+truenus	truenus	adj	O4.2-
+trwchus	trwchus	adj	N3.7 O4.5
+trwodd	trwodd	adv	M6
+trwsiadus	trwsiadus	adj	A10+ E1+
+trwstan	trwstan	adj	A12- O4.2- E1
+trwyadl	trwyadl	adj	N5.1+ A1.3+
+trwyndwn	trwyndwn	adj	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+trwynol	trwynol	adj	B1
+trwynsur	trwynsur	adj	A5.1-/A2.1
+trybelid	trybelid	adj	O4.3 X9.1+ E4.1+
+trychinebus	trychinebus	adj	A5.1--- X9.2-
+trydanol	trydanol	adj	O3
+trylwyr	trylwyr	adj	N5.1+ A1.3+
+trymaidd	trymaidd	adj	N3.5+ N5+
+trymllyd	trymllyd	adj	N3.5+ N5+
+trystiog	trystiog	adj	X3.2+
+trythyll	trythyll	adj	A1.1.2
+Tudur	Tudur	prop	Z1mf T3+
+tueddol	tueddol	adj	X7+ A8 O4.4
+tufewnol	tufewnol	adj	M6
+Twm	Twm	prop	Z1m
+Twrci	Twrci	prop	Z2
+twt	twt	adj	B4
+twyllodrus	twyllodrus	adj	G2.2- A5.2-
+twym	twym	adj	O4.6+ E2+
+twymgalon	twymgalon	adj	O4.6+ E2+
+tybiedig	tybiedig	adj	S6+ X7+
+tydi	tydi	pron	Z8mf
+tyfadwy	tyfadwy	adj	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
+tylwythol	tylwythol	adj	A4.2-
+tymherus	tymherus	adj	O4.6+
+tymhestlog	tymhestlog	adj	E3-
+tymhoraidd	tymhoraidd	adj	T1.2/A1.2+ A1.2+
+tymhorol	tymhorol	adj	T1.1 T1.3- Q3 B1 S9
+tyner	tyner	adj	I2.2 A9-
+tywodlyd	tywodlyd	adj	W3 O4.3
+tywysogaidd	tywysogaidd	adj	N3.2+ G2.2+ O4.2+
+thermal	thermal	adj	W4 B5
+uchaf	uchaf	adj	N3.7+++ N5+++
+uchafiaid	uchafiaid	n	S7.1++/S2mf A5.1++/S2mf
+uchelfryd	uchelfryd	adj	N3.7+ N5+
+uchelgeisiol	uchelgeisiol	adj	X7+
+uchelryw	uchelryw	adj	S7.1++/S2mf A5.1++/S2mf
+uchod	uchod	adv	M6 A5.1++
+ufudd	ufudd	adj	S7.1-
+ufuddgar	ufuddgar	adj	S6+
+ufyll	ufyll	adj	S7.1-
+ulw	ulw	adv	A14
+ulw	ulw	n	O1.1 L3
+uncorn	uncorn	adj	Z8
+undebol	undebol	adj	S5+ A1.1.1
+undonog	undonog	adj	X3.2 X5.2-/A2.1-
+undydd	undydd	adj	T1.3-
+unedig	unedig	adj	S5+ A1.1.1
+unfarn	unfarn	adj	A6.1+
+unfryd	unfryd	adj	A6.1+
+unffurf	unffurf	adj	B5
+un.goes	un.goes	adj	Z8
+unig	unig	adj	A14
+unigryw	unigryw	adj	S2
+union	union	adj	O4.4 M6 N3.8+ A5.2+ N4
+union.gred	union.gred	adj	S9 A6.2+
+union.gyrchol	union.gyrchol	adj	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+unionsyth	unionsyth	adj	O4.4 M6 N3.8+ A5.2+ N4
+unllygeidiog	unllygeidiog	adj	Z8
+unodl	unodl	adj	S5+ A1.1.1
+unol	unol	adj	S5+ A1.1.1
+unsain	unsain	adj	S5+
+unwaith	unwaith	adv	N6- T1.1.1
+unwedd	unwedd	adj	E2+
+unwedd	unwedd	adv	A6.1+
+urddasol	urddasol	adj	S7.2+
+us	us	n	F1
+uthr	uthr	adj	A5.1+
+uwch	uwch	adj	N3.7++ N5++
+uwch	uwch	prep	M6 A5.1++
+uwchlaw	uwchlaw	prep	M6 A5.1++
+uwchradd	uwchradd	adj	S7.1++/S2mf A5.1++/S2mf
+uwchraddol	uwchraddol	adj	S7.1++/S2mf A5.1++/S2mf
+Warwig	Warwig	prop	Z2 Z1mf
+wedi	wedi	adv	N4
+wedi	wedi	prep	N4
+wedyn	wedyn	adv	N4
+weithian	weithian	adv	Z4
+weithiau	weithiau	adv	N6
+wel	wel	interj	A10+ E1+
+wele	wele	interj	X3.4
+Wmffre	Wmffre	prop	Z1m
+Wrecsam	Wrecsam	prop	Z2
+wybrol	wybrol	adj	Q1.3
+wylofus	wylofus	adj	Q2.2 X3.2
+wynebgaled	wynebgaled	adj	A10+/G2.2- O4.2
+wythfed	wythfed	adj	N1
+y	y	art	Z5
+ychwaith	ychwaith	adv	Z5
+ychwanegol	ychwanegol	adj	N5++
+ychydig	ychydig	adj	N5-
+yfory	yfory	adv	T1.1.3
+ynghanol	ynghanol	prep	Z5
+yngholl	yngholl	adj	A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3-
+ynghrog	ynghrog	adj	M2 M1 M8 G2.1 S7.1-
+ynghwsg	ynghwsg	adj	A1.5.1-
+ynghyd	ynghyd	adv	S5+ T1.1.2 M6
+ynghylch	ynghylch	prep	Z5 M6
+yma	yma	adv	M6 T1.1.2 T1.2
+ymadawedig	ymadawedig	adj	M1
+ymadawol	ymadawol	adj	Q2.2
+ymadroddus	ymadroddus	adj	Q3/X9.1+
+ymaith	ymaith	adv	M6 A1.1.1%
+ymarferol	ymarferol	adj	Y1/P1
+ymatebol	ymatebol	adj	S1.1.2+
+ymddan.gosiadol	ymddan.gosiadol	adj	A8
+ymddeol	ymddeol	adj	I3.1-
+ymddiddan.gar	ymddiddan.gar	adj	Q2.1/N5+
+ymddiddanol	ymddiddanol	adj	Q3
+ymddiriedol	ymddiriedol	adj	I1.1
+ymffrostgar	ymffrostgar	adj	S1.2.3+
+ymgosbol	ymgosbol	adj	S1.1.3-/S2mf S9
+ymhell	ymhell	adv	A13.3 N3.3+ X9.2+
+ymhellach	ymhellach	adv	N5+/A2.1
+ymhen	ymhen	prep	M6
+ymhlith	ymhlith	prep	Z5
+ymhlyg	ymhlyg	adj	A10-
+ymhobman	ymhobman	adv	M6/N5.1+
+ymhongar	ymhongar	adj	X2.1 A5.4- A9+
+ymladdgar	ymladdgar	adj	E3-
+ymlaen	ymlaen	adv	M6 A2.1+ T2++
+ymlynol	ymlynol	adj	O1
+ymofyn.gar	ymofyn.gar	adj	X2.4
+ymosodol	ymosodol	adj	E3-
+ymostyngar	ymostyngar	adj	S7.1-
+ymrafaelgar	ymrafaelgar	adj	E3-
+ymroddedig	ymroddedig	adj	A9-
+ymron	ymron	adv	A13.4
+ymryson.gar	ymryson.gar	adj	A7-
+ymsymudol	ymsymudol	adj	M3
+ymwng	ymwng	adj	M1/N6+
+ymwthgar	ymwthgar	adj	M2 M1 S7.1+ X8+ I2.2 F3 A13.4
+ymwthiol	ymwthiol	adj	S7.1+/X7- A11.2+
+ymwybodol	ymwybodol	adj	X2.2+ X5.1+ X7+ B1
+ymyrgar	ymyrgar	adj	S1.1.3+++
+ymysg	ymysg	prep	Z5
+yna	yna	adv	M6 T1.2
+ynadol	ynadol	adj	G2.1
+yno	yno	adv	M6 T1.2
+ynteu	ynteu	adv	N4 Z5 T1.2
+ynteu	ynteu	conj	Z5
+ynysol	ynysol	adj	W3
+Yr	Yr	prop	Z2
+Yr	Yr	prop	Z2 M7
+Yr	Yr	prop	Z1 Z1mf
+ys	ys	conj	A13
+ysblennydd	ysblennydd	adj	A5.1++
+ysgafala	ysgafala	adj	A9+ A15+ A1.7+
+ysgarlad	ysgarlad	adj	O4.3
+ysgarthion	ysgarthion	n	X7-/O2 A5.1-
+ysgatfydd	ysgatfydd	adv	A7
+ysgeler	ysgeler	adj	G2.2- A5.1+
+ysgogol	ysgogol	adj	A2.2
+ysgolheigaidd	ysgolheigaidd	adj	P1
+ysgrifenedig	ysgrifenedig	adj	Q1.2 I2.1
+ysgrublaidd	ysgrublaidd	adj	L2mfn S5+c O2c
+ysgrythurol	ysgrythurol	adj	S9/Q4.1
+ysgubion	ysgubion	n	O2
+ysgubol	ysgubol	adj	B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+
+ysgyfeiniol	ysgyfeiniol	adj	B1
+ysig	ysig	adj	B2- A1.1.2
+ysmala	ysmala	adj	E4.1+ Q3/A2.1+
+ysol	ysol	adj	A1.5.1 F1
+ystadegau	ystadegau	n	N3.1c N2c
+ystadegol	ystadegol	adj	N2
+ystig	ystig	adj	X7+
+ystlysol	ystlysol	adj	M6
+ystormus	ystormus	adj	W4 E3-
+ystranclyd	ystranclyd	adj	X5.2-
+ystrydebol	ystrydebol	adj	A6.2+/X2.1
+ystrywgar	ystrywgar	adj	X9.1+
+ystwyth	ystwyth	adj	O4.5 A2.1+
+ystyfnig	ystyfnig	adj	A2.1-/X2.1
+ystyrgar	ystyrgar	adj	S1.2.2- X2.1
+ystyriol	ystyriol	adj	S1.2.3-
+yswil	yswil	adj	E5- S1.2.1-
+

@@ -3,7 +3,7 @@ CC	noun	S4.5.2.1m
 P	noun	S4.5.2.1f
 T	noun	S4.5.2.1f
 一	noun	K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 O2/O4.4 K5.1 B1 K1 Z8 N1
-一	num	A4.2+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 N1 T3 T1.2 N5--- S5- S3.2- M3 O2/O4.4 K5.1 B1 K1 O4.4 Z8
+一	num	N1
 一	pron	Z8
 一丛	noun	N5-
 一丛	pnoun	N5-
@@ -13,8 +13,8 @@ T	noun	S4.5.2.1f
 一串	noun	A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf S5-
 一串	verb	A9- S5-
 一些	adv	A13.5
-一些	det	N5 Z5
-一些	num	A13.5 N5 Z5
+一些	det	Z5 N5
+一些	num	N5
 一代	loc	M1 S4 A2.1 T1.3 S5+c
 一代	noun	M1 S4 A2.1 T1.3 S5+c
 一会儿	conj	Z5
@@ -92,8 +92,8 @@ T	noun	S4.5.2.1f
 一夫多妻	verb	S4/N5+
 一妻多夫	noun	S4/N5+
 一妻多夫	pnoun	S4/N5+
-一定	adj	A1.7+ A2.1- X6+ A4.2+ A9- X7+ A6.2- S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- A7+ A4.2+/Q2.2 A6.2+ N6+ O4.1 I3.1 T2++ A13.3 A7+++ A1.1.1 N6+/S2mf G3/S2mf Z5
-一定	adv	A1.7+ A2.1- X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- A4.2+ A9- X7+ A6.2- A7+ A1.1.1 Q4.1 S6+ Z5
+一定	adj	S6+ A7+
+一定	adv	S6+ A7+
 一定	noun	A4.2+ Q4.1
 一定	prep	Z5
 一定	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- A9- A1.1.1
@@ -156,8 +156,8 @@ T	noun	S4.5.2.1f
 一杯量	noun	O2 K5.1/S2mf S7.3+ A5.1+/O2
 一杯量	pnoun	O2 K5.1/S2mf S7.3+ A5.1+/O2 O4.4
 一杯量	verb	O4.4
-一样	adj	A6.1+ A6.1+++
-一样	adv	Z4 A6.1+
+一样	adj	A6.1+++
+一样	adv	A6.1+++
 一样	conj	Z5
 一样	det	A6.1+++
 一样	noun	A6.1+
@@ -200,7 +200,7 @@ T	noun	S4.5.2.1f
 一瘸一拐地	adv	S1.2.5-
 一百	noun	N1
 一百	num	N1
-一直	adv	M6 N3.8+ S1.1.1 N6+++ T2++ N6+ O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 S3.2/S2mf M3
+一直	adv	T2++ N6+
 一直到	conj	Z5
 一直到	pnoun	Z5
 一直到	prep	Z5
@@ -254,8 +254,8 @@ T	noun	S4.5.2.1f
 一贯	adj	A6.1+ T2++ A2.1- S6+
 一贯	noun	A2.1- N2
 一贯	verb	A2.1- N2 A6.1+ T2++ S6+
-一起	adj	S1.2.6+
-一起	adv	S1.2.6+ S5+ T1.1.2 M6
+一起	adj	S5+ T1.1.2 M6
+一起	adv	S5+ T1.1.2 M6
 一车	noun	M2 G3 N5+
 一车	verb	M2 G3
 一边	adv	A10+ B4 S3.1- N5.1- O2 M7 I3.1 S1.1.3+ K4 T1.1.2
@@ -308,8 +308,8 @@ T	noun	S4.5.2.1f
 七色	noun	O2
 七色	verb	O2
 万	adj	N5+
-万	noun	G1.2/Q1.1 N5+
-万	num	G1.2/Q1.1 N5+ N1
+万	noun	N5
+万	num	N5
 万万	adv	A7+
 万万	num	A7+
 万事	noun	Z8/N5.1+
@@ -387,12 +387,12 @@ T	noun	S4.5.2.1f
 三重	verb	N5+/A2.1
 三重奏	noun	S5+c K2
 三重奏	pnoun	S5+c K2
-上	adj	M6 A11.1++ N3.7++ N5++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 N4 X9.1+
+上	adj	M6
 上	adv	M6 A5.1++ N4 N5++ T2- X9.1+ A1.1.1 N3.7++
-上	loc	A5.1+ G2.2+ A1.1.1 M6 N4 N5++ T2- X9.1+ N5+/A2.1 O4.2+ Z5
+上	loc	A5 M6
 上	noun	M6 F3@ P1 W4 B1
-上	prep	Z5
-上	verb	A1.1.1 M4 H4 I3.1 X9.2+ A2.1+ A2.2 M1 M6/N3.7+ X9.2+/A2.1 M2 B1 O4.4 M6 A11.1++ A5.1++ F3@ N4 N5++ T2- X9.1+ N3.7++ S7.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 N5+/A2.1 P1 W4 Z5
+上	prep	Z5 M6
+上	verb	M1 A1.1.1
 上下	loc	A13.4 Z5 M6
 上下	noun	A2.1+
 上下动	noun	K6 A2.1+
@@ -503,15 +503,15 @@ T	noun	S4.5.2.1f
 上马	adj	N5+/A2.1
 上马	noun	T2+ A1.1.1 N5+/A2.1 M1 M2
 上马	verb	N5+/A2.1 T2+ A1.1.1 M1 M2
-下	adj	M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- N4 E4.1- S7.1- N3.1 Q1.2 B1
+下	adj	M6 N4 A5.1- A11.1-
 下	adv	A13.6 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 N3.7-- X3.2--
 下	det	N4
-下	loc	A13.6 M6 S7.1- B1 Z5
-下	msr	N6- T1.1.1 Z5
-下	noun	M6 O1.1 L2
+下	loc	M6
+下	msr	N6
+下	noun	M6
 下	part	M6
 下	prep	Z5
-下	verb	A13.6 F1/B1 A1.1.1 M1 M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- N4 E4.1- S7.1- N3.1 Q1.2 O1.1 L2 B1 Z5 I3.1 X9.2+ A2.1+ A2.2 K1 K5.1 K5.2 K2 K3 K6 L2/M5 X5.2+ W4
+下	verb	M1 M6
 下仔	verb	B1/L2 A1.1.2
 下位	noun	A5.1--
 下位	verb	A5.1--
@@ -617,7 +617,7 @@ T	noun	S4.5.2.1f
 下马	verb	M1 M2
 不	adj	Z6
 不	adv	Z6
-不	intj	Z6
+不	intj	Z4
 不	part	Z6
 不一	noun	A6.1- E3-
 不一	verb	A6.1- A6.3+ A2.1+ E3-
@@ -668,8 +668,9 @@ T	noun	S4.5.2.1f
 不休	verb	T2+++
 不优美	adj	O4.2-
 不优美	pnoun	O4.2-
-不会	adj	A7-
+不会	adj	X2.5-- X2.2-- A7-
 不会	noun	A7-
+不会	verb	X2.5-- X2.2-- A7-
 不伦不类	adj	A6.2+
 不伦不类	verb	A6.2+
 不但	adv	Z5
@@ -776,9 +777,9 @@ T	noun	S4.5.2.1f
 不动摇	adj	E1- M8
 不动摇	pnoun	E1- M8
 不动的	adj	A2.1- M6 T2++ M8 X5.2-
-不动的	adv	A2.1- M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. Q3 S7.1 X5.2-
+不动的	adv	A2.1- M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 Q3 S7.1 X5.2-
 不动的	noun	Q3 S7.1
-不动的	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.
+不动的	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1
 不十分	noun	N5- A1.2- A5.1-
 不协和音	noun	X3.2
 不协和音	verb	X3.2
@@ -1214,11 +1215,11 @@ T	noun	S4.5.2.1f
 不易相信	noun	X2.1-
 不易相信	verb	X2.1-
 不是	adv	Z6
-不是	conj	A5.3- A2.2 W3% E2- G2.1 G2.2- Q2.2/G2.2- S8- Z4 Z6
+不是	conj	Z5 Z6
 不是	intj	Z4
 不是	noun	A5.3- A2.2 W3% G2.1 G2.2- S8-
 不是	part	Z6
-不是	verb	E2- Q2.2/G2.2- G2.1
+不是	verb	E2-/Z6
 不是味儿	adj	A5.3- S1.2.4- A6.2- S3.2 L2 G2.2-
 不是味儿	adv	A5.3- S1.2.4- A6.2- S3.2 L2 G2.2- S3.2/S2.2m
 不是味儿	noun	S3.2/S2.2m
@@ -1611,7 +1612,7 @@ T	noun	S4.5.2.1f
 不足齿的	verb	E2- A5.1- Z3
 不过	adj	A14
 不过	adv	A13.6 A14 N6+ Z4 Z5
-不过	conj	A13.6 A14 Z5
+不过	conj	Z5
 不过	noun	N6+ Z4
 不过	prep	Z5
 不近人情	adj	S1.2.6-
@@ -1705,7 +1706,7 @@ T	noun	S4.5.2.1f
 与	adv	M6
 与	conj	Z5
 与	det	Z5
-与	prep	A8 A11.2+ M6 N3.2+ N5+ A11.1+ Z5 Z8mfc
+与	prep	Z5
 与	pron	Z8mfc
 与此同时	adv	T1.1.2
 与此同时	conj	T1.1.2
@@ -1816,7 +1817,7 @@ T	noun	S4.5.2.1f
 世俗地	adj	X2.2/S1.1.1 A1.6 A9+
 世俗地	pnoun	X2.2/S1.1.1 A1.6 A9+
 世家	noun	B1 T2+
-世界	noun	B5 B2- W1 S5+c A4.1 N5+
+世界	noun	W1 S5 A4.1
 世纪	noun	T1.3 K5.1%
 世袭	adj	M1 S4 A2.1
 世袭	noun	M1 S4 A2.1
@@ -1881,7 +1882,7 @@ T	noun	S4.5.2.1f
 东的	adv	M6
 东的	noun	M6
 东的	pnoun	M6
-东西	noun	A1.1.1 S1.1.1 S3.2 M2 F1 S7.1+@ Z4@ O1 O2 X4.1 A7- S2mf L2mf S2mfc
+东西	noun	O2 X4.1
 东西	verb	M2 A1.1.1 F1 S7.1+@ Z4@
 东道	noun	S2mf B1@ Y2@ S9%
 东道	pnoun	S1.1.1 S2mf B1@ Y2@ S9%
@@ -1916,7 +1917,7 @@ T	noun	S4.5.2.1f
 两	adv	A13.5 Z5
 两	det	N5 Z5
 两	msr	N3.5
-两	num	A13.5 N1 T3 T1.2 N3.5 N5 Z5
+两	num	N1 N5
 两便士	noun	I1
 两便士	pnoun	I1
 两倍	adj	N5+
@@ -2020,10 +2021,10 @@ T	noun	S4.5.2.1f
 丧胆	verb	E5-
 丧钟	noun	X3.2 S9
 个	adj	N5-
-个	msr	N5- S2mf
+个	msr	N3 N3.1
 个	noun	S2mf
-个人	adj	N5- S5- S1.2.1+
-个人	noun	N5- S2mf S5- S1.2.1+ Z8
+个人	adj	S5--
+个人	noun	S2mf/S5--
 个人	pron	Z8
 个体	adj	N5-
 个体	noun	N5- S2mf S5+ N1% S5+c O2 H5 H1 N3.1 P1 N1
@@ -2042,11 +2043,11 @@ T	noun	S4.5.2.1f
 个自地	noun	A13.3
 丫叉	noun	B1
 丫叉	pnoun	B1
-中	adj	N4 M6 O4.2+
-中	adv	M6
-中	loc	M6 O4.2+ Z5
-中	noun	M6 H1c M7c G1.2c K5.1mfn N5 N4 T1.2 Z2/Q3 Z2/S2mf
-中	part	M6
+中	adj	M6 N4
+中	adv	M6 O4.2+
+中	loc	M6
+中	noun	M6
+中	part	Z5
 中	pnoun	M6 H1c M7c G1.2c K5.1mfn N5 N4 T1.2 O4.2+ Z2 Z2/Q3 Z2/S2mf Z5
 中	prep	Z5
 中	verb	M6
@@ -2072,8 +2073,8 @@ T	noun	S4.5.2.1f
 中名辞	pnoun	Q2.1 Q2.1/A6.1- Q2.1/E3-
 中和	pnoun	A1.1.1 L1-% S8- T2-
 中和	verb	A1.1.1 L1-% S8- T2-
-中国	noun	O1.1 O2 Z2/Q3 Z2/S2mf
-中国	pnoun	O1.1 O2 Z2 Z2/Q3 Z2/S2mf Z3c
+中国	noun	G1.1c W3
+中国	pnoun	Z8
 中国人	adj	Z2 Z2/Q3 Z2/S2mfnc
 中国人	noun	Z2 Z2/Q3 Z2/S2mfnc Z2/S2mf
 中坚	noun	B1 A11.1+ S1.2.5+
@@ -2253,14 +2254,14 @@ T	noun	S4.5.2.1f
 丹麦文	noun	Z2/Q3 F1
 丹麦文	pnoun	Z2 Z2/Q3 Z2/S2mfnc F1
 为	mark	Z5
-为	part	M6
-为	prep	A2.2 X2.1 A9+/S2mf Q2.2 M6 Z5
+为	part	Z5
+为	prep	Z5
 为	verb	A3+ Z5
 为了	conj	Z5/A2.2
 为了	noun	A2.2 X2.1 X4.1
-为了	prep	A2.2 X2.1 X4.1 Z5/A2.2
+为了	prep	Z5/A2.2
 为了	verb	A2.2
-为什么	adv	A2.2 M6
+为什么	adv	A2.2
 为什么	pron	A2.2
 为何	adv	Z5 A13.3
 为何	pron	A2.2
@@ -2351,7 +2352,7 @@ T	noun	S4.5.2.1f
 主机	adj	A11.1+
 主机	noun	A11.1+ F1 O2 Y2% Y2
 主机	verb	F1
-主权	noun	G1.1 I2.1/S+ O4.2+ S7.1+
+主权	noun	G1.1 I2.1/S1.1.1+ O4.2+ S7.1+
 主材	adj	A11.1+++
 主材	noun	A11.1+++ S7.1+/S2mf
 主构	adj	A11.1+++
@@ -2471,7 +2472,8 @@ T	noun	S4.5.2.1f
 义肢	verb	X2.2-
 义膜性喉炎	noun	B2
 义膜性喉炎	pnoun	B2
-之	pron	Z8 Z8f Z8m Z8mfn
+之	prep	Z5
+之	pron	Z8
 之上	adv	M6 A5.1++
 之上	loc	M6 A5.1++ Z5
 之上	prep	Z5
@@ -2490,7 +2492,7 @@ T	noun	S4.5.2.1f
 之名	adj	S7.2+
 之名	noun	S7.2+ T1.3 Z3
 之名	pnoun	Z3
-之后	adj	N4 T4-- T1.1.3
+之后	adj	N4- T4- T1.1.3
 之后	adv	B1 M6 A6.1- N4 S5+ M1 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 T4-- T1.1.3 Z5
 之后	conj	Z5
 之后	loc	N4 Z5
@@ -2662,8 +2664,8 @@ T	noun	S4.5.2.1f
 乞怜	noun	E4.1-
 乞求	noun	A2.2/S1.2.4+
 乞求	verb	A2.2/S1.2.4+ Q2.2 G2.1- Q2.2/E6- X7+
-也	adv	N5++ N5.2+ A13.3 X2.1 Z8 Z5
-也	conj	Z5 Z8
+也	adv	N5++ N5.2+
+也	conj	Z5
 也	det	Z8 Z5
 也	noun	X2.1
 也不	adv	Z6 Z8/Z6 Z5/Z6
@@ -2707,7 +2709,7 @@ T	noun	S4.5.2.1f
 乡村	noun	F4/M7 A6.2+ O4.2- X9.1- F4/S2mf C1-/S2mf G1.1c W3 K2 M7
 乡绅	noun	S7.1+/S2.2m S2.2m
 乡音	noun	Q2.2
-书	noun	A9+/Q2.2 G2.1 N3.4 N5 Q4.1 Q4.2 X3.2 Q1.2 Q3 K5.1/I1
+书	noun	Q4.1 Q1.2 P1
 书	verb	A9+/Q2.2 G2.1 Q1.2
 书信	noun	E2++ Q1.2 Q3 S8+
 书信	verb	E2++ Q1.2
@@ -2737,7 +2739,7 @@ T	noun	S4.5.2.1f
 书页	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
 书页	verb	Q1.3
 买	noun	I2.2
-买	verb	I2.2
+买	verb	I2.2-
 买主	noun	I2.2/S2mf
 买卖	noun	G2.1- A1.1.1 H2 G2.1-/S2mf A6.1- I1.3- I2.2 S1.1.1 Q2.2 N5 K5.2 F3/I2.2
 买卖	verb	G2.1- A1.1.1 I2.2 Q2.2
@@ -2917,7 +2919,7 @@ T	noun	S4.5.2.1f
 争辩	noun	Q2.1 Q2.1/A6.1- Q2.1/E3-
 争辩	verb	Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2
 事	adv	Z4
-事	noun	A1.1.1 S1.1.1 S3.2 A11.1+ I2.1 A5.1+++ I3.1 Q4 K2 C1 X9.2+ A2.1+ A2.2 O2 X4.1 A7- S2mf L2mf O1 Z4
+事	noun	O2 A3 S1.1
 事	verb	A11.1+ I3.1 A1.1.1 X9.2+ A2.1+ A2.2
 事业	adv	M6
 事业	conj	Z5/A2.2
@@ -2943,7 +2945,7 @@ T	noun	S4.5.2.1f
 事实地	adv	A5.2+ X2.2
 事实地	noun	A5.2+ X2.2
 事态	noun	A3+ O4.1 M6 I3.1@
-事情	noun	A1.1.1 H1% S1.1.1 S3.2 A11.1+ A2.2 I2.1 A5.1+++ O2 X4.1 A7- S2mf L2mf O4.1 Q2.2 T1.2 O1
+事情	noun	S1.1.1 A1.1.1
 事情	verb	A11.1+ A2.2 Q2.2
 事故	noun	A1.1.2 A1.4 O4.1
 事物	adv	A13.3 A6.1+
@@ -2956,7 +2958,7 @@ T	noun	S4.5.2.1f
 事项	conj	Z5/A2.2
 事项	noun	A13.3 A2.2 X2.1 X4.1 A4.2+ X7+ X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z5/A2.2
 事项	verb	A2.2
-二	num	N1 T3 T1.2
+二	num	N1 S1.2.6-- X9.1--
 二分法	noun	A6.1-
 二十	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5%
 二十	num	K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ A1.1.1
@@ -2982,7 +2984,7 @@ T	noun	S4.5.2.1f
 于	adv	M6
 于	noun	N4
 于	part	M6
-于	prep	M6 N4 O4.2+ Z5 Q2.2 Q2.2 S7.1+ X4.2 K4 M7
+于	prep	Z5
 于今	conj	Z5
 于今	intj	Z4
 于今	noun	T1.1.2 Z4
@@ -3048,7 +3050,7 @@ T	noun	S4.5.2.1f
 互连	verb	A2.2
 亓	pnoun	Z8 Z8f Z8m
 亓	pron	Z8 Z8f Z8m
-五	num	N1 T3 T1.2
+五	num	N1
 五个一套	num	N1 T3 T1.2
 五个一套	verb	N1 T3 T1.2
 五个一组	noun	S4mf S5+c K2
@@ -3373,8 +3375,8 @@ T	noun	S4.5.2.1f
 人	adv	A13.3 A6.1+
 人	conj	Z5 Z8
 人	det	Z5 Z8
-人	noun	A13.3 A6.1+ A3+ L1 Z5 A4.1/L3 A4.1/L2 A4.1 B3 A6.2+ A5.1+++ I3.1 I3.1/S2mf K4/S2mf Q4.1/S2mf Q1.2/S2mf K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c K2 L2 S9 L2mfn S2.1f L2mfnc F1 K5.1 E2+/S2mf M1 A1.9 M2 M4fn O2 B1 O1.1 X4.1 A7- S2mf L2mf S1.2 S2 S1.2.1+ S2.2m P1/S2mf S2mfc E1 X7- T2- Z8 Z8mf
-人	pron	Z8mf
+人	noun	S2mfc
+人	pron	Z8mf S2mfc
 人	verb	A3+ Z5 I3.1 K1/S1.1.3+ M1 A1.9 M2 S2 X7- T2-
 人世间	noun	S5+c
 人为地	adv	A5.4-
@@ -3475,7 +3477,7 @@ T	noun	S4.5.2.1f
 什一税	pnoun	I1/S9 A9-/S9 M2 A2.2 Q2.2 A1.1.1 X2.5-
 什一税	verb	M2 A2.2 Q2.2 A1.1.1 X2.5-
 什么	det	Z8 Z5
-什么	pron	Z8 Z5
+什么	pron	Z8
 什罗普	pnoun	Z2 Z3c
 仁	adj	G2.2+
 仁	verb	G2.2+
@@ -3537,7 +3539,7 @@ T	noun	S4.5.2.1f
 今天	adv	T1.1.2
 今天	conj	Z5
 今天	intj	Z4
-今天	noun	T1.1.2 Z4 Z5
+今天	noun	T1.1.2
 今日	adv	T1.1.2
 今日	noun	T1.1.2
 今晚	adv	T1.1.2
@@ -3574,8 +3576,8 @@ T	noun	S4.5.2.1f
 仍然	adv	C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T1.1.2 T2++ Z4
 仍然	noun	C1 F2/O2
 仍然	verb	E3+/A2.1 E6+
-从	adj	A1.7-
-从	prep	A1.7- S7.1- A2.1+ A1.1.1 A9- X3.4 Q2.1/X2.4 X2.1 G2.1+ Z5
+从	adj	M1 S7.1- A1.7-
+从	prep	Z5
 从	verb	S7.1- A2.1+ A1.1.1 A9- X3.4 Q2.1/X2.4 X2.1 G2.1+
 从不	adv	T1/Z6
 从业者	adj	S5+ A2.2
@@ -3632,7 +3634,7 @@ T	noun	S4.5.2.1f
 仔细	adj	A1.3+ E6- X5.1+ S8+
 仔细	verb	A1.3+ E6- X5.1+ S8+
 他	noun	I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6
-他	pron	I1.1 X2.6+ M1 I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 Z8m
+他	pron	Z8m
 他	verb	I1.1 X2.6+ M1
 他们	pron	Z8mfn
 他们的	pnoun	Z8
@@ -3742,8 +3744,8 @@ T	noun	S4.5.2.1f
 令状	verb	Q1.2 S6+
 以	adv	Z5 A2.1-
 以	conj	Z5/A2.2
-以	part	M6
-以	prep	M6 O4.2+ Z5 A2.1- Z5/A2.2
+以	part	Z5
+以	prep	Z5
 以上	adv	M6 A5.1++ N5.2+ A13.2
 以上	loc	M6 A5.1++ Z5
 以上	noun	K5.1
@@ -3769,8 +3771,8 @@ T	noun	S4.5.2.1f
 以前	prep	Z5
 以及	adv	N5++ N5.2+ A13.3
 以及	conj	N5++ N5.2+ A13.3 Z5
-以后	adj	N4 T4-- T1.1.3
-以后	adv	N4 S5+ M1 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 T1.1.2/N4 T1.1.3 T4-- Z5
+以后	adj	N4- T1.1.3 T4--
+以后	adv	N4- T1.1.3 T4--
 以后	conj	Z5
 以后	loc	N4 Z5
 以后	noun	S5+ M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 T1.1.3
@@ -3824,8 +3826,8 @@ T	noun	S4.5.2.1f
 仵	pnoun	S7.3/S2mf
 件	adj	A4.2+ X7+
 件	adv	Z4
-件	msr	A1.1.1 S1.1.1 S3.2 G2.1/P1 H5 Q4.2 O2 Q3 G2.1/P1@ A4.2+ X7+ B5 Q4 X4.1 Z4
-件	noun	A4.2+ B5 O2 Q4 X4.1
+件	msr	A4.2 B5 O2
+件	noun	A4.2 B5 O2
 价	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 G2.2+ O4.2+ A1.5.2+
 价	adv	A5.1+ G2.2+ O4.2+
 价	noun	A11.1+ I1.3 G2.2 A4.1 N1 A5.1+ N3.2+ N5+ X5.2+ A13.3 G2.2+ A1.5.2+ O4.2+ I2.2/S2.2m S8+/S2.2m S7.1-/S2mf S7.2+/S2mf P1%
@@ -4079,8 +4081,8 @@ T	noun	S4.5.2.1f
 伙伴	noun	F1 Q2.2 X4.1 S1.2.1+ E5+ B2+ A5.4+ F1/E4.2+ S2.2m P1/S2mf S3.1/S2.2m S3.2/S2mf S4/S2mf M4/S2.2m K5.2 S3.1/S2mf A6.1+/S2mf S3.1mf S3.2 S3.2/Q2.2 S5+ S5+c P1 S8+/S2mf S3.1 S4mf
 伙伴	verb	S3.2 S3.2/Q2.2
 会	adj	I2.1/I1
-会	noun	G1.2/I3.1/S5+c S5+c K1/S1.1.3+c G1.2c S1.1.3+/S2mf K1/T1.3 S7.4+ Q2.2 I2.1/I1 A4.1c B3% A6.1+/X2.1 X7+ G2.1/Q1.2 S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ T1.2 T1.1.2 N3
-会	verb	A1.1.1 A7+ G1.2/I3.1/S5+c S5+c I2.1/I1 K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf K1/T1.3 S7.4+ M1 M2 A1.9 A9- T2- Q2.2 S5+ A4.1 B3% A4.1c A6.1+/X2.1 T1.1.3 X7+ G2.1/Q1.2
+会	noun	S1.1.3+ K5.1 S9 A1.1.1
+会	verb	X2.5+ X9.2+
 会众	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
 会儿	adv	T1.2 T1.1.2 N3
 会刊	noun	A1.1.1 T2++ M1
@@ -4422,18 +4424,19 @@ T	noun	S4.5.2.1f
 佃农	noun	H4/S2mf
 但	adj	A14 M8 E3+ O4.5
 但	adv	A13.6 A14 C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T1.1.2 T2++ Z4 Z5
-但	conj	A13.6 Z5
+但	conj	Z5
 但	noun	C1 F2/O2
 但	prep	Z5
 但	verb	E3+/A2.1 E6+
 但书	noun	A7 Q1.2 N4
 但是	adv	A13.6 E3- A1.1.1 M1 F2 O4.6- Z2/S2mf% N6+ Z4 T1.3 Z5
-但是	conj	A13.6 Z5
+但是	conj	Z5
 但是	noun	E3- F2 O4.6- Z2/S2mf% N6+ Z4
 但是	prep	Z5
 但是	verb	E3- A1.1.1 M1 T1.3
+位	msr	N5/S2fm
 位	noun	H5 B5 S1.1.3+ S7.1+ M7 M6 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 P1
-位	verb	H5 B5 S1.1.3+ S7.1+ M7 M2 N3.2/H1 X2.2+ I3.1 Q2.2 M6 S7.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 P1
+位	verb	M6
 位于	adj	M6 A2.2
 位于	verb	M6 A2.2 M8 C1 P1 G1.1 G2.1 A9+
 位元	noun	B1 A12- N5- N5.1- O2 Y2
@@ -4496,7 +4499,7 @@ T	noun	S4.5.2.1f
 低音	verb	T2+ M6 A2.2
 低音管	noun	K2/O2
 低音部	noun	K2 K3
-住	verb	H4 L1+ A3 M8 T2++ T1.3+
+住	verb	H4 L1+ M8
 住于	noun	H4/S2mf
 住于	verb	H4/S2mf
 住在	verb	S2
@@ -4677,8 +4680,8 @@ T	noun	S4.5.2.1f
 作用	verb	A1.1.1 T1.1.2 A8 K4 A2.2 A2.1+
 作畦	noun	O2/F4
 作畦	verb	O2/F4
-作祟	noun	E6- M7 S9 M1/N6+ VVZ S9 M1/N6+
-作祟	verb	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+作祟	noun	E6- M7 S9 M1/N6+
+作祟	verb	S9 E6- M1/N6+
 作罢	noun	M1 G3 A1.9 A15+/M7 A10- E3+ X4.1 G2.1 I1.1/A9-
 作罢	verb	A9- I1.1/A9- G2.1 T2- M1 G3 A1.9 A15+/M7 A10- E3+ X4.1
 作者	noun	Q1.2 Q4.1 Q1.2/S2mf/T1.1.1 S9/T1.1.1 Q4.1/S2mf Q1.2/S2mf S4/B1 S4m S9/S2.2m
@@ -4750,8 +4753,10 @@ T	noun	S4.5.2.1f
 佼	adj	O4.2+ N5+
 佼	pnoun	O4.2+ N5+
 使	adj	B2- S1.2.6-
+使	conj	Z5
 使	noun	A4.1 L2 O2 A6.1+ Q2.1/S2mf
 使	pnoun	Z3c
+使	prep	Z5
 使	verb	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ A4.1 A6.1+ B2- S1.2.6- L2 O2 Q2.1/S2mf Z3c S8+
 使一成不变	noun	A6.2+/X2.1
 使一成不变	pnoun	A6.2+/X2.1
@@ -5219,7 +5224,7 @@ T	noun	S4.5.2.1f
 侵透	noun	M1/A10- A1.8+ X2.5+
 侵透	pnoun	M1/A10- A1.8+ X2.5+
 便	adj	A1.5.2+ N3.3- X9.1+ A12+ S8+ A5.1+ A6.2+ I1.3- O4.2- O4.1 A11.2+ A13.3 S1.2.1+ O4.2
-便	adv	A12+ A13.3 Z5/A2.2 A14 T3--- T1.3- N3.3--- S1.2 G2.2+
+便	adv	T1.3-
 便	noun	I1.3- N4 Z5 T1.2 W3
 便	verb	A1.5.2+ N3.3- X9.1+ A12+ S8+ A13.3 A5.1+ A6.2+ I1.3- O4.2- N4 Z5 T1.2 O4.1 A11.2+ W3 Z5/A2.2
 便中	noun	K1
@@ -5753,9 +5758,9 @@ T	noun	S4.5.2.1f
 倾斜	noun	B1 O2 F1 M1 M2 K5.1% N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 M6 S5+ N5.1- M7/O4.2- I1 Q2.2 O4.4 X4.1 Q2.1 T1.3 W3 Q3 W3/M5 O3 E1 X7+
 倾斜	pnoun	Z1
 倾斜	verb	B1 O2 F1 M1 M2 K5.1% N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 W3/M4 S9 K5 I1 A2.2@ M6 S5+ Q2.2 N5.1- M7/O4.2- O4.2+ N5- O4.4 A2.1+ X4.1 Q2.1 T1.1.2 T1.3 T2- W3 Q3 W3/M5 O3 E1 X2.4/X7- X7+ A8 Z1
-倾斜地	adj	o4.1
+倾斜地	adj	O4.1
 倾斜地	adv	A10- N2 O4.1
-倾斜地	pnoun	A10- N2 O4.1 o4.1
+倾斜地	pnoun	A10- N2 O4.1 O4.1
 倾斜度	noun	E3- F1
 倾斜度	verb	E3- F1
 倾斜面	noun	O4.4
@@ -5896,7 +5901,7 @@ T	noun	S4.5.2.1f
 偕同	verb	S3.1 S3.1/S2mf
 做	noun	S1.1.3+ A1.1.1
 做	prep	Z5
-做	verb	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ G2.2- E3- G2.1% Z5 N5+ S1.1.3+
+做	verb	A1.1.1
 做事	verb	A1.1.1 T1.1.2 A8 K4 I3.1 X9.2+ A2.1+ A2.2
 做人	verb	S1.1.1 A1.1.1
 做作	noun	A5.2-
@@ -6148,7 +6153,7 @@ T	noun	S4.5.2.1f
 傻话	noun	Q2.1/S1.2.6-
 像	adv	A10+ O4.1 A3+ G2.1 K5 Q4 A13 A6.1+ A8 X3.4 X2.1 C1 X2.4 X7+ Z4 Q2.1 E2+ L2mfn Z5
 像	conj	Z5
-像	noun	A10+ O4.1 A3+ G2.1 K5 Q4 A6.1+ A8 X3.4 X2.4 C1 Q2.1 L2mfn X2.1
+像	noun	C1
 像	prep	Z5
 像	verb	A6.1+ A8 X3.4 X2.1 C1 X2.4 X7+ Z4 E2+
 像差	noun	A6.2- E2-
@@ -6240,9 +6245,9 @@ T	noun	S4.5.2.1f
 允诺	verb	S3.2 S8+ A1.8+
 元	adj	A11.1+ P1
 元	msr	I1
-元	noun	G1.2 P1 B2- N4 P1@
+元	noun	I1
 元	num	N4
-元	pnoun	A11.1+ P1 G1.2 B2- I1 N4 P1@
+元	pnoun	Z1
 元件	adj	N5.1-
 元件	noun	A4.1 N5 S5+c O1 O3 O2 W4 N5.1-
 元气	noun	X5.2+ X9.1+
@@ -6314,11 +6319,11 @@ T	noun	S4.5.2.1f
 兆头	noun	S9
 兆字节	msr	Y2
 兆字节	noun	P1/B3 Y2
-先	adj	M6 A5.1+/A2.1 S1.2.3+ T4+ N4/T1.1.1 A11.1+ T1.1.1
+先	adj	N4+ T4+
 先	adv	K5.1/S2mf M2 M6 A5.1+/A2.1 S1.2.3+ T4+ T1.1.3 N4 P1@ N4/T1.1.1 A11.1+ O2 S9/S2.2m T2- T1.1.1 T4++
 先	det	T2- N4
 先	noun	K5.1/S2mf N4 P1@ O2 S9/S2.2m
-先	num	N4
+先	num	N4+
 先	verb	M2
 先买	verb	S8- A9+
 先人	noun	S4m
@@ -6425,8 +6430,8 @@ T	noun	S4.5.2.1f
 光着身	pnoun	B5- A1.1.1 A9-
 光着身	verb	B5- A1.1.1 A9-
 光碟	noun	K3
-光秃	noun	B1 04.1 O4.2-
-光秃	verb	B1 04.1 O4.2-
+光秃	noun	B1 O4.1 O4.2-
+光秃	verb	B1 O4.1 O4.2-
 光秃秃	adj	B1
 光秃秃	pnoun	B1
 光纤	adj	W2 O4.3 N3.5- N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+ X3.4
@@ -6713,7 +6718,7 @@ T	noun	S4.5.2.1f
 公升	msr	N3.4
 公司	adj	A1.8+ S5+ I2.1 O4.5 A7+ A1.7+
 公司	adv	A7+
-公司	noun	A1.8+ S5+ A7+ I2.1 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c I2.1/S5c G1.1c O4.5 A1.7+
+公司	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
 公司	verb	O4.5
 公司债	noun	I1.1
 公合	noun	N3.4
@@ -7038,17 +7043,17 @@ T	noun	S4.5.2.1f
 兵蚁	verb	A1.1.1 G3
 其	adv	A13.3 A6.1+
 其	conj	Z5 Z8
-其	det	Z5 Z8
-其	pron	A13.3 A6.1+ Z5 Z8 Z8f Z8m
+其	det	Z8
+其	pron	Z8
 其中	adj	O4.2+
 其中	noun	M6 O4.2+ Z5
 其中	part	M6
 其中	prep	Z5
 其他	adj	A6.1-
 其他	adv	A6.1- Z4
-其他	det	A6.1- Z4 A6.1-/Z8
-其他	noun	A6.1-/Z8
-其他	pron	A6.1- A6.1-/Z8
+其他	det	Z8
+其他	noun	Z8
+其他	pron	Z8
 其余	adj	T2++ M8 N5.2+
 其余	det	E3+ K1 T2-/T1.3 O2 N5.1- M6 A3+ A2.2 N5.2+ N5.2+c T2++ M8
 其余	noun	E3+ K1 T2-/T1.3 O2 N5.1- N5.2+c
@@ -7191,9 +7196,9 @@ T	noun	S4.5.2.1f
 兽行	noun	E3- G2.2- L2/S3.2
 冁	adv	E4.1+
 冁	pnoun	E4.1+
-内	adj	H2 M6 A10- G1.1
+内	adj	M6 A10-/H1 T1.1
 内	adv	M6 G2.1@
-内	loc	M6 G2.1@ S1.1.3+ Z5
+内	loc	M6 A10-/H1 T1.1
 内	noun	H2 M6 K5.1 O2/M6 A10- G1.1 G2.1@ Z5
 内	prep	Z5
 内乱罪	noun	G2.1-
@@ -7305,10 +7310,10 @@ T	noun	S4.5.2.1f
 册	noun	A9+/Q2.2 G2.1 N3.4 N5 Q4.1 Q4.2 X3.2 Q1.2 K5.1/I1
 册	verb	A9+/Q2.2 G2.1
 册卷	noun	Q4.3
-再	adv	A6.1- N5++ N4 N6+ Z4 P1 F1 O2/T3+ S8+/S2mf S8+ T2+ Z5
+再	adv	N6+ N5+ N4
 再	det	A6.1- N5++
 再	noun	N6+ Z4 P1 F1 O2/T3+ S8+/S2mf
-再	num	N4
+再	num	N6
 再	part	N6+
 再	prep	Z5
 再	verb	S8+
@@ -7575,7 +7580,7 @@ T	noun	S4.5.2.1f
 冗长地	pnoun	T2++
 写	adj	Q1.2
 写	noun	Q1.2/O2 F4/H1 G2.1/H1 Q4.1/S2mf
-写	verb	Q1.2 I2.1 Q4.1 Q1.2/O2 F4/H1 G2.1/H1 Q4.1/S2mf
+写	verb	Q1.2 P1
 写作	noun	Q1.2 I2.1
 写信	verb	Q1.2 I2.1
 写入	noun	O2
@@ -8068,9 +8073,9 @@ T	noun	S4.5.2.1f
 凝胶	verb	S3.1 A7+
 凝视	noun	A12- X4.2 M6 G2.1- F3 N5 B1 X3.4 P1 X2.4 H2 Q1.2 C1 S7.2+ X2.1
 凝视	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- A12- X4.2 M6 G2.1- F3 N5 B1 X3.4 P1 X2.4 H2 Q1.2 C1 S7.2+ X2.1
-几	adv	A13.4
+几	adv	N5 Z5
 几	det	N5
-几	num	A13.4 N5
+几	num	N5
 几个	det	N5
 几个	num	N5
 几乎	adj	N3.3- S3.1 A6.1+ A13.4 T1.3-
@@ -8190,7 +8195,7 @@ T	noun	S4.5.2.1f
 凹陷	adj	E4.1- B2-/X1 I2.1/N5- O4.4 M4 N5-/A2.1 O4.1 X9.2-
 凹陷	noun	W3
 凹陷	verb	E4.1- B2-/X1 I2.1/N5- O4.4 M4 N5-/A2.1 O4.1 X9.2- W3
-出	verb	A1.1.1 M1 A2.1+ A3+ X7- A2.2 A10+ K4 K3 Q4.3 F4 S3.2
+出	verb	M1 M2 M3 M4 M5
 出丑	noun	X9.2- A5.3-
 出丑	verb	X9.2- A5.3-
 出产	noun	B1 T2+ F1 X9.2+ N5 Y2 Q4 T1.3 S5+c
@@ -8277,13 +8282,14 @@ T	noun	S4.5.2.1f
 出征者	noun	X7+/Q2.2/S2mf I2.2/Q2.2/S2mf G1.2/Q2.2/S2mf
 出息	noun	X9.2+ N4
 出息	verb	X9.2+ N4
-出来	verb	A2.1+ A3+ X2.1
+出来	part	Z5
+出来	verb	M1
 出毛病	pnoun	A1.1.2
 出毛病	verb	A1.1.2
 出气孔	noun	O2
 出气孔	pnoun	O2
 出没	noun	M7 N5+
-出没	verb	M7 N5+ S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+出没	verb	M7 N5+ S9 E6- M1/N6+
 出港	adj	A7+ A10+ O4.3 O4.1 N5.1+ W4
 出港	noun	K5.1/X9.2+
 出港	verb	A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4
@@ -8299,7 +8305,7 @@ T	noun	S4.5.2.1f
 出王牌	noun	B5 L2
 出王牌	pnoun	B5 L2
 出现	noun	A10+ O4.1 A3+ G2.1 K5 Q4 M1 A1.1.1 T2- M6 S1.1.3+ S1.2 S9 O2 M7 S9/T1.3 T2+ X3.4 X3.2+
-出现	verb	A1.1.1 M1 A10+ O4.1 A3+ G2.1 K5 Q4 A8 K4 L2 X9.2+/A12+ T2- M6 S1.1.3+ S1.2 S9 O2 M7 E6- M1/N6+ VVZ E6- M1/N6+ S9/T1.3 T2+ X3.4 X3.2+
+出现	verb	A1.1.1 M1 A10+ O4.1 A3+ G2.1 K5 Q4 A8 K4 L2 X9.2+/A12+ T2 M6 S1.1.3+ S1.2 S9 O2 M7 E6- M1/N6+ S9/T1.3 X3.4 X3.2+
 出生	noun	B1 T2+ M1 T2- N3.2+/A2.1 A5.1+/A2.1 L3 B2-
 出生	verb	B1 T2+ M1 T2- N3.2+/A2.1 A5.1+/A2.1 L3 B2- N3.2/N5.2+ A1.5.1/T2- A6.1-
 出生地	noun	M7/S4
@@ -8409,9 +8415,9 @@ T	noun	S4.5.2.1f
 刃	verb	A1.1.1 M1 C1 S1.1.2+
 分	adj	N3.2-
 分	adv	N5.1-
-分	msr	I1 K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ A1.1.1 N3.2- O4.2- Q1.2 A5/P1 Q1.1 T1.3 W3
-分	noun	N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 O4.2- Q1.2 A5/P1 N3.1 Q1.1 T1.3
-分	verb	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 A10+ B4 S3.1- I1 N3.2- N5 Q2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 O4.2- Q1.2 A5/P1 N3.1 Q1.1 T1.3 A6.1- A9-/N5.1 N2 N2% M2/N3.6
+分	msr	I1
+分	noun	T1.3
+分	verb	A6.1- S3.1- A9-/N5.1- N2
 分与权	noun	N5 S1.1.2+
 分与权	verb	S1.1.2+
 分丐	noun	S5+c
@@ -8713,7 +8719,7 @@ T	noun	S4.5.2.1f
 列车	verb	P1 K5.1
 列阵	noun	M2 O2 A6.3+ N2 Y2
 列阵	verb	M2
-则	adj	A6.2+
+则	adj	M6
 则	adv	A5.1 G2.2 Q1.1 O2@ A6.2+ G2.1 X4.2 S7.1+ Q3 N4 Z5 T1.2 Q1.2 X6+ X4.1 G2.2+
 则	conj	A6.1- B4 P1 O4.1 S6+ B2- B2+ Z7
 则	noun	A5.1 G2.2 Q1.1 O2@ A6.2+ G2.1 X4.2 S7.1+ Q3 N4 Z5 T1.2 X4.1 G2.2+
@@ -8782,7 +8788,7 @@ T	noun	S4.5.2.1f
 创意	verb	X2.1
 创新	verb	T3-
 创立	noun	T2+ E5-
-创立	verb	A10+ X2.1 X6+ X6+.1 S7.1+ O4.1 S5+@ T2+ A2.2 A1.1.1 E5- E3-
+创立	verb	A10+ X2.1 X6+ S7.1+ O4.1 S5+@ T2+ A2.2 A1.1.1 E5- E3-
 创立者	noun	S7.1+/S2mf T2+/S2mf
 创设	noun	F4/M7 T2+ H2 S5+c A5.2+ B4
 创设	verb	F4/M7 T2+ H2 S5+c A5.2+ B4
@@ -8799,7 +8805,7 @@ T	noun	S4.5.2.1f
 初	num	N4
 初三	noun	N4 N5 N1
 初三	num	N4 N5 N1
-初出茅芦者	noun	T3
+初出茅芦者	noun	T3
 初学者	noun	I3.1/A9+ I3.1/S2mf G3/S2mf P1/I3.1 P1/S2mf T2+/S2mf
 初学者	verb	I3.1/A9+ P1/I3.1
 初映	noun	A1.7- A9- I2.2 K3 Q4 E6+
@@ -8949,9 +8955,9 @@ T	noun	S4.5.2.1f
 刮的人	noun	O2
 刮胡刀	noun	B4
 到	mark	Z5
-到	part	M6
-到	prep	M6 Z5
-到	verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5 M6 X9.2+ Z5 N3.3 Q2.1 T2-
+到	part	Z5
+到	prep	Z5 M6
+到	verb	M1 T2
 到处	adv	A13.4 M6 M6/N5.1+ N5.1+ W3 M7 A1.8+ X2.2 A5.2+ Z5
 到处	part	M6 Z5
 到处	prep	Z5
@@ -9220,11 +9226,11 @@ T	noun	S4.5.2.1f
 剌耳地	pnoun	O4.2-
 剌耳的	adj	O4.2-
 剌耳的	pnoun	O4.2-
-前	adj	A1.1.1/O1.2 W4 M1/N5+ M6 A11.1+ M7/W3 A4.1 A10- S1.2.3+ S7.1+ Q4.3 N4 T1.1.1 T4++ O2 T2- Z5
+前	adj	N4 T1.1.1 T4++
 前	adv	N4 T1.1.1 T4++
 前	conj	Z5
 前	det	T2- N4
-前	loc	N4 Z5
+前	loc	N4 M6
 前	noun	M6 M7/W3 A4.1 A10- S1.2.3+ W4 N4 O2
 前	prep	Z5
 前	verb	A1.1.1/O1.2 W4 M1/N5+ M6 S7.1+ Q4.3
@@ -10211,7 +10217,7 @@ T	noun	S4.5.2.1f
 北	adv	M6
 北	loc	M6
 北	noun	M6
-北京	pnoun	Z2 Z3c
+北京	pnoun	Z2
 北半球	noun	M6
 北印度语	noun	Z2
 北国人	noun	M7/S2mf
@@ -10569,9 +10575,9 @@ T	noun	S4.5.2.1f
 卑贱	adj	S7.1-
 卑贱	noun	S1.2.3-
 卑贱	verb	S1.2.3- S7.1-
-卑贱地	adj	S.1.2.3-
+卑贱地	adj	S1.2.3-
 卑贱地	adv	G2.2- A5.1- S1.2.3-
-卑贱地	pnoun	G2.2- A5.1- S.1.2.3- S1.2.3-
+卑贱地	pnoun	G2.2- A5.1- S1.2.3-
 卑躬屈节	noun	E5-/B1
 卑躬屈节	verb	E4.1- E5-/B1
 卑鄙	adj	E2- A5.1- O4.2- G2.2- S1.2.2+ S1.2.1- N2 T2+
@@ -11327,8 +11333,9 @@ T	noun	S4.5.2.1f
 厩肥	verb	N5+ O4.2-
 厮	noun	S7.1-/S2mf
 厮	pnoun	S7.1-/S2mf
+去	intj	Z4
 去	noun	S6+ M7 X8+ T2+ S1.1.2+
-去	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% N3.1 A2.2 A3+ X2.1 A9+ S4 N4 T1 N5 S6+ M7 X8+ T2+ S1.1.2+
+去	verb	M1
 去世	noun	K5.1 X9.2+ Q1.2 W3 S3.2
 去世	verb	K5.1 X9.2+ Q1.2 W3 S3.2 M1 A9- M2 T1.3 T2- N5.2+ S7.4+ A5.4+/A8 L1-
 去势	noun	A2.1+ L2/B3
@@ -11398,7 +11405,7 @@ T	noun	S4.5.2.1f
 参谋	verb	I3.1
 参赛者	noun	K5.2/S2mf
 参赞	noun	G1.1/S2mf
-又	adv	A6.1+ N5++ N6+ Z4 O2 Q4 X4.1 Z5 A2.1-
+又	adv	N6+ Z4
 又	conj	Z5
 又	noun	N6+ Z4 O2 Q4 X4.1
 又	prep	Z5
@@ -11705,8 +11712,8 @@ T	noun	S4.5.2.1f
 发射机	noun	O2 Y1
 发射物	noun	G3 Y2%
 发射者	noun	G3 Y2%
-发展	noun	A2.1+ A5.1+/A2.1 H1 I3.1 M1 M2 H4/A2.1 K5.2 N3.2+/A2.1 A4.2-/A2.1 L3 B2-
-发展	verb	A1.1.1/O1.2 W4 M1/N5+ A2.1+ A5.1+/A2.1 H1 T2+ N3.2+/A2.1 A9+ C1 I3.1 M1 M2 H4/A2.1 K5.2 E1 A4.2-/A2.1 L3 B2- N3.8+
+发展	noun	A2.1+ A5.1+/A2.1 H1 S1.1.1+
+发展	verb	A2.1+ A5.1+/A2.1 H1 S1.1.1+
 发工资	noun	I1.1/I3.1 G2.2-/I1 X5.2+ E3-
 发工资	verb	I1.1/I3.1 G2.2-/I1 X5.2+ E3-
 发布	noun	A9- I2.2/N5 B1 M2 Q2.2 Q1.2 Q4
@@ -11795,8 +11802,8 @@ T	noun	S4.5.2.1f
 发狂者	adj	X5.2+
 发狂者	noun	X5.2+
 发现	adj	O4.6+ E1/X5.2+
-发现	noun	A10+ X2.1 X6+ L3 O2 B1 S9/M7
-发现	verb	A1.1.1 A10+ X2.1 X6+ L2/M5 M1 X5.2+ L3 O2 B1 O4.6+ E1/X5.2+ S9/M7 X2.5+ X3.4 S1.1.1 X2.3+ X3 A7+ Z4 S3.2
+发现	noun	A10+
+发现	verb	A10+
 发现物	noun	A10+ X2.1 X6+
 发现者	noun	A10+/S2mf
 发生	adj	T1.1.3
@@ -12382,8 +12389,8 @@ T	noun	S4.5.2.1f
 古语	noun	T3+++
 古风	adj	T3+++
 古风	noun	T3+++ T3+++/O2
-句	msr	G2.1 Q3
-句	noun	Q3 G2.1
+句	msr	Q3
+句	noun	Q3
 句	verb	G2.1
 句号	adj	T1.3 T1.1.1
 句号	noun	T1.3 B1 Q3 P1/T1.3 T1.1.1
@@ -12421,20 +12428,21 @@ T	noun	S4.5.2.1f
 叩头	verb	S7.1- S1.2.5- S1.2.4+
 叩诊	noun	A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4% K2 O2 K1@
 叩诊	verb	A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4%
-只	adj	A14 N5--- S5- S3.2- M3 S1.2 G2.2+
-只	adv	A13.6 A14 T3--- T1.3- N3.3--- A4.2+ E3+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 M6 N5--- S5- S3.2- M3 S1.2 G2.2+ Z5
+只	adj	A14
+只	adv	A14
 只	conj	Z5
 只	noun	E3+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2
-只	part	M6
+只	part	Z5
 只	prep	Z5
 只	verb	A4.2+
 只不过	adv	A13.6 A14
 只是	adj	A11.1- A14
-只是	adv	A11.1- A13.6 A14 A12+ Z5
-只是	conj	A13.6 Z5
+只是	adv	A11.1- A13.6
+只是	conj	Z5
 只是	prep	Z5
 只有	adj	A14 S1.2 G2.2+
-只有	adv	A14 T3--- T1.3- N3.3--- E3- A1.1.1 M1 F2 O4.6- Z2/S2mf% S1.2 G2.2+ Z5
+只有	adv	A14
+只有	conj	Z5
 只有	noun	E3- F2 O4.6- Z2/S2mf%
 只有	verb	E3- A1.1.1 M1
 只能	adv	E3- A1.1.1 M1 F2 O4.6- Z2/S2mf%
@@ -12444,7 +12452,7 @@ T	noun	S4.5.2.1f
 只要	conj	N6- T1.1.1 Z5 Z7
 只要	noun	N6-
 叫	noun	E4.1- Q2.2 S1.1.1 Q1.3 X7+ S9% X3.2
-叫	verb	E4.1- Q2.2 L2/X3.2 A1.1.1 S1.1.1 Q1.3 S9% X7+ X3.2 M5 M2 Q2.2/X3.2++ S7.1+/Q2.2 I2.2/Q2.2
+叫	verb	Q2.2 S1.1.1 Q1.3
 叫卖	noun	E4.1- Q2.2
 叫卖	verb	E4.1- Q2.2 I2.2 Q2.1
 叫唤	verb	T2+ A1.5.1 S7.1+
@@ -12493,8 +12501,9 @@ T	noun	S4.5.2.1f
 叮铃	verb	X3.2+
 叮铃声	noun	X3.2+ K2
 叮铃声	verb	X3.2+
-可	adv	A7+ S1.2.5+ T1.3
-可	conj	A13.6 T1.1.2 Z5
+可	adj	S7.4+
+可	adv	S7.4+
+可	conj	Z5
 可	noun	S1.2.5+ T1.3
 可	verb	A7+
 可不	idiom	A4.2+ A5.3+
@@ -12511,9 +12520,9 @@ T	noun	S4.5.2.1f
 可亲	verb	O4.2+ S1.2.1+ S1.2/S8+ S1.2.2-
 可人	noun	X3.1 O4.2+
 可人	verb	X3.1 O4.2+
-可以	adj	A5.1+ A7+
+可以	adj	S7.4+ A5.1+
 可以	noun	T1.3
-可以	verb	A1.1.1 A7+ T1.3
+可以	verb	S7.4+ A5.1+
 可估价	adj	A5.1 I1.1/H1
 可估价	pnoun	A5.1 I1.1/H1
 可信任	adj	A5.1+
@@ -12613,7 +12622,7 @@ T	noun	S4.5.2.1f
 可敬地	adv	S1.1.4+
 可敬地	pnoun	S1.1.4+
 可是	adv	A13.6 Z5
-可是	conj	A13.6 Z5
+可是	conj	Z5
 可是	prep	Z5
 可比	adj	A6.1+
 可洗	noun	B4 W3/M4 N5
@@ -12640,8 +12649,8 @@ T	noun	S4.5.2.1f
 可耻地	adv	G2.2- A5.1- S1.1.4-
 可耻地	pnoun	G2.2- A5.1- S1.1.4-
 可能	adj	A7+
-可能	adv	A7
-可能	noun	A1.4 A7+ A7 N1 T1.3
+可能	adv	A7+
+可能	noun	A7+
 可能	verb	A7 N1 A7+ T1.3
 可能性	adj	A7+ E2+ S5+
 可能性	noun	A1.4 A7 N1 O2 N2% A7+ O3 E2+ S5+ X2.1 X2.6+
@@ -12757,8 +12766,8 @@ T	noun	S4.5.2.1f
 叶饰	adj	E4.1+
 叶饰	noun	L3
 叶饰	pnoun	E4.1+ L3
-号	msr	A4.1 A1.1.1 Y2 S1.2 S1.2/S8+ S1.2.2-
-号	noun	E4.1- Q2.2 X3.2 N3.2 N5 N3.1 O4.1 N1 Q1.3 K2 Q4.2 T1.2 S3.2 S3.2/S2mf
+号	msr	S1.2 H4 O2
+号	noun	S1.2 H4 O2
 号	verb	E4.1- Q2.2 X3.2
 号令	noun	S7.1+ Q2.2 X9.1+
 号令	verb	S7.1+ X9.1+
@@ -12813,7 +12822,7 @@ T	noun	S4.5.2.1f
 吁	verb	Q2.2 X3.2-
 吃	adj	F1/B1 A1.5.1/N5+
 吃	noun	F1 A9- S8+ M2@ F1/B1 A1.5.1/N5+ Q2.2/B2-
-吃	verb	A1.1.2 A9+ S5+ F1 A9- S8+ M2@ F1/B1 A1.5.1/N5+ Q2.2/B2-
+吃	verb	F1/B1 A1.1.2
 吃不消	noun	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 O1.2/N5 N5- B3 N3.3 F1
 吃不消	verb	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2
 吃人肉	noun	A1.1.2 A1.5.1/N6+ F1/S2 I2.2
@@ -13091,7 +13100,7 @@ T	noun	S4.5.2.1f
 同夥	verb	M1
 同大的	adj	A6.1+
 同大的	pnoun	A6.1+
-同学	noun	P1/S2mf S2mf/P1
+同学	noun	P1/S2mf S5
 同宿者	noun	G2.1/S2mf A1.7+/S2mf
 同居	verb	S3.2/H4
 同居人	noun	G2.1/S2mf A1.7+/S2mf
@@ -13255,7 +13264,7 @@ T	noun	S4.5.2.1f
 同韵字	pnoun	Q3
 同韵字	verb	Q3
 名	adj	S7.2+ X2.2+
-名	noun	Q2.2 X2.2+
+名	noun	Q2.2
 名	verb	Q2.2
 名义	adj	A5.4-/S7.1+
 名义	noun	A5.4-/S7.1+ Q2.2
@@ -13294,12 +13303,12 @@ T	noun	S4.5.2.1f
 名词	adj	A11.1+ N5+ O4.1 Q3
 名词	noun	A11.1+ N5+ O4.1 Q3
 名门	noun	A5.1 A5.1+ O4.1 B1
-后	adj	M6 T4-- T1.1.3 N4
-后	adv	B1 M6 A6.1- B1@ N6+ T1.1.1 S1.1.2+ N4 S4 F4 M1 S7.1+/S2.1f S3.2/S2.2m K5.2 S8+ K5.1/I1 K2 T4-- T1.1.3 Z5
+后	adj	M6- T4-- T1.1.1 N4-
+后	adv	M6- T4-- T1.1.1 N4-
 后	conj	Z5
-后	loc	B1 M6 A6.1- N4 T4-- T1.1.3 Z5
+后	loc	M6
 后	noun	B1 M6 B1@ S7.1+/S2.1f S3.2/S2.2m K5.2
-后	part	M6 N6+ T1.1.1 S1.1.2+
+后	part	M6- T4-- T1.1.1 N4- Z5
 后	prep	Z5
 后	verb	S4 F4 M1 S8+ K5.1/I1 M6 K2
 后世	noun	T1.1.3/T1.3
@@ -13337,8 +13346,8 @@ T	noun	S4.5.2.1f
 后方	noun	M6 B1@ S4 F4 M1
 后方	verb	S4 F4 M1
 后来	adj	T4-- T1.1.3 N4
-后来	adv	N4 T4-- T1.1.3 Z5
-后来	conj	Z5
+后来	adv	N4 T4-- T1.1.3
+后来	conj	Z5/T4--
 后来	prep	Z5
 后板	noun	O2
 后果	noun	A2.2 N4
@@ -13403,7 +13412,7 @@ T	noun	S4.5.2.1f
 向	mark	Z5
 向	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 A5.1+ S8+ A6.2+ A2.1+ W3 O2 A8 S1.2.3+ Q2.2 Q2.2 S7.1+ X4.2 K4 M7 I3.1 S1.1.3+ Q4.1 S8+/S2mf K1/S2.1f
 向	part	M6
-向	prep	A10+ B4 S3.1- A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 A5.1+ S8+ A6.2+ A2.1+ A8 X5.1+ W3 O2 S1.2.3+ Q2.2 Q2.2 S7.1+ X4.2 K4 S1.1.1 X2.1 B5 M7 I3.1 S1.1.3+ S5+ Q4.1 S8+/S2mf K1/S2.1f X7+ Z5
+向	prep	Z5
 向	verb	A10+ B4 S3.1- A6.2+ A8 S8+ X5.1+ M6 S1.1.1 X2.1 B5 S5+ X7+ E2++
 向上	adv	A1.1.1 P1 A1.1.1/O1.2 W4 M1/N5+ A5.1+/A2.2 E4.1+/A2.2 I1 N3.5 M1 A2.1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 O4.4
 向上	msr	I1 N3.5
@@ -13606,7 +13615,7 @@ T	noun	S4.5.2.1f
 听	adj	X3.2
 听	msr	A1.1.1 A7+ O1.1 O2 F2%
 听	noun	B1/X3.2 G2.1 I2.2/H1 K5.1% K4 X3.2 X3.2/S2mf
-听	verb	B1/X3.2 G2.1 I2.2/H1 K5.1% K4 S7.1- S7.4+ T2- S8+ X2.1 X3.2 X2.3+ G2.1@ X3.2/S2mf
+听	verb	X3.2
 听从	noun	S7.2+ X3.2
 听从	verb	S7.2+ X3.2 X2.3+ G2.1@
 听任	verb	A9- Q2.2 S7.1- I3.1 S7.4+ S8+ X2.1
@@ -13682,8 +13691,8 @@ T	noun	S4.5.2.1f
 吸乾	noun	O2 O4.2- G2.2-
 吸乾	pnoun	A1.1.2 A1.1.1 O2 O4.2- G2.2-
 吸乾	verb	A1.1.2 A1.1.1
-吸入	noun	B1 B3 M2/O1 O1.2 F2+++/S2@@mf S8+
-吸入	verb	B1 B3 M2/O1 O1.2 B4 F2+++/S2@@mf S8+
+吸入	noun	B1 B3 M2/O1 O1.2 F2+++/S2@mf S8+
+吸入	verb	B1 B3 M2/O1 O1.2 B4 F2+++/S2@mf S8+
 吸入器	noun	A1.1.1 O2 N5 B3 B1/S2mf
 吸入器	pnoun	A1.1.1 O2 N5 B3 B1/S2mf
 吸入器	verb	A1.1.1
@@ -13844,7 +13853,7 @@ T	noun	S4.5.2.1f
 告解场	pnoun	S9/H2 Q2.2
 告诉	adj	S1.2.6+ X9.1+
 告诉	noun	S1.2.6+ X9.1+
-告诉	verb	Q2.2 Q2.1 X3 A10+ S1.2.6+ X9.1+
+告诉	verb	Q2.2 Q2.1
 告诫	adj	X2.2+/A15- A1.3+
 告诫	noun	G2.1 Q2.2 X2.2+/A15- A1.3+
 告诫	verb	G2.1 Q2.2 X2.2+/A15- A1.3+
@@ -14032,10 +14041,10 @@ T	noun	S4.5.2.1f
 咋	noun	Q2.2/X3.2++ F2@
 咋	pron	A2.2 Z5 A13.3
 咋	verb	B1/L2 E6- N3.8+ Q2.2/X3.2++ F2@
-和	adj	K2 A6.1+ O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ O4.6+ O4.2+ S1.2.1+
+和	adj	E3+
 和	conj	Z5
-和	noun	E3+ G1.2/I3.1/S5+c S5+c I1.2 N4 O4.6+ S1.2.1+ K2 A6.1+
-和	prep	E3+ G1.2/I3.1/S5+c S5+c I1.2 N4 K2 A6.1+ O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ O4.6+ E2+ O4.2+ S1.2.1+ Z5
+和	noun	N5.1+ N5 N2
+和	prep	Z5
 和	verb	O4.6+ E2+
 和声	noun	A6.1+ E3+ G3 Q3 N2 K2
 和声法	noun	S1.2.1+ K2 A6.1+
@@ -14560,7 +14569,7 @@ T	noun	S4.5.2.1f
 商量	verb	Q1.1/S8+ Q2.1 B3 X2.3 Q2.2 A9- S7.1+ O4.1 Q2.2/S8+ Q2.1/X2.2+ Z4
 商队	noun	M3fn
 啊	intj	Z4
-啊	part	Z6
+啊	part	Z5
 啊呀	intj	Z4
 啊咳	intj	Z4
 啊咳	pnoun	Z4
@@ -14709,7 +14718,7 @@ T	noun	S4.5.2.1f
 喜欢	conj	Z5
 喜欢	noun	A6.1+ E2+ E4.1+ E4.1+++ S3.2 E2+/S2mf
 喜欢	prep	Z5
-喜欢	verb	A6.1+ E2+ A9+ E4.1+ E4.1+++ E4.2+ X7+ S3.2 E2+/S2mf S7.2+ Z4 Z5
+喜欢	verb	E2+
 喜爱	adj	E2+ E2+++
 喜爱	noun	A2.2/E1 E2+ E2+++
 喜爱	verb	A2.1+ A5.4-/A8 A2.2/E1 E2+ E2+++ S7.2+
@@ -15046,7 +15055,7 @@ T	noun	S4.5.2.1f
 囚禁	noun	A1.7+ S5+/I2.1c O2 N4 B5 S7.1
 囚禁	verb	A1.7+ N4 S5+/I2.1c O2 B5 S7.1
 囚车	noun	M3fn
-四	num	N1 T3 T1.2
+四	num	N1
 四分之一	noun	N1 N5 T1.3
 四分之一	num	N1 N5 T1.3 N4 H4
 四分之一	verb	N5 H4
@@ -15078,8 +15087,8 @@ T	noun	S4.5.2.1f
 四页份折	verb	A1.8+
 囝	noun	S2mf/T3- S4mf
 囝	pnoun	S2mf/T3- S4mf
-回	msr	Q4.1 T1.3 S9/S5c S5+c T1 T1.2 T1.1.2 N6 N1 Z3 Z5
-回	verb	M1 A9- N6 N5-/A2.1 Q2.2
+回	msr	N6
+回	verb	M1 N6 A9-
 回到	verb	A2.1+ A9+ N6+
 回去	noun	M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2%
 回去	verb	M1 A9- N6 S1.1.2+ I1.1 G1.1/Q1.2 M3 K5.1 Y2%
@@ -15334,7 +15343,7 @@ T	noun	S4.5.2.1f
 国外	adj	M6 M7
 国外	adv	M6 M7
 国外	noun	M6 M7
-国家	noun	G1.1c S5+c W3 F4/M7 K2 G1.2 S5+/M7 M7
+国家	noun	G1.1c W3
 国库	noun	B1 B5/I1
 国库	verb	B1
 国旗	noun	Q1.1 G3
@@ -15611,12 +15620,12 @@ T	noun	S4.5.2.1f
 圣饼	pnoun	F1 S9/F1
 圣骨	noun	O2/T3++ S9
 圣骨	pnoun	O2/T3++ S9
-在	adj	O4.2+
-在	adv	M6
+在	adj	A3
+在	adv	A3
 在	noun	M4
-在	part	M6
-在	prep	A1.8+ A3+ M1 N3.8- S7.1- M4 M6 O4.2+ Z5
-在	verb	A1.8+ A3+ M1 N3.8- S7.1-
+在	part	Z5
+在	prep	Z5
+在	verb	A3
 在一起	adj	S1.2.6+
 在一起	adv	S1.2.6+ S5+ T1.1.2 M6
 在上	adj	M6 I1.2 X9.1+
@@ -15735,7 +15744,8 @@ T	noun	S4.5.2.1f
 圮	adj	A1.1.2
 圮	pnoun	A1.1.2 B2- A1.1.1 E4.1-
 圮	verb	A1.1.2 B2- A1.1.1 E4.1-
-地	noun	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 F4 W3 M7 K5.1/M7 G3@ A4.1 K5.1 M1 M5 M4 A9+ A2.2 X2.2+ I3.1 Q2.2 P1 A1.7+ M6 O3 X2.1 H1 A1.2 W1 O1.1 N5++
+地	noun	W3 M7 F4
+地	part	Z5
 地	verb	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 K5.1 M1 M5 M4 A9+ A2.2 X2.2+ I3.1 Q2.2 P1 A1.7+ O3
 地下	noun	M3c G2.1-/S5+c A10- M6 G2.1-
 地下室	adj	M6
@@ -15751,8 +15761,8 @@ T	noun	S4.5.2.1f
 地主	noun	A9+/S2mf S2mf B1@ Y2@ S9% S7.1+/H4/S2.2m S7.1+/S2.2m S2.2m
 地产	noun	A9+ H1/H3 O4.1 M7/F4 H4 I1.1 M3
 地位	adj	M6 T2++
-地位	noun	A3+ O4.1 M6 I3.1@ G3/H4 H5/M3 H5/M4 M7/M5 M2 X2.2+ I3.1 Q2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ M8 T2++ N3 X2.1 A7 G1.2 S8+ S7.4+ I2. M7 S7.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 P1 M7/F4 H4 I1.1 M3 M8/M5 O4.4 A4.1 S5+ S5+c A11.1
-地位	verb	G3/H4 M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. M8/M5
+地位	noun	A3+ O4.1 M6 I3.1@ G3/H4 H5/M3 H5/M4 M7/M5 M2 X2.2+ I3.1 Q2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ M8 T2++ N3 X2.1 A7 G1.2 S8+ S7.4+ I2.1 M7 S7.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 P1 M7/F4 H4 I1.1 M3 M8/M5 O4.4 A4.1 S5+ S5+c A11.1
+地位	verb	G3/H4 M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 M8/M5
 地势	noun	P1/W3 W3
 地区	noun	A1.1.1 B3/X1 G1.1c W3 F4/M7 K2 M7 A4.1 N3.6 B1 T1.1 O4.4 N5.1- S5+c B3 Y1 C1/H1@
 地区	verb	A1.1.1 B3/X1
@@ -15782,8 +15792,8 @@ T	noun	S4.5.2.1f
 地形	noun	Y1/W3
 地役权	noun	S7.1-
 地志	noun	P1/W3 W3
-地方	adj	M7
-地方	noun	G1.1c W3 F4/M7 K2 H3/S2mf F2/H1c M2 X2.2+ I3.1 Q2.2 M7 A4.1 N3.6 B1 H1 A1.2 P1 H2 W1 T1.3 Q1.2
+地方	adj	M7 G1
+地方	noun	M7 H1 G1
 地方	verb	M2 X2.2+ I3.1 Q2.2
 地方官	noun	S7.1+/S2.2m
 地方性	adj	H3/S2mf F2/H1c M7
@@ -15926,7 +15936,7 @@ T	noun	S4.5.2.1f
 坏话	noun	M2 S3.2 O4.2- G2.2- O1.1 Q2.1 Q2.2 Q3 Y2 S1.2.4-/Q2.2
 坏话	verb	M2 Q2.2
 坐	noun	M8 C1 P1 G1.1 G2.1 M6 A9+
-坐	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
+坐	verb	M8
 坐标	noun	N2 S7.1+ T1.1.2
 坐标	verb	S7.1+ T1.1.2
 坐牢	noun	G2.1 A1.7+
@@ -16265,7 +16275,7 @@ T	noun	S4.5.2.1f
 基于	conj	Z5
 基于	noun	A9- A6.1+ B1/O4.4 I1.2 S6+
 基于	prep	Z5
-基于	verb	A1.2+ A6.1+ A10+ X2.1 X6+ X6+.1 A9- B1/O4.4 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 I1.2 S6+ T2+ A2.2 M6 Z5
+基于	verb	A1.2+ A6.1+ A10+ X2.1 X6+ A9- B1/O4.4 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 I1.2 S6+ T2+ A2.2 M6 Z5
 基准	adj	A6.2+
 基准	noun	A2.2 T2+ X4.2 A5.1 G2.2 Q1.1 O2@ A6.2+ A6/A5.1 X2.2/X2.4
 基准兵	noun	S8+ Q4.1 S8+/S2mf K1/S2.1f
@@ -16649,7 +16659,7 @@ T	noun	S4.5.2.1f
 声	adj	O4.1 B2+ A5.1+ A13.2
 声	adv	A13.2
 声	msr	E4.1+/X3.2 E4.1- Q2.2 Q2.2/X3.2++ F2@ Q2.2/X3.2+++
-声	noun	A13.2 B4 O4.3 A2.1+ B1 E1 X3.2 K2 A4.1 O4.1 B2+ A5.1+ Q2.1 X2.1 S7.1+ Q3 Q2.2 A8 N3.1%
+声	noun	X3.2
 声	verb	B4 O4.3 A2.1+ B1 Q2.1 X3.2 Q2.2 A8 N3.1%
 声乐家	noun	K2/S2mf
 声价	noun	I3.2 A5.1
@@ -16978,8 +16988,8 @@ T	noun	S4.5.2.1f
 外饰	verb	A1.1.1
 夙	noun	T1.3
 夙	pnoun	T1.3
-多	adj	A13.3 N6+ N5+ I1.3+ A6.2- N6- A13.4 N5.2+
-多	adv	A13.3 N6+ N6++ N5.2+ A13.2
+多	adj	N5+
+多	adv	A13.3 Z5
 多	det	N5+ I1.3+ N5++
 多	noun	K5.1 N5+
 多	part	T2- M6
@@ -17176,7 +17186,7 @@ T	noun	S4.5.2.1f
 夥伴	verb	A6.1+/X2.1 S3.1 K1/S1.1.3+ N5 N5++ A6.1+
 夥伴们	noun	M4 M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c
 夥伴们	verb	M4
-大	adj	A11.1+ N3.2+ A5.1+ N5+ X5.2+ A13.3 B1 S1.2.5+ N3.2+++ N3.7+ A4.2- A6.3+ X9.2-@ K5.1@ O4.3 A4.2+ E4.1- X3.2 S7.1+ T3+++
+大	adj	N3.2+ N5+ S1.2.5+
 大	adv	A13.3 A5.1+ N3.2+ N3.7+
 大	noun	A11.1+ X5.2+ B3/I3.2/S2mf P1/S2mf G3/S7.1+/S2mf P1 K5.1 S7.2+/S2mf P1% W3 W3/M4
 大	verb	A11.1+ N3.2+ X5.2+ A13.3 A5.1+ N5+ B1 B3 A2.1+/G2.1- B3/I3.2/S2mf P1/S2mf G3/S7.1+/S2mf P1 K5.1 S1.2.5+ N3.2+++ N3.7+ A4.2- A6.3+ X9.2-@ K5.1@ O4.3 A4.2+ E4.1- X3.2 S7.1+ S7.2+/S2mf P1% T3+++ W3 W3/M4
@@ -17246,8 +17256,8 @@ T	noun	S4.5.2.1f
 大喊	verb	Q2.2
 大喜	noun	E4.1++
 大喜	verb	E4.1++
-大喝特喝	noun	O1.2 F2+++/S2@@mf
-大喝特喝	pnoun	O1.2 B4 F2+++/S2@@mf
+大喝特喝	noun	O1.2 F2+++/S2@mf
+大喝特喝	pnoun	O1.2 B4 F2+++/S2@mf
 大喝特喝	verb	O1.2 B4
 大地	noun	M6 W3 M7 O3 X2.1 W1 O1.1 N5++
 大地	verb	O3
@@ -17296,8 +17306,8 @@ T	noun	S4.5.2.1f
 大客厅	noun	F2/H1c M3fn H2
 大家	adv	A13.2
 大家	det	N5.1+
-大家	noun	G1.1c S7.1+ S7.4+ X2.2+
-大家	pron	A13.2 G1.1c S7.1+ S7.4+ X2.2+ N5.1+ Z8/N5.1+c
+大家	noun	S2 S5
+大家	pron	Z8/N5.1
 大富豪	noun	I1.1++/S2mf
 大富豪	pnoun	I1.1++/S2mf
 大小	noun	A4.1 N3.2 N3.1 N5 O4.1 N3.6 N5+++ N5.1- A2.2
@@ -17498,7 +17508,7 @@ T	noun	S4.5.2.1f
 大黄	pnoun	L3 F1 Z4
 大黄蜂类	noun	L2mfn
 天	msr	T1.3
-天	noun	O1.3 A8 W1 Q4.3 M1 S9 E2+ T1.3 W4
+天	noun	T1.3 W1
 天上	adj	O4.2+ S9
 天上	adv	M6 A5.1++
 天上	noun	M6 A5.1++ O4.2+ S9 Z5
@@ -17619,7 +17629,7 @@ T	noun	S4.5.2.1f
 天鹰座	noun	L2mfn
 天鹰座	pnoun	L2mfn
 太	adj	A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ N3.7+++ S7.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9
-太	adv	A13.3 A4.2+ A5.2+% N5++ N5.2+ A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ N3.7+++ S7.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9
+太	adv	N5.2+
 太公	noun	S4.1.1.3m
 太古	adj	T1.1.1
 太古	pnoun	T1.1.1
@@ -17743,8 +17753,8 @@ T	noun	S4.5.2.1f
 失踪	noun	A10- M1 A3-
 失踪	verb	A1.7- A1.9/G2.1 M1 A10- A3- O1.3
 失踪者	noun	S1.1.3-/S2mf
-头	noun	A1.1.2 B1 M4% S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% F1 F2/O1.1 L3 G1.2 Q1.1 H2 O4.4 S1.2.5+/A2.1 A10- S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 T2- O2 X7+ N4
-头	num	N4 P1@
+头	noun	B1 S7.1+/S2mf
+头	num	N4+
 头	verb	A1.1.2 G1.2 Q1.1 S1.2.5+/A2.1 A10- S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3
 头一次	noun	N4 P1@
 头一次	num	N4
@@ -18090,11 +18100,11 @@ T	noun	S4.5.2.1f
 奥格斯堡	pnoun	Z2
 奥赛罗	pnoun	Z1m
 奥马哈	pnoun	Z2
-女	adj	S2.1 S2.1f
-女	noun	L2 S9 L2fn S2.1 S2.1f
+女	adj	S2.1f
+女	noun	S2.1f
 女人	adj	A11.1+++ S2.1
 女人	adv	E3+ X3.2 O4.3
-女人	noun	A11.1+++ B5 E3+ X3.2 O4.3 F1 K6 L2mfn B1 S2.1 S2.1f L2f@ S2.1f/X9.1- S4f
+女人	noun	S2.1f
 女人	verb	B5
 女仆	noun	I3.1/B4/S2.1f S2.1f% S2.1f S7.1- S7.1-/S2mf
 女仆	verb	S7.1-
@@ -18196,11 +18206,11 @@ T	noun	S4.5.2.1f
 她们	pron	Z8mfn
 她的	noun	Z8f
 她的	pron	Z8f
-好	adj	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 G2.2+ A1.5.2+ O4.2+ N3.2+ W3/M4 W3 A4.2+ O4.5 O4.1 W4 N3.2-
-好	adv	A13.3 A13.5 A4.2+ A5.2+% Z4 E2++ A5.1+ A7+ B2+ G2.2+ O4.2+
+好	adj	A5.1+ G2.2+ O4.2+ A1.5.2+
+好	adv	A13.3
 好	intj	Z4
 好	noun	A5.1+ G2.2+ A1.5.2+ G2.1/I1.3 W3/M4 W3
-好	verb	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 A4.2+ O4.5 O4.1 W4 N3.2- G2.2+ A1.5.2+ O4.2+ N3.2+ G2.1 G2.1/I1.3 S3.2/B1 W3/M4 W3
+好	verb	E2+
 好不好	adj	Z4 A5.1+
 好不好	adv	A5.1+
 好不好	intj	Z4
@@ -18272,8 +18282,8 @@ T	noun	S4.5.2.1f
 好辩	verb	Q2.1
 妁	noun	S3.2/S2mf
 妁	pnoun	S3.2/S2mf
-如	adv	A13 Z5
-如	conj	A13 Z5 Z7
+如	adv	A4.1
+如	conj	Z5
 如	prep	Z5
 如	verb	E2+
 如上	adv	Z5/Q1.2
@@ -18289,7 +18299,7 @@ T	noun	S4.5.2.1f
 如同	noun	A6.1+
 如同	prep	A13 A6.1+ E2+ Z4 Z5
 如同	verb	E2+
-如果	conj	Z5 Z7
+如果	conj	Z7
 如梦	noun	X4.1 X7+ A5.2-
 如梦	verb	X2 X2.1 X7++ X4.1 X7+ A5.2-
 如此	adv	Z5/A2.2
@@ -18324,7 +18334,7 @@ T	noun	S4.5.2.1f
 妇女	noun	B3/S2.1f B5 S2.1 S4/S2.1 S2.1f
 妇女帽	noun	M3 B5
 妈	noun	S4f
-妈妈	noun	S4.1.2.1f S4/S2.1f S4f
+妈妈	noun	S4.1.2.1f
 妊娠	noun	B1 A2.1+
 妊娠	verb	B1 A2.1+
 妊辰	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3
@@ -18763,7 +18773,7 @@ T	noun	S4.5.2.1f
 孀	verb	S4
 孀妇	noun	S4 S4f
 孀妇	verb	S4
-子	noun	F4 K5.1 L2 F1 L3 T2+ K5.1/S2mf Q2.2 S2mf/T3- S4mf S4m T1.2
+子	noun	S4m
 子	verb	F4 K5.1 Q2.2
 子午线	noun	W3 W1 B3 N5.1+
 子句	noun	Q1.2 Q3
@@ -18933,12 +18943,12 @@ T	noun	S4.5.2.1f
 孤芳自赏	verb	S1.2.3+
 孥	noun	S2mf/T3- S4mf
 孥	pnoun	S2mf/T3- S4mf
-学	noun	P1 X2.4 H2 Q1.2 C1 Y1
-学	verb	P1 X2.4 H2 Q1.2 C1 X2.3+ Y1
+学	noun	P1 Y1
+学	verb	X2.3+ P1
 学业	noun	P1 S9/Q4.1
 学习	adj	X2.3+ X9.1+
-学习	noun	G2.2-/A5.2- G2.1-/S2mf S8- X2.3+ P1
-学习	verb	G2.2-/A5.2- G2.1-/S2mf S8- X2.3+ P1 X9.1+ X2.4
+学习	noun	P1 X2.4
+学习	verb	P1 X2.4
 学习者	noun	P1/S2mf
 学会	noun	P1/H1 S5+c P1/S5+c X2.4/S5+c P1 T2+
 学会	verb	T2+ X2.3+ P1
@@ -18964,12 +18974,12 @@ T	noun	S4.5.2.1f
 学术性	noun	X4.2 G2.1/A4.2+
 学术界	noun	P1
 学术语	noun	Y1
-学校	noun	P1 P1/H1c S5+c L2%c
+学校	noun	P1 P1/H1c
 学校	verb	P1
 学派	noun	S5+c
 学理	noun	S9 X4.1
 学生	adj	P1 A1.6
-学生	noun	L2mfn P1 A1.6 P1/S2mf G2.1/S2mf B1
+学生	noun	P1/S2mf
 学监	noun	P1/S2mf S7.1+/S2mf G2.1/S2mf
 学科	adv	Z4
 学科	noun	C1 X9.1+ G2.1 A1.7+ P1 M1 M6 X7+ B3 F1 M7/K5.1 T1.3 Z4
@@ -18997,7 +19007,7 @@ T	noun	S4.5.2.1f
 学院	verb	P1
 孩	noun	S2mf/T3- S4mf
 孩	pnoun	S2mf/T3- S4mf
-孩子	noun	B2- S2.2m S2mf/T3- S4mf
+孩子	noun	S2mf/T3- S4mf
 孩子	verb	B2-
 孩子气	adj	S1.2/T3- S1.2.6- T3-/S2.2
 孩子气	noun	S1.2/T3- S1.2.6- T3-/S2.2
@@ -19675,7 +19685,7 @@ T	noun	S4.5.2.1f
 宵	noun	T1.3
 宵禁	noun	G2.1
 家	adv	H4 M6
-家	noun	C1 H1 H2 B1 M3 H4 M6 H4/H1c M1/M6 O2 X4.2 S4c A4.1c B4
+家	noun	H4/H1c M6
 家	verb	C1 H2 M1/M6
 家世	noun	B1 T2+
 家事	noun	A1.1.1/H1 H4 A1.1.1/A6.2+ I1/H4
@@ -19977,14 +19987,14 @@ T	noun	S4.5.2.1f
 寮	pnoun	H1
 寸	msr	M1 N3.7
 寸	verb	M1
-对	adj	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 A6.1- S7.4+ G1.2 Z4 Z5 S1.1.2+ X6+ O4.5
+对	adj	A5.2+ A5.3+ A5.4+
 对	adv	A13.3 A13.2 M6 Z4 A5.3+ A4.2+
 对	intj	Z4
 对	mark	Z5
-对	msr	N5 N5+ S4c N5c
+对	msr	N5
 对	noun	A6 A6.1- B5 G2.1 K5.2 E2- E4.2+ A9+ H5/I2.2 H5 N2/O2 N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% N5+ S4c N5c O1.1 A6.3+ S1.1.3+ Q2.2 X4.1 X9.2+ Q3 S7.4+ G2.2+ M6 G1.2
 对	part	M6
-对	prep	A5.1+ S8+ M6 Z5
+对	prep	Z5
 对	verb	A1.2+ A13.3 A13.2 A2.1+ S1.1.3+ K3 A5.3+ A4.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 A6 A6.1 A5.1 Q3 A6.1+ Q2.2 A6.1- B5 G2.1 K5.2 E2- E4.2+ A9+ H5/I2.2 H5 N2/O2 M2 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 N5 N2 K4 O3 S5+c K5.1% N5+ S4c N5+/A2.1 A1.8+ N5c O1.1 A6.3+ S1.1.1 X4.1 X9.2+ A9- X4.2 X2.1 S1.1.2+ S7.4+ G1.2 X2.2+ A10+ X2.5+ Z4 Z5
 对不起	adj	Z4 E4.1- O4.2-
 对不起	intj	Z4
@@ -20224,11 +20234,11 @@ T	noun	S4.5.2.1f
 射线	noun	W2 Y1
 射频	noun	Z3
 射频	pnoun	Z3
-将	adj	O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+
-将	adv	A1.5 T1.1.3 X7+ G2.1/Q1.2
+将	adj	T1.1.3
+将	adv	T1.1.3
 将	noun	I1 S7.1+/S2.2m X7+ G2.1/Q1.2
-将	part	A1.1.1 F1 A1.5 A7+ I1 O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ S6+ S7.1+/S2.2m T1.1.3 G2.1/Q1.2
-将	verb	A1.1.1 F1 A7+ S6+ T1.1.3 X7+
+将	part	Z5
+将	verb	T1.1.3 K5.2
 将会	noun	S6+ A7+
 将会	verb	S6+ A7+
 将军	adj	A12- N5+ A4.2-
@@ -20258,7 +20268,7 @@ T	noun	S4.5.2.1f
 尊重	noun	A11.1+ I1.3 G2.2 A4.1 N1 E2+ X2.5+ S1.1.1 I1.1++ S2/N5c S7.2+ X6/A7- N2/A7-
 尊重	verb	A11.1+ I1.3 G2.2 A4.1 N1 E2+ X2.5+ S1.1.1 I1.1++ S2/N5c S7.2+ X2.1 X2.4 X6 X6/A7- N2/A7-
 尊鱼	noun	L2mfnc F1 S2.1f
-小	adj	A13.7 N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- N3.3- T1.3-
+小	adj	N3.1- N5- A13.1- S1.2.5-
 小	adv	A13.7 N3.2-
 小	det	N5-
 小	noun	N3.2- N3.7- T3- T3-/S2mf Y2
@@ -20797,10 +20807,10 @@ T	noun	S4.5.2.1f
 尤里卡	intj	Z4
 尤里卡	pnoun	Z4
 就	adj	A14
-就	adv	A14 N4 Z5 T1.2 T3--- T1.3- N3.3--- S1.2 G2.2+ T1.1.1
+就	adv	X2.1 N3.8+ T1.1.2/A11.1+ N4
 就	conj	Z5
 就	noun	N4 Z5 T1.2
-就	prep	X2.1 Z5
+就	prep	Z5
 就业	noun	I3.1
 就任	noun	A1.1.1 S1.1.1 M7 M1 T2+ Q1.2 O2 I3.1 M6 T2+/S7.1+ A1.8+
 就任	verb	A1.1.1 S1.1.1 M7 M1 T2+ O4.2+ Q1.2 M2 I3.1 O2 M6 T2+/S7.1+ A1.8+
@@ -20810,12 +20820,12 @@ T	noun	S4.5.2.1f
 就寝	verb	A5.2- M1 T2++ M6 A3+ I3.1-
 就座	noun	M2 N3.2/H1
 就座	verb	M2 N3.2/H1
-就是	adj	A6.1+ O4.4 A1.4 N1
-就是	adv	A13.1 A4.2+ A5.3+ A6.1+ O4.4 A1.4 N1 T1.3 Z5 Z7
-就是	conj	Z7
+就是	adj	A7+ A14-
+就是	adv	A7+ A14-
+就是	conj	Z5
 就是	mark	Z5
 就是	noun	T1.3
-就是	verb	A6.1+
+就是	verb	A7+
 就此	adv	N4 A2.2+
 就此	noun	N4 A2.2+
 就绪	adj	O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+
@@ -21153,7 +21163,7 @@ T	noun	S4.5.2.1f
 山顶	verb	N5.1+ A5.1+++
 山鸟类	noun	L2
 屿	noun	W3
-岁	msr	H4/T1.3 T1.3 P1c
+岁	msr	T3
 岁	noun	T1.3 P1c
 岁	verb	H4/T1.3
 岁入	noun	G1.1/I1 I1.1+ Z3c G1.1/I1.1c I1
@@ -21375,8 +21385,8 @@ T	noun	S4.5.2.1f
 巢	pnoun	L2 H4 M6 X3.2/L2
 巢	verb	L2 M6 X3.2/L2
 巢窟	noun	M7
-巢窟	pnoun	M7 S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
-巢窟	verb	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+巢窟	pnoun	M7 S9 E6- M1/N6+
+巢窟	verb	S9 E6- M1/N6+
 工	noun	A1.1.1 A12- I3.1/S5+ B1 C1 A1.1.1/A12- A11.1+/N5.2+ I3.1 X9.1+ M4fn I2.2 I2.1 I2.2/N5 Q4 K2 X9.2+ A2.1+ A2.2 I3.1/S2mf P1 I4c I2.1c
 工	verb	A1.1.1 C1 A1.1.1/A12- A11.1+/N5.2+ I2.2 I3.1 X9.2+ A2.1+ A2.2
 工业	noun	I4c I2.1c
@@ -21385,8 +21395,8 @@ T	noun	S4.5.2.1f
 工人	verb	S4
 工会	noun	G1.2/I3.1/S5+c S5+c
 工作	adj	I3.1 A1.1.1 X9.2+ X5.2+
-工作	noun	A1.1.1 H1% P1 S1.1.1 S3.2 X8+ X2.4 M1 H1 O2 X2.1 I3.1 A12- Q4 K2 C1 X9.2+ A2.1+ A2.2 M7/I4@ I4/H1c H1c N5.1+ K4 X9.2 K5.1 K5.2 X7+ L2 F1 X5.2+
-工作	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2
+工作	noun	I3.1 A1.1.1
+工作	verb	I3.1 A1.1.1
 工作台	noun	H5 G2.1c Q1.2 N2 I1.1/S2mf Q2.2
 工作台	verb	Q2.2
 工作场	noun	F4/F2 I4/H1 P1
@@ -21583,7 +21593,7 @@ T	noun	S4.5.2.1f
 差额	verb	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3 O4.1/B1 A6.1+ A11.1 I1.1
 己	noun	S5-
 己	pron	S5-
-已	adv	N4 Z5 T1.2 T1.1.1
+已	adv	T1.1.1
 已	noun	N4 Z5 T1.2
 已婚	adj	S4 A2.2
 已婚	verb	S4 A2.2
@@ -21594,7 +21604,7 @@ T	noun	S4.5.2.1f
 已知的	adj	T1.1.1 X2.2+
 已知的	pnoun	T1.1.1 X2.2+ S3.2/B1%
 已知的	verb	X2.2+ S3.2/B1%
-已经	adv	A9+ Z5 A2.2 S4 T1.1.1
+已经	adv	T1.1.1
 已经	verb	A9+ Z5 A2.2 S4
 已订婚者	adj	S4
 已订婚者	noun	S4
@@ -21830,9 +21840,9 @@ T	noun	S4.5.2.1f
 希伯莱语	noun	S9
 希望	adv	Z4 A6.1+
 希望	conj	Z5
-希望	noun	A6.1+ A7 O2 N2% A7+ X2.6+ X3.4 E4.2+ K1 Q1.2 N4 M4 Q2.1 X2.1 S7.1+ Q3 K2 E4.1+ X9.2+ A5.1+ X4.1 C1 X7+ G2.1/Q1.2 S3.2
+希望	noun	X2.6+ E4.1+ X9.2+ A5.1+
 希望	prep	Z5
-希望	verb	A5.4- A6.1+ A7 O2 N2% A7+ X2.6+ X3.4 E2+ E4.2+ K1 Q1.2 N4 M4 Q2.1 X2.1 S7.1+ Q3 K2 T1.1.3 X2.4 E4.1+ X9.2+ A5.1+ X4.1 C1 X7+ G2.1/Q1.2 S3.2 Z4 Z5
+希望	verb	X2.6+ E4.1+ X9.2+ A5.1+
 希求	noun	X7+
 希求	verb	X7+
 希腊	pnoun	Z2
@@ -21888,13 +21898,13 @@ T	noun	S4.5.2.1f
 帝	noun	S7.1+/S2mf
 帝位	noun	H5/S7.1+ S7.1+ O4.2+
 帝制	noun	G1.1/X2.1
-帝国	noun	G1.1 I2.1/S+
+帝国	noun	G1.1 I2.1/S1.1.1+
 帝王	adj	S7.1+
 帝王	noun	S7.1+ S7.1+/S2.2m Z3c
 帝王	pnoun	Z3c
 带	conj	Z5
-带	noun	A8 K4 S1.1.1 I2.2/S1.1.1 B5 A1.1.1 A1.1.2 O2 W3 E3- K5.1 K2c A4.1 S5+c M7 N3.6 B1 T1.1 O4.4 O1.1 N5 N4 Q1.2 S7.1+ O2/L2 O3 S8+ K4/S2mf
-带	verb	A1.1.1 K2 A1.7+ A10+ S1.1.1 A8 K4 I2.2/S1.1.1 B5 A1.1.2 B2- S7.4+ O2 W3 E3- K5.1 M1/N3.8+ K2c A4.1 S5+c M2 A2.2 A9+ Q4 B1% B2-% M6 M7 N3.6 B1 T1.1 O4.4 O1.1 N5 N4 Q1.2 S5+ S7.1+ O2/L2 O3 S8+ K4/S2mf Z5 T1.3 C1 S7.1- A2.1+ X2.4 S6+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+带	noun	B5
+带	verb	Z5
 带动	verb	M3 A1.1.1 X5.2+ M2 S7.1+
 带子	noun	B5 O2 W3 E3- K5.1 M1/N3.8+ K2c A4.1 S5+c K3 Q4.3 A1.7+ Y2 M7 T1.1 O4.4 S5+ A1.1.2
 带子	verb	E3- M1/N3.8+ K3 Q4.3 A1.7+ S5+
@@ -21970,7 +21980,7 @@ T	noun	S4.5.2.1f
 常任	adj	T2+++
 常例	noun	A6.2+ G1.1
 常到	noun	M7
-常到	verb	M7 S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+常到	verb	M7 S9 E6- M1/N6+
 常去	noun	A5.1+/A2.1 S8+/A1.1.2- S6+ M7
 常去	verb	A5.1+/A2.1 S8+/A1.1.2- M1 S6+ M7
 常备军	adj	M8
@@ -22217,7 +22227,7 @@ T	noun	S4.5.2.1f
 平顶屋	noun	H1 F4 K5.1/H2
 平顶屋	pnoun	H1 F4 K5.1/H2
 年	msr	T1.3 P1c
-年	noun	H4/T1.3 K1/W4 T1.3 P1c W1 W2 W4 Z3
+年	noun	T1.3 P1c
 年	pnoun	Z3
 年	verb	H4/T1.3 K1/W4
 年代	adj	T1.3 T1.1.1
@@ -22564,7 +22574,7 @@ T	noun	S4.5.2.1f
 应答	verb	A1.1.1 A6.1- B2- Y1 E3- G1.2/A6.1-
 应试	noun	P1 B3 X2.4 A12- K5.1@
 应试	verb	P1 B3 X2.4 A12-
-应该	verb	A1.2+ S6+ A11.1+ A1.5.2+ A7+
+应该	verb	S6+ A7+
 应酬	noun	E4.2+ A9+ K2/S9 H2 Q2.2 S1.1.1 X4.1 X9.2+ A9- X4.2 X2.1 B3 A1.1.1 S1.1.2+ S5+c
 应酬	verb	Q2.2 S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 S1.1.2+
 应验	noun	Q2.1 S1.1.2+ Q2.2 X4.1 X9.2+
@@ -22589,10 +22599,10 @@ T	noun	S4.5.2.1f
 底盘	noun	M3
 底线	noun	A11.1+ Q1.2
 底线	verb	A11.1+ Q1.2
-底缘	noun	B5/02
+底缘	noun	B5/O2
 底色	noun	T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8-
-底边	noun	B5/02
-底边	pnoun	B5/02
+底边	noun	B5/O2
+底边	pnoun	B5/O2
 底部	adj	N4 M6 B1 A5.1---
 底部	noun	N4 M6 B1 A5.1---
 底面	noun	M6
@@ -22795,10 +22805,10 @@ T	noun	S4.5.2.1f
 建设者	noun	H1/S2mf A1.1.1/S2mf
 建造	noun	A5.2- A1.1.1 B1/O4.4 H1 A5.1+/A2.1 N3.2+/A2.1 O2 X2.1 N5+/A2.1 O4.1 S7.1 A4.1 X4.2 B1 X4.1
 建造	verb	A1.1.1 A5.2- B1/O4.4 H1 A5.1+/A2.1 N3.2+/A2.1 O2 X2.1 M2 N5+/A2.1 X3.2++ A9+ A2.2 S1.1.1 F4 Q2.2 S4 O4.1 S7.1 A4.1 X4.2 B1 X4.1
-开	adj	A10+ S1.2.1+ X6- X5.2+ A7+
+开	adj	A10+ S1.2.1+ X5.2+ S1.1.1+
 开	adv	A10+ A6.1-
 开	noun	F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2 K5.1 T2+ E5-
-开	verb	A1.1.1 B3 A10+ T2+ K1/S1.1.3+ L3 X9.2+ M3 X5.2+ M2 S7.1+ O4.6+ E3- Q1.2 I2.1 E5- N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3 S1.2.1+ X6- A7+ A6.1- F1 N3.6 N3.3 A6.3+ Q4.2 K5.1
+开	verb	A10+ S1.2.1+ X5.2+
 开他敏	noun	O1
 开他敏	pnoun	O1
 开价	noun	Q2.2 I1.3
@@ -22824,7 +22834,7 @@ T	noun	S4.5.2.1f
 开化	verb	S1.1.1 A5.1+++ O4.2+++
 开发	noun	A1.1.1 A1.5.1 G2.2- A2.1+ A5.1+/A2.1 H1 C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1
 开发	verb	A1.1.1 A1.5.1 G2.2- A2.1+ A5.1+/A2.1 H1 C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 T2+ N3.2+/A2.1
-开发者	noun	H1/S2mf C1/O1.2@@
+开发者	noun	H1/S2mf C1/O1.2@
 开口	noun	O2 N3.1/C1
 开口	verb	M2 A9- O2 N3.1/C1
 开启	noun	A1.1.1 T2+ O2 I3.1
@@ -22834,9 +22844,9 @@ T	noun	S4.5.2.1f
 开头	noun	T2+
 开头	verb	T2+
 开始	adj	T2+
-开始	adv	N4
-开始	noun	A1.1.1 T2+ O2 I3.1 H2 N5 K5.1 Q1.2 S1.1.1 T1.2 E5- T2+/S2mf X2.1 A8 A5.4-/A8 O4.2 O4.4 X4.2 Q2.2
-开始	verb	A1.1.1 T2+ O2 I3.1 H2 N5 K5.1 N4 Q1.2 S1.1.1 T1.2 E5- E3- T2+/S2mf X2.1 A8 A5.4-/A8 O4.2 O4.4 X4.2 Q2.2
+开始	adv	T2+
+开始	noun	T2+
+开始	verb	T2+
 开始者	noun	O2 T2+ T2+/S2mf
 开导	verb	Q2.2 X2.3+
 开小差	noun	O4.4 W3
@@ -23457,7 +23467,7 @@ T	noun	S4.5.2.1f
 当	intj	Z4
 当	noun	N3.2/A5.1+ N3.2 A1.2+ B5 M2 O2 B2- S7.4+ G2.2+ M6 G1.2 S9
 当	prep	A1.2+ A13.3 A13.2 A2.1+ M2 A5.3+ A4.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 A5.4+ S1.2.4+ A6.1+++ N3.2/A5.1+ N3.2 B5 O2 B2- N5+ A5.1+ Q1.1 A6.2+ S1.1.3 A5.4- K4 S1.2.5+ S6+ A7+ S7.1+ A1.1.1 X9.2+ S7.4+ G1.2 S8- S9 T1.3 Z4 Z5
-当	verb	A2.1+ M2 A5.3+/A2.1 N3.2/A5.1+ N3.2 A1.2+ B2- Q1.1 A6.2+ S1.1.3 A5.4- K4 S1.2.5+ S6+ A7+ S7.1+ A1.1.1 X9.2+ S8- T1.3
+当	verb	I3
 当中	noun	B1 M6 N4 T1.2 N3.7 N5.1+ S7.1+ Z5
 当中	prep	Z5
 当事人	noun	K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
@@ -23488,9 +23498,9 @@ T	noun	S4.5.2.1f
 当年	adv	M6 T1.1.1 Z5
 当年	noun	N4 Z5 T1.2
 当归	noun	F1 L3
-当时	adv	N4 Z5 T1.2 T1.1.1
+当时	adv	T1.2 T1.3 T1.1.1
 当时	conj	Z5
-当时	noun	N4 Z5 T1.2 T1.3
+当时	noun	T1.2 T1.3 T1.3
 当时	verb	T1.3
 当时的	det	T2- N4
 当时的	noun	N4 Z5 T1.2 O2
@@ -23692,15 +23702,16 @@ T	noun	S4.5.2.1f
 徇	pnoun	L1+ N3.8+ X9.1+ L1+%
 徇私	noun	E2++
 很	adj	N3.3+ S7.1+ S1.2.5+ N3.2+
-很	adv	A13.3 A4.2+ A5.2+% A5.1+ N3.3+ X9.2+ O4.2- A5.1- E3- S7.1+ S1.2.5+ N3.2+ X3.2
+很	adv	A13.3
 很	noun	X3.2
 很	verb	X3.2 E3-
 很久以前	adj	N3.3+ S1.2.1-
 很久以前	verb	N3.3+ S1.2.1-
+很多	adj	N5+
 很多	adv	N5+
 很多	det	N5+
 很多	noun	N3.4 N5 Q4.1 Q4.2 X3.2 N5+ N5++ O4.4
-很多	num	A1.8+ N3.4 N5 Q4.1 Q4.2 X3.2 N5+ N5++ O4.4
+很多	num	N5++
 很多	pron	N5+
 很多	verb	A1.8+
 很大	adj	N3.2+ A5.1+
@@ -23764,9 +23775,9 @@ T	noun	S4.5.2.1f
 徒步走	pnoun	M1 S2 M4fn X3.2/M1
 徒步走	verb	M1
 得	adj	A1.2+ A5.4+ A5.3+ S1.2.4+ E4.2+ E4.2+/S1.2 S1.2.3+ O4.1 X7+ T2+ A9+/A12+ X9.1+ T2- X9.2-
-得	adv	A1.5 E4.2+/S1.2 S1.2.3+
+得	adv	S6+
 得	noun	A4.1 A9+ N5+/A2.1 I1 S9
-得	verb	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ A1.2+ A1.5 A4.1 A5.4+ A5.3+ S1.2.4+ N5+/A2.1 Z5 A2.1+ M1 M2 X2.5+ E4.1- E4.2+ E4.2+/S1.2 S1.2.3+ I1 O4.1 X7+ T2+ A9+/A12+ X9.1+ A7+ S7.4+ S8+ X2.1 S9 T2- X9.2-
+得	verb	A9+
 得分	noun	A1.1.1 K5.2 A1.1.2/G3 K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ H4/L2 M7/O4.2- X2.1/A5.1- N5-
 得分	verb	A1.1.1 K5.2 A1.1.2/G3 K5 A5.1 N3.1 X9.2+
 得利	conj	Z5
@@ -23989,7 +24000,7 @@ T	noun	S4.5.2.1f
 徽章	pnoun	A1.7+ A5.1 G2.2 Q1.1 O2@ A6.2+ B5 C1 X4.1 G3 O2 S9
 徽章	verb	A1.7+ G3
 心	adj	E5- E6- K2
-心	noun	B1 M6 A11.1+ E1 X5.2+ H1c M7c G1.2c K5.1mfn O2 F1 Y2% X1 O1 E5- E6+ E2- S8+ A1.3 E6- K2 M2 S9 S2mf O1.2 F2 E4.1+ S6+ X7+
+心	noun	B1 A11.1+ X5.2+
 心	verb	E6+ E2- S8+ A1.3 M2
 心不在焉	adj	H4- A1.5.1- X5.1- I3.1
 心不在焉	noun	A1.6 I3.1 H4 S1.1.3- A3-
@@ -24395,7 +24406,7 @@ T	noun	S4.5.2.1f
 怍	pnoun	G2.2- E1
 怎	adv	Z5 A13.3
 怎	pron	A2.2 Z5 A13.3
-怎么	pron	Z5 A13.3
+怎么	pron	Z5
 怎么了	adv	A2.2
 怎么了	pnoun	A2.2
 怎么样	pron	Z5 A13.3
@@ -25172,7 +25183,7 @@ T	noun	S4.5.2.1f
 情人	noun	B1 M6 A11.1+ E1 X5.2+ F1 O4.2+/S2mf L2mfn Y2 S1.2.3-/S2mf O4.6+ O3 A2.2 N5- S2@mf S2.2/O4.2+ S2.2m S3.2/S2mf E2+/S2mf S7.1+/S2.1f S3.2/S2.1f P1/S2.1f S7.2+/S2mf Z1f
 情人	pnoun	Z1f
 情人	verb	O4.6+ O3 A2.2
-情况	noun	A12- A3+ O4.1 M6 I3.1@ A4.1 T1.2 B1 A8 O2 X4.1 A7- S2mf L2mf S6+ B2- B2+ Z7
+情况	noun	A3 O4.1 S1.1.1
 情势	noun	A10+ O4.1 A3+ G2.1 K5 Q4 A4.1 A8 M6
 情夫	noun	E3-/S2mf S2.2m P1/S2mf S3.2/S2mf E2+/S2mf S3.2
 情夫	pnoun	E3- E3-/S2mf S2.2m P1/S2mf S3.2/S2mf E2+/S2mf S3.2
@@ -25367,7 +25378,7 @@ T	noun	S4.5.2.1f
 惰	noun	X5.2-/S1.2
 惰性	noun	L2 M8 A2.1- X5.2-
 想	noun	S7.2+ X2.1 X4.1 X7+ A2.2 A1.5.1
-想	verb	A9- S7.2+ S7.4+ S8+ X2.1 B1% S9% X2.6+ B1 X4.1 X7+ A2.2 A1.5.1
+想	verb	X2.1
 想不到	adv	X2.6-
 想不到	pnoun	X2.6-
 想像	adj	O4.2+
@@ -25602,8 +25613,8 @@ T	noun	S4.5.2.1f
 感知	noun	A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 X4.1 X3.4 X2.5+
 感知	verb	A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 E2+ X2.5+ S1.1.1 I1.1++ X4.1 X3.4
 感觉	adj	E1 X3 T2+
-感觉	noun	A1.1.1 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 B1 K2 X3.2 X4.1 F1 O4.5 O1.1 Q1.2 X5.2+ X3.4 X2.5+
-感觉	verb	A1.1.1 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 B1 K2 X3.2 X4.1 F1 O4.5 M1 O1.1 Q1.2 T2+ X5.2+ X3.4 X2.5+
+感觉	noun	X2.1 X3 E1
+感觉	verb	X2.1 X3 E1
 感触	adj	E1 X3
 感触	noun	E1 O4.5 X3 X2.1 X5.2+
 感触	verb	X2.1 E1 X3
@@ -25877,7 +25888,7 @@ T	noun	S4.5.2.1f
 戏院	noun	K4/H1 K4 B3/H2 M7
 成	adj	N5.1+ T2- N3.2+
 成	noun	T2- O4.1 X9.2+/S7.3 X9.2+/G3 A9+
-成	verb	A2.1+ O4.2+ N5.1+ T2- N3.2+ A1.5.1/N5.1+ A1.1.1 X9.2- O4.1 Q1.2 X9.2+ N4 X9.2+/S7.3 X9.2+/G3 A9+
+成	verb	A2.1+
 成一体	pnoun	A1.8+ S5+ A2.2 N2%
 成一体	verb	A1.8+ S5+ A2.2 N2%
 成为	adj	O4.2+
@@ -25981,8 +25992,8 @@ T	noun	S4.5.2.1f
 成长	noun	F4 N3.2+/A2.1 T2+ A2.1+ A5.1+/A2.1 L3 B2- N3.7 A11.1+ T3+ T3+/A2.1
 成长	verb	F4 N3.2+/A2.1 T2+ A2.1+ A5.1+/A2.1 T3+/A2.1
 我	pron	Z8mf
-我们	noun	S2.1f
-我们	pron	S2.1f Z8
+我们	noun	S2mf
+我们	pron	Z8mf S2mf
 我的	noun	I4 G3 I4/H1c N5+ Z8
 我的	pron	Z8
 我的	verb	I4 G3
@@ -26003,7 +26014,7 @@ T	noun	S4.5.2.1f
 戒食	noun	F1- N3.8+
 戒食	verb	F1-
 或	adv	A7 A7+
-或	conj	A7 A7+ S1.2.5+ Z5
+或	conj	Z5
 或	noun	A7 S1.2.5+
 或	verb	A7+
 或是	conj	Z5
@@ -26101,7 +26112,7 @@ T	noun	S4.5.2.1f
 戴	verb	B5 A1.1.1 B2- S7.4+ I3.1@
 戴上	noun	B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4
 戴上	verb	B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4 S7.1+ M6 X9.2+
-戴弗妮	pnoun	Z1f L3L3
+戴弗妮	pnoun	Z1f L3
 戴维	pnoun	Z1m
 戴维斯	pnoun	Z1mf
 户	noun	H2 H1@ I1 I1.3 I2.1 Q2.2 Y2 S4c A4.1c B4
@@ -26124,11 +26135,11 @@ T	noun	S4.5.2.1f
 房顶	noun	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 H2
 房顶	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 所	adv	A5.4+ A14
-所	noun	M7 H1 A1.2 P1
-所	part	A5.4+ A14 M2 X2.2+ I3.1 Q2.2 M7 H1 A1.2 P1
+所	noun	M7 H1
+所	part	M7 H1
 所	verb	M2 X2.2+ I3.1 Q2.2
 所以	adv	A2.2 Z5
-所以	conj	A13.3 Z5
+所以	conj	Z5/A2.2
 所在	noun	M7 H1 A1.2 P1
 所在	verb	M7
 所在地	noun	M6 M7 S7.4-
@@ -26139,11 +26150,12 @@ T	noun	S4.5.2.1f
 所得	verb	F4 A9+ I1
 所成	noun	A1.8+
 所成	verb	A1.8+
-所有	adv	A13.2
-所有	det	A13.2 A9+ A1.2+ S5+ E1 S9% Z5 A2.2 S4 A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf N5.1+ S7.4-
+所有	adj	N5.1+
+所有	adv	N5.1+
+所有	det	Z5/N5.1+
 所有	noun	A9+ S9% B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf
 所有	pron	A13.2 N5.1+
-所有	verb	A9+ A1.2+ S5+ E1 S9% Z5 A2.2 S4 A9- S7.4-
+所有	verb	A9+
 所有人	noun	A9+/S2mf L2/S2mf H1/S2mf K5.1/S2mf
 所有权	adj	A9+
 所有权	noun	A9+ H1/H3 O4.1 S9% M7/F4 H4 I1.1 M3 S7.1+
@@ -26182,7 +26194,7 @@ T	noun	S4.5.2.1f
 扈	noun	S8+/S2mf I3.1/S2mfc S7.1-/S2mf
 扈	pnoun	S8+/S2mf I3.1/S2mfc S7.1-/S2mf
 扈从	noun	I1.3 S7.1-/S2mf S8+/S2mf I3.1/S2mfc
-手	noun	A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf E3- A9+ F1 L2 B1@ L2/A1.1.1 S7.1+/S2.2m
+手	noun	B1
 手	verb	A9- E3- A9+ L2/A1.1.1
 手下	noun	I2.1/S2mf G1.1/X2.2+/S2mf K4/S2mf
 手册	adj	A1.1.1
@@ -26280,9 +26292,9 @@ T	noun	S4.5.2.1f
 手镯	noun	B5
 手风琴	noun	K2
 手风琴师	noun	K2/S3mf
-才	adj	S1.2 G2.2+
-才	adv	A14 T3--- T1.3- N3.3--- A9- X9.1+ I1.1 S1.2 G2.2+
-才	noun	A9- X9.1+ I1.1
+才	adj	T4
+才	adv	T4
+才	noun	X9+
 才力	noun	X9.1+
 才子	noun	E1 X9.1+ X9.1+/S2mf Q2.2/X9.1+ Q1.2/X9.1+
 才学	noun	I1 P1
@@ -26342,7 +26354,7 @@ T	noun	S4.5.2.1f
 打	conj	Z5
 打	noun	A4.1 A5.2- B1/O4.4 E3- O2 F2 S7.1+ X9.2+ K3 G3 F1 I3.1-/G1.2 A10+ K5.1 K1/T1.3 T2- A1.4 A1.1.2 L3 Q4.3 M1 M2 N5 E6- Q4.1 S8- X8+ X3.2 K2 M6 M7 X4.1 Q4.2 S4 A9- X9.2+/S7.3 X9.2+/G3 A5.1++ B1
 打	prep	Z5
-打	verb	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ A1.1.2 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ A12- W4 A4.1 A5.2- B1 S7.1+ B1/O4.4 E3- A11.2+ A10+ M1 G3 B2- E2+ O2 F2 K3 E3-/A1.1.1 F1 F4 K5.1 M2 Q4.3 Q1.2 H1 A5.1+/A2.1 N3.2+/A2.1 I3.1-/G1.2 A8 X3.2 K1/T1.3 A1.4 L3 I1.3 N2 X7+ N4 N5 E6- Q4.1 S8- X8+ G1.2 K2 M6 M7 X4.1 Q4.2 S4 X9.2+/S7.3 X9.2+/G3 A5.1++ X9.2-/S7.3 X9.2-/G3 S7.1- O4.1 Z5 K1 K5.2 K6
+打	verb	A1.1.2 B2- E3
 打仗	noun	S8- X8+ E3- K5.1
 打仗	verb	S8- X8+ E3- G1.2 K5.1
 打伤	noun	B2- A1.1.2
@@ -26388,8 +26400,8 @@ T	noun	S4.5.2.1f
 打嗝	verb	B1 A12- B1/X3.2 A2.2 A1.1.1 S1.2.4-/B1 X3.2
 打坏	noun	E3- S1.1.3+
 打坏	verb	E3- Q2.2 S1.1.3+
-打基础	noun	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
-打基础	verb	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
+打基础	noun	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
+打基础	verb	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
 打嬴	noun	A9+ N5+/A2.1
 打嬴	verb	A9+ N5+/A2.1
 打孔	noun	B5 G3%
@@ -26715,7 +26727,7 @@ T	noun	S4.5.2.1f
 批发商	verb	A9+/H1 N2
 批评	adj	M6 T2++
 批评	noun	Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 Q2.1 Q2.2/E2- X2.4 S7.1 X2.1 X6 G2.1 Q4 X2.4/Q1.2 X3.2 A1.1.1 E3- A12- S3.2@
-批评	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 Q2.1 Q2.2/E2- X2.4 S7.1 X6 G2.1 Q4 X2.4/A5 P1 G3 X2.4/Q1.2 X3.2 A1.1.1 E3- A12- S3.2@ X3.4+ A11.2+ X2.2+ S1.2.4+
+批评	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 Q2.1 Q2.2/E2- X2.4 S7.1 X6 G2.1 Q4 X2.4/A5 P1 G3 X2.4/Q1.2 X3.2 A1.1.1 E3- A12- S3.2@ X3.4+ A11.2+ X2.2+ S1.2.4+
 批评家	noun	Q2.2/S2mf Q4/S2mf
 批评法	noun	Q2.2/E2- X2.4 X2.4/Q1.2
 批量	noun	A4.1 N5 S5+ A3+ A1.4 M7 O2
@@ -26801,8 +26813,8 @@ T	noun	S4.5.2.1f
 抉择	adj	X6+
 抉择	noun	X6+
 把	noun	O2
-把	part	A1.1.1 S7.1+ X9.2+ O2
-把	verb	A1.1.1 S7.1+ X9.2+ A1.1.1/A15+ X3.4/A15+ M2 A9+ X2.1 S7.1+/A1.7+
+把	part	Z5
+把	verb	A1.1.1
 把子	noun	O2
 把子	verb	A1.1.1 S7.1+ X9.2+ O2
 把守	noun	A15+/I3.2/S2mf O2/A15+
@@ -27764,7 +27776,7 @@ T	noun	S4.5.2.1f
 拾起	noun	A5.1+/A2.1
 拾起	verb	A5.1+/A2.1
 拿	noun	M2 Q4.3
-拿	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ I1.3 Q4.3 X2.1 S7.1+/A1.7+
+拿	verb	A9+
 拿不住	pnoun	M1 M2
 拿不住	verb	M1 M2
 拿手	noun	K1
@@ -27793,7 +27805,7 @@ T	noun	S4.5.2.1f
 持续	adj	M6 T2++
 持续	noun	A1.1.1 I1.1 I1.1/S4 T2++ M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% M8 T4- H4 O2 S7.1
 持续	num	N4
-持续	verb	A1.1.1 I1.1 I1.1/S4 T2++ A9+ M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ M3 S4 A6.3+ K4 M1 B5 X8+ T1.3 X7/N5+ N5 K5.1% M6 M2 M8 N3 A3+ X2.1 A7 S8+ S7.4+ I2. H4 T4- N4 O2 S7.1 A2.2 B1
+持续	verb	A1.1.1 I1.1 I1.1/S4 T2++ A9+ M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ M3 S4 A6.3+ K4 M1 B5 X8+ T1.3 X7/N5+ N5 K5.1% M6 M2 M8 N3 A3+ X2.1 A7 S8+ S7.4+ I2.1 H4 T4- N4 O2 S7.1 A2.2 B1
 持续力	noun	M8 T4- H4 O2 X5.2+
 持续力	num	N4
 持续力	pnoun	M8 T2++ H4 T4- N4 O2 T1.3 X5.2+
@@ -29626,8 +29638,8 @@ T	noun	S4.5.2.1f
 支脚	verb	M3 M4
 支解	verb	A1.1.2 A1.1.1
 支配	intj	Z4
-支配	noun	A1.1.1 O2 B3 B5 G1.1 I2.1/S+ G1.1c G2.1 X4.2 A6.2+ S7.1+ Q3 G2.2+ S8+ N3.7 N3.3 A1.7+ A11.1+ A11.2+ S7.1+/S2.2m S9/S2.2m
-支配	verb	A1.1.1 O2 A1.1.1/A1.7+ A9+ E1 S9% A9- B3 B5 G1.1 I2.1/S+ G1.1c G2.1 X4.2 A6.2+ S7.1+ Q3 G2.2+ S8+ M1 M2 A2.1+ N3.7 N3.3 N5++ A11.1+ A11.2+ A1.7+ Q1.2 X6+ S7.1+/S2.2m S9/S2.2m Z4
+支配	noun	A1.1.1 O2 B3 B5 G1.1 I2.1/S1.1.1+ G1.1c G2.1 X4.2 A6.2+ S7.1+ Q3 G2.2+ S8+ N3.7 N3.3 A1.7+ A11.1+ A11.2+ S7.1+/S2.2m S9/S2.2m
+支配	verb	A1.1.1 O2 A1.1.1/A1.7+ A9+ E1 S9% A9- B3 B5 G1.1 I2.1/S1.1.1+ G1.1c G2.1 X4.2 A6.2+ S7.1+ Q3 G2.2+ S8+ M1 M2 A2.1+ N3.7 N3.3 N5++ A11.1+ A11.2+ A1.7+ Q1.2 X6+ S7.1+/S2.2m S9/S2.2m Z4
 支配力	noun	S7.1+ Q2.2 X9.1+ S9
 支配力	verb	S7.1+ X9.1+
 支配权	noun	M1 M2 A2.1+ S7.1+ X9.1+
@@ -30603,8 +30615,8 @@ T	noun	S4.5.2.1f
 斯特灵	pnoun	Z2 Z1mf
 斯瓦希里	pnoun	Z2
 斯莱戈	pnoun	Z2
-新	adj	T3-
-新	adv	T3-
+新	adj	T3+
+新	adv	T3+
 新	noun	T3- O4.2+ B1 W4 S1.2.3+++
 新	verb	T3- O4.2+ B1 W4 S1.2.3+++
 新会员	noun	S1.1.3+/S2mf T2+/S2mf
@@ -30833,7 +30845,7 @@ T	noun	S4.5.2.1f
 旗手	noun	Q1.1 G3
 旗竿	noun	O2/H1
 旗舰	noun	M4fn A11.1+++
-无	adj	I1.1- L3-/F4 N5--- B2-/S4
+无	adj	I1.1- A9---
 无	adv	M6 Z6
 无	intj	Z4
 无	noun	A11.1- A3- N5.1--- A11.1--- N1 G3% S1.1.3- S8-
@@ -31270,7 +31282,7 @@ T	noun	S4.5.2.1f
 既使	conj	Z5
 既使	noun	Z5
 既然	conj	N4 Z5
-日	noun	T1.2 S3.2 S3.2/S2mf T1.3 W1 W2 W4
+日	noun	T1.3 W1
 日	pnoun	K1/W4 T1.2 S3.2 S3.2/S2mf T1.3 T3 W1 W2 W4 Z2 Z3
 日	verb	K1/W4 T3 S3.2
 日元	msr	I1
@@ -31396,7 +31408,7 @@ T	noun	S4.5.2.1f
 时	adj	T1.3 T1.1.1
 时	adv	Z5
 时	conj	Z5
-时	noun	F1 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ B1 Q3 P1/T1.3 T1.1.1 X7+/T1 N3.1/T1 Z5
+时	noun	T1.1 T1.3
 时	verb	F1 T1.3 X7+/T1 N3.1/T1
 时人	noun	T1.1.2/S2mf
 时代	adj	T1.3 T1.1.1
@@ -31405,8 +31417,8 @@ T	noun	S4.5.2.1f
 时令	noun	A1.1.1 W4
 时令	verb	A1.1.1
 时价	noun	I1 A6.2+
-时候	adj	T1.3 T1.1.1
-时候	noun	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ N3 B1 Q3 P1/T1.3 T1.1.1 X7+/T1 N3.1/T1
+时候	adj	T1.1
+时候	noun	T1.1
 时候	verb	X7+/T1 N3.1/T1
 时光	noun	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@
 时刻	adv	T2++
@@ -31442,9 +31454,9 @@ T	noun	S4.5.2.1f
 时装	verb	O4.1
 时钟	noun	O2/X3.2 O4.4
 时间	adj	T1.3 T1.1.1
-时间	adv	Z5
+时间	adv	T1.1
 时间	conj	Z5
-时间	noun	A11.1- F1 E4.1+ N5.1- O2 Q4 K2 K4 G3@ T1 T1.2 T1.3 T1.1.2 N6 N1 G2.1@ B1 Q3 P1/T1.3 T1.1.1 X7+/T1 N3.1/T1 Z5
+时间	noun	T1.1
 时间	verb	E4.1+ X7+/T1 N3.1/T1
 时间表	noun	X7+ Q1.2/T1/M3 Q1.2/T1/M4 Q1.2/T1/M5 P1 X7+/T1
 时间表	verb	X7+/T1 P1
@@ -31738,7 +31750,7 @@ T	noun	S4.5.2.1f
 是	intj	Z4
 是	noun	S8-
 是	part	Z6
-是	verb	A3+ Z5 S8- T1.3 T2++ N6+ Z4 Z6
+是	verb	A3 Z5
 是否	conj	Z5 Z7
 是否	verb	Z5 Z7
 是的	adv	A7+
@@ -31763,7 +31775,7 @@ T	noun	S4.5.2.1f
 显像	noun	A2.1+ A5.1+/A2.1 H1 T2+ N3.2+/A2.1 A9+ C1
 显像	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
 显出	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
-显影剂	noun	H1/S2mf C1/O1.2@@
+显影剂	noun	H1/S2mf C1/O1.2@
 显影液	noun	F1
 显影液	pnoun	F1
 显得	verb	A8 A10+ A3+ G2.1 K4 Q4 X3.4 X2.4 X7+ Z4
@@ -31787,7 +31799,7 @@ T	noun	S4.5.2.1f
 显示	verb	A10+ S1.1.1 Y2 A11.2+ A8 K4 I2.2/S1.1.1 B5/N3.2 M2 M1 Q1.1 Q1.2/M4 Q2.2 S7.4+ E2+ G1.1
 显示器	noun	O2 Y2 Q4.3 X2.4/S2mf X2.4
 显示器	verb	X2.4
-显色剂	noun	H1/S2mf C1/O1.2@@
+显色剂	noun	H1/S2mf C1/O1.2@
 显著	adj	A11.2+ A11.1+ A5.1++ I1.2 A1.9 A6.2-
 显著	noun	E5+
 显著	verb	A11.2+ A11.1+ A5.1++ I1.2 A1.9 E5+
@@ -32187,8 +32199,8 @@ T	noun	S4.5.2.1f
 曳航	verb	M2
 曳革	pnoun	M2
 曳革	verb	M2
-更	adj	A5.1++ G2.2++ O4.2++ M8 E3+ O4.5 N5++ N3.3++ T2++
-更	adv	A13.3 N6++ A5.1++ G2.2++ O4.2++ A5.1++/S2mf C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 N5++ N3.3++ T2++ N5+/A2.1 T1/O2 M4 Z4 X3.4 S7.1 X2.4 A1.3+ Z5
+更	adj	A13.3 N6++
+更	adv	A13.3 N6++
 更	det	N5++
 更	noun	A5.1++/S2mf C1 F2/O2 T1/O2 M4
 更	verb	A5.1++ E3+/A2.1 E6+ N5+/A2.1 X3.4 S7.1 X2.4 A1.3+
@@ -32313,9 +32325,9 @@ T	noun	S4.5.2.1f
 替身	adj	A2.1+
 替身	noun	A2.1+ A2.1+/S2mf G2.1/S2mf
 替身	verb	A2.1+ A2.1+/S2mf G2.1 G2.1/S2mf
-最	adj	A5.1+++ G2.2+++ O4.2+++ N3.3+
-最	adv	A13.2 N5+++ A13.7 A5.1+++ G2.2+++ O4.2+++ N3.3+ N5.1- A11.1---
-最	det	N5.1- A11.1---
+最	adj	A5.1+++ G2.2+++ O4.2+++ N5.1+
+最	adv	A5.1+++ G2.2+++ O4.2+++ N5.1+
+最	det	N5.1+
 最上位	noun	S7.1+
 最上位	pnoun	S7.1+
 最上层	noun	W3 W1
@@ -32342,8 +32354,8 @@ T	noun	S4.5.2.1f
 最初	num	N4
 最初	verb	Q1.2
 最前部	noun	A11.1+
-最后	adj	K5.1 N4 T2- O2 T2++ T1.3 S7.1+++ A11.1+ N5.1+ A5.1+++
-最后	adv	K5.1 N4 T2- Z4 O2 Q1.1 Q3 T2++ T1.3 S7.1+++ A11.1+ N5.1+ A5.1+++ X6+
+最后	adj	N4
+最后	adv	N4
 最后	noun	K5.1 O2 Q1.1 Q3 T2- X6+
 最后	num	N4
 最后	verb	T2++ T1.3 T2-
@@ -32432,7 +32444,7 @@ T	noun	S4.5.2.1f
 最高潮	noun	K5.1 W3 L2 Q1.1 X5.2+ S3.2
 最高点	noun	A5.1+++/X9.2+ N5.1++/X9.2+ T1.2 T2-/A1.1.1
 最高级	adj	A5.1+++ Q3
-月	noun	T1.3 W1 X5.2-/E4.1-
+月	noun	T1.3 W1
 月	verb	X5.2-/E4.1-
 月亮	noun	O2/W2 O3 W1 X5.2-/E4.1-
 月亮	verb	X5.2-/E4.1-
@@ -32453,13 +32465,13 @@ T	noun	S4.5.2.1f
 月经	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
 月蚀	noun	A10- N5.2+ W1
 月蚀	verb	A10- N5.2+
-有	adj	A4.2+ A7+
+有	adj	A9+
 有	noun	O4.4
 有	prep	Z5
-有	verb	A3+ Z5 A4.2+ A7+ A9+ A2.2 S4 X9.2+ A2.1+ M1 M2 X2.5+ E4.1- O4.4 Q2.1 X7+ A8
+有	verb	A9+
 有一点	adv	A13.3
 有些	adv	A13.5 A13.6
-有些	det	A13.5 A13.6 N5 Z5
+有些	det	A13.4 A13.5 N5
 有些	pron	A13.5 N5 Z5
 有人	noun	Z8
 有人	pron	Z8 Z8mfc
@@ -32597,7 +32609,7 @@ T	noun	S4.5.2.1f
 朋	pnoun	S3.1/S2mf
 朋党	noun	S5+
 朋党	pnoun	S5+
-朋友	noun	S2.2m S3.1/S2mf
+朋友	noun	S3.1/S2mf
 朋友们	noun	S3.1/S2mf
 服	noun	B5
 服	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A9- B5 F1 B3 O4.1
@@ -32846,8 +32858,8 @@ T	noun	S4.5.2.1f
 末期	noun	T1.3
 末端	noun	M7/N3.3+++ N5.1+++ A12- B1
 本	adv	A13.3 T1.1.1
-本	det	A13.3 A2.2 T2+ X4.2 A9+ L3 B1 S4 A11.1+ Q3 N2 X2.4 M6 Z5 Z8 H2 S5+c A5.2+ B4 Q1.1 X2.2 W3/M4
-本	noun	A2.2 T2+ X4.2 A4.1 Q2.1 L3 B1 S4 A11.1+ Q3 N2 Q4 H2 S5+c A5.2+ B4 Q1.1 X2.2 W3/M4
+本	det	Z8
+本	noun	Q4.1 P1
 本	pron	A13.3 A9+ S5- M6 Z5 Z8 T1.1.2 W3/M4 W3/M5 O3 E1
 本	verb	A9+ L3 X2.4
 本事	noun	X9.1+
@@ -33178,6 +33190,7 @@ T	noun	S4.5.2.1f
 杠杆率	noun	M2 S7.1+
 杠铃	noun	K5.1
 条	adv	Z4
+条	msr	Z5
 条	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 G2.1/P1 Q4 X4.1 Q4.2 Q3 G2.1/P1@ S7.4- A1.7+ Z4 Z5
 条	prep	Z5
 条	verb	G2.1/P1 S7.4- A1.7+ S8-
@@ -33201,7 +33214,8 @@ T	noun	S4.5.2.1f
 条纹	adj	A6.2-
 条纹	noun	A6.2- A6.2-/S2mf X5.2+/S2mf B5 O2 W3 E3- K5.1 B5- M1/N3.8+ E5- K2c A4.1 S5+c N5 O4.4 S1.2 O4.3 S7.1+/O4.3 S5+
 条纹	verb	B5- E3- M1/N3.8+ E5- S5+
-来	verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5
+来	intj	Z4
+来	verb	M1
 来世	adv	M6 N4
 来世	noun	M6 N4 S9 T1.1.3 T2+++ Z5
 来世	prep	Z5
@@ -33601,8 +33615,8 @@ T	noun	S4.5.2.1f
 枯死	verb	L1- A12- A1.5.1 E4.1-/A2.2 T2- O2
 枯渴	noun	B2- A1.5.1/N5.1+
 枯渴	pnoun	B2- A1.5.1/N5.1+
-枯燥	noun	B1 04.1 O4.2-
-枯燥	verb	B1 04.1 O4.2-
+枯燥	noun	B1 O4.1 O4.2-
+枯燥	verb	B1 O4.1 O4.2-
 枯的	adj	L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2-
 枯的	adv	A13.3 A4.2+
 枯的	noun	A13.3 A4.2+ L1- X5.2- A1.1.2 A1.1.1- E3+ B2-
@@ -33946,8 +33960,8 @@ T	noun	S4.5.2.1f
 树液	pnoun	P1 Y2
 树液	verb	N5-/A2.1
 树的	adj	A2.2/L3 M6 T2++ O1.1 X5.2-
-树的	noun	A2.2/L3 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. O1.1 X5.2- S7.1
-树的	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.
+树的	noun	A2.2/L3 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 O1.1 X5.2- S7.1
+树的	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1
 树皮	noun	F1/L3 A1.1.1 B1 L2/X3.2 L3/O1
 树皮	verb	F1/L3 A1.1.1 B1 L2/X3.2
 树立	adj	O4.4
@@ -34842,10 +34856,10 @@ T	noun	S4.5.2.1f
 欠缺	adj	A5.1- B2-/X1
 欠缺	noun	A5.1- A9- B1
 欠缺	verb	A5.1- B2-/X1 A9- B1
-次	adj	B1 N3.8+ S7.1-- A5.1-- S7.1--/S2mf A5.1--/S2mf
-次	msr	A13.1 N3.1 N3.2 N5 P1 B1 N3.8+ N4 K2 Y1% Q4.3% S9% S7.1+/Q2.2 I2.2/Q2.2 A4.1 G2.1+ G2.1 Q1.2/I1.1 O4.2+ T1 T1.2 T1.3 T1.1.2 N6 N1 G2.1@ X7+/T1 N3.1/T1 Z3 Z5
-次	noun	A13.1 N3.1 N3.2 N5 P1 N4 Q4.3% S9% S7.1+/Q2.2 I2.2/Q2.2 A4.1 G2.1+ G2.1 Q1.2/I1.1 O4.2+ T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@
-次	num	N4
+次	adj	A5.1--
+次	msr	N6 N3.1
+次	noun	N6 N3.1
+次	num	N6 N3.1
 次	verb	N4 K2 Y1% S7.1+/Q2.2 I2.2/Q2.2 X7+/T1 N3.1/T1
 次元	noun	A4.1 N3.2
 次元	pnoun	A4.1 N3.2
@@ -35026,7 +35040,7 @@ T	noun	S4.5.2.1f
 止血棉塞	noun	B4
 止血棉塞	verb	B4
 正	adj	A11.1+ N5+++ A5.3+ O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 G2.2+ A11.1+++ A13.3 A13.2 A4.2+ A1.2+ M6 N3.2+ A5.3+/A2.1 N6+ O4.1 I3.1 T2++ M6/O2 N6+/S2mf G3/S2mf N3.8+ S3.2/S2mf M3 S7.1+/S2mf S7.4+ G1.2 Z4
-正	adv	A11.1+ N5+++ A5.3+ A5.3+/A2.1 M6/O2 O2/M4 O3 O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 G2.2+ M6 N3.8+ S3.2/S2mf M3 X4.1 A14 T3--- T1.3- N3.3--- A4.2+ S1.2
+正	adv	T1.1.2 M6
 正	noun	M6/O2 O2/M4 O3 S3.2/S2mf M3 X4.1 G2.2+
 正	verb	A5.3+/A2.1
 正中	noun	M6 N4 T1.2 N3.3+ N5+ A4.2+ Q2.2 S1.2
@@ -35155,8 +35169,8 @@ T	noun	S4.5.2.1f
 正面地	verb	M6 S7.1+ Q4.3
 正餐	noun	F1
 此	adv	A13.3
-此	det	M6 Z5 Z8
-此	pron	A13.3 M6 Z5 Z8
+此	det	Z8
+此	pron	Z8
 此世	adv	M6 T1.1.2 T1.2
 此世	pnoun	M6 T1.1.2 T1.2
 此前	adv	N4 O2 T2++ T1.3
@@ -35484,11 +35498,11 @@ T	noun	S4.5.2.1f
 母鸡	noun	L2fn
 母鹿	noun	L2f
 每	adv	A13.2 S1.1.2+
-每	det	A13.2 M6 N5.1+ S1.1.2+ Z5
+每	det	S5--- N5.1---
 每	mark	Z5
 每	part	M6 N5.1+
 每	prep	Z5
-每	pron	N5.1+ S1.1.2+
+每	pron	Z8
 每一	part	N5.1+
 每一	pnoun	N5.1+
 每个	adv	S1.1.2+
@@ -35546,8 +35560,8 @@ T	noun	S4.5.2.1f
 毓	verb	B2+/F1 S4 F4 M1
 比	conj	Z5
 比	noun	N2
-比	prep	N2 X2.6- Z5
-比	verb	A6.1 A5.1 Q3 A6.1+ X2.6-
+比	prep	Z5
+比	verb	A6.1
 比丘	noun	S9/S2.2m
 比丘	pnoun	S9/S2.2m
 比价	noun	A6.1+
@@ -35597,11 +35611,11 @@ T	noun	S4.5.2.1f
 比赛	noun	A6.1+ K1 K5.1 K5.2 K2 K3 A1.1.1 K6 S7.3+ K4 O2 S5+c S7.3 M1/N3.8+ W5 S8+ A9+/A2.1- X7+ L2 F1
 比赛	verb	A6.1+ K1 K5.1 K5.2 K2 K3 A1.1.1 K6 S7.3+ M1/N3.8+
 比赛者	noun	K5.1/S2mf M3fn
-比较	adj	A6 A5.1 Q3 A6.1+ T1.1.2 M6
-比较	adv	A1.1.1 S1.1.1 A13.4 G2.2+ A13.5 A13.6 A13.2 A13/A6 A6 A5.1 Q3 A6.1 A6.1+ T1.1.2 M6 W3 A6.1- Z4 E2++ Z5
+比较	adj	A6 A13.4 A13.5
+比较	adv	A6 A13.4 A13.5
 比较	conj	Z5
-比较	noun	A6 A5.1 Q3 A6.1 A6.1+ W3 A6.1-
-比较	verb	A1.1.1 S1.1.1 A6.1 A5.1 Q3 A6.1+ T1.1.2 A6.1-
+比较	noun	A6.1
+比较	verb	A6.1 A5.1
 比较仪	noun	O2 O3 Y2 A6/S2mf
 比较少	adj	N3.2-
 比较少	pnoun	N3.2-
@@ -35842,7 +35856,7 @@ T	noun	S4.5.2.1f
 氰化物	noun	O1
 水	adj	O4.3
 水	fw	O1.2
-水	noun	F4 B1 O1.2 M4 O4.3 W3/M4 C1% N5+
+水	noun	O1.2 F1
 水	verb	F4 B1
 水中的	adj	M4 K5.1/M4 O1.2 O1.2/N5.2+ S1.2.5- B1
 水中的	pnoun	M4 K5.1/M4 O1.2 O1.2/N5.2+ S1.2.5- B1
@@ -36348,9 +36362,9 @@ T	noun	S4.5.2.1f
 沟通	verb	Q2.1 Q1.2 Q1.3 X2.2+
 沟道	noun	K2 O2
 沟道	verb	K2
-没	adj	L1- N5.2+ A10- X9.2-
-没	adv	L1- N5.2+ A10- X9.2- Z6
-没	verb	L1- N5.2+ A10- X9.2-
+没	adj	N3.1- A10-
+没	adv	Z6
+没	verb	N3.1- A10-
 没人	noun	A11.1-/S2mf Z8/Z6cmf
 没人	pron	Z8/Z6cmf
 没入	adj	G2.1/A9+
@@ -36360,10 +36374,10 @@ T	noun	S4.5.2.1f
 没收	verb	A9+/G2.1 S5- A9-/G2.1 G2.1/A9+
 没收物	pnoun	A9-
 没收物	verb	A9-
-没有	adv	M6 Z6
+没有	adv	Z6
 没有	prep	Z5
 没有	pron	Z6/Z8c
-没有	verb	M6 Z5 Z6/Z8c
+没有	verb	A9-
 没落	noun	A1.1.2 I1.1--- H1/A1.1.2 M1 S4 A2.1 X9.2-
 没落	verb	A1.1.2 I1.1--- H1/A1.1.2 M1 S4 A2.1 X9.2-
 没错	adv	A7+ A11.2+ A12+
@@ -36620,8 +36634,8 @@ T	noun	S4.5.2.1f
 泞	adj	O1.1
 泞	pnoun	O1.1
 泡	adj	B2- B1/A12- O4.4
-泡	noun	F1 A12- F2 L3 M4 O1.2 F2+++/S2@@mf O2 E1
-泡	verb	A1.1.1 B2- B1/A12- F1 A12- F2 N5+/A2.1 L3 M2 M4 M1 N5.2+ O1.2 B4 F2+++/S2@@mf O2 E1 O4.4 O4.5 X3.2 X2.3+ N3.8-
+泡	noun	F1 A12- F2 L3 M4 O1.2 F2+++/S2@mf O2 E1
+泡	verb	A1.1.1 B2- B1/A12- F1 A12- F2 N5+/A2.1 L3 M2 M4 M1 N5.2+ O1.2 B4 F2+++/S2@mf O2 E1 O4.4 O4.5 X3.2 X2.3+ N3.8-
 泡久的	adj	F1 E6-
 泡久的	pnoun	F1 E6-
 泡久的	verb	F1 E6-
@@ -37407,8 +37421,8 @@ T	noun	S4.5.2.1f
 海鸥	verb	X3.2/L2
 海龟	noun	L2mfn
 浸	adj	O4.4 N5+ I1.3+
-浸	noun	O1.2 F2+++/S2@@mf O4.4 F1 O1 M4
-浸	verb	A1.1.1 X2.3+ B4/M4 N5.1+ M1 M2 O4.4 F4 X5.2+ O1.2 B4 F2+++/S2@@mf F1 O1 M4 N5+ I1.3+
+浸	noun	O1.2 F2+++/S2@mf O4.4 F1 O1 M4
+浸	verb	A1.1.1 X2.3+ B4/M4 N5.1+ M1 M2 O4.4 F4 X5.2+ O1.2 B4 F2+++/S2@mf F1 O1 M4 N5+ I1.3+
 浸一下	noun	O4.4 F1 O1 M4
 浸一下	pnoun	M1 M2 O4.4 F4 F1 O1 M4
 浸一下	verb	M1 M2 O4.4 F4
@@ -37431,8 +37445,8 @@ T	noun	S4.5.2.1f
 浸蚀	verb	B4 C1
 浸软	pnoun	A1.1.2
 浸软	verb	A1.1.2
-浸透	noun	F2/A1.1.1 N3.6+ N5.1+ O1.2 F2+++/S2@@mf
-浸透	verb	F2/A1.1.1 N3.6+ N5.1+ O1.2 B4 F2+++/S2@@mf
+浸透	noun	F2/A1.1.1 N3.6+ N5.1+ O1.2 F2+++/S2@mf
+浸透	verb	F2/A1.1.1 N3.6+ N5.1+ O1.2 B4 F2+++/S2@mf
 浸透性	noun	N5.1+
 浸透性	pnoun	N5.1+
 涂	noun	A1.1.1 O2 M2 B3 G2.1-/Q2.2
@@ -37971,7 +37985,7 @@ T	noun	S4.5.2.1f
 清零	verb	A2.1+
 渊	noun	W3 E5- A6.1-
 渊	pnoun	W3 E5- A6.1-
-渍	noun	N5.1+ O1.2 B4 F2+++/S2@@mf
+渍	noun	N5.1+ O1.2 B4 F2+++/S2@mf
 渍	verb	N5.1+ O1.2 B4
 渎	noun	M7
 渎	pnoun	A9- M7
@@ -38026,8 +38040,8 @@ T	noun	S4.5.2.1f
 渖	verb	A1.1.1/O1.2 W4 M1/N5+
 渗	noun	A1.7-/M1 B1 O1.2
 渗	verb	A1.7-/M1 B1 O1.2 I3.1 I1.2 G3
-渗入	noun	B3 M1/A10- A1.8+ O1.2 F2+++/S2@@mf O2
-渗入	verb	A1.1.1 B3 M1/A10- A1.8+ O1.2 B4 F2+++/S2@@mf O2 S1.1.1
+渗入	noun	B3 M1/A10- A1.8+ O1.2 F2+++/S2@mf O2
+渗入	verb	A1.1.1 B3 M1/A10- A1.8+ O1.2 B4 F2+++/S2@mf O2 S1.1.1
 渗入者	noun	M1/A10-/S2mf
 渗出	noun	A1.1.1 N3.5 A12- E6- B2- A4.1 O2 M2 B3 G2.1-/Q2.2
 渗出	verb	A1.1.1 M2 G2.1-/Q2.2 A1.1.1/N5.2+ X8+ B2- F2/A1.1.1 N3.6+ N3.5 A12- E6- A4.1 O2 B3
@@ -38242,8 +38256,8 @@ T	noun	S4.5.2.1f
 湿的	verb	G1.2 O1.2 W4 X5.2- O4.1/O1.2
 湿粘的	adj	O4.5
 湿粘的	pnoun	O4.5
-湿透	noun	O1.2 F2+++/S2@@mf S1.2.5-/S2mf F1
-湿透	verb	N5.2+/O1.2 O1.2 B4 F2+++/S2@@mf S1.2.5-/S2mf F1
+湿透	noun	O1.2 F2+++/S2@mf S1.2.5-/S2mf F1
+湿透	verb	N5.2+/O1.2 O1.2 B4 F2+++/S2@mf S1.2.5-/S2mf F1
 溃散	noun	F1
 溃散	verb	A1.1.1 F1
 溃烂	adj	B2- E4.1- A11.1+
@@ -39231,9 +39245,9 @@ T	noun	S4.5.2.1f
 炸锅	noun	F1/O3 F1/S2mf
 炸锅	verb	F1/O3 F1/S2mf
 点	adv	A14
-点	msr	O2 Q4 X4.1 Z4
-点	noun	A1.1.1 A10+ M6 H1 A14 O2 N5- O4.3/A2.1 O4.4 B2- M7 Q4.3 Q2.1 X4.1 A5.1 A1.5.2 T1.2 O3 K5 X3.4
-点	verb	A1.1.1 A10+ M6 H1 O4.3/A2.1 X3.4
+点	msr	T1
+点	noun	T1
+点	verb	A10+ M6 H1
 点亮	verb	T2+ W2 A7+
 点儿	noun	O4.4 O2 B2- M7 N5- Q4.3 Q2.1 X4.1 A5.1 A1.5.2 T1.2 O3 K5
 点名	noun	Q2.2 S1.1.1 Q1.3 X7+ S9%
@@ -39737,8 +39751,8 @@ T	noun	S4.5.2.1f
 熏脏的	adj	O1.3 X3.1 O4.3
 熏脏的	pnoun	O1.3 X3.1 O4.3
 熔	noun	O3
-熔	pnoun	A10+ X2.1 X6+ X6+.1 O3 A1.8+ T2+ A2.2 A1.1.1
-熔	verb	A10+ X2.1 X6+ X6+.1 O3 A1.8+ T2+ A2.2 A1.1.1
+熔	pnoun	A10+ X2.1 X6+ O3 A1.8+ T2+ A2.2 A1.1.1
+熔	verb	A10+ X2.1 X6+ O3 A1.8+ T2+ A2.2 A1.1.1
 熔岩	noun	W3
 熔岩流	noun	W3
 熔接	noun	B1
@@ -39915,8 +39929,8 @@ T	noun	S4.5.2.1f
 爬行	verb	M1 N3.8- S7.1- M4
 爰	adv	Z5
 爰	pnoun	Z5
-爱	noun	E2+ S3.2 E2+/S2mf S8+/S5+c S8+ S1.2.2-
-爱	verb	E2+ S3.2 E2+/S2mf S8+/S5+c S8+ S1.2.2-
+爱	noun	S3.2 E2+ E2+/S2mf
+爱	verb	E2+
 爱丁堡	pnoun	Z2
 爱丽丝	pnoun	Z1f
 爱人	adj	E2+ I1.3+
@@ -40914,9 +40928,9 @@ T	noun	S4.5.2.1f
 率先	verb	S8-
 率先者	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
 率直	adj	A5.2+
-率直	noun	A10+ S1.2 S1.1.1 A5.2+ M7 B1 04.1 O4.2- Q1.2
+率直	noun	A10+ S1.2 S1.1.1 A5.2+ M7 B1 O4.1 O4.2- Q1.2
 率直	pnoun	Z1
-率直	verb	A10+ S1.2 S1.1.1 A5.2+ M7 B1 04.1 O4.2- Q1.2 Z1
+率直	verb	A10+ S1.2 S1.1.1 A5.2+ M7 B1 O4.1 O4.2- Q1.2 Z1
 率直地	adj	O4.4 O4.2
 率直地	adv	A10+ A11.2+ A12+ A5.2+ A7+++ M6 N3 X7+
 率直地	noun	G2.2+ O4.4 O4.2
@@ -41054,11 +41068,11 @@ T	noun	S4.5.2.1f
 现出	verb	A10+ S1.1.1 A8 K4 I2.2/S1.1.1 M1 A1.1.1 Q2.2
 现品	adj	S1.2/S8+ S1.2.2-
 现品	noun	A4.1 S1.2/S8+ S1.2.2-
-现在	adj	T1.1.2 A3+ T3-
-现在	adv	A5.4+ A14 T1.1.3 T1.1.2 Z4 Z5
+现在	adj	T1.1.2
+现在	adv	T1.1.2
 现在	conj	Z5
 现在	intj	Z4
-现在	noun	A5.4+ A14 A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+ Z4 T1.1.3 T1.3 T3- T3--- W3/M4 W3/M5 O3 E1 Z5
+现在	noun	T1.1.2
 现在	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
 现场	noun	A14 K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+ M6 O4.4 O2 B2- N5- Q4.3 X3.4
 现存	adj	A3+/T2++ T3++
@@ -41557,8 +41571,8 @@ T	noun	S4.5.2.1f
 生气勃勃	verb	X5.2+ L1+%
 生活	adj	L1+ A3+ Q4.3 K2/K3 K1 O3 G3
 生活	adv	L1+
-生活	noun	A1.1.1 I1.1 I1.1/S4 T2++ A3+ H4 L1+ A3 I1.1/M1 F1 I3.1 Q4.3 K2/K3 K1 O3 G3 T1.3 S1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1
-生活	verb	A3+ H4 L1+ A3
+生活	noun	L1+ A3+
+生活	verb	H4 L1+ A3
 生活力	noun	X5.2+
 生活力	pnoun	X5.2+
 生涯	noun	I3.1 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 M1/S9 N3.8+
@@ -41626,7 +41640,7 @@ T	noun	S4.5.2.1f
 用	adj	A11.1+
 用	noun	N3.7 N3.3 O2 F1 A11.1+
 用	prep	Z5
-用	verb	A1.1.1 A11.1+ I1.2 A1.5.1 T1.3 N3.7 N3.3 O2 F1 Z5 S7.1+
+用	verb	A1.5.1 S7.1+
 用人	noun	L2 S9
 用人	verb	I3.1 A1.5.1 L2 S9
 用光	adj	A1.5.1 F1
@@ -41771,11 +41785,11 @@ T	noun	S4.5.2.1f
 田垄	verb	E4.1+
 田野	noun	F4 W3 M7 K5.1/M7 G3@ A4.1 K5.1 A1.1.1
 田野	verb	K5.1 A1.1.1
-由	conj	Z5/A2.2
+由	conj	Z5
 由	mark	Z5
 由	noun	A2.2 X2.1 X4.1
 由	part	M6
-由	prep	A2.2 X2.1 X4.1 M6 Q2.2 Z5 Z5/A2.2
+由	prep	Z5
 由	verb	A2.2 X2.1 Q2.2
 由于	conj	Z5 Z5/A2.2
 由于	noun	A5.1+ S8+ X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 Z5
@@ -41917,14 +41931,14 @@ T	noun	S4.5.2.1f
 电阻器	noun	S8- S1.2.5+
 电风扇	noun	A1.1.1 E2+/S2mf O2 O4.4
 电风扇	verb	A1.1.1
-男	adj	I3.1 S2.2 S2.2m
-男	noun	I1 L2mn L2 S9 S2 S2.2 S2.2m S8- M1 Z8m
+男	adj	S2.1m
+男	noun	S2.1m
 男	pron	Z8m
 男	verb	S8- M1
 男中音	noun	K2/S2.2m X3.2
 男主角	noun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m
 男主角	pnoun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m
-男人	noun	A1.1.1 I3.1 L2 M3 O2 S2 S2.2m Z1
+男人	noun	S2.1m
 男人	pnoun	Z1
 男人	verb	A1.1.1 I3.1
 男人们	noun	S4m
@@ -42363,8 +42377,8 @@ T	noun	S4.5.2.1f
 痛恨	verb	E2-
 痛打	noun	A10- B5 O2
 痛打	verb	A1.1.2 A1.1.1/N6 Q2.2/N6 A10- B5 O2 E3- S7.1+ Q2.2/E2-
-痛殴	noun	O1.2 F2+++/S2@@mf
-痛殴	verb	B1 S7.1+ O1.2 B4 F2+++/S2@@mf
+痛殴	noun	O1.2 F2+++/S2@mf
+痛殴	verb	B1 S7.1+ O1.2 B4 F2+++/S2@mf
 痛的	adj	B2- E4.1- E4.2- X7+ O4.2-
 痛的	noun	B2- E4.2- X7+
 痛的	verb	B2- E4.1- E4.2- X7+ O4.2-
@@ -42373,8 +42387,8 @@ T	noun	S4.5.2.1f
 痛苦	noun	B2- E2- E4.1- A1.1.2 O4.2- S8- X3 A5.1-/A2.1 S7.4+ O2 E6-
 痛苦	verb	B2- E2- E4.1- A1.1.2 O4.2- S8- X3 A5.1-/A2.1 S7.4+ O2 E6- M2 Z4
 痛风	noun	B2-
-痛饮	noun	O1.2 F2+++/S2@@mf
-痛饮	verb	F2 B4 F4% F2/A1.7- O1.2 F2+++/S2@@mf
+痛饮	noun	O1.2 F2+++/S2@mf
+痛饮	verb	F2 B4 F4% F2/A1.7- O1.2 F2+++/S2@mf
 痛骂	noun	B1 O2 E3- N5+ G2.1%
 痛骂	verb	B1 O2 E3- M1 A1.7+ N5+ G2.1% Q2.2
 痢	noun	B2-
@@ -43275,8 +43289,9 @@ T	noun	S4.5.2.1f
 眉笔	noun	Q1.2 Q1.2/O2
 眉笔	verb	Q1.2
 看	adj	X2.1 X3.4 X2.4
+看	intj	Z4
 看	noun	A6.1+/S2mf S7.1+/S2mf A8 X3.4 X2.4 O4.1 B1 O2 Q4.3 X2.1 S9/M7 T1/O2 M4
-看	verb	A1.1.1 A6.1+/S2mf S7.1+/S2mf A8 X3.4 X2.4 O4.1 X7+ Z4 B1 O2 Q4.3 X2.1 S9/M7 T1/O2 M4 S7.1 A1.3+ S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2
+看	verb	A8 X3.4 X2.4
 看上去	adv	A8
 看上去	verb	A8 A10+ A3+ G2.1 K4 Q4 X3.4 X2.4 X7+ Z4
 看不见	adj	X3.4-
@@ -43296,7 +43311,7 @@ T	noun	S4.5.2.1f
 看出	noun	E3- X9.2+ K3 G3
 看出	verb	A10+ E3- A1.1.1 A2.1+ A11.2+ M1 G3 X9.2+ K3 X2.1 X6+ X3.4 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
 看到	noun	Q1.2 K2
-看到	verb	Q1.2 K2 Q2.1 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+看到	verb	X3.4 X2.1 X2.5+
 看台	noun	C1/H1 H2
 看呀	verb	X3.4
 看好	noun	E4.1+
@@ -43345,8 +43360,8 @@ T	noun	S4.5.2.1f
 看门人	noun	G2.1/S2mf I3.1/S2mf I3.2/H2/S2mf I3.2/H4/S2mf S7.1+/S2mf
 眚	noun	A5.3-
 眚	pnoun	A5.3-
-真	adj	A13.3 A3+ A5.2+ A5.4+
-真	adv	A13.3 A5.2+ A5.4+
+真	adj	A5.2+ A5.4+
+真	adv	A13.3 A5.2+
 真	noun	A5.2+ A5.4+
 真	verb	A13.3 A3+ A5.2+ A5.4+
 真伪	noun	A5.2+
@@ -43481,6 +43496,7 @@ T	noun	S4.5.2.1f
 眼镜边	noun	O2
 眼镜边	pnoun	O2
 着	noun	G2.2- A1.1.1 X4.2 A6.2+ K5.2 M1 M2 A2.1+ H4/A2.1 T1.2 H5 O2 K1@ K5.1@
+着	part	Z2 T1.1.2
 着	verb	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
 着作	noun	K5.1/I1
 着作	verb	K5.1/I1 Q4.1
@@ -43685,10 +43701,10 @@ T	noun	S4.5.2.1f
 知识份子	adj	X2 X2.1 X9.1+
 知识份子	noun	X2 X2.1 X9.1+ X9.1+/S2mf X2.1/S2mf
 知识界	noun	X2.2+/S5+
-知道	adj	X2.2+ X5.1+ X7+ B1
+知道	adj	X2.5+ X2.2+
 知道	conj	Z5
 知道	noun	X2.2+ S3.2/B1% X9.1+ I3.2 A2.1+/A3+ X3 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ A7+ S3.2
-知道	verb	A2.1+/A3+ X3 X2.2+ S3.2/B1% X5.1+ X7+ B1 X9.1+ I3.2 X2.3+ P1 X3.4 X2.1 S1.1.1 X2.5+ A7+ S3.2 Z5
+知道	verb	X2.5+ X2.2+
 矩	noun	G2.1 X4.2 A6.2+ S7.1+ Q3
 矩	pnoun	G2.1 X4.2 A6.2+ S7.1+ Q3 Q1.2 X6+
 矩	verb	S7.1+ Q1.2 X6+
@@ -44438,7 +44454,7 @@ T	noun	S4.5.2.1f
 社交界	noun	S5+c
 社会	adj	S5+ A10+
 社会	adv	A10+
-社会	noun	A10+ S5+ S5+c
+社会	noun	S5+
 社会主义	noun	G1.2
 社会化	noun	S1.1.1
 社会学	noun	S1.1.1
@@ -44472,7 +44488,7 @@ T	noun	S4.5.2.1f
 祓	pnoun	B4 G2.2+/A2.1
 祓	verb	B4 G2.2+/A2.1
 祖	noun	S4/S2mf S4/T1.1.1 N4 S4m
-祖先	noun	L3 B1 A2.2 S4 A11.1+ Q3 N2 X2.4 N4/A1.1.1 T2+/S2mf S4/B1 S4/T1.1.1 N4 S4T1.1.1 S4f S4m S9/S2.2m S4mf A9+ S4mfn
+祖先	noun	L3 B1 A2.2 S4 A11.1+ Q3 N2 X2.4 N4/A1.1.1 T2+/S2mf S4/B1 S4/T1.1.1 N4 T1.1.1 S4f S9/S2.2m S4mf A9+ S4mfn
 祖先	verb	L3 X2.4 S4/B1
 祖国	noun	M7
 祖宗	noun	S4m
@@ -44765,9 +44781,9 @@ T	noun	S4.5.2.1f
 秋的	adj	T1.3
 秋的	noun	T1.3
 种	adj	S1.2/S8+ S1.2.2-
-种	msr	A4.1 A6.2+ S1.2 Q1.2 S1.2/S8+ S1.2.2-
-种	noun	A4.1 A6.2+ S1.2 Q1.2 A4.1c L2c L3 T2+ K5.1/S2mf P1c S5+c O4.2+ S9
-种	verb	A4.1 A6.2+ S1.2 Q1.2 A4.1c L2c F4 K5.1 L3 T2+ K5.1/S2mf P1c S5+c O4.2+ S1.2/S8+ S1.2.2- S9 M2
+种	msr	A4.1
+种	noun	A4.1
+种	verb	F4 M2
 种子	noun	F4 K5.1 L3 F1 G3 T2+ K5.1/S2mf
 种子	verb	F4 K5.1
 种族	noun	E6- L2 K5.1 S7.3+ S5+c S2mf K2 S4c A4.1c S5+ M1/N3.8+
@@ -45400,7 +45416,7 @@ T	noun	S4.5.2.1f
 窿	pnoun	A1.1.1 K5.2 A1.1.2/G3 O2 B2- H4/L2 M7/O4.2- X2.1/A5.1- N5-
 窿	verb	A1.1.1 K5.2 A1.1.2/G3
 立	adv	N3.8+ T1.1.2/A11.1+ N4 N3.8+++ Z5/N3.8+
-立	verb	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1 M2 H1 M6 M8 M1 T2++ N3 A3+ A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
+立	verb	A10+ X2.1 X6+ T2+ A2.2 A1.1.1 M2 H1 M6 M8 M1 T2++ N3 A3+ A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
 立体	adj	O1.1 O4.5 A5.1+ A5.3+ T2++
 立体	noun	O1.1 O4.5 A5.1+ A5.3+ T2++
 立体声	noun	K3
@@ -45420,7 +45436,7 @@ T	noun	S4.5.2.1f
 立合同	pnoun	Q1.2/I2.1 N3.2-/A2.1 B2- Q1.2/I3.1 Q1.2/G2.1
 立合同	verb	Q1.2/I2.1 N3.2-/A2.1 B2-
 立场	adj	M6 T2++
-立场	noun	A3+ O4.1 M6 I3.1@ I1.2 N4 M2 M8 T2++ N3 X2.1 A7 G1.2 S8+ S7.4+ I2. M7 S7.1 I3.1 S1.1.1 A1.1.1 K5.1% N3.2 N3.4 N5.1+ X9.1+ X4.1 I2.2/H5 H5 H1 S8-
+立场	noun	A3+ O4.1 M6 I3.1@ I1.2 N4 M2 M8 T2++ N3 X2.1 A7 G1.2 S8+ S7.4+ I2.1 M7 S7.1 I3.1 S1.1.1 A1.1.1 K5.1% N3.2 N3.4 N5.1+ X9.1+ X4.1 I2.2/H5 H5 H1 S8-
 立场	verb	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.
 立志	noun	X7+ A2.2 A1.5.1 G2.1/Q1.2
 立志	verb	T1.1.3 X7+ A2.2 A1.5.1 G2.1/Q1.2
@@ -45460,9 +45476,9 @@ T	noun	S4.5.2.1f
 竖笛	noun	K2
 竖起	noun	I1.1/N5++
 竖起	verb	I1.1/N5++
-站	msr	M3 T2- M8 H4 Q3 K2 S8- A1.1.1@
-站	noun	I2.2/H5 H5 H1 S8- M3/H1c G2.1/H1c Q4.3 M7c S7.1@ M3 T2- M8 H4 Q3 K2
-站	verb	G3/H4 I2.2/H5 H5 H1 S8- M3/H1c G2.1/H1c Q4.3 M7c S7.1@ M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
+站	msr	M3 H1
+站	noun	I2.1/H1
+站	verb	M6 M8
 站住	noun	I2.2/H5 H5 H1 S8- M8 T4- H4
 站住	verb	I2.2/H5 H5 H1 S8- M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ H4 T4-
 站员	adj	S5+ A2.2
@@ -45574,7 +45590,7 @@ T	noun	S4.5.2.1f
 笆	verb	G2.1- A1.1.1
 笑	adj	E4.1+/X3.2
 笑	noun	E4.1+ E4.1+/X3.2
-笑	verb	E4.1+ E4.1+/X3.2
+笑	verb	E4.1+/X3.2 Q2.2/S1.2.4- S7.2-
 笑剧	noun	A1.1.1 K4 Q1.1
 笑剧	verb	A1.1.1 K4
 笑声	noun	E4.1+/X3.2
@@ -45701,18 +45717,19 @@ T	noun	S4.5.2.1f
 笨重	adv	N3.5+ N5+
 笨重	noun	S1.2.5+/S2mf
 笨重	verb	N3.2+ A12- N3.5+ N5+ S1.2.5+ O4.1 E4.1- W4 A1.1.1 A1.1.2@ S1.2.5+/S2mf
-第一	adv	A13.2 A14 N4
-第一	noun	N4 P1@
-第一	num	A13.2 A14 N4 P1@
+第一	adj	N4+ A13.2++ N4 P1@
+第一	adv	N4+ A13.2++ N4 P1@
+第一	noun	N4+ A13.2++ N4 P1@
+第一	num	N4+ A13.2++ N4 P1@
 第七	num	N1
 第三	adv	N4
 第三	num	N4 N5 N1
 第三者	adj	A6.2--
 第三者	noun	A6.2-- X2.2-/S2mf
 第九	num	N1
-第二	adv	N4
-第二	noun	P1 F1 O2/T3+ S8+/S2mf
-第二	num	N4 P1 F1 O2/T3+ S8+/S2mf S8+
+第二	adv	N4 N1
+第二	noun	N4 N1
+第二	num	N4 N1
 第二	verb	S8+
 第五	num	N1
 第八	num	N1
@@ -45742,9 +45759,9 @@ T	noun	S4.5.2.1f
 笼	verb	A1.7+
 笼罩	noun	B5/L1- H1
 笼罩	verb	A1.8+ A10- B5/L1- H1
-等	adj	N5.2+ O4.2- N5++%
+等	adj	T1.3 A3+ S1.1.1
 等	noun	A5.1 A4.1 S7.1 P1c% P1c S5+c O4.2+ S7.1+ S5+ M3 T1.3
-等	verb	A4.1 A5.1 S7.1 P1c% S7.1++ N5.2+ O4.2- N5++% P1c S5+c O4.2+ S7.1+ S5+ M3 T1.3 A3+ A11.1+ S1.1.1% X2.6+
+等	verb	T1.3 A3+ S1.1.1
 等于	adj	A6.1+++
 等于	adv	A13.4
 等于	noun	A6.1+ N5
@@ -46702,7 +46719,7 @@ T	noun	S4.5.2.1f
 纠纷	verb	A9- Q2.2/A6.1-
 纠缠	adv	A5.1- A13.3
 纠缠	noun	B5 M7 O2 X2.5- A12- E3- O4.2- S1.2.4- O4.3 S2mf X3.2 Q2.2/E3- S7.1-
-纠缠	verb	A1.1.1 S7.3 X8+ X2.4 M1 A5.1- A13.3 B5 A1.8+ M7 O2 X2.5- A12- E3- O4.2- S1.2.4- O4.3 S1.1.1 S2mf S9 E6- M1/N6+ VVZ S9 E6- M1/N6+ X3.2 Q2.2 Q2.2/E3- S7.1-
+纠缠	verb	A1.1.1 S7.3 X8+ X2.4 M1 A5.1- A13.3 B5 A1.8+ M7 O2 X2.5- A12- E3- O4.2- S1.2.4- O4.3 S1.1.1 S2mf S9 E6- M1/N6+ X3.2 Q2.2 Q2.2/E3- S7.1-
 纠葛	noun	A6.1- H5 O2 Q2.2/A6.1-
 纠葛	verb	Q2.2/A6.1-
 纡	noun	O2 O1.1 B1 O4.4 M2 A2.1+ K1
@@ -47458,9 +47475,9 @@ T	noun	S4.5.2.1f
 绘草图	verb	Q2.1 O4.4
 给	mark	Z5
 给	noun	O4.5
-给	part	M6
-给	prep	M6 Z5
-给	verb	A9- A1.1.1 S6+ M6 O4.5 Z5
+给	part	Z5
+给	prep	Z5
+给	verb	A9- A1.1.1
 给与	noun	A6.1- W3/M4 A9- X9.1+ G1.1/S2mf S9/S2mf I1.1 L3 I4/H1c O2 A10-/S2mf O4.5 Q2.2 S7.1- S1.1.3+ A1.1.1
 给与	verb	A1.1.1 A1.8+ A10- G2.2- X9.2+ E3- N5+ G2.1% Z5 A2.2 A9- A6.1- W3/M4 A6.1+ S7.1+ X9.1+ F4 M2 G1.1/S2mf S9/S2mf H5 I1.1 A9+ L3 I4/H1c O2 A10-/S2mf Q2.1 B3 S9% O4.5 Q2.2 S7.1- K5.1 S1.1.3+ A2.1+ S7.4+ S8+ X2.1
 给予	noun	O4.5 Q2.2 S7.1-
@@ -47560,9 +47577,9 @@ T	noun	S4.5.2.1f
 统御力	noun	S7.1+
 统御力	pnoun	S7.1+
 统治	adj	S7.1+
-统治	noun	A1.7+ A9- S7.1+ G1.1 I2.1/S+ G1.1c G2.1 X4.2 A6.2+ Q3 G3/S5+c S5+c H2/M4 H1 M1 M2 A2.1+ M4 M4/S2mf N3.7 N3.3 N5++ A11.1+ A11.2+ O2 Q1.2 X6+
+统治	noun	A1.7+ A9- S7.1+ G1.1 I2.1/S1.1.1+ G1.1c G2.1 X4.2 A6.2+ Q3 G3/S5+c S5+c H2/M4 H1 M1 M2 A2.1+ M4 M4/S2mf N3.7 N3.3 N5++ A11.1+ A11.2+ O2 Q1.2 X6+
 统治	verb	A1.7+ A9- S7.1+ M1 M2 A2.1+ N5++ A11.1+ A11.2+ Q1.2 X6+
-统治权	noun	G1.1 I2.1/S+ S7.1+
+统治权	noun	G1.1 I2.1/S1.1.1+ S7.1+
 统治者	intj	Z4
 统治者	noun	S7.1+ S7.1+/S2.2m S9/S2.2m S7.1+/S2mf G1.1/S2mf O2% O2 Z4
 统治者	verb	S7.1+
@@ -48041,7 +48058,7 @@ T	noun	S4.5.2.1f
 罐装的	adj	O2/F1
 罐装的	pnoun	O2/F1
 网	adj	N5
-网	noun	A1.1.1 S6+/A1.1.1 A9+ I1.1 N5 O2 S5+ A1.3+ Q4.3 Y2 S1.1.1 S5+c L2
+网	noun	O2 S5+
 网	verb	A1.1.1 A9+ I1.1 Q4.3 Y2 S1.1.1
 网孔	noun	A2.2
 网孔	verb	A2.2
@@ -48215,7 +48232,7 @@ T	noun	S4.5.2.1f
 羊齿类	verb	M8
 羌	adj	P1 S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 羌	noun	P1 S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
-美	adj	A13.5 O4.2+
+美	adj	O4.2+ O4.2+
 美	adv	O4.2+
 美	noun	O4.2+ B4
 美	pnoun	Z2
@@ -48244,8 +48261,8 @@ T	noun	S4.5.2.1f
 美味地	adv	X3.1+ O4.2+
 美味地	pnoun	X3.1+ O4.2+
 美国	adj	Z2
-美国	noun	Z2/S2mf
-美国	pnoun	Z2 Z2/S2mf
+美国	noun	Z2
+美国	pnoun	Z2
 美国人	adj	Z2
 美国人	noun	Z2 Z2/S2mf
 美国化	noun	Z2/A6.1+
@@ -48467,7 +48484,7 @@ T	noun	S4.5.2.1f
 耀眼	verb	O4.2+ X3.4-
 老	adj	G3/S2mf T3+/S2mf T3+ Z4
 老	noun	S7.1+/S2.2m
-老	verb	S7.1+/S2.2m
+老	verb	T3+ S7.1+/S2.2m S3.1+
 老人	adj	T3++
 老人	noun	S7.1+/S2mf T3++
 老人病学	noun	B3 S2/T3++mf
@@ -48497,7 +48514,7 @@ T	noun	S4.5.2.1f
 老实人	noun	G2.1+ G2.2+
 老实说	adv	A5.2+ A5.4+
 老实说	pnoun	A5.2+ A5.4+
-老师	noun	P1/I3.2/S2mf S9/S2.2m
+老师	noun	P1/I3.2/S2mf
 老年	adj	T3++ T3+++ T3+/S2c
 老年	adv	T3+
 老年	noun	S2/T3++mf T1.3 P1c T3+ T3++ T3+++ T3+/S2c T3+++/S2mf
@@ -48555,7 +48572,7 @@ T	noun	S4.5.2.1f
 耆那教	noun	S9
 耆那教	pnoun	S9
 而	adv	Z5
-而	conj	T1.1.2 Z5
+而	conj	Z5 Z6
 而且	adv	A6.1+ N5++ N5.2+ A13.3 Z5 A2.1-
 而且	conj	Z5
 而今	adv	T1.1.2 Z4 Z5
@@ -49376,9 +49393,9 @@ T	noun	S4.5.2.1f
 胸饰	adj	B1
 胸饰	noun	B1
 胸骨	noun	B1
-能	adj	X9.1+
-能	noun	T1.3 X5.2+ Y1
-能	verb	A1.1.1 A7+ T1.3 X5.2+ Y1 X9.1+
+能	adj	X9.1+ X9.1+
+能	noun	Y1
+能	verb	X9.1+ A7+
 能力	adj	X9.1+
 能力	noun	A1.1.1 I3.1/S5+c N3.2 N3.4 N5.1+ X9.1+ I3.1 S7.1+ X4.1 X5.2+ Y1 X9.1 H2 S5+c P1/I3.1/S2mfc X9.1+/I3.2 N3.8+ A1.5.2+
 能力	verb	A1.1.1
@@ -49902,11 +49919,11 @@ T	noun	S4.5.2.1f
 自尊自大	noun	L2mfn
 自尊自大	pnoun	E6- L2mfn
 自尊自大	verb	E6-
-自己	adj	A9+ S5-
+自己	adj	S5-
 自己	adv	S5-
-自己	det	A9+ S5-
+自己	det	S5-
 自己	noun	S5-
-自己	pron	A9+ S5- Z8
+自己	pron	Z8
 自己	verb	A9+
 自己做	adj	C1
 自己做	noun	C1
@@ -51758,7 +51775,7 @@ T	noun	S4.5.2.1f
 虼	pnoun	L2mfn
 虽	conj	Z5
 虽然	adv	A2.1- Z5
-虽然	conj	A2.1- Z5
+虽然	conj	Z5
 虽然	prep	Z5
 虽说	conj	Z5
 虾	noun	F1 L2 L2mfn Z2/S2mf B5 L2mfnc F1c N3.2-/S2mf
@@ -52497,8 +52514,9 @@ T	noun	S4.5.2.1f
 袤	noun	N3.7 T1.3 M4
 袤	pnoun	N3.7 T1.3 M4
 被	adj	N5.1+
-被	mark	A3+ Z5 H5 O2 N5.2+ N5.1+
-被	noun	H5 O2 N5.2+
+被	mark	Z5
+被	noun	B5 H5
+被	prep	Z5
 被	verb	A3+ Z5
 被任命人	noun	I3.1/S2mf
 被任命人	verb	I3.1/S2mf
@@ -52923,8 +52941,9 @@ T	noun	S4.5.2.1f
 西风	adj	M6
 西风	noun	M6
 要	adj	A11.1+ X5.2+
+要	adv	S6+
 要	noun	Q2.1 Q2.2 S6+ X7+ A7+ S3.2 A9-
-要	verb	A11.1+ X5.2+ Q2.1 Q2.2 S6+ X7+ A7+ S7.1+ S3.2 A9- S7.1+/Q2.2 I2.2/Q2.2
+要	verb	X7+ S3.2 A9-
 要不	adv	A6.1- Z5
 要不	conj	Z5
 要不然	adv	I2.1/X2.4
@@ -53006,7 +53025,7 @@ T	noun	S4.5.2.1f
 覆面物	verb	M6 S1.1.1 X2.1 B5
 见	adj	S1.2.3-
 见	noun	O4.1
-见	verb	O4.1 S1.2.3- S3.1 M6 A1.1.1 X9.2+ A6.1+ X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+见	verb	X3.4
 见习	noun	P1/I3.1
 见习	verb	P1/I3.1
 见习工	noun	P1/I3.1
@@ -53134,7 +53153,7 @@ T	noun	S4.5.2.1f
 觉察	noun	X2.1/A5.1- A7 N5---
 觉察	verb	X2.1/A5.1- A7 N5---
 觉得	noun	X3.2
-觉得	verb	X2.1 E1 X3 X3.2
+觉得	verb	X2.1 X3
 觉悟	noun	A1.1.1 F1 O4.1 X2.1 X4.1 G2.1 X2.5+ X9.2+
 觉悟	verb	A1.1.1 F1 X2.5+ X9.2+
 觉查	adj	S1.2.6+
@@ -53448,7 +53467,7 @@ T	noun	S4.5.2.1f
 讣闻	noun	L1- L1-/Q4.2
 认	verb	Q2.2 B3 A1.8+ S7.4+/M1 X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 S7.1- A9- K5.1
 认为	noun	A10+ I3.2 A5.1 S7.2+ X2.1 X3.2
-认为	verb	A10+ X2.1 X6+ I3.2 A5.1 S7.2+ S7.4+ S8+ N2 S1.2.3+ X2.4 X6 X3.2 S9%
+认为	verb	X2.1
 认付	pnoun	A9+ X2.5+ S1.2.1+ S7.4+
 认付	verb	A9+ X2.5+ S1.2.1+ S7.4+
 认出	noun	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
@@ -53523,7 +53542,7 @@ T	noun	S4.5.2.1f
 讨论会	verb	Q2.2
 讨饭	verb	Q2.2/E6-
 让	noun	I2.2/H1 K5.1% O4.5
-让	verb	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ S7.4+ I2.2/H1 T2- S8+ X2.1 K5.1% O4.5 Q2.2 S7.1- K5.1
+让	verb	S7.4+
 让与	noun	A1.7- A9- I2.2 K3 Q4 E6+ G2.1 M2 M3 Q2.1 X9.2+ B3 S9% Q2.2 S1.2 X7+ M6
 让与	verb	A1.7- A9- I2.2 K3 Q4 E6+ A6.1- A1.8- A2.2/E2- G2.1 M2 M3 Q2.1 X9.2+ B3 S9% Q2.2 S1.2 X7+ M6
 让予	adj	A1.7- A9-
@@ -53641,7 +53660,7 @@ T	noun	S4.5.2.1f
 记忆力	noun	X2 X2.2+ S7.2+ Y2 X2.1/T1.1.1 X2.2+/S7.2+
 记秒表	noun	N3.1 Q2.1% O2/T1
 记秒表	verb	N3.1 Q2.1%
-记者	noun	Q2.1/S2mf Q4.1 Q4.1/S2mf Q1.2/S2mf Q4.2/I3.2/S2mf Q4.2/S2mf
+记者	noun	Q4.2/I3.2/S2mf
 记著	noun	A9+
 记著	verb	A9+
 记要	noun	Q4.1
@@ -54069,7 +54088,8 @@ T	noun	S4.5.2.1f
 诛	verb	G2.1 L1- A1.1.1
 诜	pnoun	Q2.2 X2.4 X2.2+ Q2.1
 诜	verb	Q2.2 X2.4 X2.2+ Q2.1
-话	noun	Q1.1 Q3 Q2.1 S9@ X4.1 Q4 Y2
+话	noun	Q3 Q1.1 Q2.1
+话	part	Z4
 话	verb	Q2.1 Q3
 话剧	noun	K4 K5.1
 话务员	noun	Q1.3/S2mf
@@ -54110,9 +54130,9 @@ T	noun	S4.5.2.1f
 诣	pnoun	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% X8+ T2+ S1.1.2+
 诣	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
 该	adj	E6- A1.8+ A2.2 S1.1.3+
-该	adv	A13.3 A6.1+
+该	adv	A6.1+
 该	conj	Z5 Z8
-该	det	A13.3 A6.1+ E6- A1.8+ A2.2 S1.1.3+ I1.2 S6+ A7+ Z5 Z8
+该	det	Z5 Z8
 该	pron	A13.3 A6.1+ M6 Z5 Z8
 该	verb	I1.2 S6+ A7+
 该人	det	A6.1+++
@@ -54256,8 +54276,8 @@ T	noun	S4.5.2.1f
 诳	verb	A5.2- M1 T2++ M6 A3+
 诳骗	noun	E4.1+ O4.2+ S3.2 X5.2+
 诳骗	verb	O4.2+ S3.2 X5.2+
-说	noun	E4.1+/X3.2 O2 Q2.1 Q3 S7.1+ X4.1
-说	verb	E4.1+/X3.2 O2 Q2.1 Z4% Q3 S7.1+ X4.1 Q2.2 X3 A10+
+说	noun	X4.1
+说	verb	Q2.1 Q1.1
 说不出的	adj	Q3 Q2.2/X9.1- B1 A7- A4.2-
 说不出的	verb	Q3 Q2.2/X9.1- B1 A7- A4.2-
 说不定	adv	A7
@@ -54299,7 +54319,7 @@ T	noun	S4.5.2.1f
 说项	noun	S9/Q2.2 S1.1.2+
 说项	verb	S9/Q2.2 S1.1.2+
 请	adv	Z4
-请	verb	E4.2+ E2+ X7+ Q2.2 S9/Q2.2 Z4
+请	verb	Q2.2
 请假	noun	K1/T1.3 S7.4+
 请假	verb	A9- K1/T1.3 S7.4+ M1 M2 A1.1.1 A1.9 T2-
 请客	noun	F1 N5+ S9/T1.3 I2.2/H5 H5 H1 S8- Q2.2/X3.2++ F2@
@@ -54393,7 +54413,7 @@ T	noun	S4.5.2.1f
 谀	adj	O4.4
 谀	pnoun	O4.4 S7.2+/Q2.2 O4.2+
 谀	verb	S7.2+/Q2.2 O4.2+
-谁	pron	Z8 Z8mfc
+谁	pron	Z8mfc
 谁也	pnoun	Z8mfc
 谁也	pron	Z8mfc
 谁的	det	Z8
@@ -54663,9 +54683,9 @@ T	noun	S4.5.2.1f
 谦逊	adj	S7.1-
 谦逊	noun	S1.2.3-
 谦逊	verb	S1.2.3+ S7.1++ S1.2.3- S7.1-
-谦逊地	adj	S.1.2.3-
+谦逊地	adj	S1.2.3-
 谦逊地	adv	S1.2.3-
-谦逊地	noun	S.1.2.3- S1.2.3-
+谦逊地	noun	S1.2.3-
 谧	adj	X3.2- E3+ A10- A1.1.1/N5-
 谧	noun	X3.2- E3+ A10-
 谧	pnoun	X3.2- E3+ A1.1.1/N5- A10-
@@ -55475,7 +55495,7 @@ T	noun	S4.5.2.1f
 赭色	noun	O4.3
 走	adj	M2
 走	noun	B1 O2 N3.3 M1
-走	verb	A1.1.1 X8+ X2.4 M1 B1 O2 N3.3 L2 X9.2+/A12+ M1/N3.8+ M2 Q2.1 Q2.2 A1.9 A9- T2-
+走	verb	M1
 走光	noun	W4
 走光	verb	W4
 走向	noun	A6.2+ A2.1+
@@ -55520,7 +55540,7 @@ T	noun	S4.5.2.1f
 赶路	noun	M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@
 赶路	verb	M1 S1.1.3+ T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@
 赶过	verb	N3.8+ S7.1+
-起	verb	A1.1.1 M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+起	verb	M1 N5+/A2.1
 起伏	noun	A1.1.2 A1.4 N5+/A2.1 W3/M4
 起作用	noun	A1.5.1 A1.1.1 S1.1.3+ A2.2 N2 Y2
 起作用	verb	A1.1.1 A1.5.1 S1.1.3+ A2.2 N2 Y2
@@ -55544,7 +55564,7 @@ T	noun	S4.5.2.1f
 起拱石	pnoun	L2mfn
 起摺	noun	N5+ S5+c S5+
 起摺	verb	S5+
-起来	verb	A1.1.1 M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+起来	verb	M1 M6
 起步线	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ A1.1.1
 起步线	verb	K5 A5.1 N3.1 X9.2+ A1.1.1
 起毛	noun	G2.2-/S2mf
@@ -55580,7 +55600,7 @@ T	noun	S4.5.2.1f
 起程	verb	M1
 起立	adj	M6 T2++
 起立	noun	G3 S7.1
-起立	verb	A1.1.1 M1 G3 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. S7.1
+起立	verb	A1.1.1 M1 G3 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 S7.1
 起草	noun	W4 F2 O1.2 K5.2
 起草	verb	Q1.2 G3 M2 W4 F2 O1.2 K5.2
 起草者	noun	C1/I3.2/S2.2m C1/S2.2m
@@ -55819,8 +55839,8 @@ T	noun	S4.5.2.1f
 跞	verb	M1 L2 X9.2+/A12+ M2 A2.1+ E1 H4/A2.1
 跟	conj	Z5
 跟	noun	B1 B5
-跟	prep	A1.8+ S3.2 B1 B5 L2 Z5
-跟	verb	B5 L2 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4
+跟	prep	Z5
+跟	verb	M1 N4 S7.1-
 跟从	verb	S1.1.3+
 跟前	adj	M6 A11.1+
 跟前	noun	M6 A11.1+ M7/W3 A4.1 A10- S1.2.3+ W4 S7.1+ Q4.3
@@ -55868,7 +55888,7 @@ T	noun	S4.5.2.1f
 跬	verb	Q2.1
 路	adv	A13.3
 路	msr	M2 M6 X4.2
-路	noun	A13.3 M2 M6 M3 M1 X4.2 M3/H3 N3.3 A4.1 A1.1.1 T1.3 N3.3+ S1.2.1-
+路	noun	M3 G3
 路	verb	M2 M6
 路口	noun	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
 路口	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
@@ -56097,8 +56117,8 @@ T	noun	S4.5.2.1f
 身	noun	B1 O2 S5+c O4.1 S2mf F1 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 S2mfc S7.1 A4.1 A11.1
 身	verb	F1
 身份	adj	M6 T2++ O4.1
-身份	noun	B1 O2 S5+c O4.1 S2mf B4 P1 G1.1c M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. M7 S7.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 M7/F4 H4 I1.1 M3 S6+ B2- B2+ Z7 Q2.1 S2 A6.1+ Q1.2 K4/S2mf S1.2 S2mf/A6.2- A4.1 O4.2+ A11.1
-身份	verb	B4 P1 M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. Q2.1
+身份	noun	B1 O2 S5+c O4.1 S2mf B4 P1 G1.1c M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 M7 S7.1 N4 S1.1.1 A1.1.1 K5.1% H1 A1.2 M7/F4 H4 I1.1 M3 S6+ B2- B2+ Z7 Q2.1 S2 A6.1+ Q1.2 K4/S2mf S1.2 S2mf/A6.2- A4.1 O4.2+ A11.1
+身份	verb	B4 P1 M2 X2.2+ I3.1 Q2.2 M6 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.1 Q2.1
 身份证	noun	H5 Q4.2c O1.1 Q1.2 P1/Q1.2
 身份证	verb	H5
 身体	noun	B1 O2 S5+ S5+c O4.1 S2mf B2 X9.2 S2mfc S9/H1 X4.2 O3 M3 M4 Q1.3 Y2 N2 G1.1c
@@ -56145,7 +56165,7 @@ T	noun	S4.5.2.1f
 躺卧	verb	A5.2- M1 T2++ M6 A3+
 躺椅	noun	H5 M6 Q2.2
 躺椅	verb	M6 Q2.2
-车	noun	A1.1.1 K6 M3fn O2 Y2 X4.2
+车	noun	M3fn X4.2 K5.2
 车	verb	A1.1.1
 车体	noun	M3
 车前灯	noun	O2/W2/M3
@@ -56878,9 +56898,10 @@ T	noun	S4.5.2.1f
 迅速	verb	A1.1.1 A1.5 F1- I1 M1 N3.8 N3.8+ O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ W3/M4
 迅速地	adv	N3.8+
 迅速地	pnoun	N3.8+
-过	adv	N5++ N5.2+ A13.3
+过	adv	N5.2+ T4- T1.1.1 N5+ A13.3-
 过	noun	O2
-过	verb	A1.1.1 O2 M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@ N5.2+
+过	part	Z5
+过	verb	M1 T1.1.1 X9.2+ N5.2+ S7.4+ A5+
 过不去	verb	E4.1- E5-
 过了	adv	M6 N4
 过了	noun	M6
@@ -56901,13 +56922,13 @@ T	noun	S4.5.2.1f
 过劳	verb	A1.1.1/N5.2+ X8+ B2- A1.1.1 I1.1/G1.1 A12- I3.1/N5.2+ N3.5 E6- A4.1
 过半数	noun	N5+++c
 过半数	num	N5+++c
-过去	adj	N4
+过去	adj	T1.1.1 T2-
 过去	adv	M6 A6.1- N4 T1.1.1 Z5
 过去	det	T2- N4
-过去	noun	B1 M6 A6.1- N4 O2 O4.1 T1.1.1 T1.3 T2- Z5
+过去	noun	T1.1.1 T2-
 过去	part	M6
 过去	prep	Z5
-过去	verb	O4.1 T1.3
+过去	verb	M1 T1.1.1 T2-
 过去式	noun	O4.3 I1.1
 过去式	verb	O4.3
 过后	adj	T4-- T1.1.3 N4
@@ -57075,10 +57096,10 @@ T	noun	S4.5.2.1f
 返老还童	noun	T3-/A2.1
 返老还童	verb	T3-/A2.1
 还	adj	M8 E3+ O4.5
-还	adv	A13.3 N6++ A2.1+ M2 A6.1- Z4 C1 F2/O2 E3+/A2.1 E6+ I1.1 M1 A9- N6 S1.1.2+ G1.1/Q1.2 M3 K5.1 Y2% M8 E3+ O4.5 N5++ S7.1- A1.1.1 T1.1.2 T2++ Z5
+还	adv	T2++ N6
 还	det	N5++
 还	noun	C1 F2/O2 I1.1 M1 A9- S1.1.2+ N6 G1.1/Q1.2 M3 K5.1 Y2%
-还	verb	A2.1+ M2 E3+/A2.1 E6+ M1 A9- N6 S7.1- A1.1.1
+还	verb	M1 A9-
 还击	noun	H5/I2.2 H5 N2/O2 M4
 还击	verb	A6.1- H5/I2.2 H5 N2/O2 M4
 还原	noun	N5-/A2.1 Y1@
@@ -57089,19 +57110,20 @@ T	noun	S4.5.2.1f
 还好	adv	A5.1
 还押	noun	G2.1
 还押	verb	G2.1
-还是	adj	M8 E3+ O4.5
+还是	adj	M8 N6
 还是	adv	C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T1.1.2 T2++ Z4 Z5
 还是	conj	Z5
 还是	noun	C1 F2/O2
 还是	verb	E3+/A2.1 E6+
 还清	verb	G2.2+ A10+
-这	adv	A13.3
+这	adv	M6
 这	det	M6 Z5 Z8
 这	part	Z5
-这	pron	A13.3 M6 Z5 Z8
+这	pron	Z8
 这个	adv	A13.3
-这个	det	M6 Z5 Z8
-这个	pron	A13.3 M6 Z5 Z8
+这个	det	M6 Z8 Z5
+这个	pron	Z8
+这么	adv	A13.3
 这么	pron	A13.3 Z5 Z8
 这些	det	Z5 Z8
 这些	pron	Z5 Z8
@@ -57114,7 +57136,7 @@ T	noun	S4.5.2.1f
 这天	pron	T1.1.2
 这样	adv	Z5/A2.2
 这样	det	Z5 Z8
-这样	pron	A13.3 Z5
+这样	pron	Z8
 这样	verb	Z5 Z8 Z5/A2.2
 这样的	adv	Z5 Z8
 这样的	det	Z5 Z8
@@ -57124,8 +57146,8 @@ T	noun	S4.5.2.1f
 这次	intj	Z4
 这次	noun	N4 Z5 T1.2 T1.1.2 A9- Z4 W3/M4 W3/M5 O3 E1
 这次	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
-这里	adv	M6 T1.1.2 T1.2
-这里	pron	M6 T1.1.2 T1.2
+这里	adv	M6
+这里	pron	Z8/M6
 进	adj	N5++ N3.3++ T2++
 进	adv	N5++ N3.3++ T2++
 进	noun	I1.1 M1/G3 S3.2 A5.1+/A2.1+
@@ -57171,11 +57193,11 @@ T	noun	S4.5.2.1f
 进程	adv	Z4
 进程	noun	A1.1.1 X4.2 Y2 M1 M3 O2 K3 A4.1 X4.1 K5.1/M7 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 S7.1+ A2.2 M2 O2/L2 O3 S8+ O1.1 K4/S2mf X2.4 Z4
 进程	verb	A1.1.1 Y2 M1 S7.1+ A2.2 M2 X2.4
-进行	adj	T1.1.2 A1.1.1
+进行	adj	A1.1.1/T1.1.2
 进行	adv	A1.1.1 A13.3 Z4
 进行	msr	I1 N3.5
-进行	noun	A1.1.1 T2++ M1 X4.2 I1.1 A2.1+ A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% K5.1% S5+c K2 M1/N3.8+ B5 X8+ T1.3 X7/N5+ N5 K4 M6 X7+ P1 B3 F1 M7/K5.1 S1.1.1/M1 M3/H3 N3.3 A4.1 T2+ S1.1.2+
-进行	verb	A1.1.1 K4 X9.2+ T2++ T1.3 P1 M1 X4.2 Y2 A1.1.1/O1.2 W4 M1/N5+ A13.3 I1 N3.5 I1.1 A2.1+ A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% K5.1% S5+c K2 M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ M3 S4 B5 X8+ X7/N5+ N5 M6 X7+ B3 F1 M7/K5.1 S1.1.1/M1 T1.1.2 M3/H3 N3.3 A4.1 T2+ S1.1.2+ Z4
+进行	noun	A1.1.1/T1.1.2
+进行	verb	A1.1.1
 进货	noun	A9+ F1 S4 O2 I1.1
 进货	verb	A9+ F1 S4 O2 I1.1
 进退两难	noun	X2.5-
@@ -57249,7 +57271,7 @@ T	noun	S4.5.2.1f
 连	adv	A13 A13.1 A2.2 S5+ A1.8+ A1.1.1 M3 A6.1+ O4.4 A1.4 N1 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c N4 O2 T1.3 Z5 N6+ T2++
 连	conj	Z5
 连	mark	Z5
-连	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c O2 T1.3
+连	noun	S5/G3/S2mf
 连	prep	A13.1 A6.1+ O4.4 A1.4 N1 T1.3 Z5
 连	verb	A2.2 S5+ A1.1.1 A1.8+ M3 A6.1+
 连击	noun	F1
@@ -58154,8 +58176,9 @@ T	noun	S4.5.2.1f
 遒	pnoun	A7+/A2.1 S5+ M6 T2- O2 X7+ N4 S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 遒	verb	A7+/A2.1 S5+ T2-
 道	adv	A13.3
-道	msr	H2
-道	noun	A13.3 A2.2 X2.1 A5.2+ H2 M3 M1 X4.2 M6 Q2.2 Q2.2 S7.1+ K4 X4.1 G2.2+ M3/H3 N3.3 A4.1 A1.1.1 T1.3 X9.1+ O4.4 Q1.3 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@
+道	msr	A4.1
+道	noun	M3
+道	part	Z5
 道	verb	Q2.1 X2.1 Q2.2
 道义	noun	G2.2c
 道具	noun	A1.1.1 C1 O2 B5 F3 K2 X4.2 B3 Y1 O2/K4 K5.1/S2mf Y2@
@@ -58358,25 +58381,25 @@ T	noun	S4.5.2.1f
 邕	pnoun	K2 A6.1+
 邛	noun	W3 N5+
 邛	pnoun	W3 N5+
-那	adv	A13.3 A6.1+ Z5
-那	conj	N4 Z5 T1.2 T1.1.1 Z8
-那	det	Z5 Z8
-那	pron	A13.3 A6.1+ Z5 Z8
+那	adv	M6
+那	conj	Z8
+那	det	Z5
+那	pron	Z8
 那不勒斯	pnoun	Z2 Z3c
 那个	adv	A13.3 A6.1+
-那个	conj	Z5 Z8
-那个	det	A13.3 A6.1+ Z5 Z8
+那个	conj	Z4
+那个	det	Z8
 那个人	adv	A13.3 A6.1+
 那个人	conj	Z5 Z8
 那个人	det	Z5 Z8
 那个人	pnoun	A13.3 A6.1+ Z5 Z8
-那么	adv	Q2.2
-那么	conj	N4 Z5 T1.2 T1.1.1
+那么	adv	A13.3
+那么	conj	Z5
 那么	noun	Q2.2
 那么	pron	A13.3 A6.1+ Z5 Z8
 那么	verb	Q2.2
-那些	det	Z5 Z8
-那些	pron	Z5 Z8
+那些	det	Z8
+那些	pron	Z8
 那儿	adv	M6 T1.2
 那儿	conj	M6
 那儿	pron	M6 T1.2 Z5
@@ -58539,11 +58562,11 @@ T	noun	S4.5.2.1f
 部首	noun	G1.2/S2mf O1% N5+/A2.1 A11.1+
 郭公鸟	noun	L2 B2-/X1
 郭公鸟	pnoun	L2 B2-/X1
-都	adj	A6.1+ O4.4 A1.4 N1 I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1
-都	adv	A13.1 A13.2 A6.1+ O4.4 A1.4 N1 I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1 M7/G1.1 M7 N5.1+ T1.1.1 T1.3 Z5
+都	adj	N1 N5
+都	adv	A13.1 A13.2
 都	det	N5.1+
 都	mark	Z5
-都	noun	I1.1 M7/G1.1 Q1.2 M7 T1.3
+都	noun	G1.1 M7
 都	verb	A6.1+
 都不	adv	Z6 Z8/Z6 Z5/Z6
 都不	det	Z8/Z6 Z5/Z6
@@ -58669,7 +58692,7 @@ T	noun	S4.5.2.1f
 酒馆	noun	F1/H1 F2 F2/H1 F2/H1c K2
 酒馆	verb	F2
 酒鬼	adj	F2
-酒鬼	noun	F2 F2++ F2+++/B2-/S2mf F2+++/S2mf F2++/S2mf O1.2 B4 F2+++/S2@@mf
+酒鬼	noun	F2 F2++ F2+++/B2-/S2mf F2+++/S2mf F2++/S2mf O1.2 B4 F2+++/S2@mf
 酒鬼	verb	F2++ O1.2 B4
 酗	adj	F2++
 酗	noun	F2+++/S2mf
@@ -58921,9 +58944,9 @@ T	noun	S4.5.2.1f
 释放	adj	A1.7- A9-
 释放	noun	A1.7- A9- I2.2 K3 Q4 E6+ G2.1 M2 Q2.1 X9.2+ B3 S9% S8+ S9
 释放	verb	A1.7- A9- I2.2 K3 Q4 E6+ G2.1 G2.2+ A10+ M2 Q2.1 X9.2+ B3 S9% N3.2+/A2.1 A4.2+/Q2.1 S8+ S9
-里	adj	N5---
+里	adj	M6
 里	adv	M6 G2.1@
-里	loc	M6 G2.1@ S1.1.3+ O4.2+ Z5
+里	loc	M6
 里	noun	B1 B5 L2mfnc F1c M6 G2.1@ M7 N3.3-/H3c N3.3-/S2mf M7/N3.3- N5--- Z5
 里	prep	Z5
 里	verb	B5
@@ -59455,7 +59478,7 @@ T	noun	S4.5.2.1f
 钮扣	noun	A1.7+/O2 A1.7+/B5
 钮扣孔	noun	B5 L3
 钮扣孔	pnoun	B5 L3
-钱	noun	A1.1.1 B4 Q4.3 F1 F2/O1.1 I1 L2
+钱	noun	I1
 钱	verb	A1.1.1 B4 F1
 钱包	noun	A9+ K5.1 B1 B5 O2 B5/I1
 钱包	verb	A9+ K5.1 B1
@@ -59668,7 +59691,7 @@ T	noun	S4.5.2.1f
 银行	verb	I1.1 X2.6+ M1
 银行业	noun	I1.1 X2.6+ M1 H1
 银行家	noun	I1.1/S2mf
-铸	verb	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
+铸	verb	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
 铸块	noun	O2
 铸成品	noun	K4 A4.1 M2 G1.2 S9 A9- A1.1.1
 铸成品	pnoun	K4 A4.1 M2 G1.2 S9 A9- A1.1.1
@@ -60051,10 +60074,10 @@ T	noun	S4.5.2.1f
 镶饰的	adj	O4.1
 镶饰的	pnoun	A1.1.1 O4.1
 镶饰的	verb	A1.1.1
-长	adj	N3.7+ T1.3+ N3.3+ N3.2+ S7.1+ T3++ X7+
+长	adj	N3.7+ T1.3+ N3.3+ N3.2+
 长	adv	N6+++ T1.3+ T2++ T2+++
 长	noun	B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf N3.7 T1.3 M4 S7.1+ S7.1+/I3.1/S2.2m S7.1+/G2.1/S2.2m T3+/S2mf S9/S2mf W3
-长	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 F4 N5+/A2.1 B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf N3.7 T1.3 M4 N3.7+ T1.3+ N3.3+ N3.2+ N6+++ S7.1+ K5.1 M1 N5 A11.1+ Q1.2 T1.1.3 S7.1+/I3.1/S2.2m S7.1+/G2.1/S2.2m T3+/S2mf S9/S2mf T2++ T2+++ T3++ W3 X7+
+长	verb	N3+ A2.1
 长久	adj	N3.7+ T1.3+ N3.3+ N3.2+
 长久	adv	T1.3+
 长久	verb	N3.7+ T1.3+ N3.3+ N3.2+ X7+
@@ -60249,7 +60272,7 @@ T	noun	S4.5.2.1f
 闭联集	noun	N4
 闭联集	pnoun	N4
 问	noun	Q2.2
-问	verb	Q2.2
+问	verb	Q2
 问候	noun	Q2.2/S1.2.4+ E1 X3 S1.1.1 S7.2+ A4.1 X2.2+ X2.2+/S7.2+
 问候	verb	Q2.2/S1.2.4+ E1 X3 S1.1.1 S7.2+
 问出	noun	N5- O1 Q4.2
@@ -60262,7 +60285,7 @@ T	noun	S4.5.2.1f
 问罪	verb	Q2.2 G2.1
 问道	verb	Q2.2
 问题	adj	A12-
-问题	noun	A11.1+ A12- X4.1 N2 B2- A9- Q2.2 S3.2/Q2.2 O1 Q4.2 S4
+问题	noun	A12- X4.1 B2-
 问题	verb	A11.1+ A9- Q2.2 S3.2/Q2.2
 闯	verb	M1/N3.8+ N3.8+ M2/N3.8+
 闯入	adj	A5.1+
@@ -60646,6 +60669,8 @@ T	noun	S4.5.2.1f
 阽	adj	A15-
 阽	pnoun	A15-
 阿	adj	O4.4
+阿	intj	Z4
+阿	part	Z4
 阿	pnoun	O4.4 S7.2+/Q2.2 O4.2+
 阿	verb	S7.2+/Q2.2 O4.2+
 阿们	intj	Z4
@@ -61606,8 +61631,8 @@ T	noun	S4.5.2.1f
 需求	adj	A5.3+
 需求	noun	A5.3+ A9+ X7+ S3.2 S6+ Q2.2
 需求	verb	A9+ X7+ S3.2
-需要	noun	A1.5.1 I2.2 I2.2/I1.3- N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 Q2.1 Q2.2 S6+ A11.1+ X7+ S3.2
-需要	verb	A1.5.1 S7.1+ A10+ M6 Q1.1/M3 I2.2 I2.2/I1.3- M2 M1 O4.4 A1.1.1 A2.1+ O4.2- N4 B2- K4 T1.3/I3.1 Q2.1 Q2.2 S6+ A11.1+ X7+ S3.2
+需要	noun	S6+
+需要	verb	S6+
 霄	noun	S9 E2+ W1
 霄	pnoun	S9 E2+ W1
 震	noun	E5- B2- O3 S1.2.4- M1 M2 E4.1- A2.1+ A6.1+
@@ -61801,8 +61826,8 @@ T	noun	S4.5.2.1f
 非官方	adj	G1.1-
 非对称	adj	A6.1-
 非对称	pnoun	A6.1-
-非常	adj	A6.2- E4.1+ N3.2++ E3- N5.1+++ N5.2+ S1.2.6- A12- N3.3+++ S7.1+ N3.2+ S9m Z4
-非常	adv	A13.3 A4.2+ A5.2+% A6.2- A5.1- N6+ O4.2- A13.5 A7 N1 B5 E3- E4.1+ N3.2++ N5 Z5 N5+ I1.3+ N5++ N5.1+++ N5.2+ S1.2.6- A12- N3.3+++ N6 S7.1+ N3.2+ S9m S9/A5.1- X3.2 Z4
+非常	adj	A13.3
+非常	adv	A13.3
 非常	det	N5 Z5 N5+ I1.3+
 非常	noun	A6.2- A7 N1 N5+ N5.1+++ N5.2+ X3.2
 非常	verb	B5 E4.1+ S9/A5.1- X3.2 E3-
@@ -63502,8 +63527,8 @@ T	noun	S4.5.2.1f
 髓	noun	B1 L3 O2 F1 A11.1+ Y2%
 髓	pnoun	A11.1+ B1 L3 F1 O2 Y2%
 髓	verb	F1
-高	adj	E4.1+ F3 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ I1.3+ O4.2- O4.6+ S9
-高	adv	N3.7+ N5+
+高	adj	N3.7+
+高	adv	N3.7+
 高	noun	E4.1+ F3 N3.7 A11.1+/A2.1 C1/H1
 高	verb	E4.1+ F3 N3.7 A11.1+/A2.1 C1/H1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ I1.3+ O4.2- O4.6+ S9
 高价	adj	I1.3+

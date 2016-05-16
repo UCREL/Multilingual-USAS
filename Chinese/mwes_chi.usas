@@ -10,257 +10,181 @@
 □_punc 集_verb 家_noun	A9+/S2mf G1.1/S2mf
 □_punc 集品_noun	A9+ I1 B5
 □_punc 面_noun	M6 G2.1@ Z5
-一_adv 挥舞_verb	A2.1+ O3
-一_adv 烤_verb 即_adv 显_verb	X2.5+/E1 S8+ A6.1+
-一_adv 贬_verb 到底_adv	A1.1.1 Q2.2
-一_adv 跃_verb 而过_verb	G3 K5.1 M1 M2 Q4.3 Q1.2 L3
+一_adv 挥舞_verb	M1 M2
+一_adv 烤_verb 即_adv 显_verb	A10-
+一_adv 贬_verb 到底_adv	Q2.2/E2-
+一_adv 跃_verb 而过_verb	M1 T1.2
 一_adv 跳_verb 距离_noun	M1 N5+/A2.1
 一_adv 辨_verb 示_verb 的_part 青铜_noun 币_noun	I1
-一_num 丝_msr 不_adv 苟_verb	A1.3+ A4.2+
-一_num 丝_msr 光线_noun	W2 E1 Q1.1 O4.2+ O4.3
-一_num 个_msr	N1 T3 T1.2 S5+c O2 H5 H1 N3.1 P1 Z5 Z8
-一_num 个_msr 人_noun	A4.2+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 N5--- S5- S3.2- M3 S5+c O2 H5 H1 N3.1 P1 N1
-一_num 人_noun 对_prep 两_num 人_noun 的_part 比赛_noun	N1/S5
-一_num 代_msr	T1.3 S5+c
-一_num 件_msr 衣料_noun	O4.3 X4.2 O4.1 B5/Q1.2
-一_num 份_msr	A5.4- Q4.1 Q4.2 Q1.2 N5 S1.1.2+
-一_num 份_msr 食物_noun	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
+一_num 丝_msr 不_adv 苟_verb	A4.2+ A1.3/N5.2+ common mwes are OK
+一_num 丝_msr 光线_noun	X2.6+ E4.1+
+一_num 个_msr	N3.1
+一_num 个_msr 人_noun	S2mf/N5---
+一_num 人_noun 对_prep 两_num 人_noun 的_part 比赛_noun	K5.1/S2mf K5.2/
+一_num 代_msr	T1.3/S5+
+一_num 件_msr 衣料_noun	B5/N5---
+一_num 份_msr	N3.1
+一_num 份_msr 食物_noun	F1
+一_num 元_msr	N3.1
 一_num 元_msr 银币_noun	I1
+一_num 分_msr	N3.1/I1
 一_num 分钱_msr	I1
 一_num 卢比_msr 银币_noun	I1
-一_num 卷_msr 软片_noun	O2
-一_num 周_msr 之_part 半_num	T1.2
+一_num 卷_msr 软片_noun	O2/C1
+一_num 周_msr 之_part 半_num	T1.3
 一_num 周_msr 之半_noun	T1.2
-一_num 呼吸_noun	B1 N5-@
-一_num 品脱_msr 的_part 容器_noun	S8+
-一_num 啜_msr	F1 F2
-一_num 嚼_verb	F1/B1 X2.1
-一_num 回合_noun	K5.1 T1.3
-一_num 团_msr 人_noun	B5 O2 S5+c
-一_num 团_msr 教徒_noun	S9/H1c S9c
-一_num 场_msr	K5.1
-一_num 块_msr 方糖_noun	F1
-一_num 块_msr 面包_noun	A1.9- X5.2- F1
-一_num 垒_msr 安打_noun	A4.2+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 N5--- S5- S3.2- M3
-一_num 堆_msr	N5+ O2 H1
-一_num 夥_msr 土匪_noun	G2.1-/S2mf
-一_num 大_adj 夥_msr	G3/S5+c
-一_num 夫_noun 多妻_adj 主义者_noun	S9/S2mf
-一_num 套_msr	A1.2+ B1 O1.1 B4 B5 G2.1 K5.2 H2 H5 K2 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 X6+ S6+ Q4.3 N5 N2 K4 O3 S5+c K5.1% S4f
-一_num 套_msr 房间_noun	H2 N3.6 H4
-一_num 套钟_msr	X3.2
-一_num 季_msr 期_noun	N1 N5 T1.3 H4
-一_num 宗_msr	A1.1.1 O2
-一_num 家_msr 之主_noun	H1/S2mf
-一_num 家_msr 团圆_noun	H5
-一_num 对_msr 之一_noun 方_noun	A6.1+ S5+/M7 S4mf S5+
-一_num 对_msr 夫妇_noun	N5+ S4c
-一_num 小_adj 包_msr	A1.1.1 S3.2/B1 G2.2- X9.2- E6+ O2 G2.1/S2mf S3.2/B1@
+一_num 呼吸_noun	B1/N5-
+一_num 品脱_msr 的_part 容器_noun	O2
+一_num 啜_msr	F1/N5--- F2/N5---
+一_num 嚼_verb	F1/B1
+一_num 回合_noun	N3.1
+一_num 回合_noun	T1.3/K5.1 T1.3/K5.2
+一_num 团_msr	N3.1
+一_num 团_msr 人_noun	S5+
+一_num 团_msr 教徒_noun	S9/S5+
+一_num 场_msr	K5.1/N5---
+一_num 块_msr	N3.1
+一_num 块_msr 方糖_noun	F1/N5---
+一_num 块_msr 面包_noun	F1/N5---
+一_num 垒_msr 安打_noun	K5.1 K5.2
+一_num 堆_msr	N3.1
+一_num 夥_msr 土匪_noun	G2.1-/S2mf/N5+
+一_num 大_adj 夥_msr	S2/S5+
+一_num 夫_noun 多妻_adj 主义者_noun	X2.1/S2mf
+一_num 套_msr	N3.1
+一_num 套_msr 房间_noun	H2/N5--- H4
+一_num 套钟_msr	H5	
+一_num 季_msr 期_noun	T1.3
+一_num 宗_msr	N5---/G2.1
+一_num 家_msr 之主_noun	H4/S2mf/S7
+一_num 家_msr 团圆_noun	S5/S7
+一_num 对_msr	N3.1
+一_num 对_msr 夫妇_noun	S4c
+一_num 小_adj 包_msr	B5 O2
 一_num 小时_msr	T1.3
-一_num 小片_noun	B1 A12- N5- N5.1- O2 Y2
-一_num 层_msr	O2 A4.1
-一_num 巴掌_noun	E3- M2 X3.2 B2-@ X3.2+
-一_num 年_msr	N6+ Q4.1 L3
-一_num 年_msr 一_num 次_msr	N6 N6+
-一_num 年_msr 一_num 次_msr 地_noun	N6 N6+
-一_num 年_msr 生_verb 植物_noun	N6+ Q4.1 L3
-一_num 年_msr 生的_verb	N6+ Q4.1 L3
-一_num 律的_msr	A6.1+ B5
-一_num 循环_noun	G1.2 A2.1+ M1@
-一_num 扫_verb 而_part 去的_verb	B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+ O4.4 A4.2- N3.2+
-一_num 指_verb 之长_noun	B1 O4.4 X3.3
-一_num 挖_verb	A1.1.1 O4.2-/Q2.2 S8+ X2.4 E2+ X7+
-一_num 握_verb	N5 A12-
-一_num 撞_verb	B2- M1 E3- X3.2 Q1.2 A1.4 N5 M4/S2mf Z5 X3.3
-一_num 整_adj 套_msr 的_part 铅字_noun	A4.1 A1.1.1 Y2 S1.2
-一_num 文_noun 不_adv 名_adj	O4.1 E1-
-一_num 方_noun	N1 T3 T1.2 Z8
-一_num 族_noun	E6- L2 N4 S4c A4.1c S5+c S5+ M1 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 T1.3 Z5
-一_num 日_msr 之初_loc	T3- O4.2+ B1 W4 S1.2.3+
+一_num 小片_noun	O2/N5---
+一_num 层_msr	M6/H2
+一_num 巴掌_noun	B2/E3-
+一_num 年_msr	T1.3
+一_num 年_msr 一_num 次_msr	T1.3/N6+
+一_num 年_msr 生_verb 植物_noun	L3
+一_num 年_msr 生的_verb	N6+/L3
+一_num 律的_msr	A6.1+
+一_num 循环_noun	M1
+一_num 扫_verb 而_part 去_verb	B4/M1 A2.1
+一_num 指_verb 之长_noun	N3.7-
+一_num 握_verb	N2
+一_num 撞_verb	A1.1.2
+一_num 整_adj 套_msr 的_part	N5.1
+一_num 文_noun 不_adv 名_adj	I1.1---
+一_num 方_noun	S5/S7.1
+一_num 族_noun	S5+
+一_num 日_msr 之初_loc	T4-
 一_num 星期_noun	T1.3
 一_num 昼夜_noun	T1.3
-一_num 本_msr 正经_adj	A5.2+ O4.2
-一_num 本_msr 正经_noun	O4.2+ A6.2+ E4.1-
-一_num 条_msr 船_noun 的_part 货物_noun	M4/N5+
-一_num 杯_msr	F2 F2/B1
-一_num 杯_msr 茶_noun 红茶_noun	F2
-一_num 杯_msr 酒_noun	F4 K5.2 L1- O2 O1.1 I1.1 F3
-一_num 根根_msr 的_part 头发_noun	B1
-一_num 桶_msr 的_part 量_noun	O2
-一_num 次_msr 吞饮量_noun	B1
-一_num 次_msr 所_part 孵_verb 的_part 卵_noun	A1.7+ O2/M3 N5/L2
-一_num 次_msr 烘培量_noun	O4.6+ F1
-一_num 次_msr 用量_noun 的_part 针剂_noun	M3/O2
-一_num 次_msr 的_part 挤奶_noun 量_noun	F4 A9+
-一_num 次_msr 的_part 收获_noun 量_noun	X7+ A1.1.1 A5.1+++ O2
-一_num 次_msr 线圈_noun	A11.1+ P1 G1.2 B2-
-一_num 次_msr 酿造_verb 的_part 量_noun	F2 N5+/A2.1 A1.1.1
-一_num 步_msr 一_num 步_msr 地_noun	T2++ A2.1-
-一_num 步_msr 一_num 步_msr 地走_verb	G2.1/S2mf M1/N3.8- N3.8-/A1.1.1
-一_num 水盆_noun	O2 W3 M4
-一_num 法郎_msr 货币_noun	I1
-一_num 流的_noun	A5.1+ F1 A11.1++ N5++ A5.1++ A1.1.1 L1- O4.2+ Q2.2 X9.2++
-一_num 满碗_noun	N5
-一_num 片_msr 草地_noun	L3 K5.1%
-一_num 犁_msr	K5.1 T1.3
-一_num 碰_verb 就_adv 痛_verb	B2- E4.1- A11.1+
-一_num 磅_msr 金币_noun	I1
-一_num 种_msr 传信鸽_noun	K5.1/S2.2m
-一_num 种_msr 似_verb 鼠_noun 的_part 动物_noun 名_noun	L2mfn
-一_num 种_msr 北极鹅_noun	L3
-一_num 种_msr 单人_noun 用_prep 小型_adj 船_noun	E4.1+ A6.2- A12- B2-
-一_num 种_msr 含_verb 硝化甘油_noun 的_part 炸药_noun	G3
-一_num 种_msr 坚牢_adj 的_part 棉布_noun	O4.2
-一_num 种_msr 坚牢_adj 的_part 绒_noun	T2++ T1.3
-一_num 种_msr 多_adv 泡沫_noun 含_verb 奶油_adj 的_part 甜点_noun	F1 O1
-一_num 种_msr 大_adj 白猪_noun	Z2 Z1mf
-一_num 种_msr 妇人_noun 用_verb 短上衣_noun	Z2/S2mf Z2/Q3
-一_num 种_msr 宽松_verb 的_part 长袍_noun	O1.1
-一_num 种_msr 对_prep 号码_noun 的_part 牌戏_noun	K1/A1.4
-一_num 种_msr 小形_adj 鹦鹉_noun	L2mfn
-一_num 种_msr 小鹰_pnoun	K1
-一_num 种_msr 帆船_noun	B5 O4.3
-一_num 种_msr 平顶_noun 女帽_noun	N5.1+
-一_num 种_msr 文字_noun 处理_noun 软件_noun	Z3
-一_num 种_msr 斜纹_noun 防水_adj 布料_noun	O1.1
-一_num 种_msr 断头台_noun	S2.1f T2+
-一_num 种_msr 族_noun	G1.1c S5+c
-一_num 种_msr 有_verb 短_adj 角_noun 的_part 肉牛_noun	Z2 Z1mf
-一_num 种_msr 有毒_adj 植物_noun	L3
-一_num 种_msr 植物_noun	K5.2
-一_num 种_msr 橡胶鞋_noun	S3.2/S2.2m
-一_num 种_msr 毛织_adj 衣料_noun	B5 F1@
-一_num 种_msr 水果_noun 饼_noun	B5/S2mf F1
-一_num 种_msr 汤_noun	F1
-一_num 种_msr 法衣_noun	B5
-一_num 种_msr 派饼_noun	F1
-一_num 种_msr 测量_noun 距离_noun 的_part 仪器_noun	I3.1/S2mf
-一_num 种_msr 海藻_noun	X3.1
-一_num 种_msr 清凉_adj 饮料_noun	K5.1 Z2
-一_num 种_msr 游戏_noun	X7+
-一_num 种_msr 烟草_noun	N3.2+
-一_num 种_msr 烤肉_verb	F1
-一_num 种_msr 烧饼_noun	F1 I1.1 O4.1
-一_num 种_msr 煎饼_noun	F1
-一_num 种_msr 牌戏_noun	B4/H5 I2.1 S1.2.6-/S2mf
-一_num 种_msr 牢韧_noun 的_part 毛呢_noun	T2+++
-一_num 种_msr 狗_noun	L2mfn
-一_num 种_msr 甜酒_noun	S9/S2mf
-一_num 种_msr 筏_noun	M4
-一_num 种_msr 糖果_noun	A1.1.1 O1.1
-一_num 种_msr 纸牌戏_noun	S1.2.3+/Q2.2 K5.2@
-一_num 种_msr 纺织机_noun	L2mfn
-一_num 种_msr 网络_noun 编程_noun 语言_noun 编译_noun 后_loc 可_verb 在_prep 不同_adj 的_part 平台_noun 上_loc 运行_verb 支持_verb 多媒体_noun	Z2
-一_num 种_msr 芬香_adj 的_part 淡红苹_noun	X3.1+ O4.2+
-一_num 种_msr 菜肴_noun	O1.2
-一_num 种_msr 蜘蛛_noun	K5.1/S2mf L2mfn O2
-一_num 种_msr 装有_verb 糖果_noun	O2 O4.2+/S2.1f A5.1+ F1
-一_num 种_msr 调制_noun 的_part 混合_noun 酒_noun	F2
-一_num 种_msr 轻质_adj 木材_noun	L3
-一_num 种_msr 运动_noun 器械_noun	K5.1
-一_num 种_msr 里面_noun 粗糙_verb 起毛_adv 而_part 柔软_adj 的_part 鞣皮_noun	O1.1
-一_num 种_msr 铃铛_noun	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 W3/M4 S9 K5 T1.3
-一_num 种_msr 长大衣_noun	H5
-一_num 种_msr 食品_noun	F1
-一_num 种_msr 食物_noun	G2.2- E4.1+ S1.2.6- S1.2.6-/S2mf E4.1+/S2mf F1
-一_num 种_msr 骰子_noun 戏_noun	A15- A1.4 K5 X2.1/A7-
-一_num 种_msr 鸟_noun	L2mfnc
-一_num 种_msr 鸟类_noun	B5/S2mf
-一_num 种_msr 黑蛇_noun	M3fn
-一_num 秒_msr 的_part 六十_num 分之一_msr	N4 N5 N1
-一_num 稿_noun 数_num 用的_noun	O2/F1
-一_num 窝_verb 孵出_verb 来的雏_noun	E6- L2
-一_num 等_msr 秘书_noun	S7.1+/S2mf
-一_num 箱_msr	N5
-一_num 篓_msr 的_part 量_noun	S1.2.5- O4.1
-一_num 级_msr	H2
-一_num 线_msr 微光_noun	W2 E1 Q1.1 O4.2+ O4.3
-一_num 组_msr	A1.1.1 S8+ A4.1 O2 G2.1 B3 X4.1 Q3 F4 N5 K5.1/O2 L2 G3/S5+c H2 H5 K2 S5+c H1 N3.1 P1 N1 S7.1- I2.2 S9 I3.1 F1 G3@ G1.1@ G2.1@
-一_num 绕_verb	K5.1 T1.3
-一_num 缝_noun	A1.1.1 B5 B2- B3
-一_num 群_msr	A1.1.1 N5+ A1.8+ B3 A1.7+ G3/S5+ S5+ G3/S5+c S5+c K2/S5c K5.1 E3- M4 M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c O2 N5
-一_num 群_msr 人_noun	G3/S5+c K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
-一_num 群_msr 信徒_noun	S9c S5/X5.2+c X5.2+c
-一_num 脚_noun 向后_adv 举_verb 的_part 姿势_noun	X2.1/E1
-一_num 茶杯_noun 的_part 量_noun	F2/O2
+一_num 本_msr	N3.1
+一_num 本_msr 正经_adj	S1.2.1-
+一_num 本_msr 正经_noun	S1.2.1-
+一_num 条_msr 船_noun 的_part 货物_noun	O2/M4/N5+
+一_num 杯_msr	N3.1/F2
+一_num 杯_msr 茶_noun	F2/N5---
+一_num 杯_msr 酒_noun	N5---/F2
+一_num 根根_msr 的_part 头发_noun	B1/N5
+一_num 桶_msr 的_part 量_noun	N3.1
+一_num 次_msr	N3.1/N6---
+一_num 次_msr 烘培量_noun	N5/F1
+一_num 次_msr 用量_noun	N3.1
+一_num 次_msr 的_part 挤奶_noun 量_noun	N3.1/F4
+一_num 次_msr 的_part 收获_noun 量_noun	N3.1/F4
+一_num 次_msr 酿造_verb 的_part 量_noun	N5
+一_num 步_msr 一_num 步_msr 地_noun	A5.1+ A12-
+一_num 水盆_noun	O2/O1.2
+一_num 法郎_msr N3.1/I1
+一_num 法郎_msr 货币_noun	I1	N3.1/I1
+一_num 流的_noun	A5.1+++
+一_num 满碗_noun	N5	N3.1
+一_num 片_msr	N3.1
+一_num 片_msr 草地_noun	W3/L3
+一_num 犁_msr	N3.1
+一_num 碰_verb 就_adv 痛_verb	B2- E4.1-
+一_num 磅_msr 金币_noun	I1/N3.1
+一_num 种_msr	N3.1
+一_num 种_msr 传信鸽_noun	L2mfn
+一_num 种_msr 似_verb 鼠_noun 的_part 动物_noun	L2mfn
+一_num 种_msr 北极鹅_noun	L2mfn
+一_num 种_msr 单人_noun 用_prep 小型_adj 船_noun	M4fn
+大_adj 白猪_noun	L2
+宽松_verb 的_part 长袍_noun	B5
+对_prep 号码_noun 的_part 牌戏_noun	K5.2
+平顶_noun 女帽_noun
+文字_noun 处理_noun 软件_noun	Y2
+防水_adj 布料_noun	O4.5
+种_msr 族_noun	S5+
+有毒_adj 植物_noun	L3
+毛织_adj 衣料_noun	B5
+水果_noun 饼_noun	F1
+测量_noun 距离_noun 的_part 仪器_noun	Y1
+清凉_adj 饮料_noun	F2
+编程_noun 语言_noun	Y2
+网络_noun 编程_noun 语言_noun	Y2
+编程_noun 语言_noun 编译_noun	Y2
+调制_noun 的_part 混合_noun 酒_noun	F2
+轻质_adj 木材_noun	O2/H1
+运动_noun 器械_noun	K5.1
+骰子_noun 戏_noun	K5
+一_num 稿_noun 数_num 用的_noun	A5.1--
+一_num 等_msr 秘书_noun	I3.2
+一_num 篓_msr	N3.1
+一_num 篓_msr 的_part 量_noun	N5
+一_num 级_msr	a5.1++
+一_num 线_msr 微光_noun	W2 X2.6+
+一_num 群_msr	N5/S2 N3.1/S2
+一_num 角_msr	N3.1/I1
 一_num 角_msr 硬币_noun	I1
 一_num 角_msr 银币_noun	I1
-一_num 跑_verb	A1.1.2 A1.1.1 N5
-一_num 跨_verb 的_part 距离_noun	M1 N3.3 N3.7 X9.2+
-一_num 跨步_verb	M1 N3.3 N3.7 X9.2+
-一_num 车_noun 的_part 载量_noun	N5+
-一_num 部_msr	N5.1- M7/H1
-一_num 部份_noun	N1 A13.4 N5 N5c S1.1.2+
-一_num 部份地_noun	A13.6
-一_num 部分_noun	N5 S1.1.2+
-一_num 钩_noun	A1.1.1 B5 B2- B3
+一_num 跨_verb 的_part 距离_noun	N3.3-
+一_num 跨步_verb	M1
+一_num 车_noun	N3.1
+一_num 部_msr	N5.1
+一_num 部分_noun	N5.1-
 一_num 钱袋_noun	N5
-一_num 队_msr 猎犬_noun	A1.1.1 N5+ A1.8+ B3 O2 N5 S5+c
-一_num 阵_msr 流出_verb	M2 A1.1.1 A9- Q2.2 S8+ B3 O2 B5
-一_num 阵阵_msr	A6.2- N6-
-一_num 阵阵_msr 吹_verb	O4.5 S3.2
-一_num 鞭_noun	A1.1.2 N5-/A2.1 Q3
-一_num 项_msr 比赛_noun	A3+/A11.1+ A6.2- S1.1.1/X7+ K5
-一下_adv 击鼓声_noun	Q4.3 Q2.2
-一再_adv 地_part 推拉_verb	E6-
-一再_adv 失败_verb	L2mfn F1 X9.2-
-一切_pron 事物_noun	Z8/N5.1+
-一地方_pnoun 的_part 植物_noun	L3
-一块_adv 地板_noun	O2
-一定_adj 的_part 对相_noun	A1.1.1 A2.1- T2++ E3+ S1.2 O4.1
-一定_adv 不变_verb	N6+ A6.1+ A6.2+
-一定_adv 不变地_verb	T2+++
-一定_adv 地_part	A7+++
-一定_adv 手续_noun	A6.2+ X4.2 K4
-一定_adv 要_verb	S6+ A7+
-一律_adv 地_part	A6.1+
-一心一意_adv 地_part	X5.1+
-一文不值_verb 的_part 东西_noun	L3 O2
-一时_adv 流行_verb 的_part 狂热_noun	E2+/T1.2 O4.3 N5-/A2.1
-一时_noun 的_part 兴起_noun	X7+
-一时_noun 的_part 现象_noun	L3
-一月_noun 一_num 次_msr	B1
-一望无边_verb 之_pron 广阔_verb	W3/M4
-一样_verb 办理_verb	A1.8+ O4.4
-一样_verb 地_part	A6.1+ N6+
-一流_adj 之_part 人们_noun	A4.1 P1c S5+c O4.2+
-一流_adj 货_noun	F1
-一点_adv 也_adv 不_adv	T1/Z6
-一点_adv 也_adv 没有_verb	Z6/Z8c
-一点_num 也不_adv	S8- Z4 Z6 Z6/Z8c
-一点_num 也不错_noun	A13.3 A4.2+ A5.3+
-一点一点_adv 的_part 喝_verb	F2
-一点点_num 地咬_noun	F1
-一点点_num 的_part 吃_noun	F1/L2 S3.2
-一片_adv 最高级_adj	A4.2--- N3.7+++ N5+++
-一片_adv 比较级_adj	A4.2-- N3.7++ N5++
-一百_num 的_part 记号_noun	N1
-一百万_num 美金_msr	I1.1+++
-一目十行_verb 的_part 阅读_noun	M1/N3.8+
-一知半解_verb 的_part 知识_noun	N5-
-一致_adv 协定_noun	A9- A6.1+ Q2.2 S7.1-
-一致_verb 地_part	A1.4 A6.1+
-一般_adj 人_noun	G1.1 S1.2.4+ G2.1 H1%
-一般_adj 人民_noun	G1.2
-一般_adj 倾向_noun	W4 A1.1.1 E1
-一般_adj 布告_noun	X2.2+
-一般_adj 平民_noun	G1.1/S2mf S5+/S2mf
+一_num 队_msr	N3.1
+一_num 阵_msr	N6
+一_num 阵阵_msr	N6
+一_num 阵阵_msr 吹_verb	M5
+一_num 项_msr	N3.1
+一再_adv 地_part	N6+
+一定_adv 地_part	A7++
+一定_adv 要_verb	S6+/A7++
+一时_adv 流行_verb	O4.2+ E2+ T3-
+一时_noun 的_part	T1.2
+一时_noun 的_part 兴起_noun	X7+/T1.2
+一时_noun 的_part 现象_noun	A3 X3.4 A1.1.1
+一月_noun 一_num 次_msr	N6---
+一望无边_verb 之_pron 广阔_verb	W3/N3.2+++
+一样_verb 地_part	A6.1+
+一流_adj 货_noun	O2/A5.1+++
+一点_adv 也_adv 不_adv	Z6
+一点_adv 也_adv 没有_verb	Z6
+一点_num 也不_adv	Z6
+一点_num 也不错_noun	A5.2+ A5.3+
+一目十行_verb 的_part 阅读_noun	Q3/N3.8+ X2.5+ P1
+一知半解_verb 的_part 知识_noun	X2.2/N5-
+一致_verb 地_part	A6.1+
+一致_adv 协定_noun	A6.1+/Q2.2
+一般_adj 人_noun	S2mf/A6.2+
+一般_adj 人民_noun	S2mf/A6.2+ G1.2
+一般_adj 平民_noun	S2mf/A6.2+
+一般_adj 倾向_noun	A6.2+ A2.1+
 一般_adj 性的_noun	A4.2- O4.1 Q2.2 S1.1.1 K4
-一般_adj 杀人罪_noun	L1-
-一般_adj 概念_noun	W3 M7 A1.8+ N5.1+ X2.2 A5.2+
-一般_adj 民众_noun	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 O4.2- S1.2.4- S5+/S7.1- T1.1.2 A3+
-一般_adj 看法_noun	X2.5+
-一般_adv 人民_noun	A10+ S5+ S5+c
-一般_adv 大_verb	N3.2+
-一般_adv 市民_noun	G1.1 S1.2.4+ G2.1 H1%
-一般_adv 承认_verb	A6.2+
-一般_adv 言之_verb	L2mfn F1
-一般_adv 通行_verb	G3/S7.1+/S2mf B3/H1 N5+ A4.2-
-一般_verb 地_part	N5+ W3 M7 A1.8+ N5.1+ X2.2 A5.2+
-一贯_adv 正确_verb 的_part 人_noun	A5.3++
-一边_adv 一边_adv	T1.1.2
-一齐_adv 射击_verb	G3 K5.1 N5+
-一齐_adv 说_verb	K2 K2/S5+c
+一般_adj 杀人罪_noun	G2.1/A6.2+/L1---
+一般_adj 概念_noun	X4.1/A6.2+
+一般_adj 民众_noun	S2mf/A6.2+ G1.2
+一般_adj 看法_noun	X2.1/A6.2+
+一般_adv 市民_noun	S2mf/A6.2+ G1.2
+一般_verb 地_part	A6.2+
+一贯_adv 正确_adj	A5.3++/N6+++
+一齐_adv 射击_verb	G3/T1.1.2 K5.1/T1.1.2
 七_num 个_msr	N1 T3 T1.2
 七_num 人_noun	N1 T3 T1.2
 七_num 倍_msr 地_noun	N1 T3 T1.2
@@ -756,7 +680,7 @@
 不明_adj 道理_noun 的_part 人_noun	X9.1-/S2mf
 不易_verb 倾斜_verb	L1-/S2mf O4.1 O4.5 B2- S1.2.1- A12- E3-
 不易_verb 对待_verb 之人_noun	N5 A12-
-不易_verb 忘怀的_verb	M7 S9 E6- M1/N6+ VVZ
+不易_verb 忘怀的_verb	M7 S9 E6- M1/N6+
 不易_verb 消化_verb	O4.5 S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 不易_verb 溶解_verb	S1.2/A2.1-
 不易_verb 相交_verb	E2- O4.2- S1.2.1-
@@ -1622,7 +1546,7 @@
 令_verb 人_noun 难忘_verb	X5.2+
 令_verb 人_noun 高兴_verb	E4.1+++
 令_verb 人_noun 鼓舞_verb	A12- A6.1- S7.3+
-令_verb 吃苦头_noun	O1.2 B4 F2+++/S2@@mf
+令_verb 吃苦头_noun	O1.2 B4 F2+++/S2@mf
 令_verb 递送_verb	S7.1-/A2.1
 以_pnoun 全速_adv	O4.6+
 以_pnoun 截断机切_verb	L1- Q1.2/O2
@@ -1773,7 +1697,7 @@
 以_prep 重音念_noun	A11.1+/A2.1
 以_prep 野餐_noun 方式_noun 吃_verb	F1
 以_prep 锄掘_noun	O2 K5.2 S2/O4.3mf
-以_prep 锚链_noun 系住_verb	O3 O2 Q1.3 Q4.3
+以_prep 锚链_noun 系住_verb	O3 O2 Q1 Q4.3
 以_prep 闪电战_noun 攻击_verb	F2++
 以_prep 问答法_noun 讲授_verb	Q2.2/S9
 以_prep 陷阱_noun 捕捉_verb	S7.1+/G2.2- A1.7+ A9+
@@ -1884,7 +1808,7 @@
 会_verb 口渴_verb	B1/F2 X7+
 会_verb 吸收_verb	O4.1 A2.1/O1.2
 会_verb 感光_verb	X2.5+/E1 E6- O4.1 B1 A4.2+
-会_verb 接纳_verb	X7+ A6.1+ Z99 JJ O4.2+
+会_verb 接纳_verb	X7+ A6.1+ Z99 O4.2+
 会_verb 推托_verb	G2.2- A7- B2- A12-
 会_verb 晕船_verb	B2-/M4
 会_verb 枯萎_verb	T2-
@@ -2004,7 +1928,7 @@
 低下_verb 地_part	M6 N5-/A2.1 A5.1-/A2.1
 低估_verb 之价值_noun	I1.3- A11.1-
 低垂_verb 枝条_noun	E4.1-
-低声_adv 下气_verb 地_part	S.1.2.3- S1.2.3-
+低声_adv 下气_verb 地_part	S1.2.3-
 低声_adv 含糊_verb 的话_part	Q2.2/X3.2-
 低声_adv 地_part	S7.1-
 低声_adv 轻笑_verb	E4.1+
@@ -2675,6 +2599,7 @@
 使_verb 散乱_verb	M1 N3.6+/A2.1
 使_verb 散布_verb 如_verb 岛屿_noun	W3
 使_verb 散开_adv	N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9-
+
 使_verb 敬畏_verb	E1
 使_verb 整形_noun	Q2.2
 使_verb 整洁_verb	O4.2+
@@ -2725,7 +2650,7 @@
 使_verb 染上_verb	B2-
 使_verb 柔弱_verb	S2.1f
 使_verb 标准化_noun	A6.2+/A2.1
-使_verb 根据_noun 于_prep	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
+使_verb 根据_noun 于_prep	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
 使_verb 根深_noun 蒂固_verb	A1.1.1 A1.8+
 使_verb 模糊_noun 不_adv 清_verb	W4 O1.3
 使_verb 欢乐_noun	E4.1+ O4.3 A5.1+/A2.1
@@ -3385,7 +3310,7 @@
 依其_noun 申述_verb	Q2.2/A5.2
 依字母_noun 顺序_noun	Q3 S7.1+
 依字母_noun 顺序_noun 排列_verb	A4.1 S7.1+
-依存_verb 于_prep	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
+依存_verb 于_prep	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
 依存_verb 关系_noun	A2.2 S7.1-
 依据_noun 衡平法_noun	G2.2+
 依据_prep 圣经_noun	S9/Q4.1
@@ -3748,6 +3673,7 @@
 像_prep 吉普赛_noun 的_part 人_noun	Z2/S2mf
 像_prep 君王_noun	N3.2+ G2.2+ O4.2+
 像_prep 唧筒_noun 般_verb 活动_noun	M2 A1.1.1 A9- Q2.2 S8+ B3 O2 B5
+
 像_prep 塔_pnoun 一_num 样_msr 高_verb 的_part 东西_noun	H1 N3.7+
 像_prep 墙壁_noun 的_part 东西_noun	H2 O2 N5+ S8-
 像_prep 大_adj 教堂_noun	S9/H1
@@ -3945,6 +3871,7 @@
 六_num 寸_msr 片_noun	H5 G1.1
 六_num 岁_msr	N1 T3 T1.2
 六_num 度_msr 音程_noun	N1
+
 六_num 的_part 记号_noun	N1 T3 T1.2
 六_num 脚_noun 器_noun	L2 M3
 六便士_pnoun 银币_noun	A1.1.1/S2mf I1
@@ -4392,7 +4319,7 @@
 刚_adv 强地_verb	S1.2.5+ O4.1
 刚_adv 时候_noun	T1.2 T1.1.2 N3
 刚_adv 赶上_verb	A9-/G2.1- G2.1 A1.1.2 G2.1/H1 B2-
-刚_adv 长毛_verb 的_part 鸟_noun	T3
+刚_adv 长毛_verb 的_part 鸟_noun	T3
 刚过_verb 去的_verb	M6 T1.1.1 Z5
 创作_noun 的_part 能力_noun	X2.1 A5.2-
 创制_verb 权_noun	A1.1.1 X5.2+
@@ -4721,6 +4648,7 @@
 努力_adv 打开_verb 销路_noun	I2.2
 努力_adv 用功_verb	G2.1/S2mf M1/N3.8- N3.8-/A1.1.1
 努力_adv 用功_verb 的_part 人_noun	N3.8-/S2mf
+
 努力_verb 的_part 结果_noun	X8+ O2
 劳动_noun 时间_noun	T1.3
 劳动_noun 服务_noun	B2- O4.1
@@ -5167,7 +5095,7 @@
 发牢骚_verb 的_part 人_noun	G2.1/S2mf
 发现_verb 出产_verb	A2.1+ A3+ N6
 发现_verb 并修_verb 机器者_noun	X9.2+/S2mf S8+/S2mf
-发现_verb 成立_verb	A10+ X2.1 X6+ X6+.1 T2+ A2.2 A1.1.1
+发现_verb 成立_verb	A10+ X2.1 X6+ T2+ A2.2 A1.1.1
 发现_verb 狐狸_noun	A10+ X2.1 X6+
 发现_verb 的_part 缺点_noun	A5.3- A2.2 W3% E2-
 发生_verb 中的_verb	T2+
@@ -6000,6 +5928,7 @@
 哲学_noun 体系_noun	P1 X2.1
 哲学_noun 态度_noun	P1 X2.1
 哺乳_adj 动物_noun	L2 L2mfn
+
 哼得荒腔_verb 走板_noun	L1- A12-
 哼著_noun 使_verb 缄口_noun	X3.2 Q2.2
 唇形科_noun 植物_noun	L3 F1
@@ -8017,6 +7946,7 @@
 山木_noun 蓝_noun 类_noun	O1.2
 山梗莱属_verb 的_part 植物_noun	L3
 山梨_noun 之_part 一_num 种_msr	L3
+
 山脉_noun 下_loc 的_part 丘陵_noun 地带_noun	W3
 山腹_noun 的_part 洞穴_noun	W3
 山麓_noun 丘陵_noun	W3
@@ -8062,6 +7992,8 @@
 工作服_noun 罩衣_noun	A14 B5 N5.1+
 工具_noun 制造_verb	C1
 工具_noun 制造者_noun	C1/S2mf
+工厂_noun 设备_noun	Y1/O3 O2
+工厂_noun {ADJ/NOUN/PART/NUM} 设备_noun	Y1/O3 O2
 工厂_noun 主人_noun	A1.1.1/S2mfc F1/S2mf
 工厂_noun 植物_noun	F4 M2 L3 I4/H1c O2 A10-/S2mf
 工程_noun 功率_noun	S1.1.4+ A11.1+ I1.3+ X7+ S7.1+
@@ -8202,12 +8134,12 @@
 常_adv 下雨_verb	W4
 常_adv 习性_noun	X4.2
 常_adv 步_noun	M1 L2 X9.2+/A12+
-常_adv 浮现_verb 于_prep 脑海_noun 中的_verb	M7 S9 E6- M1/N6+ VVZ
+常_adv 浮现_verb 于_prep 脑海_noun 中的_verb	M7 S9 E6- M1/N6+
 常_adv 演奏_verb	O3 A1.1.1 I2.2/Q2.2 O2
 常_adv 用_verb	O4.1 H4 O4.2-
 常_adv 置_verb	T2+++
 常与_noun 交际_noun	M1/N6+ N6+
-常到_verb 的_part 场所_noun	M7 S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+常到_verb 的_part 场所_noun	M7 S9 E6- M1/N6+
 常坐_adj 汽车_noun 的_part 人_noun	M3/S2mf
 常坐_noun 汽车者_noun	M3/S2mf
 常备_adj 步兵_noun	K5.2/S2.2m I3.2/S2.2m
@@ -8322,7 +8254,7 @@
 应_verb 报复_verb	I1.2-
 应_verb 接_verb	A9+ S5+
 应_verb 斥责_verb	A5.1-
-应_verb 服从_verb	X7+ A6.1+ Z99 JJ O4.2+
+应_verb 服从_verb	X7+ A6.1+ Z99 O4.2+
 应_verb 照_verb	A10+ Y1/M2 X3.4 X2.1 A5.1
 应_verb 的_part 得的_noun	S1.1.4+ G2.2+
 应_verb 答复_verb	S7.1-
@@ -8401,7 +8333,7 @@
 开关_noun 设备_noun	O3
 开化_verb 了_part	A5.1+/A2.1 G2.1+ S1.2.4+ P1 A5.1+ O4.2+
 开压边_pnoun 内浇口_noun	S3.2
-开发_noun 人员_noun	H1/S2mf C1/O1.2@@
+开发_noun 人员_noun	H1/S2mf C1/O1.2@
 开发_verb 不充分_noun	A5.1- A2.1- I1.1- I4- N3.2-
 开垦_verb 为_verb 旱地_noun	B4/H2 M2/N5.1- M1 O4.5 A10- B2-
 开始_verb 发育_verb	F4 N3.2+/A2.1 T2+ L3 O2 S3.1%
@@ -9676,7 +9608,7 @@
 拿_prep 赎金_noun 释放_verb	I1.3
 拿_verb 鞭打_noun	A2.1+ O3
 拿到_verb 手_noun	A9+
-拿破仑_pnoun 时代_noun 风格_noun	G1.1 I2.1/S+
+拿破仑_pnoun 时代_noun 风格_noun	G1.1 S1.1.1+ S2.2
 持_verb 不同_adj 政见_noun	G1.2/S2mf
 持_verb 反感_noun	G1.2/A6.1- S8- A6.1- G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf
 持_verb 步枪_noun 的_part 士兵_noun	G3/S2.2m
@@ -10424,7 +10356,7 @@
 无_verb 同情心_noun	S1.1.2- B2-
 无_verb 名利_noun 心_noun	X7-
 无_verb 声音_noun	B1 N5-@
-无_verb 安慰的_noun	S8- 04.2-
+无_verb 安慰的_noun	S8- O4.2-
 无_verb 尾_noun 无翼_adj 的_part 走禽_noun	L2
 无_verb 工作_noun	A1.1.1- I3.1-
 无_verb 希望_noun	E4.1-
@@ -10940,7 +10872,7 @@
 有_verb 两_num 个_msr 尖头_adj	B1/O4.4
 有_verb 两_num 极_noun	A6.1- W3 O3 B2-/X1
 有_verb 丰富_verb	N3.2+ O4.1%
-有_verb 义务_noun	S6+ A1.7+ A2.2 O4.1 Q4.1 O2 S7.1+ A7+ X7+ A6.1+ Z99 JJ O4.2+
+有_verb 义务_noun	S6+ A1.7+ A2.2 O4.1 Q4.1 O2 S7.1+ A7+ X7+ A6.1+ Z99
 有_verb 义气_verb	A5.2+
 有_verb 之虞_noun	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 有_verb 事业心_noun	X8+ I2.1
@@ -11513,7 +11445,7 @@
 未_adv 磨光_verb	O4.1 O4.2-
 未_adv 磨练_verb	O4.1 O4.2-
 未_adv 答复_verb	Q2.2/Z6
-未_adv 精制_adj	B4 QA1.1.1
+未_adv 精制_adj	B4 A1.1.1
 未_adv 组织_verb	O4.1 S7.1-
 未_adv 经_prep 世故_noun 之人_noun	M2 M1 S1.2.6-/S2mf
 未_adv 经_prep 实验_noun	X8- X2.4- G2.1
@@ -11694,6 +11626,7 @@
 极_adv 感_verb 满意_verb	E2+ E4.1+
 极_adv 敏感_verb	S1.2 E3-
 极_adv 疲劳_verb	E6- E4.1- B2-
+
 极_adv 短_verb	B1 A4.1
 极_adv 简单_adv 之事_verb	F1
 极_adv 细_verb 的_part 线_noun	B1 N3.7-
@@ -15032,8 +14965,8 @@
 经_prep 陆路_noun	M6
 经受_verb 时间_noun 考验_verb	T1/X2.4
 经受_verb 过_part 考验_noun	X2.4 P1 B3
-经常_adv 停在_verb	M7 S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
-经常_adv 出没_verb	M7 S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+经常_adv 停在_verb	M7 S9 E6- M1/N6+ S9 E6- M1/N6+
+经常_adv 出没_verb	M7 S9 E6- M1/N6+ S9 E6- M1/N6+
 经常_adv 努力_verb 于_prep	P1 X2.4 H2 Q1.2 C1
 经常_adv 地_part	N6+ T2+++ N6+++
 经常_adv 存在_verb	T2++
@@ -15455,7 +15388,7 @@
 肩_noun 甲骨_noun	O2
 肩部_noun 的_part 部份_noun	B1 M3 M2 E3- A9+
 肯_verb 书虫_noun	Q2.2/S1.2.4- Q2.2
-肯_verb 服从_verb	X7+ A6.1+ Z99 JJ O4.2+
+肯_verb 服从_verb	X7+ A6.1+ Z99 O4.2+
 肯_verb 通融_verb	S8+
 肯定_verb 地_part	A7+ A7+++
 育婴_noun 女佣_noun	I3.1/S4/S2.1f
@@ -16117,6 +16050,7 @@
 血气_adv 方刚_verb 的_part 男人_noun	B1
 血液_noun 学家_noun	B3/S2mf
 血管_noun 局部_noun 缩窄_verb	A9-/G2.1- G2.1 A1.1.2
+
 血缘_noun 关系_noun	S4c
 血迹_noun 斑斑地_noun	E3- B1 O4.3 Z4
 行_verb 得_part 通_verb	A7+

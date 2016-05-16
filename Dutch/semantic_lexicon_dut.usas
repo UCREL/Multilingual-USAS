@@ -171,7 +171,7 @@ afmaken	verb	T2- A1.5.1/N5.1+ A1.1.1 X9.2-
 afschaffen	verb	T2- A1.1.2 G2.1/T2-
 afschuwelijk	adj	O4.2-
 afsluiten	verb	A1.1.1 A10- T2-
-afspelen (zich)	verb	A2.1+ A3+ X7-
+afspelen	verb	A2.1+ A3+ X7-
 afspraak	noun	T1.1 I3.1
 afspreken	verb	S7.1+ A1.1.1
 afstand	noun	A1.9 N3.3+ S1.2.1-
@@ -215,7 +215,7 @@ allochtoon	noun	M1/M7/S2mf
 als	conj	Z5
 alsmaar	adv	T1.1 N6+++ A13
 alsnog	adv	T1.1.2 Z5
-alstublieft, alsjeblieft, a.u.b.	null	E4.2+ E2+ X7+ Z4
+alstublieft	E4.2+ E2+ X7+ Z4
 alternatief	adj	A6.1- N6
 alternatief	noun	A6.1- N6
 althans	adv	A13.7 N5.1- A11.1---
@@ -279,7 +279,7 @@ baard	noun	B1
 baas	noun	S7.1+ S7.1+/S2mf
 baat	noun	S8+ I1.1/G1.1
 babbelen	verb	Q2.1
-baby	noun	NN1 T3--/Q2.1 T3-- T3--/S2mf E2+mfn
+baby	noun	T3--/Q2.1 T3-- T3--/S2mf E2+mfn
 bad	noun	H5/B4
 badkamer	noun	B4/H2
 bagage	noun	B5
@@ -349,7 +349,7 @@ bekendheid	noun	X2.2+
 bekendmaken	verb	Q2.2
 bekennen	verb	Q2.2/A10+
 beker	noun	O2 S7.3+ A5.1+/O2 O4.4
-beklagen (zich)	verb	Q2.2/E2-
+beklagen	verb	Q2.2/E2-
 bekleden	verb	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
 beklimmen	verb	M1 N5+/A2.1
 bekomen	verb	B2+ A5.1+/A2.1 A9+
@@ -612,7 +612,7 @@ brullen	verb	X3.2 Q2.2
 brutaal	adj	S1.2.4-
 btw	noun	G1.1/I1
 budget	noun	I1 G1.1/I1 I1.3-
-buigen (zich)	verb	O4.4 A2.1+ M1
+buigen	verb	O4.4 A2.1+ M1
 buik	noun	B1 O2
 buis	noun	O2 B1 O4.4 M3c O3
 buit	noun	G2.1-/A9+
@@ -620,7 +620,7 @@ buiten	prep	M6 S1.1.3- S5- Z5
 buitenkant	noun	M6 S1.1.3- S5- Z5
 buitenlander	noun	Z2/S2mf I3.1/S2mf
 buitenlands	adj	M7
-bukken (zich)	verb	O4.4 A2.1+ M1
+bukken	verb	O4.4 A2.1+ M1
 bundel	noun	A1.1.1 M2 Y2 O2 N5+ I1.1+
 bundelen	verb	A1.1.1 M2 Y2
 bureau	noun	H5
@@ -642,7 +642,7 @@ cd	noun	K3
 cel	noun	B1 G2.1/H2 S9/H2 S5+c O3
 celstraf	noun	G2.1 A1.7+
 cent	noun	I1
-centimeter, cm	noun	N3.7 N3.3
+centimeter	noun	N3.7 N3.3
 centraal	adj	A11.1+ M6
 centrum	noun	M6 A11.1+ H1c M7c G1.2c K5.1mfn
 champagne	noun	F2 O4.3 Z2
@@ -657,7 +657,7 @@ chocolade	noun	F1
 christelijk	adj	S9 S9/S2mf Z1mf
 christen	noun	S9 S9/S2mf Z1mf
 christendom	noun	S9
-circa, ca.	adv	A13.4
+circa	adv	A13.4
 circuit	noun	O3 S1.1.1 M7 K5.1 G2.1
 cirkel	noun	M1 O4.4 S5+c K4/H1@
 citaat	noun	Q2.2 I1.3
@@ -665,6 +665,7 @@ citeren	verb	Q2.2 I1.3
 cliënt	noun	I2.2/S2mf
 club	noun	K1 E3- S5+ S5+c O2
 coach	noun	K5.1 P1 M2 K5.1/I3.2/S2mf P1/I3.2/S2mf M3fn
+cm	noun	N3.7 N3.3
 coalitie	noun	S5+c
 code	noun	A10-/Q1.1 A4.1 Y2@ B1% G2.1 G2.2 B3%
 collectie	noun	A9+ I1 B5
@@ -694,7 +695,7 @@ componist	noun	K2/S2mf
 compromis	noun	A6.1+/S1.1.2+ G2.2-
 computer	noun	Y2
 concentratie	noun	X5.1+ N5+ I2.2% O1.2
-concentreren (zich)	verb	X5.1+ I2.2% M6 N5+ O1.2 W3/I4
+concentreren	verb	X5.1+ I2.2% M6 N5+ O1.2 W3/I4
 concept	noun	X4.1
 concern	noun	S5+ A4.1 B3% S5+c A4.1c
 concert	noun	E6- K2
@@ -961,7 +962,7 @@ economie	noun	I2.1 I1.3-
 economisch	adj	I1.3- I2.1
 editie	noun	Q4
 een	art	Z5
-een, één	num	N1 T3 T1.2 Z8
+een	num	N1 T3 T1.2 Z8
 eend	noun	L2mfnc F1 K5.1 E2+/S2mf M1 A1.9 M2
 eenheid	noun	S5+c O2 H5 H1 N3.1 P1 N1
 eenmalig	adj	N6-
@@ -988,7 +989,8 @@ eigenaardig	adj	A6.2- A4.2+
 eigendom	noun	A9+ H1/H3 O4.1
 eigenlijk	adv	A5.4+ A14
 eiland	noun	W3
-eind, einde	noun	M6 T2- O2 X7+ N4
+eind	noun	M6 T2- O2 X7+ N4
+einde	noun	M6 T2- O2 X7+ N4
 eindelijk	adv	N4
 eindeloos	adj	T2+++ N5+
 eindigen	verb	T2-
@@ -1029,7 +1031,7 @@ erf	noun	H3 L3/H3 M7/I4 N3.7 N3.3
 erfenis	noun	A9+/S1.1.1 T1.1.1
 erg	adv	A13.3 A4.2+ A5.2+%
 ergens	adv	M6
-ergeren (zich)	verb	E3-
+ergeren	verb	E3-
 ergernis	noun	E3-
 erkennen	verb	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
 erkenning	noun	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
@@ -1042,7 +1044,7 @@ ervaren	verb	A2.1+/A3+ X3
 ervaring	noun	A2.1+/A3+ X3 X2.2+ X9.1+ I3.2
 essentie	noun	A11.1+ O1
 essentieel	adj	S6+ A4.2+
-et cetera, etc.	adv	Z4
+etc	adv	Z4
 eten	noun	F1
 eten	verb	F1/B1 A1.5.1/N5+
 ethisch	adj	G2.2+
@@ -1174,6 +1176,7 @@ garantie	noun	A7+/Q2.2
 gas	noun	E3- Q2.1 O1.3
 gast	noun	H4/S2mf S1.2.2-/S2mf
 gat	noun	A1.1.1 K5.2 A1.1.2/G3 O2 H4/L2 M7/O4.2- X2.1/A5.1- N5-
+ge	pron	Z8mf
 gebaar	noun	Q1.1/B1 A10+ M1 A1.1.1
 gebaren	verb	Q1.1/B1 A10+ M1
 gebed	noun	S9/Q2.2 A7+
@@ -1195,7 +1198,7 @@ gedenken	verb	X2.2+
 gedicht	noun	Q3
 gedoe	noun	A12-
 gedrag	noun	S1.1.1 A1.1.1
-gedragen (zich)	verb	S1.1.1 A1.1.1
+gedragen	verb	S1.1.1 A1.1.1
 geduld	noun	E3+ K5.2%
 geduldig	adj	B2-/S2mf E3+
 gedurende	prep	Z5
@@ -1230,7 +1233,8 @@ geluk	noun	E4.1+
 gelukken	verb	X9.2+ N4
 gelukkig	adj	E4.1+ E4.2+
 gemak	noun	A12+ A12+/A2.1 N5-/A2.1
-gemakkelijk, makkelijk	adj	A12+
+gemakkelijk	adj	A12+
+makkelijk	adj	A12+
 gemeen	adj	N2 Q1.1 X7+ S1.2.2+ S1.2.1-
 gemeenschap	noun	S5+c
 gemeenschappelijk	adj	A6.2+ N5++ S5+ O4.2- M7
@@ -1304,7 +1308,7 @@ giechelen	verb	E4.1+
 gieren	verb	Q2.2
 gieten	verb	A1.1.1/O1.2 W4 M1/N5+
 gigantisch	adj	N3.2+++
-gij, ge	pron	Z8mf
+gij	pron	Z8mf
 gillen	verb	Q2.2
 gisteren	adv	T1.1.1
 gitaar	noun	K2
@@ -1387,7 +1391,7 @@ haalbaar	adj	A7+
 haar	noun	B1
 haard	noun	H5
 haast	adv	A13.4
-haasten (zich)	verb	N3.8+
+haasten	verb	N3.8+
 haastig	adj	N3.8+ A1.3-
 haat	noun	E2-
 hak	noun	B1 B5 L2
@@ -1447,7 +1451,7 @@ helikopter	noun	M5
 helling	noun	O4.4 W3
 helm	noun	B5
 helpen	verb	S8+
-hem, 'm	pron	Z8m
+hem	pron	Z8m
 hemel	noun	W1
 hen	pron	Z8mfn
 herfst	noun	T1.3
@@ -1460,7 +1464,8 @@ herkenbaar	adj	X2.2+ A11.2+
 herkennen	verb	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
 herkomst	noun	T2+ N2
 hernemen	verb	T2+/N6+
-hersenen, hersens	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+hersenen	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+hersens	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
 herstel	noun	B2+ A5.1+/A2.1 A9+
 herstellen	verb	B2+ A5.1+/A2.1 A9+
 hervatten	verb	T2+/N6+
@@ -1585,7 +1590,8 @@ indrukwekkend	adj	O4.2+
 industrie	noun	I4c I2.1c
 industrieel	adj	I4
 ineens	adv	N3.8+
-informatie, info	noun	X2.2+
+info	noun	X2.2+
+informatie	noun	X2.2+
 informeren	verb	X2.2+ X2.4 Q2.1
 infrastructuur	noun	I2.1/S8+
 ingaan	verb	M1 S5+ Q1.2 T2+ A1.8+ Y2
@@ -1663,10 +1669,11 @@ jaloers	adj	E4.1-/S3.2 E4.1-/A9
 janken	verb	X3.2 Q2.2/E2-
 januari	noun	T1.3
 jas	noun	A1.1.1/A10- B5 O2
+je	pron	Z8mf
 jeugd	noun	T3-/S2mf T3-
 jeugdig	adj	T3-
 jezelf	pron	Z8
-jij, je	pron	Z8mf
+jij	pron	Z8mf
 job	noun	I3.1 A1.1.1 A12-
 jong	adj	T3-
 jongen	noun	S2.2m L2m@ Z4
@@ -1804,7 +1811,8 @@ knipperen	verb	B1 O4.3/N6+
 knoop	noun	B5 O2
 knop	noun	B5 O2
 koe	noun	L2fn S2.1f/O4.2-
-koek, koekje	noun	F1 O4.3 G3
+koek	noun	F1 O4.3 G3
+koekje	noun	F1 O4.3 G3
 koel	adj	O4.6- S1.2.1- O4.2+ E6+ O4.6-/A2.1 X5.2-/A2.1
 koelkast	noun	O4.6-/O3
 koers	noun	A5.1 N3.8 N5 I1.3
@@ -2020,6 +2028,7 @@ lullig	adj	S1.2.6-
 lunch	noun	F1
 lusten	verb	E2+
 luxe	noun	O4.2+
+m'n	pron	Z8
 maag	noun	B1 E2+
 maaltijd	noun	F1
 maan	noun	W1 X5.2-/E4.1-
@@ -2064,6 +2073,7 @@ matigen	verb	A1.7+ S7.1+ P1
 matras	noun	H5
 maximaal	adj	N5.1+
 maximum	noun	N5.1+
+me	pron	Z8mf
 medaille	noun	O2
 mede	adv	N5++
 mededeling	noun	Q2.2
@@ -2118,6 +2128,7 @@ meter	noun	N3.3 N3.7
 methode	noun	X4.2
 metro	noun	M3
 mevrouw	noun	S2.1f S3.2/S2.1f S1.2.3+/S2.1f
+mezelf	pron	Z8mf
 microfoon	noun	Q2.1/O3
 middag	noun	T1.3
 middel	noun	N2 X4.2 I1.1
@@ -2126,10 +2137,10 @@ midden	adv	M6 N5 N4 T1.2
 midden	noun	M6 N5 N4 T1.2
 middenveld	noun	K5.1 K5.1/S2mf K5.1/M6
 middernacht	noun	T1.2
-mij, me	pron	Z8mf
+mij	pron	Z8mf
 mijden	verb	A1.9 M1
-mijn, m'n	pron	Z8
-mijzelf, mezelf	pron	Z8mf
+mijn	pron	Z8
+mijzelf	pron	Z8mf
 mikken	verb	X7+ M6
 mild	adj	F2 S1.2.5- O4.6+ O4.1 X3.1 N3.2- N5-
 milieu	noun	W5 W3 E1 Y2 O4.1
@@ -2326,7 +2337,7 @@ omhoog	adv	M6 N4 N5++ T2- X9.1+ A1.1.1 N5+/A2.1 Z5
 omkeren	verb	M6 A2.1+/A6.1- M1
 omkomen	verb	L1- T2-
 omlaag	adv	F1/B1 A1.1.1 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z5
-omringen (zich)	verb	M6 A1.8+ A10- G3
+omringen	verb	M6 A1.8+ A10- G3
 omschrijven	verb	Q2.2
 omstandigheid	noun	O4.1
 omstreden	adj	A6.2-
@@ -2906,8 +2917,9 @@ romantisch	adj	S3.2 Q4/S5 S3.2mf
 rommel	noun	O2 O4.1
 rond	adj	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
 rond	prep	A13.4 M6 Z5
-rond, rondje	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+rond	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
 ronde	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+rondje	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
 rood	adj	O4.3 G1.2 G1.2/S2mf
 rook	noun	F3 O1.3 F1 F3@
 roos	noun	L3 F2 O4.3 M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1
@@ -3475,7 +3487,8 @@ uitsluiten	verb	A1.8-
 uitsluitend	adv	A14
 uitspraak	noun	Q2.1 I1/Q1.2
 uitspreken	verb	Q3 Q2.2
-uitstap, uitstapje	noun	M1 F3% M2 S8-
+uitstap	noun	M1 F3% M2 S8-
+uitstapje	noun	M1 F3% M2 S8-
 uitstekend	adj	A5.1+++
 uitstel	noun	T4-
 uitstellen	verb	T4-
@@ -3548,12 +3561,12 @@ veranderen	verb	A2.1+ I1 B5
 verandering	noun	A2.1+ I1 B1 B5
 verantwoordelijk	adj	A2.2 S6+ S7.1 S1.2.6+ X6+
 verantwoordelijkheid	noun	S6+ S7.1+ X6+
-verantwoorden (zich)	verb	G2.2+ A2.2 O4.1
+verantwoorden	verb	G2.2+ A2.2 O4.1
 verantwoording	noun	S6+ S7.1+ X6+
 verbaasd	adj	X2.6-
 verbazen	verb	X2.6-
 verbazing	noun	X2.6-
-verbeelden (zich)	verb	X2.1 A5.2-
+verbeelden	verb	X2.1 A5.2-
 verbeelding	noun	X2.1/A6.2- A5.2-
 verbergen	verb	A10-
 verbeteren	verb	A5.1+/A2.1
@@ -3585,7 +3598,7 @@ verdubbelen	verb	N5+/A2.1
 verduidelijken	verb	A7+/Q2.2
 verdwijnen	verb	A10- M1 A3-
 vereisen	verb	X7+ S6+
-verenigen (zich)	verb	S5+
+verenigen	verb	S5+
 vereniging	noun	K1 E3- S5+ S5+c O2
 verf	noun	C1 Q2.2
 vergaan	verb	L1- T2- O4.2-
@@ -3605,7 +3618,7 @@ vergoeding	noun	S8+
 vergroten	verb	N3.2+/A2.1 A4.2+/Q2.1
 vergunning	noun	S7.4+
 verhaal	noun	Q2.1 X4.1 Q4
-verheffen (zich)	verb	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+verheffen	verb	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
 verhinderen	verb	S8-
 verhogen	verb	N5+/A2.1
 verhoging	noun	N5+/A2.1
@@ -3660,7 +3673,7 @@ vernoemen	verb	Q2.2
 veronderstellen	verb	X2.1 X7+
 veronderstelling	noun	X4.1 X2.1
 verontrusten	verb	E6-
-verontschuldigen (zich)	verb	Q2.2 S1.2.4+
+verontschuldigen	verb	Q2.2 S1.2.4+
 verontwaardigd	adj	E3-
 verontwaardiging	noun	E3-
 veroordelen	verb	Q2.2/E2- Q2.2/A1.1.2 G2.1
@@ -3690,7 +3703,7 @@ verschil	noun	A6.1-
 verschillen	verb	A6.1-
 verschillend	adj	A6.1-
 verschrikkelijk	adj	A5.1-
-verschuilen (zich)	verb	A10-
+verschuilen	verb	A10-
 verschuiven	verb	M2 M1 A2.1+ E1 H4/A2.1
 versie	noun	A4.1 Q2.1
 versieren	verb	O4.2+ C1/H1 S1.1.4+
@@ -3947,7 +3960,7 @@ waarvan	adv	Z8
 wachten	verb	T1.3 A3+ A11.1+ S1.1.1%
 wagen	noun	M3fn
 wagen	verb	A15- A1.4
-wagen (zich)	verb	A15- A1.4
+wagen	verb	A15- A1.4
 waken	verb	X3.4 S7.1 X2.4 A1.3+
 wakker	adj	B1 X2.5+
 wal	noun	M7/O1.2/W3
@@ -3962,13 +3975,14 @@ wanneer	conj	Z5
 want	conj	Z5/A2.2
 wantrouwen	noun	X2.1/A5.1-
 wapen	noun	G3 X4.1
-wapenen (zich)	verb	G3
+wapenen	verb	G3
 wapperen	verb	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+
 warm	adj	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++
 warmte	noun	O4.6+ E1 A1.1.1 S7.3
 wassen	verb	B4
 wat	pron	Z8 Z5
 water	noun	F4 B1 O1.2 W3/M4 C1%
+we	pron	Z8
 website	noun	Y2
 wederom	adv	N6+ Z4
 wederzijds	adj	S1.1.2+
@@ -3997,7 +4011,7 @@ welk	pron	Z5 Z8
 welkom	adj	Q2.2 S1.1.1 Z4
 welvaart	noun	I1.1+
 welzijn	noun	S8+ I1 G1.1c
-wenden (zich)	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+wenden	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
 wenkbrauw	noun	B1
 wenken	verb	Q1.1 X5.2+
 wens	noun	X7+
@@ -4031,7 +4045,7 @@ whisky	noun	F2
 wie	pron	Z8
 wiel	noun	M2 O2 N4
 wielrenner	noun	M3/S2mf
-wij, we	pron	Z8
+wij	pron	Z8
 wijd	adj	K5.1 N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@
 wijden	verb	A9-
 wijf	noun	S2.1f
@@ -4086,6 +4100,7 @@ wrijven	verb	A1.1.1
 wringen	verb	L2 B3
 wuiven	verb	Q1.1 M2 M1
 zaad	noun	F4 K5.1 L3 T2+ K5.1/S2mf
+z'n	pron	Z8m
 zaaien	verb	F4 A2.2
 zaal	noun	H2 H1 S9/H1c
 zacht	adj	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+
@@ -4135,10 +4150,11 @@ ziekte	noun	B2-
 ziel	noun	K2 S9 E1 S2mf
 zielig	adj	A5.1- E4.1-
 zien	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
-zijde, zij	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+zij	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+zijde	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
 zijkant	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
 zijn	verb	A3+ Z5
-zijn, z'n	pron	Z8m
+zijn	pron	Z8m
 zilver	noun	O1.1 I1 O2 O4.3
 zilveren	adj	O1.1 I1 O2 O4.3
 zingen	verb	K2
@@ -4202,4 +4218,5 @@ zweren	verb	Q2.2/S1.2.4- Q2.2
 zwerven	verb	M1 X5.1-
 zweten	verb	B1 F1
 zweven	verb	M1 T2+ I2.2
+één	num	N1 T3 T1.2 Z8
 
