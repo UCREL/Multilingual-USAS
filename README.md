@@ -19,7 +19,7 @@ Association for Computational Linguistics - Human Language Technologies
 (NAACL HLT 2015), Denver, Colorado, United States, pp. 1268-1274.
 http://aclweb.org/anthology/N/N15/N15-1137.pdf
 
-In 2016, we extended this initial approach to twelve languages and evaluated the 
+In 2015/16, we extended this initial approach to twelve languages and evaluated the 
 coverage of these lexicons on multilingual corpora. Please cite our LREC-2016 paper:
 
 Scott Piao, Paul Rayson, Dawn Archer, Francesca Bianchi, Carmen Dayrell, Mahmoud El-Haj, 
