@@ -1,5 +1,10 @@
-﻿#Spanish Semantic Lexicon (3663); Manually checked by Ricardo-María Jiménez of International University of Catalonia, Barcelona; Last updated 31 Aug. 2015
+#Manually checked by Ricardo-María Jiménez of International University of Catalonia, Barcelona; Last updated 31 Aug. 2015		
+#Manually checked and expanded by Hugo Sanjurjo González, University of León, Spain. Last updated 8 Apr. 2016		
+#Spanish Semantic Lexicon:		
+a	noun	Z5
 a	prep	Z5
+A.	num/noun	N4
+a.	num/noun	N4
 abandonado	adj	M1 T2- A9- E1%
 abeja	noun	L2mfn K1/S1.1.3+/S1.2.5+
 abejorro	noun	L2mfn K1/S1.1.3+/S1.2.5+ X3.2+
@@ -22,10 +27,11 @@ academia	noun	P1/H1 S5+c P1 X2.3
 académicamente	adv	P1/S2 A1.6 Z5
 académico	adj	P1 A1.6 P1/S2mf S5
 accesible	adj	S1.2.1+ A9+ A12+ M6
-acción	noun	I1 Q1 S1
+acceso	noun	M1 A9+ M7 Q1.2
 acciones	noun	I1 Q1 S1
+acción	noun	A1.1.1 I2.1.2 Q1 S1.2 G3 K4
 aceite	noun	A1.1.1 O1.2 C1 C1/O1 F1
-aceptar	verb	A9+ X2.5+ S1.2.1+ S7.4+
+aceptar	verb	A9+ X2.5+ S7.4+ S9@
 acera	noun	M3 H3
 acerca	conj	Z5 M6
 acero	noun	O1.1 O2 S1.2.5+ O4.3
@@ -34,21 +40,23 @@ acompañar	verb	S3.1 K2 T1.1.2
 acostumbrado	adj	A6.2+
 actitud	noun	A5 S1.1 X2.1 E1 P1
 activamente	adv	A1.1.1 X5.2 Z5 P1
-actividad	noun	S1.1 I1
+actividad	noun	S1.1 I2.1 A1.1.1 K5.1
 actividades	noun	S1.1 I1
-activo	adj	A1.1.1 X5.2+ P1
+activo	adj	A1.1.1 X5.2+ S3.2
+activo	noun	I1.1 A1.5.2+ 
 acto	noun	S1.1 T1.1 K4
 actor	noun	K4 S2.2m A1.1.1 S2mf
 actriz	noun	K4 S2.1f
+actuación	noun	K2 K4 S2/K5.1 S1.1.3+ A1.1.1 G1.1
 actual	adj	T1.1.2 W3/M4 W3/M5 O3 E1 S1.1. T1.1
 actuar	verb	A1.1.1 T1.1.2 A8 K4
-acuerdo	noun	G1 G2.1
+acuerdo	noun	Q1.2 G2.1 S7.1 X2.5 I2.1.2 G1 
 acumulación	noun	N5+ A9+
 acusar	verb	Q2.2 G2.1
 adaptación	noun	A2.1+ P1
 adaptar	verb	A2.1+ P1
 adelante	adv	Z5 N3.3
-además	adv	Z5 A4 N5
+además	adv	Z5 N5
 adentro	adv	M6 G2.1 S1.1.3+ Z5
 adepto	noun	S1.1.3
 adhesión	noun	A1.7+ S7.1-
@@ -73,7 +81,7 @@ adversario	noun	S7.3+ S2mf S1.2.1-/S2mf
 adviento	noun	S9 T1.3
 aeronave	noun	L2 M3 M5
 aeropuerto	noun	M5/M7
-afectar	verb	A2.1+ A5.4-/A8
+afectar	verb	A2.1+
 afirmó	verb	Q1
 aflojar	verb	A1.7-
 afortunado	adj	A1.4+
@@ -82,9 +90,9 @@ africano	adj	Z2 /S2mf
 afuera	adv	M6 S1.1.3- S5- Z5
 agente	noun	I2.1/S2mf G1.1/X2.2+/S2mf K4/S2mf
 ágil	adj	B1 O4.6+
-agosto	noun	T1.3 Z1m
-agnóstico	adj	S9- X2.2+ S2mf
 agnosticismo	noun	S9- X2.2+
+agnóstico	adj	S9- X2.2+ S2mf
+agosto	noun	T1.3 Z1m
 agradar	verb	E4.2+ E2+ X7+
 agravar	verb	A5.1-/A2.1
 agresivamente	adv	E3 P1 A2 Z5
@@ -94,8 +102,8 @@ agricultor	noun	F4/S2mf
 agricultura	noun	F4
 agua	noun	W1 O1
 ah	intj	Z4
-ahí	adv	M7 M6 T1.2 Z5
 ahora	adv	T1.1.2 Z4 Z5
+ahí	adv	M7 M6 T1.2 Z5
 aire	noun	M5 Y1
 aisladamente	adv	A6.1 A1.8 S5 A10 N3.3 Z5
 aislado	adj	A6.1- A1.8- S5- A10+ N3.3+
@@ -106,20 +114,24 @@ alarma	noun	E5- E6- Q1.1/A15- O2/T1
 alarmante	adj	E5- E6-
 alarmar	verb	E5- E6-
 alcalde	noun	G1.1/S7.1+/S2mf
+alcance	noun	N3.3 A11.1+ M7/K5.1 M7/B2 M7/G3 N2 W3 A1.7- X9.1+
+alcanzar	verb	N5+ N6+ N3.3 X9.2+ A2.1+ A5.4-/A8
 alcohol	noun	F2 O1.2
 aleccionar	verb	X5 X4.2 P1
-alemán	adj/noun	Z2/S2mf Z2/Q3
 Alemania	noun	M7 Z2
+alemán	adj/noun	Z2/S2mf Z2/Q3
 alentar	verb	S8+
 alerta	noun	X2.2+/A15- X2.6+/A15- X5.1+ X2.2+
 álgebra	noun	N2 P1
 algo	pron	Z5 Z8
 algodón	noun	O1.1 X2.3+
 alguien	adj	Z5 S2m
-algún	adj	Z5 S2m
 alguna	adj	Z5 S2f
+alguna	pron	N5 S2.1-f Z8 Z5
 algunas	adj	Z5 S2f
+alguno	pron	N5 S2.2-m Z8 Z5
 algunos	pron	Z5 S2m Z8
+algún	adj	Z5 S2m
 aliado	noun	S1.1.3+ S8+ S5+ S3.1/S2mf S8+/S2mf
 alianza	noun	S5+c
 Alicante	noun	M7 Z2
@@ -127,8 +139,8 @@ allá	adv	Z5 N3
 allí	adv	Z5 N3
 almohada	noun	H5 E2+ E3+ B2+ O2
 almuecín	noun	S2.1 S9
-almuédano	noun	S2.1 S9
 almuerzo	noun	F1
+almuédano	noun	S2.1 S9
 Alpes	noun	Z2 M7 O4.6-
 alrededor	adv	Z5 M1 M6
 Alsacia	noun	Z2 F2 M7
@@ -152,13 +164,13 @@ ambición	noun	X7+
 ambiente	noun	H2 S3 E1
 ambiguamente	adv	Q3 A7 Z5
 ambiguo	adj	Q3 A7-
-ambón	noun	O2 H5 S9
+ámbito	noun	M7 X2.2 K5.1/M7 G3 A4.1 A1.7-
 ambos	adj	N5 Z5 S1
 ambulante	adj	M1 S2mf
+ambón	noun	O2 H5 S9
 amenaza	noun	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 amenazado	adj	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 amenazar	verb	E3-/Q2.2 A15- X2.6+/O4.2- A7+
-América	noun	Z2 M7
 americano	adj	Z2 S2mf
 amigo	noun	S1.2.1+ S3.1/S2mf S2.1 S3 S5 S7 A2
 amigos	noun	S1.2.1+ S3.1/S2mf S2.1 S3 S5 S7 A2
@@ -169,13 +181,11 @@ amor	noun	E2+ S3.2 E2+/S2mf A2 A5 E1
 ampliamente	adv	N5+ A4.2-
 Amsterdam	noun	Z2 M7
 amuleto	noun	O2 S9
-añadir	verb	N5+/A2.1 N2 A1.8+
-análisis	noun	X2.4 Y1 A5 I1
+América	noun	Z2 M7
 analizar	verb	X2.4 Y1 A5 I1
 ancho	adj	K5.1 N3.7+ N5+ A4.2- A6.3+ X9.2- K5.1 S2mf
 Andalucía	noun	M7 Z2 O4.6+
 andaluz	adj	Z2 S2.1/S2.2
-anécdota	noun	Q2.1
 ángel	noun	S9 L3 S9mf O4.2+/S2mf
 angelical	adj	S9 L2 E2+ S5+
 ángulo	noun	O4.4 K5.1 X4.1
@@ -184,52 +194,58 @@ animal	noun	L2 L2mfn S5+c O2c
 animales	noun	L2 S5+c O2c
 aniversario	noun	T1.2
 Ankara	noun	Z2 M7
-año	noun	T1 T1.3 N1 P1c
-anónimo	adj	A10- Q4.1
-años	noun	T1 N1 T1.3 P1c
 ansiedad	noun	E6-
 ante	prep	Z5 N3
 antecedente	noun	N4/A1.1.1 Q3 N2
 antena	noun	B1/L2
 antepasado	noun	S4/T1.1.1 N4
-anterior	adj	N4 N3
+anterior	adj	N4
 anteriormente	adv	N4 N3
 antes	adv	N4 Z5 N3 T1.1
 Antillas	noun	Z2 M7
 Antonio	noun	S2 Z1
 antorcha	noun	O2 S9 X2.1
+anual	adj	N6
+análisis	noun	X2.4 Y1 A5 I1
+anécdota	noun	Q2.1
+anónimo	adj	A10- Q4.1
 aparecer	verb	A8 A10+ A3+ G2.1 K4 Q4
 aparente	adj	A8 A11.2+
 aparentemente	adv	A8 A11.2+
+apartado	noun	N5 Q1.2
 apasionado	adj	X5.2+ S3.2
 apenas	adv	Z5 N3
 apetito	noun	F1/B1 X7+
-aplicación	noun	Q1.2 A1.5.1 Y2 X5.1+ A1.1.1
+aplicación	noun	A1.5.1/Y2 A1.1.1
 aplicado	adj	A1.5.2+ Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
-aplicar	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+aplicar	verb	A1.5.1 A1.2+
 aporte	noun	A9- A2.2 S1.1.3+
 apostasía	noun	S9 A5.1
-apóstata	noun	S9 A5.1
-apóstol	adj	S2.1 S9 S5
 apoyo	noun	S3 A2 E3
 apreciar	verb	E2+ X2.5+ S1.1.1 I1.1++
 aprender	verb	X2.3+ P1
 aprendiz	noun	S2 P1 S5
 aprendizaje	noun	P1 X2.3
-aprobar	verb	P1 S7.3
+aprobar	verb	A5 P1 E2+ G1.1 X9.2+ S7.4+
 apropiado	adj	A1.2+ A9+
 aproximación	noun	X2.1/A7-
 aproximadamente	adv	A13.4 X2.1 A7-
-aquel	adj	Z5 S2.1 M6
-aquella	adj	Z5 S2.2 M6
-aquellas	adj	Z5 S2.2 M6
-aquellos	adj	Z5 S2.1 M6
+apóstata	noun	S9 A5.1
+apóstol	adj	S2.1 S9 S5
+aquel	adj	Z5 S2.1
+aquel	pron	Z8 A4.1-m A6.1-m S2.2m
+aquella	adj	Z5 S2.2
+aquella	pron	Z8 A4.1-f A6.1-f S2.1f
+aquellas	adj	Z5 S2.2
+aquellas	pron	Z8 A4.1-f A6.1-f S2.1f
+aquellos	adj	Z5 S2.1
+aquellos	pron	Z8 A4.1-mf A6.1-mf S2mf
 aquí	adv	Z5 M6 N3 T1.1.2 T1.2
 ara	noun	H5 S9 O1
 árabe	adj/noun	Z2 Z2/Q3 Z2/S2mf
 Arabia Saudí	noun	Z2 M7 I1 O4.6+ S7 A1.3+
-Aragón	noun	M7 Z2
 aragonés	adj	Z2 S2.1/S2.2
+Aragón	noun	M7 Z2
 arbitrario	adj	A1.4
 árbol	noun	L3 S4 O1.1 W5
 área	noun	Z5 M7 N3.2
@@ -251,14 +267,13 @@ arriba	adv	N3.1 N3.7
 arroz	noun	F1 A2
 arte	noun	C1 E1 P1
 articular	verb/adj	Q2.2 Q2.1
-artículo	noun	Z5 O1
 artificial	adj	A5.4-
+artículo	noun	O2 Q4 Q4.2 Q3 G2.1/I2.1.1
 artístico	adj	C1
 asaltar	verb	E3- G3
 asamblea	noun	S5+c A9+ A1.1.1 P1
 ascensor	noun	H2 B3
 asco	noun	E2- O4.2-
-así	adv	Z5 A8 N3
 asignatura	noun	X2.3 P1
 asimilar	verb	X2.3+ A6.1+/A2.1 A9+
 asimismo	adv	Z5 A4
@@ -273,42 +288,42 @@ astro	noun	A11.1+ Q1.2 K4/A11.1+ W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 Z3c
 asturiano	adj	Z2 S2.1/S2.2
 Asturias	noun	M7 Z2
 asunto	noun	A11 S1
+así	adv	Z5 A8 N3
 atacar	verb	E3- G3 B2- A1.1.2 Q2.2
 ataúd	noun	A10.1- A5.1- B2- L1- O2
-ateísmo	noun	S5 X2.1 A5.1
 Atenas	noun	Z2 M7
 atención	noun	X5.1+ S8+
 atender	verb	X5/X5.1 P1
 ateneo	noun	H2 S5 X2.3 P1
 ateniense	adj	S2.1/S2.2
 ateo	adj	S2.1/S2.2 S9- X2.1 A5.1
+ateísmo	noun	S5 X2.1 A5.1
 Atlántico	noun	Z2 O1.2
 atracción	noun	O4.2+ S3.2 O3
 atractivo	adj	O4.2+ S3.2
 atraer	verb	O4.2+ S3.2 O3
 atrapado	adj	A1.7+ A9+
-atrás	adv	Z5 N3
 atravesar	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9
 atrever	verb	E5+
 atribuir	verb	A2.2/Q2.2
 atril	noun	H5 S9 O1
 atroz	adj	A5.1---
+atrás	adv	Z5 N3
+auditor	noun	I2.1.3/S2mf
+auditoría	noun	I2.1.1
 aula	noun	P1 H2
 aumentar	verb	N5+/A2.1
 aumento	noun	N5+/A2.1 A13 A5
-aún	adv		Z5 T1.1
-aun	conj		Z5 A14
-aunque	conj		Z5 A13
+aun	conj	Z5 A14
+aunque	conj	Z5 A13
 ausencia	noun	S1.1.3- A3- P1
 ausente	adj	S1.1.3- A3- P1
 Australia	noun	Z2 M7
-auténtico	adj	A5.4+
 autobús	noun	M1 K5.2 M3 M3fn
 autodidacta	adj	S2 P1
 automáticamente	adv	O2/S5- X2.1- X7-
 automático	adj	A1.1.1/S5- X2.1- X7- O2/S5- M3fn G3
 automóvil	noun	M3
-autónomo	adj	S5-
 autor	noun	S2 Q4.1 C1 K1
 autoridad	noun	G1.1c S7.1+ S7.4+ X2.2+ P1
 autoridades	noun	S2 G1 S7.1+ S7.4+ X2.2+
@@ -316,22 +331,30 @@ autoritariamente	adv	S7.1+ S7.4+ X2.2+
 autoritario	adj	S7.1+ P1 S7.4+ X2.2+
 autorización	noun	S7.4+ P1
 autorizado	adj	S7.4+ P1
+auténtico	adj	A5.4+
+autónomo	adj	S5-
 auxiliar	verb	S1.1 X2.3 P1
 avanzado	adj	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 T3- A5.1+ Y1 A12- T4- T3+ P1
 ave	noun	L2mfn S2.1f M5 M3
-aves	noun	L2mfn S2.1f M5 M3
-avión	noun	L2 M3 M5
 avenida	noun	M3/H3 X4.2
 aventura	noun	X8+ X5.2+ A15-
+aves	noun	L2mfn S2.1f M5 M3
 aviso	noun	X2.2+/A15- A1.3+
+avión	noun	L2 M3 M5
 ayer	adv	Z5 T1.1
 ayuda	noun	I1 A3 S1.2.4 P1 G1 S8+ P1
 ayudar	verb	S8+ P1 S1.2.4 P1 G1
 ayuno	noun	S9
 Azores	noun	Z2 M7 O1.2
-azúcar	noun	F1 X3.1+
 azul	adj	I1.2 O4.3 S1.2.4- G1.2
+azúcar	noun	F1 X3.1+
+añadir	verb	N5+/A2.1 N2 A1.8+
+año	noun	T1 T1.3 N1 P1c
+años	noun	T1 N1 T1.3 P1c
+aún	adv	Z5 T1.1
 b	noun	Z5
+B.	num/noun	N4
+b.	num/noun	N4
 bachiller	adj	S2.1 P1 S5
 bachillerato	noun	T1.3 P1
 Bagdad	noun	Z2 M7
@@ -339,10 +362,10 @@ bahía	noun	L2/Q2.1 W3/M4 H2 M5 O4.4 L3
 bailar	verb	K1
 bailarín	noun	K1/S2mf
 baja	adj	N3.2 S2mf
+bajo	prep	Z5
 Balcanes	noun	Z2 M7
 balcón	noun	H2
 Baleares	noun	Z2 M7
-Báltico	noun	Z2 M7 O1.2
 banco	noun	G1 I1 H1 O1
 Bandeja	noun	O2
 bandera	noun	Q1.1 N5-/A2.1 B2-/A2.1 H1 O2/H1
@@ -352,49 +375,47 @@ barba	noun	B1 O4.2
 barbaridad	noun	G2.2-
 Barcelona	noun	M7 Z2 O4.2+
 barcelonés	adj	Z2 S2.1/S2.2
-base	noun	H2 M7 K5.1 Y1 O2
-básicamente	adv	Z4 A13.2
+basar	verb	A2.2 A1.5 A3
+base	noun	H2 M7 Y1 O2 K5.1
 Basilea	noun	Z2 M7
 bastante	adv	Z5 A5 A13
 batalla	noun	X8+ G3 E3- O2
-bebé	noun	NN1 T3--/Q2.1 T3-- T3--/S2mf E2+mfn
 beber	verb	F2/B1
+bebé	noun	NN1 T3--/Q2.1 T3-- T3--/S2mf E2+mfn
 beca	noun	P1 B5 O2
 becario	adj	S2.1/S2.2 P1 S5
 bedel	noun	S2.1 P1 S5
 Beirut	noun	Z2 M7
 Bejin	noun	M7 Z2
 Belga	adj	Z2 S2.1/S2.2
-Bélgica	noun	Z2/S2mf M7 Z2
 Belgrado	noun	Z2 M7
-bélico	adj	G3 E4.2-
 belleza	noun	O4.2+ B4
 bendito	adj	Z4 E4.2+ S9
 Benedictino	noun	S9/S2mf
 beneficiar	verb	S8+
-Berlín	noun	Z2 Z1mf Z3c
 berlinés	adj	Z2 S2.1/S2.2
+Berlín	noun	Z2 Z1mf Z3c
 Berna	noun	Z2 M7
 besar	verb	S3.2 E2+ E3+
 beso	noun	S3.2 E2+ E3+
 Biblia	noun	Q4.1 S9
-bíblico	adj	S9/Q4.1
 biblioteca	noun	Q4.1/H1c P1
 bicicleta	noun	M3 M3fn O2
 bien	adv	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 W3/M4
-bilbaíno	adj	Z2 S2.1/S2.2
+bien	noun	G2.2+ A9+ O2 I2.1.3
 Bilbao	noun	Z2 M7
+bilbaíno	adj	Z2 S2.1/S2.2
 biografía	noun	Q4.1
 biológico	adj	L1 B1
 blanca	adj	O4.3 S2.2 K5.2 G2.2+ O4.3/S2mf F2 F1 B1
 blanca	noun	S2.2 Z1 O4.3 W2 I1
 blanco	noun	S2.1 G3
-bloque	noun	A10- S8- K4 O2 H1 N5+ B3
+bloque	noun	H1 O2 K1 N5
 boca	noun	B1 H1
-bolígrafo	noun	P1 O2
 Bolivia	noun	Z2 Z3c
 Bolonia	noun	Z2 M7 G1 A5 P1 E2- G2.1
 bolsillo	noun	A9+ K5.2 B5 O2 I1.1 M7/N3.2-
+bolígrafo	noun	P1 O2
 Bombay	noun	Z2 M7
 borde	noun	A1.1.1 M1 O2 M7 T1.2 S7.1+
 bordear	verb	M7/G1.1 M6
@@ -432,34 +453,40 @@ burlar	verb	Q2.2/S1.2.4- S7.2-
 burro	noun	L2mfn
 busca	verb	S1.1.2 X2
 buscar	verb	S1.1.2 X2
+Báltico	noun	Z2 M7 O1.2
+básicamente	adv	Z4 A13.2
+básico	adj	A6.2+ A11.1+ A12+
+Bélgica	noun	Z2/S2mf M7 Z2
+bélico	adj	G3 E4.2-
+bíblico	adj	S9/Q4.1
 búsqueda	noun	X2.4
-c	noun	Z5
+c	noun	Z5 Y2
+C.	num/noun	N4
+c.	num/noun	N4
 caballo	noun	L2mfn
+cabe	prep	Z5
 cabello	noun	B1
-cabeza	noun	B1 G1	G3
+cabeza	noun	B1 G1 G3
 cable	noun	O2 Q1.3
 cabo	noun	G1 G3 W3
 cabra	noun	L2mfn
-cada	adj	Z5
+cada	adj	N5
 cadena	noun	A1.7+ N4 S5+/I2.1c O2 B5 S7.1
 cadera	noun	B1 O4.2+
 caer	verb	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
-caído	adj	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
 Cairo	noun	Z2 M7
 cajón	noun	H5 I1.1/S2mf C1/S2mf O1
 Calabria	noun	Z2 M7 E3 E5 G2
-cálculo	noun	N2 I3.1
+calcular	verb	N2 X7+
 Calcuta	noun	Z2 M7
 calendario	noun	O2/T1.3 T1.1 Q1.2 P1
-calidad	noun	A5.1 A5.1+ O4.1
-cálido	adj	O4.6+ E2+ O4.2+ S1.2.1+
+calidad	noun	A5.1 A5.1+ O4.1 O4.2
 calificación	noun	X2.4 A5.1 P1 A13
 California	noun	Z2 M7
 calle	noun	M3/H3 H1 K5.2 M7
 cama	noun	H5 O1 E2+ E3+
-cámara	noun	H5 K5.2 O1.1
 cambiar	verb	A2.1+ I1 B5
-cambio	noun	A2.1+ I1 B1 B5 T1.1 I1 G1 M2
+cambio	noun	A2.1+ I1 B5 T1.1 G1 M2
 Camboya	noun	M7 Z2
 camboyano	adj	Z2 S2.1/S2.2
 caminar	verb	M1 L2 X9.2+/A12+
@@ -467,38 +494,36 @@ camino	noun	M7 W3 S9 X9.2+/A12+
 camisa	noun	B5
 campana	noun	O2/X3.2 O4.4
 campaña	noun	X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3
-campeón	noun	S8+ X9.2+/S7.3/S2mf S8+/S2mf
 campesino	adj	F4/M7
+campeón	noun	S8+ X9.2+/S7.3/S2mf S8+/S2mf
 campo	noun	M7 W3 L2 G3
-Canadá	noun	Z2 M7
 Canadiense	adj	Z2 M7 S2.1/S2.2
+Canadá	noun	Z2 M7
 Canario	noun	Z2 M7 S2.1/S2.2
-cáncer	noun	B2-
 canción	noun	K2
 candidato	noun	A7+ A1.2+ G1.2/S2mf I3.1/S2mf P1/S2mf
-canónigo	noun	S2.1 S9 G1
 canonjía	noun	S9 G1
 Cantabria	noun	M7 Z2
-cántabro	adj	Z2 S2.1/S2.2
 cantante	noun	K2/S2mf
 cantar	verb	K2
 cantidad	noun	I1 O1 A5 N3
+canónigo	noun	S2.1 S9 G1
 caos	noun	A1.7- A1.9 G2.1- Y1
-caótico	adj	S2mf A1.7- A1.9 G2.1- Y1
 capacidad	noun	N3.2 N3.4 N5.1+ X9.1+ I3.1
 capilla	noun	S9/H1 P1
-capital	noun	I1 G1 M7
-capítulo	noun	Q4.1 T1.3 S9/S5c S5+c
+capital	adj	A11.1+/A5.1 M7/G1.1
+capital	noun	M7/G1.1 I1.2.1 I1.1
 capturar	verb	A9+
+capítulo	noun	Q4.1 Q4.3 K4 I2.1.2/Q1.2 T1.3
 cara	adj/noun	I1 B1 H2
-carácter	noun	S2 S1.1 A4 E1
+característica	noun	O4.1 A4.2+
 características	adj	A6.2+ A4.2+ O4.1 N2
 característico	adj	A6.2+ A4.2+ O4.1 N2
 cardenal	noun	S9 S2.1 B2
 cargo	noun	G1 I2 S2 G3
 caridad	noun	S8+/S5+c S8+ S1.2.2- S9 A5.1+
-cariñoso	adj	E2+
 caritativo	adj	S9 S1.1.2 A5.1+
+cariñoso	adj	E2+
 carlos	pnoun	S2 Z1
 carne	noun	B1 S9 A1.9 A2
 carrera	noun	P1 M1
@@ -506,12 +531,13 @@ carta	noun	Q1 Q2
 cartabón	noun	O2 C1 N3.3
 cartel	noun	Q1.2 P1 O2
 cartera	noun	O2 P1
+carácter	noun	S1.2.5+ O4.1 O4.2 E1
 casa	noun	H1 P1/S5+c G1.1c H4
 casado	adj	S4 A2.2
 casar	verb	S4 A2.2
 casco	noun	B5
 casero	adj	O4.1
-casi	adv		Z5 A13
+casi	adv	Z5 A13
 casita	noun	H1 F1
 caso	noun	A3 E1 Q3
 casos	noun	G2.1 Q3
@@ -521,22 +547,22 @@ castigado	adj	S2.1/S2.2 G2
 castigar	verb	G2.1
 Castilla	noun	M7 Z2
 castillo	noun	H1
-catalán	adj/noun	Z2/Q3 Z2/S2.1/S2.2.
-catálogo	noun	A4.1 Q4.1
 Cataluña	noun	Z2 M7 I1
-catástrofe	noun	A5.1--- X9.2- A1.1.2/W4
-cátedra	noun	T3 P1
+catalán	adj/noun	Z2/Q3 Z2/S2.1/S2.2.
 catedral	noun	S9 H1
 catedrático	noun	S2.1/S2.2 S5 S7.1 T3 P1
 categoría	noun	A4.1
 catolicismo	noun	S5 S9 X2.1 S2
-católico	adj	S2.1/S2.2 S5 S9 X2.1
 catorce	num	N1 T3
-Cáucaso	noun	Z2 M7
+catálogo	noun	A4.1 Q4.1
+catástrofe	noun	A5.1--- X9.2- A1.1.2/W4
+católico	adj	S2.1/S2.2 S5 S9 X2.1
 causa	noun	A2.2 X2.1 X4.1 Z5/A2.2
 cautela	noun	A1.3+ G2.1/Q2.2 Q2.2
 cazador	noun	K5.1/S2mf L2mfn O2
 cazar	verb	L2 K5.1 X2.4
+caído	adj	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+caótico	adj	S2mf A1.7- A1.9 G2.1- Y1
 CD	noun	K2 Q4.1
 cedro	noun	L3 S9
 celebración	noun	E4.1+ S9
@@ -549,10 +575,11 @@ cenar	verb	F1
 ceniza	noun	O1.1 L3
 centavo	noun	I1
 centenar	noun	N1
-centímetro	noun	N3.7
 central	adj/noun	A11.1+ M6 K5.2 S7.1+/H1c
 centro	noun	K1 H1 M6 K5.2 S7.1+ L2
 centros	noun	H1 M6 K5.2 S7.1+
+centésimo	adj/num/noun	N4 N5
+centímetro	noun	N3.7
 cera	noun	A1.1.1 N3.2+/A2.1 A2.1+ B4 O1.1 L2
 cerca	adv	Z5 N3
 cercano	adj	M1/N3.3- N3.3- S3.1 A6.1+ A13.4 T1.3- Z5
@@ -581,14 +608,16 @@ chupar	verb	B1 M2 S1.1.3+/S6+
 ciclo	noun	M3 N6 M3fn B1
 ciego	adj	X3.4- X3.4-/B2- X3.4-/S2mf H5
 cielo	noun	S9 A5.1+
+cien	adj/nun	N1
 ciencia	noun	X2.2 X2.3
+ciento	adj	N1 A5
 científicamente	adv	Y1 S5 Z5
 científico	adj	Y1 S5
 científico	noun	Y1/S2mf
-cien	adj/nun	N1
-ciento	adj	N1 A5
+cierre	noun	A10- T2- Q3% O2 
 cierta	adj	Z5 A5
 cierto	adj	Z5 A5
+cifra	noun	N1 N5
 cigarrillo	noun	F3 A1.9 E6 B2
 cinco	num/adj	N1 T1.2 T3
 cincuenta	adj/num	N1
@@ -597,11 +626,11 @@ cintura	noun	B1 B5
 cinturón	noun	B5 O2 W3 E3- K5.1 M1/N3.8+
 circo	noun	K1 E2+ E3+ A5.1+
 circular	adj	O4.4 Q1.2
-circunstancia	noun	O4.1
+circunstancia	noun	A3+ O4.1 M6 A1.8+ G3 I1/A3
 cirujano	noun	B3/S2mf
 cisma	noun	S9 A1.8 S2 A15-
 cismático	adj	S9 A1.8 S2 A15-
-cítara	noun	S9 K2
+citar	verb	Q2.2 Q1.2 G2.1
 ciudad	noun	M7c M7/I2.1c L1 Hi S3
 ciudadano	noun	G1.1/S2mf S5+/S2mf
 civil	adj/noun	G1.1 S1.2.4+ G2.1 H1 G3-/S2mf
@@ -611,24 +640,23 @@ civilizar	verb	X2 P1 A5 A2 S2
 claramente	adv	A7+ A11.2+ A12+
 claro	adj	A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4
 clase	noun	H2 P1 A5 S5
-clásico	adj	A4.1 A5.1+ T3+ Q4.1 K2
 clasificación	noun	A4.1
 claustro	noun	H2 S7.1 P1 S5 S5
 clavar	verb	A1.1.1
 clave	adj/noun	A1.1.1 A11.1+ O2 X9.2+ Q1.2
 clerical	adj	S9 S3.1
-clérigo	noun	S9 S2.1
 clero	noun	S9 S5 S3.1
 clima	noun	W4 A1.1.1 E1
+club	noun	K5.2 G1 S3.1
+clásico	adj	A4.1 A5.1+ T3+ Q4.1 K2
+clérigo	noun	S9 S2.1
 clínica	noun	B3 B3/H1
 clínico	adj	B3 S1.2.1-
-club	noun	K5.2 G1 S3.1
 cobre	noun	I1.1 O4.3 O1.1 G2.1/S2mf
 cocina	noun	F1/H2
 cocinar	verb	F1
 cocinero	noun	F1/S2mf
 coco	noun	F1 L3 A5.1-
-código	noun	A10-/Q1.1 A4.1 Y2 B1% G2.1 G2.2 B3%
 codo	noun	B1 E3-
 coeducación	noun	P1 S3.1
 cofradía	noun	S9 S2 S3 S3.1
@@ -654,18 +682,16 @@ comenzó	verb	A3 M1
 comer	verb	F1/B1 A1.5.1/N5+
 comercio	noun	I2
 cometer	verb	A1.1.1 S6+ A1.7+/G2.1
-cómico	adj	E4.1+ E4.1+/S2mf E4.1+/Q4.2
-comisión	noun	I1 G2.1
-como	conj/verb	Z5/F1/B2
-cómo	adv	Z5
-compañero	noun	S2.1/S2.2. S5 P1
-compañía	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
+comisión	noun	I2.1.3 I1 G2.1
+como	adv/conj	Z5
 comparable	adj	A6.1+
 comparación	noun	A6.1 A5.1 Q3
 comparar	verb	A6.1 A5.1 Q3
 compartir	verb	S1.1.2+
-compás	noun	O2 C1 M1 N3.3
+compañero	noun	S2.1/S2.2. S5 P1
+compañía	noun	I2.1.3/S5+c S5+c G3/S5+c S3.1 K4/S5+c
 compensación	noun	S8+
+competente	adj	X9.1+
 competir	verb	S7.3+
 complejidad	noun	A12- B2-/X1
 complejo	noun	A12- H1 B2-/X1
@@ -673,7 +699,6 @@ completamente	adv	A13.2
 completar	verb	T2- Q1.2
 completo	adj	N5.1+ T2- N3.2+ Q1.2
 complicación	noun	A12-
-cómplice	noun	S8+/S2mf
 comportamiento	noun	G2.2 A5 X6
 comportar	verb	S1.1.1 A1.1.1 X6
 comportarse	verb	G2.2 A5 X6
@@ -684,20 +709,21 @@ comprador	noun	I2.2/S2mf
 comprar	verb	I2.2
 comprender	verb	X2.5+ A5 A13+
 comprensible	adj	X2.5+
+comprensivo	adj	A5 A13+ X2.5+ S2mf
 comprensión	noun	A5 A13+ X2.5+
 comprensión	noun	X2.5+
-comprensivo	adj	A5 A13+ X2.5+ S2mf
 comprobar	verb	P1
 comprometer	verb	A6.1+/S1.1.2+ G2.2-
 compunción	noun	S9 A5 A13+
 compungido	adj	S9 A5 A13+ S2mf
 computadora	noun	Y2
-común	adj	A6.2+ N5++ S5+ O4.2- M7 S3
+compás	noun	O2 C1 M1 N3.3
 comunicación	noun	Q2.1 Q1.2 Q1.3 Q4.3
 comunicar	verb	Q2.1 Q1.2 Q1.3 X2.2+
 comunidad	noun	S5+c P1 S2 G1
-comunión	noun	S9 S5+
 comunismo	noun	G1.2
+comunión	noun	S9 S5+
+común	adj	A6.2+ N5++ S5+ O4.2- M7 S3
 con	prep	Z5 A4.1
 concentrar	verb	X5.1+ I2.2% M6 N5+ O1.2 W3/I4
 concepción	noun	X4.1 B1
@@ -713,8 +739,8 @@ concurso	noun	S1.1.3 P1
 condenación	noun	S9 A5.1-
 condenado	adj	S9 S2.1/S2.2
 condenar	verb	S9 A7 E6
-condición	noun	B4 P1 O4.1 S6+ B2- B2+ Z7 I1 G2.1
 condicionado	adj	B4 P1
+condición	noun	O4.1 S6+ Z7 B2- B2+ I1 I2.1.1 G2.1 B4 A6.2/O4.1
 condiscípulo	noun	S1.1.3 P1 S5
 conejo	noun	L2mfn F1 Q2.1
 conferencia	noun	X2.3 Q1.1 P1
@@ -733,14 +759,14 @@ congregación	noun	S9 S3 G1.1 S5
 congreso	noun	G1 S5
 conjunto	noun	S2 S3 S5 X1
 conocer	verb	A1.6 A5 X2
-conocimiento	noun	X2.2 S3.2/B1 P1 A1.6 A5 X2
+conocimiento	noun	X2.2 P1 A1.6 A5 X2
 conquista	noun	X9.2+/S7.3 X9.2+/G3 S7.1+
 consagración	noun	S9 S1.1.3 A4.2 A9
 consagrado	adj	S9 S2m A4.2f A9
 consagrar	verb	S9 A4.2 A9
 consecuencia	noun	A2.2
 conseguir	verb	A1.1.1 Q2
-consejo	noun	G1 I1 Q2
+consejo	noun	Q2 Q2.2/S8+ S7.1+/S5+c G1.1c I2.1.3
 conservación	noun	W5 S8+ A9+/A2.1-
 conservador	adj	G1.2 A6.2+ A1.3+ A9+ G1.2/S2mf A2.1-/S2mf
 conservatorio	noun	H2 K2 X2.3
@@ -749,17 +775,20 @@ considerable	adj	N5+ X2.1 X2.4 X6
 considerar	verb	X2.1 X2.4 X6
 consistencia	noun	O4.5
 consolar	verb	S8+
-consolidar	verb	A7+/A2.1 S5+
+consolidar	verb	A7+/A2.1
 conspiración	noun	G2.1- G2.2-
 constancia	noun	T2++ X8+
 constante	adj	A2.1- N2 T2++ S6+
 constantemente	adv	T2++
-constitución	noun	G1.1 B2 O1/A1.8+
 constitucional	adj	G1.1 M1
+constitución	noun	G1.1 B2 O1/A1.8+
 construcción	noun	H1 A1.1.1 O2 X2.1
 constructivo	adj	S8+
 consultar	verb	Q2.1 Q1.1/S8+
 consumo	noun	A1.5.1 A1.5.1/N5 F1 F1/N5 B2- S2 I1
+contabilidad	noun	I1 I1.3 I2.1 I2.1.2 P1 Y1
+contable	adj	N1
+contable	noun	I3.1 I2.1.3
 contacto	noun	Q2.2 S1.1.1 S2mf O3
 contemplación	noun	S9 X2.4
 contemplar	verb	X2.4 S9
@@ -780,6 +809,7 @@ contradictorio	adj	A6.1-
 contrario	adj	A51 A1.8
 contrastar	verb	A6.1-
 contraste	noun	A6.1-
+contrato	noun	Q1.2/I3.1 Q1.2/I2.1.2 Q1.2/G2.1 Q2.2
 contribución	noun	A9- A2.2 S1.1.3+
 contribuir	verb	A9- A2.2 S1.1.3+
 control	noun	S7.1+ A1.7+ O2 I1 G1 A1.9
@@ -801,10 +831,7 @@ coordinador	noun	P1 S7.1 S5
 Copenhague	noun	Z2 M7
 copia	noun	A5.4- Q4.1 Q4.2 Q1.2
 copiar	verb	A5.4- P1
-Corán	noun	Q4.1 S9
 corazón	noun	B1 A2
-Córcega	noun	Z2 M7 O1.2
-Córdoba	noun	Z2 M7
 cordobés	adj	Z2 M7
 Corea	noun	Z2
 coreano	adj	Z2 S2.1/S2.2
@@ -813,14 +840,15 @@ coronel	noun	G3/S7.1+/S2mf
 corrección	noun	S9 A5+ A1.8 S1.2.4+
 correctamente	adv	A5.3+ A1.8
 correr	verb	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
-correspondiente	adj	Q1.2 A6.1+
+correspondiente	adj	A2.2 A6.1+ S3.1
 corrupción	noun	G2.2- G2.1- Q3
 cortar	verb	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
 corte	noun	B2 G2.1
-cortés	adj	S2.1/S2.2 S1.2.4+
 cortesía	noun	S1.2.4+
+cortés	adj	S2.1/S2.2 S1.2.4+
 cortésmente	adv	S1.2.4+
 coruñense	adj	Z2 S2.1/S2.2
+Corán	noun	Q4.1 S9
 cosa	noun	O2 X4.1 A7- S2mf L2mf
 cosas	noun	O1 A1 O2 X4.1 A7-
 coser	verb	C1 A1.1.1
@@ -832,7 +860,6 @@ crear	verb	A1.1.1 A2.2 E1
 creativo	adj	C1/S2mf X2.1/A6.2-
 crecimiento	noun	I1 B2
 credulidad	noun	X2.1 S9 A5.1 X2.1 S8+ T1.1.3 E1+
-crédulo	adj	S2.1/S2.2 S9 A5.1 X2.1 S8+ T1.1.3 E1+
 creencia	noun	X2.1 S9 X2.1 S8+ T1.1.3 E1+
 crema	noun	F1 A9+ S7.1+ B3 O1.2 O4.3 A5.1+++
 creo	verb	S9 X2.1 S8+ T1.1.3 E1+
@@ -844,14 +871,16 @@ crisis	noun	A12- A1.9 A5.1
 cristianismo	noun	S5 S9 X2.1
 cristiano	adj	S9 S9/S2mf Z1mf X2.1 A5.1
 Cristo	noun	Z1m Z4 S9
-criterio	noun	X4.1
+criterio	noun	X4.1 X2.1 X2.1/A5 X6+ G2.1 X4.2
 criticar	verb	Q2.2/E2-
-crítico	adj	Q2.2/E2- X2.4 A11.1+ A15-
-crónico	adj	T1.3+
 cruzado	adj/noun	S9 S2.1/S2.2 G3
 cruzar	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9
+crédulo	adj	S2.1/S2.2 S9 A5.1 X2.1 S8+ T1.1.3 E1+
+crítico	adj	Q2.2/E2- X2.4 A11.1+ A15-
+crónico	adj	T1.3+
 cuaderno	noun	Q1.2 P1
 cuadrado	adj	O4.4 A6.1+ N2 S7.4 M3/H3 T3+/S2mf
+cuadragésimo	adj/num/noun	N4 N5
 cuadro	adj	H5 B2 C1 O1
 cual	pron	Z5 Z8
 cuales	adj	Z5
@@ -861,7 +890,8 @@ cuanto	adj	Z5 T1.1 N3.1
 cuarenta	num	N1 T3
 cuaresma	noun	S9 T1.3 A1.8-
 cuaresmal	adj	S9 T1.3 A1.8-
-cuarto	adj/noun	N4 H1 Il N1 T3 T1.2
+cuarto	adj/num	N4 N5
+cuarto	noun	N4 N5 P1
 cuatro	num/adj	N1
 Cuba	noun	Z2 O4.6+
 cuba	pnoun	Z2 H5
@@ -869,10 +899,11 @@ cubano	adj	Z2 Z2/S2mf
 cubierto	adj	A10- M1 N3.6 I1.1 A1.8+ N5 Q2.1 S8+ A1.1.1
 cubrir	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 cuchillo	noun	E3- O2
-cuenta	verb	I1 I2
+Cuenca	noun	Z2 N3.3-/S5-
+cuenta	noun	I1.1/N2/Y2 N5 N5.1+ I1.3.1 O2
 cuerpo	noun	B1 O2 S5+c O4.1 S2mf G3
-cuestión	noun	X2 X2.4 P1	A12
 cuestionar	verb	Q2.2
+cuestión	noun	X2 X2.4 P1 A12
 cueva	noun	K5.1 W3
 cuidadosamente	adv	A1.3+
 culpable	adj	G2.1- E4.1-
@@ -881,6 +912,7 @@ cultivar	verb	X2 S1.1.1 S5+ L1 X2 C1 Q4.1
 cultura	noun	C1 S1.1.1 S5+ L1 X2 C1 Q4.1
 cultural	adj	C1 S1.1.1 S5+ Q4.1
 cumpleaños	noun	T1.2/T3
+cumplimiento	noun	G2.1+ A6.1+ S7.1-
 cumplir	verb	X9.2+
 cura	noun	S9 S2.1 E1
 curación	noun	S9 E1
@@ -891,35 +923,47 @@ cursillo	noun	S1.1.3 P1
 curso	noun	T1.3 P1
 curva	noun	O4.4
 cuyo	adj	Z5 S3 S2mf
+cálculo	noun	N2 I3.1
+cálido	adj	O4.6+ E2+ O4.2+ S1.2.1+
+cámara	noun	H5 K5.2 O1.1
+cáncer	noun	B2-
+cántabro	adj	Z2 S2.1/S2.2
+cátedra	noun	T3 P1
+Cáucaso	noun	Z2 M7
+cítara	noun	S9 K2
+código	noun	A10-/Q1.1 A4.1 Y2 B1% G2.1 G2.2 B3%
+cómico	adj	E4.1+ E4.1+/S2mf E4.1+/Q4.2
+cómo	adv	Z5
+cómplice	noun	S8+/S2mf
+Córcega	noun	Z2 M7 O1.2
+Córdoba	noun	Z2 M7
+d	noun	Z5
+D.	num/noun	N4
+d.	num/noun	N4
 da	verb	A3 S3 A9+
 dado	verb/adj/noun	A4.2+ A9+ A1.1.1 Z5 K1 A3 S3
 Dakar	noun	Z2 M7 K5.1
 Damasco	noun	Z2 M7 S9 F1 L3
 dan	verb	A3 S3 A9+
-dañar	verb	A1.1.2 A15-
-Danés	adj	Z2 Z2/Q3 Z2/S2mfnc
 danza	noun	K2 M1 C1
+Danés	adj	Z2 Z2/Q3 Z2/S2mfnc
 dar	verb	A9+ A1.1.1
-datos	noun		I1 N1
+dato	noun	X2.2/X2.4 Q1.1 Q2.1 Y2 X4.1 A1.5.2 K5 A10+ M6
+datos	noun	I1 N1
+dañar	verb	A1.1.2 A15-
 de	prep	Z5
 debate	noun	Q2.2 P1
-debe	verb	A5.1- A13 S3 I1
-deben	verb	A5.1- A13 S3 I1
 deber	noun	A5.1- A13 P1 X6
-debía	verb	A5.1- A13 S3 I1
+deber	verb	S6 A7+
 debido	adj	A5.1- A13 S3 I1
-débil	adj	S1.2.5- O4.1 S7.1- A5.1-
 debilidad	noun	S1.2.5- O4.1 S7.1- A5.1- X9.1- E2+
-década	noun	T1.3
 decanato	noun	H2 S7.1 P1
 decano	noun	P1 S7.1 P1 S5
-decía	verb	Q1
 decidir	verb	X6+
-décimo	adj	N4 N1
 decir	verb	Q1
-decisión	noun	X6+ Q1 I1 X5
-decisión	noun	X6+
+decisión	noun	X6+ Q1
 decoración	noun	C1/H1 O2/O4.2+ S1.1.4+
+decía	verb	Q1
 deducción	noun	X2.5
 deducir	verb	X2.5
 deductivamente	verb	X2.5 Z5
@@ -942,7 +986,6 @@ del	prep+art	Z5
 Delhi	noun	Z2
 delicado	adj	O4.2+ A1.3+ B2- A12- X9.1+
 delincuente	noun	G2.1-/S2mf T3-
-demás	adj	Z5 S2
 demasiado	adj	Z5 A5 A6 N5.1+
 democracia	noun	G1.2 S7
 democrático	adj	G1.2 S7
@@ -950,20 +993,23 @@ demoniaco	adj	S9 S2.1 A5.1- A15-
 demonio	noun	S9 S2.1 A5.1- A15-
 demostración	noun	G1.2 A10+ X2 P1
 demostrar	verb	X2 P1
+demás	adj	Z5 S2
 denario	noun	I1 I1.3 S9
 dentro	adv	M6 G2.1 S1.1.3+ Z5 N3
 denuncia	noun	Q2.2 G2.1
 denunciar	verb	Q2.2/E2-
+depender	verb	A2.2 S6- S7.1-
 deporte	noun	A10+ K5.1
 derecha	adj/noun	G1 S7 N3
-derecho	noun	S1.1.2 P1 S1.1.4
+derecho	noun	P1 G2.1 S1.1.4 I2.1.1 Y1
 derechos	noun	G2.1
+derivar	verb	N2 A2.2 T2+ A3+ A9+
 desacuerdo	noun	A6.1- E2-
 desagradable	adj	O4.2-
 desaparecido	adj	A3- A10- A9- A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3-
 desaparición	noun	A10- M1 A3-
 desarrollar	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
-desarrollo	noun	A2.1+ A5.1+/A2.1 H1 I1
+desarrollo	noun	A2.1+ A5.1+/A2.1 T2++ I1/I2 H1 M1 B2-
 desasnar	ver	X2 P1
 desastre	noun	A5.1--- X9.2- A1.1.2/W4
 desayuno	noun	F1
@@ -984,7 +1030,7 @@ descubrir	verb	A10+
 descuidar	verb	A1.9
 desde	prep	Z5 N3.3 T1 M6
 deseable	adj	O4.2+ X7+
-desear	verb		A2 A3
+desear	verb	A2 A3
 desechar	verb	X7- T2-
 deseo	noun	A2 A3
 desgraciadamente	adv	A1.4- A5.1- E4.1-
@@ -1001,65 +1047,63 @@ detalle	noun	A4.2+ S5+c B5 Q2.2
 detectar	verb	A10+
 deteriorar	verb	A5.1-/A2.1
 determinación	noun	X6+ A2.2 A7+
+determinado	adj	A4.2+ X6+ Q3
 detrás	adv	B1 M6 A6.1- Z5
 deuda	noun	I1 A5.1- A5.1
-devoción	noun	E2+ S6+ S9
 Devocionario	noun	Q4.1 S9
+devoción	noun	E2+ S6+ S9
 devotamente	adv	Z5 S9 E2+ S6+
 devoto	adj	S2.1/S2.2 S9
-día	noun	T1.3
 diablo	noun	F1 E3- S9 G2.2-/S2mf L3 A5.1 A15-
 diabólico	adj	S9 A5.1- E3- A15-
-diácono	noun	S2.1 S9
 diagnóstico	noun	B3 X4.1
 diamante	noun	O1.1 O4.4
 diariamente	adv	Q4.2 B4/S2mf T1.1.2 N6+
 diario	adj/noun	Q4.2 B4/S2mf T1.1.2 N6+ T1.1 Q4.1
-días	noun	T1.1
 dibujo	noun	C1 P1
 diccionario	noun	P1 Q4.1 P1
-dice	verb	Q1
-dicen	verb	Q1
-dicho	adj/noun	Q1 Q3
+dicho	adj/noun	Q2.1 Q1.1
 diciembre	noun	T1.3
 dictado	noun	Q3 P1
 dictador	noun	S7.1+/S2mf Q2.2/S2mf
 dictadura	noun	S7.1+
+didascalia	noun	X2 P1
+didascálico	adj	X2 P1
 didáctica	noun	X2.5/X5 P1
 didácticamente	adv	X2.5 X5 Z5
 didáctico	adj	S2.1/S2.2 X2.5 X5 P1
-didascalia	noun	X2 P1
-didascálico	adj	X2 P1
 diecinueve	num/adj	N1
 dieciocho	num/adj	N1 T3
-dieciséis	num/adj	N1
 diecisiete	num/adj	N1 T3 T1.2
+dieciséis	num/adj	N1
 dieta	noun	F1 T1.2
 diez	num/adj	Z5 I1 N1 T3
 diezmo	noun	S9 I1.2
-diferencia	noun	A6.1- I1
+diferencia	noun	A6.1- I1 N2 N5
 diferenciada	adj	S2mf S5 P1
+diferente	adj	A6.2- A6.1- A13.4
 diferentes	adj	I1 A5 A6
-difícil	adj	A5 A6.1
 difunto	noun	S9 S2.1/S2.2
+difícil	adj	A5 A6.1
 dignidad	noun	S7.2+
 digno	adj	S1.1.4+ G2.2+
 dijo	verb	Q1
 diligencia	noun	A1.1 S1.13 S9 M3 X5.2+
 diligente	adj	A1.1 S1.13 P1
 Dinamarca	noun	Z2 Z1mf Z3c F1 M7
+dinero	noun	I1 A1.4+ X7+ S1.2.2-+
 dinámica	noun	X4.2 M1 Y1
 dinámico	adj	A2.1+ X5.2+
-dinero	noun	I1 A1.4+ X7+ S1.2.2-+
 dio	verb	A2 A9
 Dios	noun	S2 S9 S7 A3 A9
 diplomático	adj/noun	G1.1 S1.2.4+ S2mf
+directo	adj	M6 N3.8+ S1.2 A12+ A10+/S1.2
 director	noun	G1 S7 P1 S5 S7
 disciplina	noun	A13.3 E4 O2 S9 P1
 disciplinar	verb	P1 S1.2.5 S7
-discípulo	noun	P1/S2mf S9/S2mf
 disculpar	verb	Q2.2 S1.2.4+
 discurso	noun	P1 Q1 Q2 Q3
+discípulo	noun	P1/S2mf S9/S2mf
 diseño	noun	C1 X7+ B5
 disfrazado	adj	A10-
 disfrutar	verb	E2+ A9+ E4.1+
@@ -1067,7 +1111,9 @@ dislalia	noun	B2- P1
 dislexia	noun	B2- P1
 disléxico	adj	S2.1/S2.2 B2 P1
 disolver	verb	A1.1.1 T2-
+disponer	verb	X7+ A9+ A2.2 S6+
 disponible	adj	A3+ A9+ A1.2+/G1.2 S4
+disposición	noun	X9.1 S1.2 X7+ I2.1.2/Q1.2 Q2.2 G2.1 Q1.2/I1.1 O4.2+ S7.1+ X6+ A1.7+/G1.1 O4.1 G2.1/Q1.2
 disputa	noun	A1.1.2- S7.3 A1.9 A15-
 disputar	verb	A1.1.2- S7.3 A1.9 A15-
 distancia	noun	A1.9 N3.3+ S1.2.1-
@@ -1075,6 +1121,7 @@ distinción	noun	A6.1- A5.1+ S7.2+
 distinguido	adj	A6.1- X3 A5.1+ S7.1+
 distinguir	verb	A6.1- X3 A5.1+
 distintas	adj	A5 A6.1-
+distinto	adj	A6.1- A11.2+
 distintos	adj	A5 A6.1-
 distraer	verb	X5.1-
 distribución	noun	A9- N5
@@ -1084,6 +1131,7 @@ divinidad	noun	S9 O4.2+ X2.1/A7- X2.4/S9
 divino	adj	S9 O4.2+ X2.1/A7- X2.4/S9
 división	noun	A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c
 divorcio	noun	S4 A6.1- A5.1- A12-
+diácono	noun	S2.1 S9
 doble	adj	F2 A6.1+/S2mf N5+ N5+/A2.1
 doble	noun	F2 A6.1+/S2mf N5+ N5+/A2.1
 doce	num	N1
@@ -1096,20 +1144,17 @@ doctorando	noun	S2.1/S2.2 P1 X2.3
 doctrina	noun	P1 X2
 documentación	noun	Q1.2 Y2
 documentar	verb	Q1 P1
-documento	noun	Q1.2 X2.2+ A5.2+ Y2
+documento	noun	Q1.2 X2.2+ Y2
 Doha	noun	Z2 M7 I1 S7
-dólar	noun	I1 S7
-dólares	noun	I1 S7
 doler	verb	B2- E4.1- A1.1.2 A5.1- A1.6
 dolor	noun	B2- A1.6 A5.1- E4.1-
 doloroso	adj	B2- E4.1-
-doméstico	adj	B4/S2mf H4 S4 E3+/L2 M6
 domingo	noun	Z5 T1.1 S2.1 Z1 M7 E2+ E3+
+doméstico	adj	B4/S2mf H4 S4 E3+/L2 M6
 don	noun	S2 A11 A9
 donante	adj	S9 I1 A9
 donativo	noun	S9 I1 A9
-dónde	adv	Z5 N3
-donde	adv	Z5 M6 N3
+donde	adv	Z5 M6
 donostiarra	adj	Z2 S2.1/S2.2
 dormir	verb	B1 H4/N5
 dos	num/adj	Z5 N1 T3 T1.2
@@ -1123,16 +1168,27 @@ dulce	adj	F1 X3.1 O4.2+
 durante	prep	Z5 T1.1
 durar	verb	T2++ T1.3
 duro	adj	O4.1 X8+ X5.2+ N5+ A12- O4.5 S1.2.5+
+débil	adj	S1.2.5- O4.1 S7.1- A5.1-
+década	noun	T1.3
+décimo	adj/num	N4 N5
+décimo	noun	K1/A1.4 N4 N5
+día	noun	T1.3
+días	noun	T1.1
+dólar	noun	I1 S7
+dólares	noun	I1 S7
+dónde	adv	Z5 N3
 e	noun	Z5
+E.	num/noun	N4
+e.	num/noun	N4
 eclesiástico	adj	S9 S2.1/S2.2
+economista	noun	I2.1/S2mf A5 A15
 economía	noun	I1 G1 S7 A5 A15
 económica	adj	I1 G1 A5 A15
 económicamente	adv	I1.3- I2.1 A5 A15
 económico	adj	I1.3- I2.1 A5 A15
-economista	noun	I2.1/S2mf A5 A15
-ecónomo	noun	S9 S2.1 I2 A5
 Ecuador	noun	Z2 M7 O4.6+
 ecuatoriano	adj	Z2 S2.1/S2.2
+ecónomo	noun	S9 S2.1 I2 A5
 edad	noun	T3 T1.3 T3++
 edificio	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
 Edimburgo	noun	Z2 M7
@@ -1143,7 +1199,8 @@ educado	adj	X2.3 P1 S1.2.4+
 educar	verb	P1 S1.1.3 S1.2.4+
 educativo	adj	S2.1/S2.2 P1 X2.3 S1.2.4+
 efectivo	adj	X9.2+
-efecto	noun	I1 A6 X9.2+ A2.2 A8
+efectivo	noun	I1 I1.3.1
+efecto	noun	A2.2 A8
 efectos	noun	I1 A6
 eficaz	adj	X9.2+
 eficiencia	noun	X9.1+/I3.2 N3.8+ A1.5.2+
@@ -1153,30 +1210,32 @@ Egipto	noun	Z2 M7 O4.6+
 egoísmo	noun	S1.2.3+ S1.2.3+
 egoísta	adj	S1.2.3+ S1.2.3+
 eh	intj	Z4
+ejecución	noun	L1- A1.1.1 X9.2+ G1.1 Y2
 ejecutivo	adj	I2.1/S2mf G1.1c S7.1+/S5+c S7.1+
 ejemplar	adj	S7.2 X9
 ejemplarmente	adv	S7.2 X9 Z5
 ejemplo	noun	S7.2 X9 A4.1
-ejercicio	adj	P1 B2 K5 Q3 X2
+ejercicio	noun	P1 K5 B2 Q3 B2 T1.3 I3.1 A1.1.1 I2.1 X2
 ejercitar	verb	X5 S1.1.1
 ejercitarse	verb	X5 S1.1.1
 ejército	noun	G3c N5+
-él	adj	Z5 Z8
+el	art	Z5
+él	pron	Z8m
 elaboración	noun	A1.1.1 A10+ K4 K3 Q4.3
-elección	noun	X6
 elecciones	noun	G1
+elección	noun	X6
 electoral	adj	G1.2/X7+
 electricidad	noun	O3
-eléctrico	adj	O3
 electrónico	adj	O3 Y2
 elefante	noun	L2mfn
 elegir	verb	X6
+elellos	pron	Z8mf
 elemento	noun	A4.1 N5 S5+c O1 O3 O2 W4
-ella	pron	Z5 Z8 S2
-ellas	pron	Z5 Z8 S2.2
-ello	pron	Z5 Z8
-ellos	pron	Z5 Z8 S2.1
+ella	pron	Z8f
+ellas	pron	Z8f
+ello	pron	Z8
 elocuente	adj	Q3/X9.1+
+eléctrico	adj	O3
 embajada	noun	G1.1/S7.1+/S5+ G1.1/H1
 embajador	noun	G1.1/S2mf S1.1.1/S2mf
 embarazada	adj	B1 A11.1+ A15
@@ -1184,6 +1243,7 @@ embarazo	noun	B1 A15
 embargo	noun	I1 G2.1
 emergencia	noun	A11.1+
 emigrar	verb	M1/M7
+emitir	verb	Q4.3 Q2 A2.2 K4 K5.1 K1 W2/w5
 emocional	adj	E1
 emperador	noun	S7.1+/S2mf
 empleado	noun	I3.1/S2mf
@@ -1191,7 +1251,7 @@ emplear	verb	I3.1 A1.5.1
 empollón	noun	A5.1 P1 X2.3 S2.1/S2.2. X9.1 P1
 emprendedor	adj	S2.1/S2.2 X6/X7
 emprender	verbo	S1.1.1 X6/X7
-empresa	noun	I1 G1 X6/X7
+empresa	noun	I1.2.1.3 X6/X7
 empresario	noun	I1 G1 X6/X7 S2mf
 en	prep	Z5 N3
 encaje	noun	A1.1.1 A2.1+ B5
@@ -1222,12 +1282,13 @@ entendido	adj	X2.5+ S2mf
 entendimiento	noun	X2.5+
 enterrado	adj	A10- L1- S2mf
 enterrar	verb	A10- L1-
-entidad	noun	O2 S5+
+entidad	noun	I2.1.3 G1 A3 S7.2+ S5+
 entierro	noun	L1- A10-
 entonces	adv	Z5 T1.1
 entrada	noun	A10+ H1 H2
 entrar	verb	M1 S5+ Q1.2 T2+ A1.8+ Y2 A3 A10+
-entre	prep	Z5 M6
+entre	prep	Z5
+entre	prep	Z5/M6
 entrega	noun	M2 Q2.1 X9.2+ B3 S9%
 entregar	verb	M2 Q2.1 X9.2+ B3 S9%
 entrenamiento	noun	P1 K5.1 X2.3
@@ -1248,17 +1309,18 @@ equipo	noun	K5.2 S3
 equivalente	adj	A6.1+
 era	verb	Z5 A3+
 eran	verb	Z5 A3+
+error	noun	A5.3-
 erótico	adj	S3.2 E3
 es	verb	Z5 A3+
 esa	adj	S2.2. Z5 Z8
+esa	pron	S2.1-f Z8 Z5
 esas	adj	S2.2 Z5
-escándalo	noun	G2.2-
 Escandinavia	noun	Z2 M7 O4.6-
 Escandinavo	adj	Z2 S2mf
 escapar	verb	A1.7- X2.2- Y2
 esclavo	noun	A1.1.1 S7.1-/S2mf
-escocés	adj	Z2 S2.1/S2.2
 Escocia	noun	Z2
+escocés	adj	Z2 S2.1/S2.2
 escoger	verb	X7+
 escolapio	adj	S2.1/S2.2 P1
 escolar	adj	P1 S2.1/S2.2 T1.3
@@ -1271,11 +1333,13 @@ escritor	noun	Q4.1/S2mf Q1.2/S2mf
 escuadra	noun	O2 C1 W3 N3.3
 escuchar	verb	X2 P1 X3.2
 escuela	noun	P1 P1/H1c S5+c L2%c S5
+escándalo	noun	G2.2-
 ese	adj	Z5 S2.1
+ese	pron	S2.2-m Z8 Z5
 esencia	noun	A11.1+ O1
 esencial	adj	S6+ A4.2+
 esencialmente	adv	S6+ A13.2 Z4
-esfuerzo	noun		A5 P1
+esfuerzo	noun	A5 P1
 eso	pron	Z5 Z8
 esos	pron	Z5 Z8 S2.2
 espacio	noun	O1 W1 H2
@@ -1288,49 +1352,45 @@ especial	adj	A4.2+ A6.2- G2.1/S2mf X2.2+
 especialista	noun	X2.2+/S2mf B3/S2mf
 especialmente	adv	Z5 A5 A11 X2.2+
 especie	noun	A5 S3 X2
-específicamente	adv	A4.2+
-específico	adj	A4.2+
 espectacular	adj	K4 O4.2+
 espectral	adj	S9 A5.1 E5
 espectro	noun	S9 A5.1 E5
+específicamente	adv	A4.2+
+específico	adj	A4.2+
 espera	noun	T1.3 A3+ A11.1+ S1.1.1
 espera	verb	T1.3 A3+ A11.1+ S1.1.1
 esperanza	noun	X2.6+ E4.1+ X9.2+ A5.1+
 espiritismo	noun	S9 X2.1 S1.2.5 A5.1
-espíritu	noun	S9 L3
 espiritual	adj	S9 X1 X2.1
 espontáneamente	adv	X7-
 espontáneo	adj	X7-
 esporádico	adj	N6-
 esposa	noun	S4f
+espíritu	noun	S9 L3
 Esquimal	noun	Z2/S2mfc O4.6-
 esquina	noun	A1.7+ S7.1+ M3 O4.4 M6 K5.1
 esta	adj	Z5 A3 S2.2
 ésta	pron	Z5 Z8 S2.2
-está	verb		A3+
-estaba	verb		A3+
+estaba	verb	A3+
 estaban	verb	A3+
 estabilidad	noun	A2.1-
 establecer	verb	T2+ X6+
 establecido	adj	T3+
 establecimiento	noun	T2+ H1c G1.1c I3.1c
 estadio	noun	K5.1/H1
-estadística	noun	N3.1 P1 Y1
-estado	noun	G1 S7
+estado	noun	G1.1/O4.1 B2 S5 S7 Q1.2/I2.1.2 Q2.1
 estados	noun	G1 O1
+estadística	noun	N3.1 P1 Y1
 Estambul	noun	Z2 M7
 estamos	verb	A3+
-están	verb	A3+
 estar	verb	A3+
 estas	adj	Z5 S2.2
 estatua	noun	C1 O1
 este	adj/noun	Z5 S2.1 W3
 éste	adj	Z5 S2.1
-estética	noun	O4.2+/X2.1
 estilo	noun	A1.1.1 Q2.2 X4.2 O4.1 O4.2+ A4.1 Q3
 estilográfica	noun	O2 P1
 esto	pron	Z5 Z8
-estómago	noun	B1 E2+
 Estonia	noun	Z2 M7
 estos	adj	Z5 S2.1
 estoy	verb	A3+
@@ -1345,8 +1405,13 @@ estudiar	verb	P1 X2.4
 estudio	noun	X2.2 X2.3 P1
 estudioso	adj	P1 X2.2
 estuvo	verb	Z5 A3+
+está	verb	A3+
+están	verb	A3+
+estética	noun	O4.2+/X2.1
+estómago	noun	B1 E2+
 etapa	noun	K5.1 A5 P1
 etc	abbr	Z4 Z5
+etc.	abbr/noun	Z4 Z5
 eternidad	noun	T2+++
 eterno	adj	T2+++
 ética	noun	G2.2
@@ -1357,13 +1422,15 @@ Eucaristia	noun	S9 Z2 M7
 eucarístico	adj	S9 S2m
 Europa	noun	Z2 S7 M7
 europea	adj	G1 Z2 S2mf Z3
-euros	noun		I1
+euros	noun	I1
 Euskadi	noun	M7 Z2
 euskera	noun	Q3
+evaluar	verb	A5 X2.4/A5 P1
 Evangelio	noun	Q4.1 S9
 evento	noun	A3+/A11.1+ A6.2- S1.1.1/X7+ K5
-evitar	verb		E2 E13
-ex	prefix		Z5 S2
+evidenciar	verb	A10+ A5.2+ X2.4 G1.2+ S1.1.1
+evitar	verb	E2 E13
+ex	prefix	Z5 S2
 exactamente	adv	A4.2+ A5.3+
 exactitud	noun	A5.3+
 exageración	noun	N5.2+/Q2.2
@@ -1389,9 +1456,7 @@ existen	verb	Z5 A3
 existencia	noun	Z5 I1 A3
 existente	adj	A3+
 existir	verb	A3+
-éxito	noun	X9.2 P1
 éxito	noun	X9.2+
-exótico	adj	A6.2-
 expandir	verb	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1
 expedición	noun	M1
 experiencia	noun	A2.1+/A3+ X3 X2.2+ X9.1+ I3.2 P1
@@ -1401,14 +1466,14 @@ experto	adj/noun	X2.2+ X9.1+ X2.2+/S2mf X9.1+/S2mf S5
 Explanada	noun	S9 H3
 explicación	noun	Q2.2/A7+ A2.2
 explicar	verb	Q2.2/A7+ A2.2
-explícito	adj	A4.2+
 explicó	verb	Q2.2/A7+ Q2
 exploración	noun	M1 X2.4
 explorar	verb	M1 X2.4
 explosión	noun	A1.1.1 E3- N5+/A2.1 G3
-expresar	verb	Q1.1 B1%
-expresión	noun	Q3 E1/B1
+explícito	adj	A4.2+
+expresar	verb	Q1.1 Q2.1 Z4
 expresivo	adj	Q1.1
+expresión	noun	Q3 E1/B1
 exterior	adj	H1 N3
 externo	adj	S2.1/S2.2
 extinción	noun	L1- A3-
@@ -1419,10 +1484,12 @@ extremadamente	adv	A13.3
 Extremadura	noun	M7 Z2
 extremeño	adj	Z2 S2.1/S2.2
 extremo	adj	N5.1+++ N5.2+ S1.2.6- A12- N3.3+++
+exótico	adj	A6.2-
+f	noun	Z5
+F.	num/noun	N4
+f.	num/noun	N4
 fabricar	verb	A1.1.1
-fácil	adj	A12+ S8+
 facilitar	verb	S8+ A12+
-fácilmente	adv	A12+ S8+
 facultad	noun	A1.1.1 X2 H2 P1
 falda	noun	B5 O2 S2.1 f M1 A1.9
 falso	adj	A5.2- A5.4- G2.2-
@@ -1432,17 +1499,16 @@ familiar	noun	A13 A6 S4mf Q3%
 familiarizarse	verb	A9 S3
 fantasma	noun	A5.1 S9 L3
 fantasmagórico	adj	A5.1 S9
-fariseísmo	noun	S9 A5.4-
 fariseo	noun	S9 S5 A5.4-
+fariseísmo	noun	S9 A5.4-
 fascinante	adj	X5.2+
 fascinar	verb	X5.2+
 fatiga	noun	B2- O4.1
-Fátima	noun	S2.2 S9 Z2
-favor	noun		A11 A5 A3 S3
+favor	noun	A11 A5 A3 S3
 favorito	adj	E2+
 fe	noun	E6+ S9 X2.1 A5.1
 febrero	noun	T1.3
-fecha	noun		Z5 T1.1
+fecha	noun	T1.1
 felicidad	noun	E4.1+
 felicitar	verb	Q2.2
 Felipe	pnoun	S2.1 Z1 S9
@@ -1459,20 +1525,18 @@ filosofía	noun	P1 X2.1
 filosóficamente	adv	X2.1 P1 Z5
 filosófico	adj	A1.6 E6+ P1 X2.1
 filósofo	noun	X2.1/S2 P1 S5
-fin	noun	M6 T2- O2 X7+ N4
+fin	noun	M6 T2- X7+ N4
 final	adj/noun	K5.1 N4 T2- T1.1
+finalizar	verb	T2- O4.1
 finalmente	adv	Z5 N4 T2- T1.1
 financiar	verb	I1 S7
 financiero	adj	I1 S2mf S7
-finés	adj	Z2 S2.1/S2.2
 Finlandia	noun	Z2
+finés	adj	Z2 S2.1/S2.2
 firmar	verb	Q1.2 Q1.1 G2.1 I3.1 S9
 firmemente	adv	A1.7+ S1.2.5+ A7+
 firmeza	noun	O4.5 A1.7+ S1.2.5+ A7+
-fiscal	noun	G1 S7
-física	noun	M1 Y1 P1
-físicamente	adv	B1 A1.6
-físico	adj	B1 A1.6 E3- Y1 B3 S2mf
+fiscal	noun/adj	G1 S7 I2.1.3 I3.2
 flamenco	adj	S2.1/S2.2 L2
 Flandes	noun	Z2
 flexible	adj	O4.5 A2.1+
@@ -1481,6 +1545,7 @@ Florencia	noun	Z2 Z1f C1
 florentino	adj	Z2 S2.1/S2.2
 flores	noun	L3 X9.2+
 fluir	verb	M4 M1
+flujo	noun	N5 M1 Y1
 fluorescente	noun	O2 O3
 foco	noun	X5.1+ X3.4 A4.2+ A11.1+
 forma	noun	X2.1 O4
@@ -1488,7 +1553,6 @@ formación	noun	X2.2 X2.3 P1
 formar	verb	T2+ A2.1+ A1.8+ A3+ A1.1.1
 formarse	verb	X2/X5.2 P1
 Formosa	noun	Z2 O1.2
-fórmula	noun	Y1 N2
 formular	verb	X2.1 Q2.2
 fortalecer	verb	S1.2.5+/A2.1
 forzar	verb	S7.1+ A1.1.1 E3-
@@ -1497,24 +1561,23 @@ fotografía	noun	C1
 fotográfico	adj	C1
 fotógrafo	noun	C1/S2mf
 fracción	noun	N5- N2
-francés	adj	Z2 Z2/S2mf Z2/Q3
 Francia	noun	Z2 Z1mf
 franciscano	adj	S9 S2.1 S5
-Francisco	pnoun		S2.1 S9
+Francisco	pnoun	S2.1 S9
 francmasonería	noun	S3 S5 S9
-franquicia	noun		I1
+francés	adj	Z2 Z2/S2mf Z2/Q3
+franquicia	noun	I1
 frase	noun	Q3 K2 K1
 fraterno	adj	S1.2.1+ S3.1 S3 S5 S7 A2
 frecuencia	noun	N6
 frecuente	adj	M1/N6+ N6+
 freno	noun	M8 O2
-frente	noun	B1	W3
-frío	adj	B2- O4.6- S1.2.1- E1- A1.1.1
+frente	noun	B1 W3
 frontal	adj	M6
 frustración	noun	E4.2- S8-
 frustrado	adj	E4.2-
 fruta	noun	F1 X9.2+
-fui	verb	A3+ L1 Z5
+frío	adj	B2- O4.6- S1.2.1- E1- A1.1.1
 fue	verb	A3+ L1 Z5
 fuego	noun	L1 O1 O4.6
 fuente	noun	H2 W3
@@ -1525,36 +1588,48 @@ fuerte	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 fuertemente	adv	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 fuerza	noun	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
 fuerzas	noun	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+fui	verb	A3+ L1 Z5
 fumar	verb	F1 F3 O1.3 E3- X3.5
-función	noun	I2 K4 X2 A1.5.2+
 funcional	adj	A1.5.2+
+función	noun	K4 X2 A1.5.2+ Y2
 fundación	noun	T2+ H2 S5+c A5.2+ B4
 fundador	noun	T2+/S2mf S9
 fundamental	adj	A11.1+ K2
 furioso	adj	E3-
-fútbol	noun	K5.1 I2
 futuro	noun/adj	T1.1.3 E6
-galés	adj	Z2 Z2/Q3 S2.1/S2.2
+fácil	adj	A12+ S8+
+fácilmente	adv	A12+ S8+
+Fátima	noun	S2.2 S9 Z2
+física	noun	M1 Y1 P1
+físicamente	adv	B1 A1.6
+físico	adj	B1 A1.6 E3- Y1 B3 S2mf
+fórmula	noun	Y1 N2
+fútbol	noun	K5.1 I2
+g	noun	Z5
 Gales	noun	Z2 M7
 Galia	noun	Z2 M7
 Galicia	noun	Z2 M7
 gallego	adj/noun	Z2 S2.1/S2.2mf Q3 A10
+galés	adj	Z2 Z2/Q3 S2.1/S2.2
 gana	noun	X7+ S3.2 A4 A9
 ganador	noun	X9.2+/S7.3/S2mf X9.2+/G3/S2mf A4 A9
+ganancia	noun	I1.1 A5.1+ A9+
 ganar	verb	X7+ S3.2 A4 A9
 garantizar	verb	A7+/Q2.2
 garcía	pnoun	S2 Z1
 gas	noun	E3- Q2.1 O1.3
+gasto	noun	I1.3 I1.2
 gato	noun	L2 M3 A1.9
 gauna	noun	H5 S9 01.1
 generación	noun	T1.3 S5+c
-general	adj/noun	G3/S7.1+/S2mf B3/H1 N5+ A4.2- G2
+general	adj	B3/H1 N5+ A4.2-
+general	noun	G3/S7.1+/S2mf
 generales	adj	G3/S7.1+/S2mf B3/H1 N5+ A4.2- G2
-generar	verb	A2.2 O3 X2.4
+generar	verb	A2.2 O3 A1.1.1
 generosidad	noun	S1.2.2- S8+ A9+ A10+ N5+
 generoso	adj	S1.2.2- N5+ S8+ A9+ A10+
-genético	adj	B1 X2.4
 gente	noun	S2 S2mfc S4
+genético	adj	B1 X2.4
 geografía	noun	P1/W3 W3
 geográfico	adj	W3 P1
 geología	noun	Y1 P1
@@ -1563,6 +1638,7 @@ Georgia	noun	Z2 Z1f
 Georginano	adj	Z2 Z2/Q3 S3.2/B1%
 Gerona	adj	Z2 S2.1/S2.2
 gerundense	adj	Z2 S2.1/S2.2
+gestión	noun	 Q1.2 S7.1+c A1.1.1 X4.2 I1 I2.1
 gesto	noun	Q1.1/B1 A10+ M1 A1.1.1
 gigante	adj/noun	N3.2+++ A11.1+++ S2/N3.2+mf N3.2+/S5
 gimnasia	noun	S1 S7.3 P1 M1 K5.1
@@ -1589,8 +1665,8 @@ gradual	adj	A13 S2.1
 graduarse	verb	T2 P1
 gran	adj	Z5 A13.2+
 Gran Bretaña	noun	Z2 M7
-grande	adj	Z5 A5 A13.2+
-grandes	adj	Z5 A5 A13.2+
+grande	adj	N3.1+/A6.1+/A13.2+ A5
+grandes	adj	N3.1+/A6.1+/A13.2+ A5
 gratitud	noun	X5.2+ A10+ S1.2.4+ E4.2+ S9
 Grecia	noun	Z2
 griego	adj	Z2 Z2/Q3 S3.2/B1 Z2/S2mf F1 I2 A5.2-
@@ -1601,37 +1677,31 @@ grupo	noun	S5+ A4.1 B3 S5+c A4.1c G1 S2 I1
 grupos	noun	S5+ A4.1 B3 S5+c A4.1c G1 S2 I1
 guante	noun	B5 O2 S8 A1.5
 guerra	noun	G2 E3- E6-
-guía	noun	S2.1/S2.2S5 S7 X2 M1
 guiar	verb	X2 S7 M1
 guitarra	noun	K2 N3.4 X3.2
+guía	noun	S2.1/S2.2S5 S7 X2 M1
+h	noun	Z5
+H.	num/noun	N4
+h.	num/noun	N4
 ha	verb	Z5 A3 S1 T1.1
 haber	verb	Z5 A3 S1 T1.1
-había	verb	Z5 A3 S1 T1.1
-habían	verb	Z5 A3 S1 T1.1
-hábil	adj	S2.1/S2.2 X2 X7 P1
 habilidad	noun	X2 X5.1 X7 X9+
-hábilmente	adv	X2 X7 X9+ Z5
 habitante	noun	H4/S2mf
 habitar	verb	H4
-hábito	noun	S1.1.1 A6.2+ B5 X2 X7 P1 O2 S9
 habitualmente	adv	N6+ A6.2+
-habla	verb	Q1 Q2
+habla	noun	Q1 Q2
 hablar	verb	Q1 Q2
-habrá	verb	Z5 T1.1 A3 S1
-habría	verb	Z5 T1.1 A3 S1
-hace	verb	Z5 A3
-hacen	verb	Z5 A3
-hacer	verb	Z5 A3
+hacer	verb	A1.1.1
 hacerlo	verb + pron	Z5 A3
 hacia	prep	Z5 M1 M6
-hacía	verb	Z5 A3
 hacienda	noun	F4 M7/F4
 haciendo	verb	Z5 A3
+hacía	verb	Z5 A3
 Hamburgo	noun	Z2 Z3c
 han	verb	Z5 A3
 harina	noun	F1 O4.3
 has	verb	Z5 A3
-hasta	noun/prep	B1 L1 Z5 T1 N3.3
+hasta	prep	Z5 T1 N3.3
 Hawai	adj	Z2 M7
 Hawaiano	adj	Z2 S2
 hay	verb	Z5 A3
@@ -1640,6 +1710,7 @@ haya	verb	Z5 A3
 he	verb	Z5 A3
 hebreo	adj	S9 S2
 hecho	adj/noun	Z5 A3 Q1 X2
+hecho	noun	A5.2+ X2.2
 hechos	noun	Q1 X2
 hectárea	noun	N3.6
 hemos	verb	Z5 A3
@@ -1648,14 +1719,12 @@ hereje	adj	S2.1/S2.2 S5 S9 A5.1
 herejía	noun	X2.1 S9 X2.1 A5.1
 hermana	noun	S4f S9/S2.1f B3/S2.1f S2.1f A2.2
 hermano	noun	S4f S9/S2.1f B3/S2.1f S2.1f A2.2
-héroe	noun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m E5+
 heroico	adj	E5+
 herramienta	noun	C1 X2.4
 hervir	verb	O4.6+ E3-
 hicieron	verb	Z5 A3
 hielo	noun	F1 O4.6- O1.1
 hierro	noun	B4 O1.1 B4/O2 O2 S1.2.5+
-hígado	noun	B1 F1 S2mf
 higiene	noun	B4
 hija	noun	S2.2mf S4f S3.1 S5 A9
 hijos	noun	S2.1/S2.2 S3.1 S5 A9
@@ -1689,7 +1758,7 @@ hospitalidad	noun	H1 S1.2.4 S9
 hotel	noun	H4/H1
 hoy	adv	Z5 T1.1
 hubiera	verb	Z5 A3
-hubo	verb	Z5	A3
+hubo	verb	Z5 A3
 hucha	noun	I1 I2 T1.1.3
 hueco	adj	O4.1 X9.2- W3
 Huesca	noun	Z2 M7
@@ -1704,25 +1773,35 @@ humilde	noun	S9 A5.1 A5.4 E4+
 humildemente	adv	S9 A5.1 A5.4 E4+
 humillación	noun	S7.2- A5.4 E4-
 humo	noun	F3 O1.3 F1 F3
-húngaro	adj	Z2 S2.1/S2.2.
 Hungria	noun	Z2 Z3c
-i	noun	Z5
+hábil	adj	S2.1/S2.2 X2 X7 P1
+hábilmente	adv	X2 X7 X9+ Z5
+hábito	noun	S1.1.1 A6.2+ B5 X2 X7 P1 O2 S9
+héroe	noun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m E5+
+hígado	noun	B1 F1 S2mf
+húngaro	adj	Z2 S2.1/S2.2.
+i	noun	Z5 N1
+I	num	N1
+I.	num/noun	N4
+i.	num/noun	N4
 iba	verb	M1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
 idea	noun	X4.1 X7+
 ideal	adj	A5.1+++ X4.1
 ideas	noun	X4.1 X7+
-idéntico	adj	A6.1+++
 identidad	noun	S2 A6.1+ Q1.2
 identificación	noun	X2.2+ A6.1+
 identificar	verb	X2.2+ A10+ X2.5+
 ideología	noun	X4.1 G1
 ideológico	adj	X4.1 G1 S3
+idéntico	adj	A6.1+++
 iglesia	noun	S9/H1c S9c S3 M7
 ignorancia	noun	X2.2- S1.2.4-
 ignorante	adj	X2.2- S1.2.4-
 igual	adj	S1.1.3 A6.1+
 igualdad	noun	S1.1.3 A6.1+
 igualmente	adv	S1.1.3 A6.1+
+II	num	N1
+III	num	N1
 ilegal	adj	G2.1-
 ilimitado	adj	A1.7-
 iluminado	adj	O3/W2 C1 W2 A7+
@@ -1733,13 +1812,12 @@ ilustrado	adj	S2.1/S2.2 X2.2 X9.1
 ilustrar	verb	A4.1 C1 X2.2 X9.1 P1 C1
 ilustrativamente	adv	X2.2 Z5
 imagen	noun	C1 X2 Q4
-imágenes	noun	C1 Q4 X2
 imaginar	verb	X2.1 A5.2-
 imaginario	adj	A5.2-
 imitación	noun	A6.1+ A5.4-
 impacto	noun	A1.1.1 A2.2
 impiedad	noun	A1 X2.1 S9 A5.1
-imponer	verb	S7 A1.1.1
+imponer	verb	S7.1+ A1.1.1 S6+ X7- X9.2+/S7.3 G3
 importado	adj	M2/M7
 importancia	noun	A5 A11.1+
 importante	adj	A5 A11.1+ A13.2
@@ -1754,6 +1832,7 @@ impresora	noun	S2.2 Q1.3
 imprimir	verb	Q1.2
 improvisar	verb	A1.4 K2
 impuesto	noun	I1.1/G1.1 A12-
+imágenes	noun	C1 Q4 X2
 incapaz	adj	X9.1-
 incensar	verb	S9 O1.3 S1.2.4
 incertidumbre	noun	A7-
@@ -1763,17 +1842,18 @@ incierto	adj	A7-
 incitar	verb	A2.2
 incluir	verb	A1.8+
 incluso	adv	Z5 S3 A1.8
-incómodo	adj	O4.2- E1
 incomprensible	adj	X2.5-
 incredulidad	noun	X2.1 S9 A5.1-
-incrédulo	adj	S2.1/S2.2 S9 X2.1 A5.1-
 incrementar	verb	N5+/A2.1
+incrédulo	adj	S2.1/S2.2 S9 X2.1 A5.1-
+incómodo	adj	O4.2- E1
 indagar	verb	X2.4
 independencia	noun	S5- G1
+independiente	adj	S5- S1.2.5+
 independientemente	adv	S5-
 India	noun	Z2 O4.6+
 indicación	noun	A10+ Q1.1
-indicar	verb	A10+ M6 Q1.1/M3
+indicar	verb	A10+ M6 Q1.1/M3 X4.1
 indiferencia	noun	X5.2-
 indiferente	adj	X5.2- A5.1
 indignación	noun	E3-
@@ -1798,11 +1878,13 @@ influencia	noun	A2.2 A2.1+ S7.1+
 información	noun	X2.2+ Q1
 informar	verb	X2.2+ X2.4 Q2.1
 informativo	adj	X2.2/X2.4 Q1.1
-informe	noun	Q1.2 S7.1- X3.2 I1
+informe	noun	Q1.2 S7.1- I2.1.2
 ingeniero	noun	S7.1+ A1.1.1 Y1/I3.2/S2mf
 Inglaterra	noun	Z2 Z1mf O
 inglés	adj	Z1mf Z2 Z2/Q3 Z2/S2mfnc S2.1.4+
 ingrediente	noun	A1.8+
+ingresar	verb	M1 I1.3.1 I1.1 A2.1 B2
+ingreso	noun	M1 Q1.2 I1.3.1 I1.1 B2 
 inicial	adj	Q1.2 T2+
 inicialmente	adv	T2 Z5 N4
 iniciar	verb	T2 S1.1.1
@@ -1820,6 +1902,8 @@ inquietante	adj	E6-
 inquisición	noun	A5 S9 G1 S7.2-
 inquisitivo	adj	A5 A1.9- S7.2-
 inquisitorial	adj	A1.9- S9 A5
+inscribir	verb	Q1.2/S1.1.3+ Q1.2/G1.1 S5 Q1.2
+inscripción	noun	Q1.2/G1.1 Q1.2 S7.3 Q1.2/O2
 insecto	noun	L2mfn A5.1-
 inseguridad	noun	A7- A15-
 inseparable	adj	S5+++ A1.7+++
@@ -1829,9 +1913,9 @@ inspector	noun	G2.1/S2mf G1.1/S2mf
 instalar	verb	A1.1.1 S1.1.1
 instancia	noun	A4.1 T1.2
 instinto	noun	X1/A6.2+
-institución	noun	S5+c S7.1+ H1c S1.1.1 T2+ P1 S5 G1
 institucional	adj	S5+ H1c S1.1.1
 instituciones	noun	S5+c S7.1+ H1c S1.1.1 T2+ P1 S5 G1
+institución	noun	S5+c S7.1+ H1c S1.1.1 T2+ P1 S5 G1
 instituir	verb	S1.1.1
 instituto	noun	S5 X2.4 S5+ T2 H1 M7 P1
 institutriz	noun	S2.2 S5 S7.1 X2.3
@@ -1849,6 +1933,7 @@ insulto	noun	Q2.2/S1.2.4- S7.2-
 intacto	adj	N5.1+
 integración	noun	A1.8 S5 A2.2 N2
 integración	noun	A1.8+ S5+ A2.2 N2%
+integrar	verb	A1.8+ S5+ A2.2 N2 N3.2
 integridad	noun	G2.2+ N5.1+
 intelectual	adj	X2 X2.1 X2.1/S2mf
 inteligencia	noun	X9.1+ X2.2+ S1.2.6+ A12
@@ -1857,12 +1942,11 @@ inteligentemente	adv	X9.1+ A12 Z5
 intención	noun	X7+ O4.1%
 intensamente	adv	A13.3
 intercambiar	verb	A9/S1.1.2+ A2.1+
-interés	noun	X5.2+ I1.1 S8+ S1.1.3+
 interesante	adj	X5.2+
 interesar	verb	X5.2+
 intereses	noun	I2 Z5 A5 X5.2+
 interior	adj	M1 M6 N3.1
-internacional	adj	M7 M7/S5+c K5.1 K5.1/S2mf G1
+internacional	adj	M7 M7/S5+c K5.1 K5.1/S2mf G1 A5.1+++
 internado	noun	H4 P1 S8
 internamente	adv	A10 Z5 M1 M6 N3.1 A1.7+
 internar	verb	A1.7+ M1 M6 N3.1
@@ -1873,16 +1957,17 @@ interrumpir	verb	Q2.2 X7- T2-
 interrupción	noun	Q2.2 X7- T2-
 intervención	noun	S1.1.3+ N4
 intervenir	verb	S1.1.3+ N4
+interés	noun	X5.2+ I1.1 S8+ S1.1.3+
 íntimamente	adv	S3.2 A4.2+
 introducción	noun	T2+ Q4 S1.1.1
 intuición	noun	X2 X3
-intuir	verb	X2.2 A9 P1
 intuir	verb	X2 X3
+intuir	verb	X2.2 A9 P1
 intuitivamente	adv	X2.2 A9 Z5
 intuitivo	adj	S2.1/S2.2 X2.2 A9
-inútil	adj	A1.5.2-
 invasión	noun	G3 X7- N5+
 invento	noun	X2.1 A5.2-
+inversión	noun	I1.1 I2.2
 invertir	verb	I1.1
 investigación	noun	X2.4 B3 G2 P1
 investigar	verb	X2.4 B3 P1
@@ -1892,9 +1977,9 @@ invitado	noun	H4/S2mf S1.2.2-/S2mf Q2.2
 invitar	verb	Q2.2
 invocar	verb	T2+ A1.5.1 S7.1+
 involuntario	adj	X7- S6+ A1.7-
-ir	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
+inútil	adj	A1.5.2-
+ir	verb	M1 A1.1.1 A9- A1.8+ N6+ I2.2 A1.1.2 T2- S3.2 B2-/X1 B1
 Irak	noun	Z2 M7 E2- E3- G3
-Irán	noun	Z2 Z3c M7
 Iraquí	noun	Z2 Z3c Z2 S2.1/S2.2
 Irlanda	noun	Z2 Z1mf
 ironía	noun	Q2.2/S1.2.4- A6.1-/X2.6
@@ -1904,27 +1989,32 @@ irregular	adj	A6.2- O4.4 N6- A6.3+
 irreligión	noun	A1 X2.1 S9 X2.1 A5.1
 irreversible	adj	A2.1-
 irritar	verb	E3- B2-
+Irán	noun	Z2 Z3c M7
 isla	noun	W3 A1.8-
 islam	noun	S5 S9 X21 A5.1
-islámico	adj	S2.1/S2.2 S5 S9 X2.1 A5.1
 islamista	adj	S2.1/S2.2 S5 S9 X2.1 A5.1
 Islandia	noun	Z2 Z3c O4.6-
 Islas Canarias	noun	Z2 M7 O4.6+
 isleño	adj	Z2 S2.1/S2.2
+islámico	adj	S2.1/S2.2 S5 S9 X2.1 A5.1
 Israel	noun	S9 Z2
-israelí	adj	Z2 S2.1/S2.2
 israelita	adj	S9 S2.1/S2.2
+israelí	adj	Z2 S2.1/S2.2
 Italia	noun	Z2
 italiano	adj	Z2/Q3/S2.1/S2.2. F1
+IV	num	N1
 izquierda	noun	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- M6 G1.2 G1.2c
+j	noun	Z5
+J.	num/noun	N4
+j.	num/noun	N4
 Jamaica	noun	Z2 M7
 jamaicano	adj	Z2 S2.1/S2.2
 jamás	adv	T1/Z6 Z5
 Janeiro	noun	T1.3 M7 Z2
-Japón	noun	Z2 M7
 japonés	adj	Z2/Q3 Z2/ S2.1/S2.2.
+Japón	noun	Z2 M7
 jardín	noun	F4 L3/H3 M7/L3
-jefe	noun		G1
+jefe	noun	G1
 Jerusalén	noun	S9 Z2
 Jesucristo	noun	S2.1 S9
 jesuita	noun	S9 S2.1 S5
@@ -1935,7 +2025,6 @@ jordano	adj	Z2 S2.1/S2.2
 jorge	pnoun	S2 Z1
 josé	pnoun	S2 Z1
 joven	adj	T3- S2 S5
-jóvenes	noun	T3- S5
 Juan	pnoun	Z1 S9
 judaísmo	noun	S5 S9 X2.1 A5.1 S5
 judicial	adj	G2.1 S7.2 S7
@@ -1946,25 +2035,31 @@ juez	noun	G2.1 X6 G2.1/I3.2/S2mf X6/S2mf
 jugo	noun	F2 O1.2
 juguete	noun	X2.1 A1.1.1
 juicio	noun	G2.1 S7.2 S7 X2.1 X6
-julio	noun	T1.3 Z1m	O4.6+
+julio	noun	T1.3 Z1m O4.6+
 junio	noun	T1.3 O4.6+
 junto	prep	Z5 M6
-Júpiter	noun	Z1/W1 S9/T1.1.1
 jurado	adj	G1 G2
 jurado	noun	G1 G2
 juramento	noun	G1 G2
 jurar	verb	Q1 G2 A1 A11
+jurídico	adj	G2.1 G2.1+
 justicia	noun	G1 G2.2 X2 E3
 justificación	noun	G2.2+ A2.2 O4.1
 justo	adv	A14 T3--- T1.3- N3.3--- S1.2 G2.2+
 juventud	noun	T3-/S2mf T3-
 juzgar	verb	G2.1 X6
-K	noun	O1
+jóvenes	noun	T3- S5
+Júpiter	noun	Z1/W1 S9/T1.1.1
+k	noun	O1 Z5
+K.	num/noun	N4
+k.	num/noun	N4
 karma	noun	S3 S9 A2.1 E1
 kilo	noun	N3.5
 kilómetro	noun	N3.3 N3.7
+l	noun	Z5
+L.	num/noun	N4
+l.	num/noun	N4
 la	art	Z5
-las	art	Z5
 La Coruña	noun	Z2 M7 O1.2-
 La Haya	noun	M7 Z2
 labio	noun	B1 O2 S1.2.4- W3
@@ -1981,21 +2076,19 @@ laico	noun	S2.1/S2.2 S9 X2.1 A4.1 S5
 lamentable	adj	E4.1-
 lamentablemente	adv	E4.1-
 lamentar	verb	E4.1-
-lámpara	noun	O2/W2 O3
 lana	noun	O1.1
 Lancaster	noun	Z2 M7
-lápiz	noun	O2 P1
-lápiz	noun	Q1.2 Q1.2/O2
 lapso	noun	A5.1-/A2.1 X5.1- T1.3 T2+ T2- S9
 larga	adj	N3.7+ T1.3+ N3.3+ N3.2+ X7+
 largo	adj	N3.7+ T1.3+ N3.3+ N3.2+ X7+
+las	art	Z5
 las	det	Z5
 las	pron	Z5 Z8
 latente	adj	A10-
-latín	noun	Q3 T1.1.1 P1 X5.2
-latín	noun	Z2/Q3 Z2 Z2/S2mf
 latino	adj	Z2/Q3 Z2 Z2/S2mf S5
 latitud	noun	W3 N3
+latín	noun	Q3 T1.1.1 P1 X5.2
+latín	noun	Z2/Q3 Z2 Z2/S2mf
 lavabo	noun	H2 B2
 lavar	verb	B4
 le	pron	Z5Z8
@@ -2004,28 +2097,26 @@ leche	noun	F2 O1.2 F4 A9+
 lectivo	adj	T1.3 P1
 lectura	noun	Q3 Q1.2 X3.2+ X2.5+ A10+ G2.1 P1
 leer	verb	Q3 Q1.2 X3.2+ X2.5+ P1 A10+
-legal	adj	G2.1 G2.1+
+legal	adj	G2.1 G2.1+ A5.1+ A5.3+
 legislación	noun	G2.1
 legítimo	adj	G2.2+
 lejano	adj	N3.3+ S1.2.1- X5.1-
 lejos	adv	Z5 M6 N3
-leña	noun	O1.1
 lengua	noun	Q3 P1 B1
 lenguaje	noun	Q1 Q2 X2 P1
 lentamente	adv	N3.8-
 lentitud	noun	N3.8-
 lento	adj	N3.8- T1.3+ X9.1- A5.3-/T1
-león	noun	L2mfn A15- E5+
-León	noun	M7 Z2
 leonés	adj	Z2 S2.1/S2.2 Q3
-Lérida	noun	M7 Z2
 leridano	adj	Z2 S2.1/S2.2
 les	pron	Z5 Z8
 letra	noun	Q1.1. I1
-ley	noun	X2.1 S9 G1 G2.1
+ley	noun	X2.1 S9 G1 G2.1 S6+ Y1
 leyenda	noun	S9/Q2.1 X2.2+++/S2mf
+leña	noun	O1.1
+león	noun	L2mfn A15- E5+
+León	noun	M7 Z2
 libanés	adj	Z2 S2.1/S2.2
-Líbano	noun	Z2
 liberación	noun	S9 A5.1+ A1.7-
 liberal	adj	A1.7- G1.2 N5+ G1.2/S2mf
 liberar	verb	A1.7+ A10 S7.2 S9 A5.1+ X2.1 A1.7- A5.2+ A12+ X5.2+
@@ -2034,23 +2125,19 @@ libre	adj	A10 S7.2 S9 A5.1+ X2.1 A1.7- A5.2+ A12+ X5.2+
 libremente	adv	N5+ A1.7- A5.2+ A12+ X5.2+
 librería	noun	Q4.1/I2.2/H1
 libreta	noun	O2 P1
-libro	noun	A9+/Q2.2 G2.1 Q4.1 Q1.2 K5.1/I1 P1 O2
+libro	noun	Q4.1 Q1.2 P1 Q1.2/I1
 libros	noun	A9+/Q2.2 G2.1 Q4.1 Q1.2 K5.1/I1 P1 O2
 licenciado	adj	S2.1/S2.2 A9 P1
 licenciado	noun	S2.1/S2.2 S5 A9 P1 S5
-líder	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
 ligar	verb	S5 S1.1.2 E2 A9
 limitación	noun	A1.7+
 limitado	adj	A1.7+ N5- I2.1
 limitar	verb	A1.7+
-límite	noun	A1.7+ N5.1 M7
 limosna	noun	S9 I1 S1.2.2+
 limosnero	adj	S9 S2.1 S1.2.2+
 limpiar	verb	B4 O4.2+ G2.2+
 limpio	adj	B4 O4.2+ G2.2+
-línea	noun	O4 N3
 lingüístico	adj	Q3 P1 X2
-líquido	noun	O1.2 A2.1+
 Lisboa	noun	Z2
 lisboeta	adj	Z2 S2.1/S2.2
 literalmente	adv	A13.2 Q3
@@ -2066,12 +2153,9 @@ llamar	verb	Q2 S1.1.2
 llamativo	adj	A11.2+ I3.1-/G1.2 E3- A1.1.1 A8 E2+ X3.2
 llega	verb	A3 M1 T2-
 llegada	noun	A3 M1 T2-
-llegado	verb	A3 M1 T2-
 llegar	verb	A3 M1 T2-
-llegó	verb	A3 M1 T2-
 llenar	verb	N5.1+ I3.1 Q1.2
-lleva	verb	A3 M1 T2-
-llevar	verb		A3 M1 T2-
+llevar	verb	A3 M1 T2-
 llorar	verb	E4.1- Q2.2
 llover	verb	W4 O1.2
 lluvia	noun	W4 O1.2
@@ -2080,12 +2164,8 @@ lo	pron	Z5 Z8
 lobo	noun	F1/B1 L2mfn E5-
 local	adj	H3/S2mf F2/H1c M7 G1
 local	noun	H1 M7
-lógica	noun	X2.1 S1.2.6+ N2
-lógicamente	adv	X2.1 S1.2.6+ A1.6
-lógico	adj	X2.1 S1.2.6+ A1.6
 londinense	adj	Z2 S2.1/S2.2
 Londres	noun	Z2
-lópez	noun	S2 Z1
 Lorena	noun	Z1f Z2
 los	art	Z5
 Lourdes	noun	S8 Z2 S9 S1.1.3
@@ -2102,16 +2182,30 @@ luminaria	noun	O4.1 S9 N5.2+
 luna	noun	W1 X5.2-/E4.1-
 lunes	noun	T1.3
 luz	noun	N3.5- O4.3 W2 O3/W2 M3 O4.6+ X4.1 E1 N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+
+lámpara	noun	O2/W2 O3
+lápiz	noun	O2 P1
+lápiz	noun	Q1.2 Q1.2/O2
+Lérida	noun	M7 Z2
+Líbano	noun	Z2
+líder	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
+límite	noun	A1.7+ N5.1 M7
+línea	noun	O4 N3
+líquido	noun	O1.2 A2.1+
+lógica	noun	X2.1 S1.2.6+ N2
+lógicamente	adv	X2.1 S1.2.6+ A1.6
+lógico	adj	X2.1 S1.2.6+ A1.6
+lópez	noun	S2 Z1
 m	noun	Z5
+M.	num/noun	N4
+m.	num/noun	N4
 Macedonia	noun	Z2 M7 F1
 macedonio	adj	Z2 Z2 S2.1/S2.2
 madera	noun	O1.1 W3/L3
 madre	noun	S4 S4f A11.1+++ S7
 Madrid	noun	Z2 M7 S7
-maestría	noun	S7 P1 X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+
 maestro	noun/adj	S2.1/S2.2 S5 S7.1 X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+
+maestría	noun	S7 P1 X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+
 magia	noun	S9 A11.1+ A5.1+
-mágico	adj	S9 A5.1+ A11.1+
 magisterio	noun	S7 P1 A11
 magistral	adj	A5.4 A11 E2+
 magistralmente	adv	A5.4 A11.2
@@ -2123,41 +2217,36 @@ malasio	adj	Z2 S2.1/S2.2
 Mali	noun	Z2/S2mf
 malo	adj	A5.1- G2.2- O4.2- B2- E2-
 mamá	noun	S4/S2.1f
-mañana	noun	Z5 T1.1
 Manchester	noun	Z2 M7
-manera	noun	A1.1.1 A9 A7
+manera	noun	X4.2
 manga	noun	B5 O2
 Manila	noun	Z2
 mano	noun	A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf
 manta	noun	H5 O2 N5.2+ N5.1+ B5 O1
-mantener	verb	A9 A3 S1.1.2
+mantener	verb	A9+ A3 S1.1.2 T2++ A1.7+ A2.2 
 manto	noun	B5 G3 O1
 manual	adj/noun	A1.1.1 Q4.1/P1 M3fn Q4.1
 manualmente	adv	A1.1.1 Q4.1/P1 M3
 Manuel	pnoun	S2 Z1 S9
 mapa	noun	Q1.2 A6 Q1.2/W3
-máquina	noun	A1.1.1 O2 Y2
 maquinaria	noun	O2
 mar	noun	W3/M4
 marcha	noun	M1 G3
 marco	noun	H5 S2.1 X2
-María	noun	Z1 S2.2 F3+ S9 L3
 marido	noun	A1.5.1/A1.3+ S4m
 marinero	noun	M4/S2mf
-mármol	noun	O1.1 O2
-marrón	adj	O4.3 A5.1- E6-
 marroquí	adj	Z2 S2.1/S2.2
 Marruecos	noun	Z2
+marrón	adj	O4.3 A5.1- E6-
 marte	noun	Z3c Z1/W1 S9/T1.1.1
 martes	noun	T1.3
 martillo	noun	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++ O2
-Martín	pnoun	Z1 S2
-mártir	noun	S9 E1 S2.1 S1.1.3
 martirio	noun	S9 E1 S1.1.3 A5.1+ S1.1.2+
 martirizar	verb	S9 E1 S1.1.3 A5.1+ S1.1.2+
+Martín	pnoun	Z1 S2
 marzo	noun	T1.3
-más	adv/adj	Z5 A13.2 N6++ N5++
-máscara	noun	A10- O2 B5 B1/L2
+María	noun	Z1 S2.2 F3+ S9 L3
+mas	conj	Z5
 masculino	adj	S2.1
 masonería	noun	S3 S5 E6+ G1
 matar	verb	L1- A12- A1.5.1 E4.1-/A2.2
@@ -2166,29 +2255,29 @@ matemático	adj	N2 P1 Y1 S2
 materia	noun	X2 Y1
 material	noun	Y1 X2 A1.6 A11.1+ O1 B5 O2 X2.2 S1.2
 materno	adj	S4 S8 A2+
-matrícula	noun	P1 S6 A5.1 O2
 matrimonial	adj	S4 S1.1.2 S8
+matrícula	noun	P1 S6 A5.1 O2
 Mauritania	noun	Z2
 mauritano	adj	Z2 S2.1/S2.2
-máximo	noun/adj	N5.1+ Z1
 mayo	noun	T1.3 Z1f
 mayor	adj	Z5 A5 A13.2- N5+++
 mayores	adj	Z5 A5 A13.2+ N5+++
 mayoría	noun	N5+++ A5 A13.2
+mañana	noun	Z5 T1.1
 me	pron	Z5 Z8
 Meca	noun	S9 A5.1 Z2
-mecánico	adj	O2 A6.2+
 mecanismo	noun	O2 Y1
+mecánico	adj	O2 A6.2+
 media	adj	N3 P1
 mediante	prep	Z5 S1.1.3 S8+
 mediar	verb	T1.1.2 S8+
 medicina	noun	B3 Y1 S8
-médico	noun	B3 S8 S2 A2.1+/G2.1- B3/I3.2/S2mf P1/S2mf
-medida	noun	N3.1 I1
+medida	noun	N3.1 A1.7+/G1.1 
 medidas	noun	N3.1 I1
 medieval	adj	T1.1.1 P1
 Medina	noun	S9 Z2
 medio	adj	N3 K5.2 X7
+medio	noun	N4 M6 M3/H3 A4.1 A6.2+ K5.1
 mediocre	adj	A5.1- S2
 mediocridad	noun	A5.1-
 medios	noun	N3 K5.2 X7
@@ -2200,15 +2289,16 @@ mejilla	noun	B1 S1.2.4-
 mejor	adj	Z5 A13.2 A5.1+/A2.1
 mejora	noun	A5.1+/A2.1
 mejores	adj	Z5 A2 A5 E1 A5.1+/A2.1
-melancólico	adj	E4.1-
 melancolía	noun	E4.1-
+melancólico	adj	E4.1-
 meldar	verb	X2.3 P1
 melodía	noun	K2 E3+
 memoria	noun	X2 X2.2+ S7.2+ Y2 P1
 memorizar	verbo	X2/X2.4 P1 S7.2+
+mencionar	verb	Q2.2 Q1.2
 mención	noun	Q2.1 P1 S1.1.4
 menor	adj	Z5 A13.7- A5
-menos	adj	Z5 A13.7- A5
+menos	adj/adv	Z5 A13.7- A5
 mensaje	noun	Q1.1 Q1.3/Y2
 mensual	adj	N6+ Q4.2
 mental	adj	X2 B2/X2 S1.2.6-
@@ -2216,7 +2306,7 @@ mentalmente	adv	X2 B2/X2 S1.2.6-
 mente	noun	E6+ E2- S8+ A1.3 X1 S1.2.6-
 mentira	noun	A5.2- M1 T2++ M6 A3+
 mentor	noun	S2.1/S2.2 S5 S7 X2 P1
-mercado	noun	I2.2 I2.2/H1
+mercado	noun	I2.2 I2.1.3 H1
 Mercurio	noun	Z1/W1 S9/T1.1.1
 merecer	verb	S1.1.4+
 merecidamente	adv	S1.1.4+ E4.1+
@@ -2227,26 +2317,25 @@ mes	noun	T1.3
 mesa	noun	Q2 P1 F1
 meses	noun	T1.1
 Mesopotamia	noun	Z2 M7
-metáfora	noun	Q3 X2.2 X2.5 A2.1+
 metal	noun	O1.1 K2
+metodista	adj	S2.1/S2.2 S5 S9 X2.1 A5.1 S5
+metros	noun	O4 N5
+metáfora	noun	Q3 X2.2 X2.5 A2.1+
 metálico	adj	O4.1
 metódicamente	adv	X2 Z5 Y1
-metodista	adj	S2.1/S2.2 S5 S9 X2.1 A5.1 S5
-método	noun	X2 X4.2 Y1
-metros	noun	O4 N5
 mexicano	adj	Z2 Z2/S2mf
-México	noun	Z2 Z3c S2mf M7
 mezclado	adj	A6.3+ S1.1.3+ S2
 mezclar	verb	A2.1+ S1.1.3+ K3
 mezquita	noun	S9 H1 S5
 mi	adj/pron	Z5 Z8 A9
 micrófono	noun	Q2.1/O3
 miedo	noun	E5- X2
-miedoso	adj	S2mf miedo	noun	E5- X2
+miedo	noun	E5- X2
+miedoso	adj	S2mf
 miel	noun	F1 E2+
+miembro	noun	S5+/S2mf B1
 miembros	noun	S2 B1 G1
 mientras	conj	Z5 T1
-miércoles	noun	T1.3
 miguel	pnoun	S2.2 Z1 S9
 mil	num/adj	Z5 I1 N1
 milagrero	adj	S9 A1 A13.3+ S2.1/S2.2
@@ -2254,53 +2343,50 @@ milagro	noun	S9 A1 A13.3+ A5.1+ X2.6- O4.2+ E4.1+
 milagroso	adj	S9 A1 A13.3+ A5.1+ E4.1+
 militar	adj	G1 S7 G3 S5
 militares	noun	G1 S7 G3 S5
-millón	adj/num	I1 N1 E2+
-millones	noun	I1 N1 E2+
+millones	num/noun	I1 N1 E2+
+millón	num/noun	I1 N1 E2+
 mina	noun	I4 G3 I4/H1c N5+ Z8
-mínimo	adj	N5--- A.137+
-mínimo	noun	N5--- A13.7+
 ministerio	noun	G1.1c S9 S7
 ministro	noun	G1.2 S2.1 S7 S3.1
 minoría	noun	N5- G1 A4.1- A10-
 minuto	noun	N3.2- Q1.2 T1.3
 minutos	noun	N3.2- Q1.2 T1.3
-mío	pron	I4 G3 I4/H1c N5+ Z8 A9+
 mira	verb	A1.6 X3.4
 mirada	noun	A1.6 X3.4
 mirra	noun	S9 01.1
 mis	adj	Z5 A8 A9+
-misma	adj	Z5 A6.1+++
-mismo	adj	Z5 A6.1+++
-mismos	adj	Z5 A6.1+++
+misma	adj	A6.1+++
+mismo	adj	A6.1+++
+mismos	adj	A6.1+++
 misterio	noun	X2.2- X2.5- A6.2-
 misterioso	adj	A6.2-
-mística	noun	X2.1 X3 X5.2+ S9
 misticismo	noun	X2.1 X3 X5.2+ S9
-místico	adj	S2.1/S2.2 S9 X2.1 X5.2+
 mitad	adj	Z5 N3
 mito	noun	S9/Q2.2 A5.2-/Q2.2
 mitra	noun	S9 H5
 mitrado	adj	S9 S5 S7 G1
+miércoles	noun	T1.3
 mnemotécnico	adj	X2.3 P1
-modelo	noun	I1 Y1 C1
+modelo	noun	Y1 C1/S2mf B5/I3.2/S2mf I1 O2/A5.4- A4.1 X4.2 A5.1+++
 moderno	adj	T3- T3---
+modificación	noun	A2.1+
 modificar	verb	A2.1+
 modo	noun	A7
 mojado	adj	G1.2 O1.2 W4 X5.2-
-momento	noun	Z5 T1.1
+momento	noun	T1.2 T1.1.2 N3
 monaguillo	noun	S9 S2.1
 monasterio	noun	S9 H1 Z2 A1.7+ A1.8+
-monástico	adj	S9 A1.7+ A1.8+
 monja	noun	S9/S2.1f A1.7+
 monje	noun	S9 S2.1 A1.7+
 monjil	adj	S9 S2.1 E2- A1.7+
 mono	noun/adj	L2mfn G2.2-/S2mf E2+
-monótono	adj	X3.2 X5.2-/A2.1-
 monstruoso	adj	A5.1--- N3.2+++ O4.2---
 montaña	noun	W3 A15- E2+ N3 O1
 monte	noun	W3 A15- E2+ N3 O1
 monumental	adj	A11.1+
 monumento	noun	O2 A10+
+monástico	adj	S9 A1.7+ A1.8+
+monótono	adj	X3.2 X5.2-/A2.1-
 moral	adj	G2.2+ E1 X4.1
 morder	verb	B1 A12-
 morir	verb	L1- T2- A13.3 A4.2+ X5.2- A1.1.2 A1.1.1- E3+ B2-
@@ -2314,14 +2400,15 @@ Moscovita	adj	Z2 Z2 S2.1/S2.2
 Moscú	noun	Z2 O4.6-
 mostrar	verb	A10+ S1.1.1
 motivación	noun	A2.2 X5.2+
-móvil	adj	M1/N3.8+ A2.1+ O2 K6 Q1.3
 movilizar	verb	A1.5.1 G3 M1/N3.8+ A2.1+ O2 K6 Q1.3
 movimiento	noun	M1 S5+c K2 A2.1+ I2 X2
 mucha	adj	Z5 A13+ N5.2+
+mucha	adj/pron	Z5f A13+ N5.2+
 muchacha	noun	S2.1f L2f
 muchacho	noun	S2.2m L2m Z4
 muchas	adj	Z5 A13.2+ N5.2+
 mucho	adj	Z5 A13.2+ N5.2+
+mucho	adj/pron	Z5mf A13+ N5.2+
 muchos	adj	Z5 A13.3+ N5.2+
 muerte	noun	L1- A5.1- E4.1- A13.3 A4.2+ L1- X5.2- A1.1.2 A1.1.1- E3+ B2-
 muerto	adj	A13.3 A4.2+ L1- X5.2- A1.1.2 A1.1.1- E3+ B2-
@@ -2334,23 +2421,41 @@ mundial	adj	W3 M7 A1.8+ I1
 mundo	noun	W1 S5+c A4.1 N5+ G2
 Murcia	noun	Z2 M7
 murciano	adj	Z2 S2.1/S2.2
-músculo	noun	B1 S1.2.5+/S2mf E3-
 museo	noun	T1.1.1/H1c A10+/H1c
-música	noun	K2 K4
 musical	adj	K2 K4/K2 E2+ E3+
-músico	noun	K2/S2mf
 muslo	noun	B1 A7+
 musulmán	adj	S2.1/S2.2 S5 S9 X2.1 A5.1 A4.1
 mutuo	adj	S1.1.2+
 muy	adv	Z5 A11.1+ A13.2+ N5+
-nación	noun	G1.1c S5+c
-nacional	adj	M7/N5.1+ M7/S2mf G1
+mágico	adj	S9 A5.1+ A11.1+
+máquina	noun	A1.1.1 O2 Y2
+mármol	noun	O1.1 O2
+mártir	noun	S9 E1 S2.1 S1.1.3
+más	adv/adj	A13.3 N6++ Z5
+máscara	noun	A10- O2 B5 B1/L2
+máximo	noun/adj	N5.1+ Z1
+médico	noun	B3 S8 S2 A2.1+/G2.1- B3/I3.2/S2mf P1/S2mf
+método	noun	X4.2 X2 Y1 Y2
+México	noun	Z2 Z3c S2mf M7
+mínimo	adj	N5--- A.137+
+mínimo	noun	N5--- A13.7+
+mío	pron	A9 Z8
+mística	noun	X2.1 X3 X5.2+ S9
+místico	adj	S2.1/S2.2 S9 X2.1 X5.2+
+móvil	adj	M1/N3.8+ A2.1+ O2 K6 Q1.3
+músculo	noun	B1 S1.2.5+/S2mf E3-
+música	noun	K2 K4
+músico	noun	K2/S2mf
+n	noun	Z5
+N.	num/noun	N4
+n.	num/noun	N4
+nacional	adj	M7/N5.1+ M7/S2mf G1 G2.1/I3.2/S2.2m
 nacionalidad	noun	G1.1c S5+c
+nación	noun	G1.1c S5+c
 nada	pron	Z5 Z8 A2 A5 E1 N5.2+
 nadar	verb	M4 M1 N5.2+
 nadie	pron	Z5 Z8 S2
 Namibia	noun	Z2
-Nápoles	noun	Z2 Z3c A1.3+
 napolitano	adj	Z2 S2.1/S2.2 E3 E5 G2.1
 nariz	noun	B1 O2 X2.4/X7-
 nativo	adj	M6/S2mf M7 A6.2+
@@ -2366,12 +2471,13 @@ necesidad	noun	X2 S6+
 necesitar	verb	X2 S6+
 negociación	noun	Q2.2 I1 A5
 negro	adj	O4.3 G2.2- A5.1- E4.1- S5+ S5+/S2mf F2 W2-
-neófito	noun	S2.1 S5 X2 P1
 Nepal	noun	S9/T1.3
 Neptuno	noun	Z1/W1 S9/T1.1.1
 nervio	noun	B1 E5+ S1.2.3+
+neto	adj	N5 I1.1 I2.1 I2.2
 neutro	adj	S5- O4.1
-ni	conj	Z5 A1.8-
+neófito	noun	S2.1 S5 X2 P1
+ni	conj	Z6 A1.8-
 Nicaragua	noun	Z2
 nido	noun	L2 H4 M6
 niebla	noun	W4 O1.2
@@ -2379,28 +2485,33 @@ nieto	noun	S4mf
 nieve	noun	W4 Q4.3-
 Nigeria	noun	Z2 W2-
 Nilo	noun	Z2
+ninguna	adj/pron	Z5 Z8 A1.8-
+ninguno	adj/pron	Z5 Z8 A1.8-
 ningún	adj/pron	Z5 Z8 A1.8-
-ninguna	adj/pron	Z5 Z8A1.8-
-niño	noun	S2mf P1 A4.1 B1 E1+ E3
-niños	noun	S2mf P1 A4.1 B1 E1+ E3
 nirvana	noun	S3 S9 E1 E3+
 nivel	noun	A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
-niveles	noun A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
+niveles	noun	A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
+niño	noun	S2mf P1 A4.1 B1 E1+ E3
+niños	noun	S2mf P1 A4.1 B1 E1+ E3
 no	adv	S8- Z4 Z6 Z5
 noble	adj	G2.2+ S7.1+ O4.2+
 noche	noun	Z5 T1.1
 noción	noun	A1.6 X2.1
 nombre	noun	Z5 X2.1
+nonagésimo	adj/num/noun	N4 N5
+norma	noun	G2.1 A6.2+ I2.1.1
 normalidad	noun	A6.2+
 normalmente	adv	A6.2+
-Normandía	noun	Z1mf Z2/S2mf
 Normando	adj	T3+++
+Normandía	noun	Z1mf Z2/S2mf
+normativo	adj	S6+ G2.1
 norte	noun	M6 W3
 Noruega	noun	Z2 Z3c O4.6-
 Noruego	adj	Z2 Z2/Q3 S1.1/S.1.2mf
 nos	pron	Z5 Z8 A9
-nosotros	pron	Z5 Z8 A9
-nota	noun	X2.4 A5/A5.1 A13 K2 P1
+nosotras	pron	Z5f Z8f
+nosotros	pron	Z8m
+nota	noun	Q1.2 A5/A5.1 A13 K2 P1
 notable	adj/noun	A11.1 A13 S2.1/S2.2 P1
 notablemente	adv	A5.1+/A13/A13.3 Z5
 notar	verb	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
@@ -2408,68 +2519,84 @@ noticia	noun	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3
 novatada	noun	S7.2 S1.2.4 P1
 novela	noun	A6.2- Q4.1
 novelista	noun	Q4.1/S2mf
+noveno	adj/num/noun	N4 N5
 noventa	num/adj	N1 T3
 noviembre	noun	T1.3 L1-
 novillos	noun	S7.2 S1.2.4 P1
 nube	noun	O1.2/O4.3 A12- W4 N5
 nudo	noun	A1.1.1 O2 X2.5- N3.8
 nuestra	adj	S2.2 Z5 A9
+nuestra	pron	Z8 S2.1 A9
 nuestras	adj	S2.2. Z5 A9
+nuestras	pron	Z8 S2.1 A9
 nuestro	adj	S2.1 Z5 A9
+nuestro	adj	S2mf S2.1 Z5 A9
+nuestro	pron	Z8 S2.2 A9
+nuestros	pron	Z8 S2.2 A9
 nuestros	pron	Z8 Z5 S2.1 A9
+nuestros	adj	S2mf S2.1 Z5 A9
 nueva	adj	T3- T1.1 A5 A6 A8
 nuevas	adj	T1.1 A5 A6 A8
 nueve	adj/num	N1
 nuevo	adj	T3- T1.1 A5
 nuevos	adj	T3-T1.1 A5
-número	noun	N1 N5 Q1.3 K2 Q4.2
 numeroso	adj	N5+
 nunca	adv	Z5 Z6 T2-
+Nápoles	noun	Z2 Z3c A1.3+
+número	noun	N1 N5 Q1.3 K2 Q4.2
+ñ	noun	Z5
+Ñ	noun	Z5
 o	conj	Z5 A1.8-
+o	noun	Z5 A1.8-
+O.	num/noun	N4
+o.	num/noun	N4
 obedecer	verb	S7.1-
 obediencia	noun	S7.1-
 obispo	noun	S2mf/S9 S7.1+
 objetivo	noun	G2.2/S5- S1.2 X7+ P1
 objeto	noun	O2
-obligación	noun	S6+ E4.1
+obligación	noun	S6+ G1.1/I1.3 T1.3/I3.1 I2.1.1 
+obligar	verb	S6 S7.1+ E3
 obligatorio	adj	S2.1/S2.2 P1
 obras	noun	H1 S7
 observación	noun	X3.4 Q2.1/X2.4 X2.1
 observador	noun	X3.4/S2mf Q4.2/I3.2/S2mf Q2.1/X2.4 X2.1
 observar	verb	X3.4 Q2.1/X2.4 X2.1 G2.1+
-obstáculo	noun	S8- E4.1-
 obstante	conj	Z5 S8-
-obtener	verb	A9+
+obstáculo	noun	S8- E4.1-
+obtener	verb	A9+ X2.5
 obviamente	adv	Z4 A11.2+
 obvio	adj	A11.2+
-ocasión	noun	A1.1.1 K5.1
 ocasiones	noun	A1.1.1 K5.1
-océano	noun	W3/M4
+ocasión	noun	A1.1.1 K5.1
 ochenta	num/adj	N1 T3
 ocho	num/adj	N1
+octavo	adj/num/noun	N4 N5
+octogésimo	adj/num/noun	N4 N5
 octubre	noun	T1.3
 ocultar	verb	A10-
 ocultismo	noun	A10- S9 X2.1 A5.1 A15-
 ocultista	adj	A10- S9 X2.1 A5.1 A15-
+océano	noun	W3/M4
 odiar	verb	E2- A5.1-
 odio	noun	E2- A5.1-
 oeste	noun	Z2 Z1mf W3
 ofender	verb	S1.2.4- G2.1-
+oficial	adj	G1.1 Q2.2 A7+ A11.2
 oficial	noun/adj	G1 S7 S2mf
 oficialmente	adv	G1.1 S7.4+
 oficina	noun	I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+
 oh	intj	Z4
-oír	verb	X3.2 X2.3+ G2.1
 ojo	noun	B1 X3.4+ A1.3+
 ojos	noun	B1 X3.4+ A1.3+
 oler	verb	X3.5 X3 A8
 olivo	noun	L3 S9
 olvidar	verb	X2.2-
 once	num	N1 T3
+operación	noun	N2 B3 I2.2 G3 A1.1.1 X2.4
 ópera	noun	K2
-operación	noun	I1 A1.1.1 B3 G3 B3
 operar	verb	A1.1.1 B3
-opinión	noun	O1 X2
+opinión	noun	X2.1 A5 X6
 oponer	verb	S8-/E2- A6.1-
 oposición	noun	G1 A5 S8-/E2- S7.3+ A6.1-
 optimismo	noun	X2.6+/A5.1+
@@ -2482,15 +2609,17 @@ oralmente	adv	B1 Q2.1 P1 Z5
 orden	noun	S2 S9 A2 A4 X2
 ordenador	noun	Q1.3
 ordenar	verb	S1.1.1
+ordinario	adj	A6.2+ N6+ O4.1 T2++ S1.2.4--
+ordinario	noun	S1.2.4--
 oreja	noun	B1 X3.2
 Orense	noun	Z2 M7
-orgánico	adj	L1 W5
 organización	noun	S5+c S7.1+ G1 P1
 organizadamente	adv	S7.1 O4.1 S5 Z5
 organizado	adj	S7.1+ O4.1 S5+
 organizar	verb	S7.1+ O4.1 S5+
 órgano	noun	B1 K2 Q4.2
 orgullo	noun	E4.2+ S1.2.3+ E4.2+/S1.2 S7.2+ O4.2+
+orgánico	adj	L1 W5
 origen	noun	X2 T3
 original	adj/noun	A5.4+ T3- A6.2-
 oro	noun	O1.1 O4.3 I1 E4.1+ S7
@@ -2501,14 +2630,21 @@ oscuridad	noun	W2- O4.3
 oscuro	adj	S2mf W2- O4.3
 oso	noun	L2mfn I2.1/S2mf M2 E2+ A8 A9+ A1.1.1 M6 B1 E3-
 otoño	noun	T1.3 O4.6-
-otra	pron/adj	Z5 Z8 A4.1
-otras	pron/adj	Z5 Z8 A4.1
-otro	adj/pron	Z5 Z8 A4.1
-otros	adj/pron	Z5 Z8 A4.1
-oxígeno	noun	O1.3 A1.4+ S8+
+otra	adj	A4.1f A6.1-f
+otra	pron	Z8 A6.1-f N5++ 
+otras	adj	A4.1f A6.1-f
+otras	pron	Z8/A4.1-f A6.1-f S2.1-f N5++ 
+otro	pron	Z8 A6.1-m N5++ 
+otros	adj	A4.1mf A6.1-mf
+otros	pron	Z8/A4.1-mf A6.1-mf S2mf N5++ 
 oxigenar	verb	O1.3 A1.4+ S8+
+oxígeno	noun	O1.3 A1.4+ S8+
 oyente	adj/noun	S2.1/S2.2 S5 X2.3
+oír	verb	X3.2 X2.3+ G2.1
+p	noun	Z5
 p	npun	Z5
+P.	num/noun	N4
+p.	num/noun	N4
 Pablo	pnoun	Z1 S9
 paciencia	noun	E3+ K5.2%
 paciente	noun	B2-/S2mf E3+
@@ -2519,12 +2655,8 @@ padre	noun	S4/B1 S4m S9/S2.2m S2.1 S7 P1 S5
 paganismo	noun	S9- X2.1 A5.1
 pagano	adj	S2mf S9- X2.1 A5.1
 pagar	verb	I1.2 A9+ I1.1/I3.1
-página	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
 pago	noun	I1.1 A9+
-país	noun	G1.1c W3 F4/M7 K2 L1
 paisaje	noun	F4 W3 C1 M6
-países	noun	G1.1c W3 F4/M7 K2 L1
-pájaro	noun	L2mfn S2.1f
 pala	noun	A1.1.1 O2
 palabra	noun	Q3 Q2.1 S9 X2.1
 palabras	noun	Q3 Q2.1 S9 X2.1
@@ -2536,53 +2668,50 @@ Palestina	noun	Z2 M7 S9 A15
 palestino	adj	Z2 S2.1/S2.2 A15
 paloma	noun	L2mfn E2+ M1 S7.2+
 Pamplona	noun	Z2 M7
-Pamplonés	adj	Z2 S2.1/S2.2
 pamplonica	adj	Z2 S2.1/S2.2
+Pamplonés	adj	Z2 S2.1/S2.2
 pan	noun	F1 I1.1 B2
-Panamá	noun	Z2 B5 M1 M7
 panameño	adj	Z2 S2.1/S2.2
-pánico	noun	E5-
+Panamá	noun	Z2 B5 M1 M7
 papa	noun	G1/G1.1 S2.1 S9 X2.1 F1 S7.1+
-papá	noun	S4m
 papel	noun	O1.1 O4.5
 papisa	noun	G1/G1.1 S2.2 S9 X2.1
-Paquistán	noun	Z2 M7
+papá	noun	S4m
 paquistaní	adj	Z2 S2.1/S2.2
-para	prep	Z5 A2.1
-parábola	noun	Q3 K4 O4 X4.1
+Paquistán	noun	Z2 M7
+para	conj	Z5
 parabólico	adj	O4 X4.1
 Paraguay	noun	Z2
 paraguayo	adj	Z2 S2.1/S2.2
-paraíso	noun	S9 M7/A5.1+++
 paralelo	adj	A6.1+ T1.1.2 M6 W3
+paraíso	noun	S9 M7/A5.1+++
 parcial	adj	S2mf A13.6 N5.1-
 parcialmente	adv	A13.6 N5.1-
-
 parece	verb	A8 A6.1
-parecía	verb	A8 A6.1
 parecido	adj	A6.1+
+parecía	verb	A8 A6.1
 parentesco	noun	S4 S5
 pariente	noun	A13 A6 S4mf Q3% S4 S5
-París	pnoun	Z2 M7
 parlamentario	adj	G1.1 S2mf S7
 parque	noun	M2 M7 M7/L3
-párrafo	noun	Q3 N5 N3.7
-párroco	noun	S9 S2.1 S5 G1
 parroquia	noun	S9/M7 H1 G1
 parte	noun	G2.1 X2.2 O1 N5.1-
 partes	noun	O1 X2.2 N5.1-
-participación	noun	G1 A9+ S1.1.3
+participación	noun	S1.1.3 A9+ I2.1.2 I2.1.2/I1.3.1 G1
 participante	noun	S1.1.3/S2mf A9+
 participar	verb	S1.1.3+ A9+
-partícula	noun	O2 O1 Y1
+partida	noun	K5.2 N5 M1 F2 B3 F1 G3% K1
 partido	noun	G1 S7 K5.1
 partidos	noun	G1 K5.1
 partir	verb	A4 A10+
 parto	noun	B1 T2+ E5+-
+partícula	noun	O2 O1 Y1
 parvulario	noun	H1 P1 T3-
+parábola	noun	Q3 K4 O4 X4.1
+París	pnoun	Z2 M7
 pasado	noun/adj	M6 T1.1.1 Z5
 pasajero	noun	M3/S2mf M4/S2mf M5/S2mf
-pasar	verb	T1 A3 M3 M4 M5
+pasar	verb	T1 A3 M3 M4 M5 M1 A2.1+ A9- T2- B2-/X1% Z6
 pascua	noun	S9 T1.3 E2+
 pascual	adj	S9 T1.3 Z1 E2+
 pasivo	adj	Q3 X5.2- A1.1.1-
@@ -2591,22 +2720,25 @@ pasó	verb	M1 M7 T1.1
 paterno	adj	S4 S7 S5
 patio	noun	H3 P1
 pato	noun	L2mfnc F1 K5.1 E2+/S2mf M1 A1.9 M2
+patrimonio	noun	I1.1+ X2.2++ S1.1.4+ A9+/S4 A9+/S1.1.1 N5+ T1.1.1
 patriótico	adj	S6+
 pausa	noun	T2-/T1.3
 paz	noun	E3+ X2
+país	noun	G1.1c W3 M7
+países	noun	G1.1c W3 F4/M7 K2 L1
 pecado	noun	G2.2-/S9 A15- A5.1-
 pecar	verb	G2.2-/S9 A15- A5.1-
 peculiar	adj	A6.2- A4.2+
+pedagogo	noun	S2.1/S2.2 P1 S5
 pedagogía	noun	X.2 P1
 pedagógicamente	adv	X2.3 P1
 pedagógico	adj	X2.3 P1
-pedagogo	noun	S2.1/S2.2 P1 S5
 pedro	pnoun	S2.1 Z1 S9
-película	noun	Q4.3 K4
 peligro	noun	A1.9 A15-
 peligroso	adj	A1.9 A15-
 pelo	noun	B1 N5-
 pelota	noun	O2/O4.4 K5.1 B1 K1 O4.4
+película	noun	Q4.3 K4
 penal	adj	G2.1
 penitencia	noun	S9 E3 S8 S1.1.4 S1.2.5+
 penitente	adj	S9 E3 S8 S1.1.4 S1.2.5+
@@ -2614,39 +2746,40 @@ pensar	verb	X2.1
 pensionista	noun	S2.1/S2.2 P1 S5
 peor	adv	A5.1--
 pepe	noun	S2 Z1
-pequeño	adj	S2mf A5 A13.7 N5-
+pequeño	adj	S2mf A5 A13.7 N5- N3.2- N3.7- N5- A11.1-
 Pequín	noun	Z2 M7
 percepción	noun	X4.1 X3.4 X2.5+
 perder	verb	S1.1.3- P1 B2- A9-
-pérdida	noun	S1.1.3- I1.2 A9- S8- L1-
 perdido	adj	E6- X9.2- A9- M6/A5.3- L1- S2mf
-perfección	noun	A5.1+++
 perfeccionar	verb	A5.1+++
+perfección	noun	A5.1+++
 perfectamente	adv	A13.2 A5.1+++
 perfecto	adj	A5.1+++ A1.2+++ Q3
 perfume	noun	B4 X3.5 E2+
 periodismo	noun	Q4.2 P1 A5.4+
 periodista	noun	Q4.2/I3.2/S2mf A5.4+
 periodístico	adj	Q4.2 A5.4+
-período	noun	T1.1 T1.3
 perjudicar	verb	A15-
+perjuicio	noun	A1.1.2 S8- L1-
 perla	noun	C1 O1.1 I1 L2-
 permanente	adj	T2+++
 permanentemente	adv	T2+++
 permite	verb	A2.1 A9+
-pero	conj	Z5 A10- A2.2- A6.1-
+permitir	verb	S7.4+ S8+ X2.1 I1.1 A9+
+pero	conj	Z5 A2.2- A6.1-
 perro	noun	L2mfn E6 E2
 persa	adj	Z2 Z2/Q3 S2mf
 Persia	noun	Z2 M7
 persistente	adj	T2++
 persistir	verb	T2++
-persona	noun	S2mfc X2
+persona	noun	S2mfc
 personal	adj	S1.2.1+ S2 S5- K5.1
 personalmente	adv	S5-
 personas	noun	S2
 perspectiva	noun	X4.1 C1
 pertenecer	verb	A9+ A1.2+ S5+
 peruano	adj	Z2 Z2/S2mf
+período	noun	T1.1 T1.3
 pesadilla	noun	X4.1/A5.1- A5.1-
 pesar	verb	N3.5 X2.1 E6- A2.1+
 pesca	noun	K5.1/L2 F4/M4 X2.4
@@ -2668,22 +2801,21 @@ pintar	verb	C1
 pintor	noun	C1/S2mf
 pintoresco	adj	O4.2+
 pintura	noun	C1 P1
-pío	adj	S9 X3.2
 pionero	noun	T2+ T2+/S2mf
-pirámide	noun	H1 O4.4
 Pirineos	noun	Z2
+pirámide	noun	H1 O4.4
 pizarra	noun	O2 P1
 placer	noun	E4.2+ K1
 plan	noun	X7+ C1/H1
 planear	verb	X7+
 planeta	noun	W1 W5 A1.3
 plantar	verb	F4 M2
-plástico	adj/noun	O1.1 O4.5
 plaza	noun	H1 M7
 plazo	noun	T1.1 I1
 plenamente	adv	A13.2 N5.1+
 pluma	noun	O2 P1
 Plutón	noun	Z1/W1 S9/T1.1.1
+plástico	adj/noun	O1.1 O4.5
 población	noun	S2/N5c G1 S2 Mt
 poblado	adj	S2 H4
 pobre	adj	I1.1- A5.1- N5- E4.1- X9.1-
@@ -2691,25 +2823,25 @@ poco	pron	Z5 Z8 A6.1-
 pocos	adj	Z5 Z8 A6.1-
 podemos	verb	S7 G1.2
 poder	noun	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
+poder	verb	A7+/S7.4+/X9/Z5
 poderoso	adj	S7.1+ S1.2.5+ N3
-podía	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
 podrá	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
 podría	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
+podía	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
 poema	noun	Q3 C1
 poeta	noun	Q4.1/S2mf
-poético	adj	Q3 C1
 polaco	adj	Z2 S2.1/S2.2
-policía	noun	S2 G2.1 A15
 policial	adj	G2.1 G2.2 A15 G1
+policía	noun	S2 G2.1 A15
 polideportivo	noun	H2 P1 K5.1
+pollo	noun	E5- L2mfn F1 E5-/S2mf
+Polonia	noun	Z2
 política	noun	G1 S7
 políticas	noun	G1 I2
 político	noun/adj	G1 P1 G1.2 S2mf
 políticos	adj	G1 S2mf
-pollo	noun	E5- L2mfn F1 E5-/S2mf
-Polonia	noun	Z2
 pone	verb	A9 M1 M6
-poner	verb	A9 M1 M6
+poner	verb	M2 A9 A1.1.1 
 Pontevedra	noun	Z2 M7
 pontífice	noun	G1/G1.1 S2.1 S9
 popular	adj	I1 A4.1 G1 E2+ S5+
@@ -2722,15 +2854,14 @@ portugués	adj	Z2 S2.1/S2.2 Q3
 posesión	noun	A9+ S9
 posibilidad	noun	A7+ A5 A1.1.1 S7.1+ O3 S1.2.5+ N2 G1
 posibilidades	noun	A7+ A5 A1.1.1 S7.1+ O3 S1.2.5+ N2 G1
-posible	adj	A7+ A5 A1.1.1 S7.1+ O3 S1.2.5+ N2 G1
+posible	adj	A7+ A5 S7.1+ S1.2.5+
 posiblemente	adv	A7+ A5 A1.1.1 S7.1+ O3 S1.2.5+ N2 G1
 posición	noun	M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1
 positivo	adj	A5.1+ A7+ N2
 posteriormente	adv	N4 T2
 potencial	adj	A7+ O3 A5 S7.1+
+poético	adj	Q3 C1
 pp	noun	G1 S7
-práctica	noun	X2.4 P1 S1 S3
-prácticamente	adv	A13.4 A1.6
 practicante	noun	S1.1.3 S5 S9 S2mf
 practicar	verb	A1.1.1 A13.4 A1.6
 precario	adj	A15- I2 I3
@@ -2738,8 +2869,8 @@ precedente	noun	A3+
 preceder	verb	N4
 precepto	noun	S7.1 G2.1 P1 S9
 preceptor	noun	P1 S7.1 S5
-precio	noun	I1 N3
-precios	noun	I1 N3
+precio	noun	I1.3 N3
+precios	noun	I1.3 N3
 precisamente	adv	A4.2+ A5.3+
 precisión	noun	A5.3+
 predecir	verb	Q2.2/T1.1.3 X2.6+
@@ -2764,6 +2895,9 @@ preparado	adj	A1.1.1 F1 X7+ O4.1
 preparar	verb	A1.1.1 F1 X7+ O4.1
 presencia	noun	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+
 presenta	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+
+presentación	noun	Q4 O4.1 Q2.2 K4 O4.1 K5 S1.1.1 A3+ T2+
+presentar	verb	S1.1.1 A2 S1.1.3+ Q1/Q2/Q3 Q4 O4.1 A8 A3+
+presente	adj	T1.1.2 A3+ 
 presente	noun	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+
 preservar	verb	S8+ A9+/A2.1- F1 L2
 presidencial	adj	G1.1/S7.1+
@@ -2777,6 +2911,7 @@ prestigioso	adj	S7.2+ A5.1+ A11.1+
 presupuesto	noun	I1 G1.1/I1 I1.3-
 pretender	verb	X8+
 prevalecer	verb	X9.2+ S7.1+
+prever	verb	X2.6+ Q2.2/T1.1.3
 previamente	adv	N4
 previo	adj	N4
 previsible	adj	X2.6+
@@ -2785,22 +2920,22 @@ primer	adj	Z5 Z8 N1 N4
 primera	adj	Z5 Z8 S2.2 N1 N4
 primeras	adj	Z5 S2.2 T1.1 N4
 primerizo	noun	S2.1/S2.2
-primero	adj	Z5 Z8 S2.1 N4
+primero	adj/num	N4
+primero	noun	N4 P1
 primeros	adj	Z5 Z8 S2.2 N4
 primitivo	adj	T3+ S1.2.4-
 primo	noun	S4mf
 princesa	noun	S7.1+/S2.1
-principal	adj	S7 A5 A6 H2
+principal	adj	A11.1+ S7 A5 A6
 principales	adj	S7 A5 A6
-príncipe	noun	S7.1+/S2.2m
 principianta	noun	S2.2 P1 A5 T2+
 principiante	noun	S2.1 P1 A5 T2+
-principio	noun	G1 X2 S9 X2.1 T2+
-principios	noun	G1 X2 S9 P1 T2+
+principio	noun	T2+ G2.2+ X2.1 S9 X4.1
+principios	noun	T2+ G2.2+ X2.1 S9 X4.1
 prioridad	noun	A11.1+
 prisa	noun	N3.8+
-prisión	noun	H1 G2.1 A1.7-/
 prisionero	noun	G2.1/S2mf A1.7+/S2mf
+prisión	noun	H1 G2.1 A1.7-/
 privado	adj	A10- S5- G1.1- G3/S2mf B1
 privilegiado	adj	A5.1+ A10-
 privilegio	noun	A5.1+ G2.1 S7.1+ S7.2+
@@ -2809,14 +2944,17 @@ probable	adj	A7+ X5
 probablemente	adv	A7+ X5
 problema	noun	A12- X4.1 N2 B2- P1
 problemas	noun	A12- X4.1 N2 B2- P1
+proceder	verb	A1.1.1 M1 S1.1.1 A2.2 A9+ S4 M6
+procedimiento	noun	X4.2 Y2 
 procesión	noun	S1.1.1/M1 S5 S9 M1
-proceso	noun	T1.1 M1 G1
+proceso	noun	X4.2 T1.1 I4 M1 G1 A1.1.1 G2.1 X2.4 Y2
 proclamar	verb	Q2.2 S7
 prodigio	noun	S9 A1 A13.3 X6 X9.2+
 prodigioso	adj	S9 A1 A13.3 X6 X9.2+
-producción	noun	A1.1.1 A10+ K4 K3 Q4.3
+producción	noun	A1.1.1 I4 I4/F4 K1 K4 K3 Q4.3
 produce	verb	K4/S7.1+ A1.1.1
-producto	noun	K4/S7.1+ A1.1.1 A2.2 N2 O2
+producir	verb	A2.2 A1.1.1 K4 K3 Q4.3 F4 A2.1+
+producto	noun	A2.2 N2 O2 A1.1.1 I2/I1.1
 productor	noun	K4/S7.1+/S2mf A1.1.1/S2mf
 profesar	verb	S9 X1
 profesional	adj	I3.2+ I3.1 X9.1+ A5.1+ I3.2+/S2mf X9.1+/S2mf
@@ -2825,7 +2963,7 @@ profesora	noun	S7.1 S2.2 S5 P1
 profeta	noun	T1.1.3/S9/S2mf Q2.1
 profetisa	noun	S2.2 S9 T1.1.3 Q2.1
 profetizar	verb	S9 T1.1.3 Q2.1
-programa	noun	T2 P1 G1
+programa	noun	G1 T2 Y2 P1 K1 K2 K4 X7+ Q4.3 Q1.2 I2.2/S1.1.1 
 programadamente	adv	T2 Z5
 programas	noun	T2 G P1
 progresar	verb	A5.1+/A2.1 T2++ A2.1+ M1
@@ -2843,10 +2981,11 @@ pronunciar	verb	Q3 Q2.2
 propia	adj	A9+ S2mf
 propiedad	noun	A9+ H1/H3 O4.1
 propietario	noun	A9+/S2mf
+propio	adj	A9+ S2mf
 propios	adj	A9+ S2mf
 proponer	verb	Q2.2/X7+ X4.1 G1.2 Q2.2/S4
-proporción	noun	A2.2/N3.2 O4.2 N5.1- N5 A2.2 N3.2 S1.1.2
 proporcionar	verb	A9+ S1.1.2
+proporción	noun	A2.2/N3.2 O4.2 N5.1- N5 A2.2 N3.2 S1.1.2
 proposición	noun	Q2.2 X4.1 S3.2/Q2.2
 propuesta	noun	Q2.2 X4.1 S3.2/Q2.2
 prosa	noun	Q3
@@ -2858,22 +2997,24 @@ proveer	verb	A9+ S6+
 providencia	noun	A9+ S8+ S9
 providencial	adj	S9 S8+ S9
 proximidad	noun	N4 T1.3-
-próximo	adj	N4 T1.3-
 proyectar	verb	A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1
-proyecto	noun	I1 P1 H1 Y1
+proyecto	noun	I2.1 P1 H1 Y1 G1.1
 proyectos	noun	I1 P1 H1 Y1
 prueba	noun	P1 X2.4
+práctica	noun	X2.4 P1 S1 S3
+prácticamente	adv	A13.4 A1.6
+práctico	adj	A1.6 A3+/A1.5.2 A3+/A1.6 Q3 S1.2
+práctico	noun	P1 X2.4
+príncipe	noun	S7.1+/S2.2m
+próximo	adj	N4 T1.3-
 psicología	noun	Y1/X1 P1
 psicológicamente	adv	X1 P1 Z5
 psicológico	adj	X1 P1 S2mf
 psicólogo	noun	Y1/ S2.1/S2.2 S5 P1
 psoe	noun	G1 S7
-pública	adj	G1 P1 S2f
 publicación	noun	Q4 A3+ A10+
-públicamente	adv	A3+ A10+
-publicar	verb	Q4 A3+ A10+
+publicar	verb	Q4 A10+ Q2.2 I2.1.2/Q2.1 X2.2+
 publicitario	adj	I2.2/Q2.1 X2.2+ A10+
-público	noun/adj	A10+ S5+ S5+c G1 P1 S2m
 pudo	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
 pueblo	noun	M7 A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
 pueda	verb	A1.1.1 S7.1+ O3 S1.2.5+ N2 S7 G1
@@ -2888,19 +3029,32 @@ puerto	noun	H1 M7 W3
 pues	conj	Z5 A13 A2.2
 puesto	adj	A9 H1 I2
 pulmón	noun	B1 B2 F3 O1.2 S8+
-punto	noun	I1 N3 N3.7- Q3 K5.1
+punto	noun	N3 N3.7- Q3 K5.1 I1
 puntos	noun	I1 N3 N3.7- Q3 K5.1
 puntual	adj	T4 S1.2.4+
 puntualidad	noun	T4 S1.2.4+
 pupilo	noun	S2.1/S2.2 P1
 pupitre	noun	O2 H5 P1
 puso	verb	A9 M1 M6
+página	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
+pájaro	noun	L2mfn S2.1f
+pánico	noun	E5-
+párrafo	noun	Q3 N5 N3.7
+párroco	noun	S9 S2.1 S5 G1
+pérdida	noun	L1- N5.2- I1.2 A9- A1.7- A1.1.2
+pío	adj	S9 X3.2
+pública	adj	G1 P1 S2f
+públicamente	adv	A3+ A10+
+público	noun/adj	K1/S2mfc S2mfc S1.1.3+ S5+c A10+
+q	noun	Z5
+Q.	num/noun	N4
+q.	num/noun	N4
 Qatar	noun	Z2 M7 S7 I1
 qatarí	adj	Z2 S2 S2.1/S2.2 S7 I1
-qué	adj/pron	Z5 Z8
 que	con/adj/pron	Z5 Z8
 Quebec	noun	Z2 O4.6-
 queda	verb	X7 T1.2
+quedar	verb	M8 T2++ M6 N5.2+ A10+ A1.2+ N3.2/A5.1+ B2- S3.1 A1.1.1 X9.2+
 quedó	verb	X7 T1.2
 queja	noun	Q2.2/E2- B2-
 quejar	verb	Q2.2/E2-
@@ -2908,59 +3062,69 @@ quemar	verb	O4.6+ E1 A1.5.1
 querer	verb/noun	X7+ A2 S7 X2 P1
 quería	verb	X7+ A2 S7 X2
 queso	noun	F1/X3.5
-quién	pron	Z5 Z8
-quien	pron	Z5 Z8
+quien	pron	Z8
 quienes	pron	Z5 Z8
 quiere	verb	X7+ A2 S7 X2
 quiero	verb	X7+ A2 S7 X2
 quimera	noun	A1.4 A5.1 A10- X9.2-
 quimérico	adj	A1.4 A5.1 A10- X9.2-
+quince	num	N1
+quincoagésimo 	adj/num/noun	N4 N5
+quinto	adj/num	N4 N5
+quinto	noun	N4 N5 P1
+quizá	adv	Z5 A5
+quién	pron	Z5 Z8
+qué	adj/pron	Z5 Z8
 química	noun	P1 O1 Y1
 químico	noun/adj	S2.1/S2.2 X3 O1 P1 Y1
-quince	num	N1
-quinto	num/adj	N1
-quizá	adv	Z5 A5
+r	noun	Z5
+R.	num/noun	N4
+r.	num/noun	N4
 rabia	noun	E3-
 racional	adj	S1.2.6+ X2.1
 radical	adj	G1.2/S2mf O1% N5+/A2.1 A11.1+
 radicalmente	adv	A11.1+ O1% N5+/A2.1 A11.1+
 radio	noun	Q4.3
 Rafael	noun	Z1 S2 S9
-raíz	noun	L3 B1 A2.2 S4 A11.1+ Q3 N2 X2.4
 rata	noun	L2mfn G2.2-/S2mf Q2.2 A1.9
 ratificar	verb	S7.4+
 ratón	noun	Q1.3 L1
-razón	noun	X2 X7 S1.2.6+
 razonable	adj	S1.2.6+ A5.1+ I1.3-
 razonamiento	noun	X2.1 Q2.2 S1.2.6+
 razones	noun	Q2 X2.1 S1.2.6+ X2.1
-reacción	noun	A1.1.1 A6.1- B2- Y1
+razón	noun	X2 X7 S1.2.6+
+raíz	noun	L3 B1 A2.2 S4 A11.1+ Q3 N2 X2.4
 reaccionar	verb	A1.1.1 A6.1- B2- Y1
-real	adj/noun	A3+/A1.6 S1.2.6+	I1
+reacción	noun	A1.1.1 A6.1- B2- Y1
+real	adj	A3+ A5.4+ S1.2.6+ A5.2+ S7.1+ S7.1+/G2
+real	noun	I1
 realidad	noun	A3 X2
 realismo	noun	A3+/A1.6 C1 X2.1
 realista	adj	A3+/A1.6 S1.2.6+
-realizar	verb	Q1 A3+
+realización	noun	A1.1.1 X9.2+ K1 K2 K3 K4
+realizar	verb	A1.1.1+
 reaparecer	verb	A10+/N6+
 rebajar	verb	A1.8- I1.3-
 rebelde	adj	G1.2/A6.1- S8- A6.1- G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf
 rebelión	noun	E3- G1.2/A6.1-
 rechazar	verb	X7- A1.9 S1.1.3-
-recibir	verb	A9+ S5+
+recibir	verb	A9+
 reciente	adj	T3---
 recientemente	adv	T3---
-recíproco	adj	N2 S1.1.2+ N2%
 recitar	verb	Q2.2
 recomendación	noun	Q2.2 E3+ S1.2.1
 recomendar	verb	Q2.2 E2+ S1.2.1
 recompensa	noun	S1.1.4+
 recompensar	verb	S1.1.4+
+reconocer	verb	X2.2+ X2.5+ X2.4 S1.1.1 B3 S7.4+/M1 P1 G2.1+
 reconstrucción	noun	H1/N6+ S7.1+/A2.1 A1.1.1 X2.1/T1.1.1
 reconstruir	verb	X2.1/T1.1.1 H1/N6+ S7.1+/A2.1 A1.1.1
 recordar	verb	X2 T1.1
 rector	noun	P1 S2.1/S2.2 S5 S7.1
 recuerdo	noun	T1.1 X2
+recurso	noun	G2.1 X4.2 A1.1.1 I1.1 I2.1.1 Q2.1 Q1.2
 recursos	noun	I1 Y1
+recíproco	adj	N2 S1.1.2+ N2%
 red	noun	Q1.3 A4.1 O1 S5
 redondo	adj	M1 M6 N5 K5.1 F2 B3 F1 K2 G3 O4.4
 reducción	noun	N5-/A2.1 Y1
@@ -2973,24 +3137,27 @@ reflejar	verb	A10+ Y1/M2 X3.4 X2.1 A5.1
 reflejo	noun	A10+ X3.4 Y1/M2 A2.2/A10+ X2.1
 reflexión	noun	X3.4 Y1/M2 A2.2/A10+ X2.1
 reforma	noun	G1 P1 A2.1+
-régimen	noun	G1.2 S7
-región	noun	M7 G1.1 B1
 regional	adj	M7 G1.1
+registrar	verb	Q1.2/G1.1 G2.1/A9+ Q3@ Q1.2 K3 
+registrar	verb	X2.4 G2.1 K3 Q1.2/G2.1 Q1.2/G1.1 N3.1 A9+ A2.1+
+registro	noun	Q1.2/G1.1 G2.1/A9+ I2.1.2 Q3@ Q1.2 K3 
+región	noun	M7 G1.1 B1
 regla	noun	S9 B2 B4 O2 C1 P1 N3.7 S3.2
+reglamento	noun	G2.1 A1.7+/G1.1
 regreso	noun	M1 A9- N6 S1.1.2+ I1.1 G1.1/Q1.2 M3 K5.1 Y2 M6
 regular	adj	A6.2+ N6+ O4.1 I3.1 T2++ A13.3 N6+/S2mf G3/S2mf
+regular	verb	A6.2+/A2.1 A1.7+/G1.1
 reina	noun	S7.1+/S2.1f S3.2/S2.2m K5.2
 reinar	verb	S7.1+ S3.2/ K5.2
-reír	verb	A2 A10 E4.1+
-relación	noun	A2.2 S3.1 X2.5+ Q2.1 I1 X2 S2
 relacionar	verb	A2.2 S3.1 X2.5+ Q2.1
 relaciones	noun	A2.2 S3.1 X2.5+ Q2.1
+relación	noun	A2.2 S3.1 X2.5+ Q2.1 X2 S2
 relajar	verb	E3+ K1 A1.7-
 relativamente	adv	A13/A6 X2.2
-relativo	adj	A13 A6 S4mf Q3% X2.2
-religión	noun	S9 P1 X2 S3 A1 A5.1 A9+ A10
+relativo	adj	A13.1 A6 Q3% X2.2
 religiosamente	adv	A1.1.1 S9
 religioso	noun	S2.1/S2.2 P1 S5 A5.1 A4 A9+ A10
+religión	noun	S9 P1 X2 S3 A1 A5.1 A9+ A10
 remediar	verb	B2 A1.4 S7.4 S8+
 remedio	noun	B2 A1.4 S7.4 S8+
 remitir	verb	I1.1/A9- G2.1 T2-
@@ -3012,13 +3179,13 @@ representativo	adj	A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf
 reprimir	verb	S8- A1.3 A5.1- E2- E6- E4.2-
 reprochar	verb	Q2.2/G2.2 E2- E6- E4.2-
 reproducción	noun	A6.1+ A5.4- A1.1.1/N6+ S3.2/B1
-república	noun	G1.2 S5+/M7 G1
 republicano	adj	G1.2 G1.2/S2mf
+república	noun	G1.2 S5+/M7 G1
 requerir	verb	X7+ S6+
 resaltar	verb	A11.1+
 resentimiento	noun	E2- E6- E4.2-
 residencia	noun	H1 H4
-resolución	noun	X6+ X9.2+
+resolución	noun	X6+ X9.2+ X4.2 N3.6 O4.1
 respectivo	adj	A6.1-
 respecto	conj	Z5 A9 A2.1
 respetable	adj	S7.2+ G2.2+ S1.2.4+ A5.1+
@@ -3026,7 +3193,7 @@ respetar	verb	S7.2+ G2.2+ S1.2.4+ A5.1+
 respetuoso	adj	S7.2+ G2.2+ S1.2.4+ A5.1+
 respirar	verb	B1 A3 L1
 responder	verb	Q2.1 X6 X2.4
-responsabilidad	noun	S6+ S7.1+ X6+
+responsabilidad	noun	S6+ S7.1+ I1.2 I2.1.1 G2.1- X6+
 responsable	adj	A2.2 S6+ S7.1 S1.2.6+ X6+
 respuesta	noun	Q1 Q2.1 X6 X2.4
 restante	adj	T2++ M8 N5.2+
@@ -3035,8 +3202,9 @@ resto	noun	I1 I1.3 N3.2
 restricción	noun	A1.7+
 resucitar	verb	B3 T2+/N6+ S9/A2.1+ A11.1+ E1+ S7
 resulta	verb	I1 K5.2 P1
-resultado	noun	I1 K5.2 P1 A5 A9
+resultado	noun	K5.2 N2 A2.2 A5 I2.1 X9.2 
 resultados	noun	I1 K5.2 P1 A5 A9
+resultar	verb	A8 A2.1+ O4.2+
 resumen	noun	N3.8+ Q2.1
 resumir	verb	Q2.2 N3.8+
 resurrección	noun	B3 T2+/N6+ S9/A2.1+ A11.1+ E1+ S7
@@ -3046,22 +3214,19 @@ retraso	noun	T4- P1
 reunión	noun	S5 A1.8+
 revelación	noun	A10+ S)
 revivir	verb	X5.2+ T2+/N6+ B3
-revolución	noun	T3--- G1.2 A2.1+ M1 S7 A5
 revolucionario	adj	T3--- G1.2 A2.1+ M1 S7 A5 S2mf
+revolución	noun	T3--- G1.2 A2.1+ M1 S7 A5
 rey	noun	S7.1+/S2.2m G1
+reír	verb	A2 A10 E4.1+
+riachuelo	noun	W3/M4 N5+ M7 O1.2 A13.7 N3.2-
 ridiculizar	verb	Q2.2/S1.2.4- S7.2-
 ridículo	noun	Q2mf S1.2.4- S7.2-
-riesgo	noun	A15- A1.4 I1
+riesgo	noun	A15- A1.4 I1 I2/I2.1.3
 rigidez	noun	O4.5 S3.1- A10-
-rígido	adj	S2mf O4.5 S3.1- A10-
-riñón	noun	B1 F1
-ría	noun	W3/M4 N5+ M7 O1.2 E4.1+
-riachuelo	noun	W3/M4 N5+ M7 O1.2 A13.7 N3.2-
-río	noun	W3/M4 N5+ M7 O1.2 Z2 M7 Z2 E4.1+
-rió	verb	A2 A10 E4.1+
-rítmico	adj	N6+ K2
 ritmo	noun	K2 Q3 T1.1
 rival	noun	S7.3 S7.3+/S2mf
+riñón	noun	B1 F1
+rió	verb	A2 A10 E4.1+
 roca	noun	M1 M2 E5- K2 O2 O1.1 F1
 rodeado	adj	M6 A1.8+ A10- G3
 rodear	verb	M6 A1.8+ A10- G3
@@ -3072,8 +3237,8 @@ rojo	adj	O4.3 G1.2 G1.2/S2mf A15- E1 E2
 rol	noun	I3.1 K4 S1.1.1 A1.1.1
 Roma	noun	Z2 S9
 romano	adj	Z2 Z2/S2mf T1.1.1/S2mf
-romántico	adj	S3.2 Q4/S5 S3.2mf
 romper	verb	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1
+romántico	adj	S3.2 Q4/S5 S3.2mf
 ronda	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
 rosa	noun	L3 F2 O4.3 M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1
 roto	adj	S2mf A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1
@@ -3086,11 +3251,19 @@ Rumania	noun	Z2
 rumano	adj	Z2 S2.1/S2.2
 Rusia	noun	Z2 M7 O4.6-
 ruso	adj/noun	Z2 Z2/S2mf Q3 O4.6-
-rústicamente	adv	A6.3 S1.2.4-
-rústico	adj	A6.3 S1.2.4-
 ruta	noun	M2 M6 X4.2
 rutina	noun	A6.2+ X4.2 K4
-sábado	noun	T1.3
+régimen	noun	G1.2 S7
+ría	noun	W3/M4 N5+ M7 O1.2 E4.1+
+rígido	adj	S2mf O4.5 S3.1- A10-
+río	noun	W3/M4 N5+ M7 O1.2 Z2 M7 Z2 E4.1+
+rítmico	adj	N6+ K2
+rústicamente	adv	A6.3 S1.2.4-
+rústico	adj	A6.3 S1.2.4-
+s	noun	Z5
+S.	num/noun	N4
+s.	num/noun	N4
+S.	pnoun	S9/S2.2 G2.2+/S2.2 
 sabatina	noun	P1 T1.3 Q2.1
 sabe	verb	X2.2+ X2.3
 saber	verb/noun	X2.2+ P1 X2.3
@@ -3116,16 +3289,18 @@ salmo	noun	S9 E4 K2
 salterio	noun	S9 K2 S2.2 Q4.1
 salud	noun	A1.3 A3 A15 B2
 saludo	noun	Q2.2/S1.2.4+ E1 X3
+salvo	conj	Z5
 san	noun	S9 S2 A4.1
-Sebastián	noun	Z2 M7
 sangre	noun	B2 O4.3
 sangriento	adj	A13.3 Z4 B1 B2 O4.3
 santa	adj	S9 S2.2 A4.1 A5.1+ E5+ S1.1.1
+santa	noun	S9/S2.1 G2.2+/S2.1 A5.1+++ A4.1 E6
 Santander	noun	Z2 M7
 santanderino	adj	Z2 S2.1/S2.2
 Santiago	noun	Z2 M7 S9
 santidad	noun	S9 S2.1 A4.1 A5.1+ E5+ S1.1.1
 santo	adj	S9 S2.1 A4.1 A5.1+ E5+ S1.1.1
+santo	noun	S9/S2.2 G2.2+/S2.2 A5.1+++ A4.1 E6
 santoral	noun	S9 A4.1 S1.1.1 Q4.2
 santuario	noun	S9 H1
 sargento	noun	G3/S7.1+/S2mf G2.1/S2mf
@@ -3135,10 +3310,10 @@ satisfacer	verb	E4.2+ A1.2+
 satisfactorio	adj	E4.2+ A5.1+ A1.2+
 satisfecho	adj	E4.2+ A1.2+
 Saturno	noun	Z1/W1
-sé	verb	Z5 A3+ X2.2 X2.3
-se	pron	Z5	Z8 S1.1
+se	pron	Z5 Z8 S1.1
 sea	verb	A3+
 sean	verb	A3+
+Sebastián	noun	Z2 M7
 secar	verb	O1.2- A1.1.
 secretamente	adv	A10 S7.4 Z5
 secretario	noun	I3.2 S2mf S7.1+ S2mf G1
@@ -3158,11 +3333,13 @@ secundario	adj	A11.1- N4 P1
 sed	noun	B1/F2 X7+ O1-2-
 seda	noun	O1.1 B5 G2.1/S2mf%
 seglar	adj	S2.1/ S2.2 S9 A4.1 T1.1
-seguir	verb	A1.1.1 A3 M1
-según	prep	Z5 A9 S1.1
-segundo	noun/adj	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+seguir	verb	A1.1.1 A3 M1 Y2
+segundo	adj/num	N4
+segundo	noun	T1.3 T1.2 N4 P1
 seguridad	noun	G1 A5 A15+ X2
 seguro	noun	I1/A15+ A5.1+
+según	prep	Z5
+según	prep	Z5 A9 S1.1
 seis	num/adj	N1 T3 T1.2
 seleccionar	verb	X7+
 semana	noun	N6+ T1.1 T1.3
@@ -3173,10 +3350,8 @@ semestralmente	adv	T1.3 P1 Z5
 semestre	noun	P1 T1.3
 semilla	noun	F4 K5.1 L3 T2+ K5.1/S2mf
 senador	noun	G1.2/S2mf
-señaló	verb	Q1
 sencillamente	adv	A13.6 A14 A12+ O4.1 S1.2
 sencillez	noun	A13.6 A14 A12+ O4.1 S1.2
-señor	noun	S7.1+++/S2mf S9
 sensibilidad	noun	X2.5+/E1 O4.1 B2-
 sentado	adj	M8
 sentido	noun	X2 M6
@@ -3187,32 +3362,37 @@ separación	noun	A6.1- S3.1-
 separado	adj	A6.1- S3.1-
 separar	verb	A6.1- S3.1-
 septiembre	noun	T1.3 P1 A1.9
-séptimo	adj	N1
+septuagésimo	adj/num/noun	N4 N5
 sequía	noun	W4
 ser	verb/noun	A3+ L1 Z5 X2.4
-será	vebr	A3+ L1 Z5
-serán	verb	A3+ L1 Z5
-sería	verb	A3+ L1 Z5
 seriamente	adv	A13.3 Z4 E4.1-
 serie	noun	N4c Q4.3c I4 K1
 seriedad	noun	A11.1+ A15- E4.1-
 serio	adj	A11.1+ A15- E4.1- E6- S2mf
-sermón	noun	S9 Q2 E2-
 sermonear	verb	S9 Q2 A5.1- E2-
+sermón	noun	S9 Q2 E2-
 serpiente	noun	L2mfn A15-E6-
-servicio	noun	I1 S8+ G1
+servicio	noun	B4/H2 I2.2 S8+ G1 S7.1- A1.1.1 I3.1
 servicios	noun	I1 S8+ G1
 servidor	noun	S7.1-/S2mf S8+
 servir	verb	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
+será	vebr	A3+ L1 Z5
+serán	verb	A3+ L1 Z5
+sería	verb	A3+ L1 Z5
 sesenta	adj/num	N1 T3+
 setenta	adj/nm	N1 T3+ T1.2
 severo	adj	A5.1- S1.2.5+ S1.2.1- O4.2-
 Sevilla	noun	Z2 E4.1+
 sevillano	adj	Z2 S2.1/S2.2 E4.1+
+sexagésimo	adj/num/noun	N4 N5
 sexo	noun	L2 S2 S3.2+ E1
-sexto	adj	N1
+sexto	adj/num	N4 N5
+sexto	noun	N4 N5 P1
 sexual	adj	L2 S3.2+ E1
-sí	adv/pron	Z5 Z8 A5.2
+señalar	verb	A5 Q1.1 M6 S8+/A1.1.2- X5.1+ G2.2-
+señaló	verb	Q1
+señor	noun	S7.1+++/S2.2 S9
+señora	noun	S7.1+++/S2.1 S9
 si	conj	Z5 Z7
 Siberia	noun	Z2 O4.6-
 Sicilia	noun	Z2 M7 E3 E5 G2 A15-
@@ -3224,37 +3404,36 @@ siete	num/adj	N3 N1 T3 T1.2
 siglo	noun	T1.1 N5+
 significado	noun	X2.1 A11.1+ Q3 X7+
 significar	verb	Q1.1 X7+
+significativo	adj	A11.1+ N5+
 sigue	verb	A3 M1
-siguiente	adj	M1	N4
+siguiente	adj	N4/M1
 silencio	noun	X3.2- A10- Q1
 silla	noum	H5 O2
 silvestre	adj	E3- X5.2+ A1.7- L1 O4.2- A6.2- A7- W3 L2
 simbólico	adj	A6.2+ Q1.1 X4.1 M2 A5.4- A5.1-
-símbolo	noun	A6.2+ Q1.1 X4.1 M2
 similar	adj	A6.1+
-simultáneamente	adv	T1.1.2 S1.1.3 Z5
 simultanear	verb	T1.1.2 S1.1.3
+simultáneamente	adv	T1.1.2 S1.1.3 Z5
 simultáneo	adj	T1.1.2 S1.1.3
-sin	prep	Z5 A13.7 M6 A10- A3-
+sin	prep	Z5 A13.7 A10-
 sinagoga	noun	S9 H1
 sinceramente	adv	A5.2+ A5.4+ S1.1.3
 sinceridad	noun	A5.2+ A5.4+ S1.1.3
 sincero	adj	A5.2+ A5.4+ S1.1.3
-síndrome	noun	B2- A1.9
 siniestro	adj	G2.2- A5.1- M6%
 sino	conj	Z5 A10- A2.2- A6.1-
-síntesis	noun	A1.8+ A5 Y1/O1 X2.5 X2.4
 sintético	adj	A1.8+ A5 O1 P1 X2.5
-síntoma	noun	B2- A4.2+
 siquiera	conj	Z5 A1.9
 Siria	noun	Z2 M7
 sirio	adj	Z2 S2.1/S2.2
-sistema	noun	I2 G2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c I1
+sistema	noun	X4.2 G2 I1 O3 Y2 B1 N2 G1.1c I2
 sistemas	noun	I2 G2. X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c I1
 sistemático	adj	X4.2 N4 X2.4
-situación	noun	A3+ O4.1 M6 M7 I3.1
+situación	noun	M6 M7 A3+ O4.1 I3.1 W4
+so	prep	Z5
 soberanía	noun	S7.1+
-sobre	noun/conj	Z5 M6 Q1
+sobre	noun	O2 I1---
+sobre	prep	M6 Z5
 sobresaliente	adj	A13/A13.2 S2.1/S2.2 P1 A5 A11.1
 sobresalientemente	adv	A13/A13.2 Z5 P1 A5 A11.1
 sobrino	noun	S4m
@@ -3262,25 +3441,25 @@ social	adj	A1 S1.1.1 I1.1/G1.1 L1 X2 S2mf
 sociales	adj	A1 S1.1.1 I1.1/G1.1 L1 X2 S2mf
 socialista	adj	G1.2 G1.2/S2mf S7
 socialmente	adv	A1 S1.1 I1.1/G1.1 L1 X2
-sociedad	noun	S2 G1 S5+c
+sociedad	noun	S2 S5+c I2.1 G1.2 S3.1
 socrático	adj	X2 X2.4 P1
-Sofía	noun	Z1 Z2 M7
 sofisticado	adj	O4.2+ X9.1- X2.5+
+Sofía	noun	Z1 Z2 M7
 sol	noun	K1/W4 W1 W2 W4 Z3 M5 O1 B2+ N3.2+ O1.3
 sola	adj	A14 A1.8- A1.9 S1.1.3-
 solamente	adv	A14 S1.2.3 A1.8- A1.9 S1.1.3-
 solar	noun	W1 W2 O3 H1
 soldado	noun	A1.1.1 G3 G3/S2mf I2
 solemne	adj	O4.2 A5.2+
-sólo	adv	A14 A1.8- A1.9 S1.1.3-
-solución	noun	X2.4 A1.5.2+
+solicitar	verb	S7.1+/Q1.2 S7.1+/Q2.2
+solo	adj	A14 S5- N5--- S5- S3.2-
 solucionar	verb	X2.4 A1.5.2+
+solución	noun	X2.4 A1.5.2+
 Somalia	noun	Z2
 someter	verb	A1.1.1 S7.1+ S7.2-
 sometimiento	noun	A1.1.1 S7.1+ S7.2-
 somos	verb	A3+ L1 Z5
 son	verb	A3+ L1 Z5
-soñar	verb	X2 X2.1 X7++
 sonido	noun	A13.2 O4.1 B2+ A5.1+ X3.2 Q2.2 A8 N3.1%
 sonreír	verb	E4.1+ A1.4+
 sonriente	adj	S2mf E4.1+ A1.4+
@@ -3293,24 +3472,27 @@ sorprendido	adj	X2.6-
 sorpresa	noun	X2.6-
 sospecha	noun	X2.1/A5.1- A7 G2.1- N5---
 sospechoso	adj	X2.1/A5.1- A7 G2.1- N5---
-sótano	noun	H2 M7 A10- W2-
 soy	verb	A3+ L1 Z5
+soñar	verb	X2 X2.1 X7++
+Sr.	pnoun	S2.2
+Sra.	pnoun	S2.1
+Sta.	pnoun	S9/S2.1 G2.2+/S2.1
+stuileza	noun	A11.2- X9.1+
 su	adj	Z5 A9+
 suavemente	adv	E3+ X3.2 O4.3
 Suazilandia	noun	Z2
-súbito	adj	N3.8+
 subjetivo	adj	E1 X2
 subterráneo	adj	M3c G2.1-/S5+c A10- M6 G2.1-
 suceder	verb	A2.1+ A3+ X7-
-Sudán	noun	Z2
 sudanés	adj	Z2 S2.1/S2.2
 sudar	verb	B1 F1 O1.2 O4.6+
+Sudán	noun	Z2
 Suecia	noun	Z2
 sueco	adj	Z2 S2.1/S2.2
 suelo	noun	W3 W5 M6 M7
 suelto	adj	A1.7- A9- N3.2+ A4.2- G2.2- B2-
-sueño	noun	B3 T1.3
 suerte	noun	I1 A1.4+
+sueño	noun	B3 T1.3
 suficiente	adj/noun	A13/A14.4 S2 A5 A6 P1 N5
 suficientemente	adv	A13.3/A14.4 S2 A5 A6 N5
 sufrido	adj	S2mf E4.1- B2- X3 A5.1-/A2.1 S7.4+
@@ -3324,9 +3506,10 @@ superficial	adj	A4.2- A8 S1.2 A11.1-
 superior	adj	A2 A5.1 A6.1 P1 S7.1 S2.1/S2.2 S5 S7 E1
 superioridad	noun	A5.1++ S7.1++ S1.2.3+ A6.1-
 superiormente	adv	A5.1++ S7.1++ S1.2.3+ A6.1-
-superstición	noun	S9 X2.1 A5.1-
 supersticioso	adj	S9 X2.1 A5.1-
+superstición	noun	S9 X2.1 A5.1-
 supervivencia	noun	A3+/T2++ L1+
+suponer	verb	 X2.1 X7+ A5.2 Q1.1
 supremo	adj	A5.1+++ S7.1+++
 supuesto	noun	X2
 sur	noun	M6 W3
@@ -3336,9 +3519,24 @@ suspender	verb	A5.1 A1.9 A1.1.1 X2.4 P1 E6-
 suspendido	adj	A5.1 A1.9 A1.1.1 S2.1/S2.2. X2.4 E6-
 suspirar	verb	Q2.2/X3.2 E4.1-
 sutil	adj	A11.2- X9.1+
-stuileza	noun	A11.2- X9.1+
-tailandés	adj	Z2 S2.1/S2.2mf
+suyo	pron	 A9 N5 Z8
+sábado	noun	T1.3
+sé	verb	Z5 A3+ X2.2 X2.3
+séptimo	adj/num/noun	N4 N5
+séptimo	noun	N4 N5 P1
+sí	adv/pron	Z5 Z8 A5.2
+símbolo	noun	A6.2+ Q1.1 X4.1 M2
+síndrome	noun	B2- A1.9
+síntesis	noun	A1.8+ A5 Y1/O1 X2.5 X2.4
+síntoma	noun	B2- A4.2+
+sólo	adv	A14 A1.8- A1.9 S1.1.3-
+sótano	noun	H2 M7 A10- W2-
+súbito	adj	N3.8+
+t	noun	Z5
+T.	num/noun	N4
+t.	num/noun	N4
 Tailandia	noun	Z2 M7
+tailandés	adj	Z2 S2.1/S2.2mf
 tal	adj	Z5 S3
 tales	adj/noun	Z5 S3 Z1
 talismán	noun	S9 A5.1 O1
@@ -3347,24 +3545,24 @@ tambor	noun	K2 O2 X3.2 A1.1.1 Q2.2 A1.9 E3-
 tampoco	adv	Z5 A6 N5 A3-
 tan	adj	Z5 A13 A6 N5
 tanatorio	noun	H1 A10.1- A5.1- B2- L1- O2
+tanto	adv	Z5 A6.1 A13 N5 N3.1 T1.3+
 tanto	conj	Z5 A6.1 A13 N5
+tanto	noun 	N5+++/T1.3
 Tanzania	noun	Z2 M7
 tarde	adv	T4- L1- T1.1
 tarjeta	noun	B5 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2
-Tarragona	noun	Z2 M7
 tarraconense	adj	Z2 S2.1/S2.2
+Tarragona	noun	Z2 M7
 Tasmania	noun	Z2
 te	pron	Z5 Z8 A9
-té	noun	F2 F1 L3
 teatral	adj	K4 E1/N5.2+
 teatro	noun	H1 K1 K4 P1
 techo	noun	H2 B1 M3
-técnico	adj/noun	Y1/S2mf X9.1+/S2mf
 tecnología	noun	Y1 P1
 tecnológico	adj	Y1 P1
 telefónico	adj	Q1.3 A3 O3
-televisión	noun	Q4.3 M7 O3
 televisar	verb	Q4.3 M7 O3
+televisión	noun	Q4.3 M7 O3
 tema	noun	X2
 temas	noun	X2
 temer	verb	E5- A1.9
@@ -3375,23 +3573,17 @@ templario	adj	S9 S2.1 G3
 templo	noun	S9 H1
 temporal	adj	T1.3 A1.9 O1.2 E6-
 temprano	adj	T4+ T1.1.1 L3
-tendrá	verb	A9+ Z5 A2.2 S4
-tenemos	verb	A9+ Z5 A2.2 S4
-tener	verb	A9+ Z5 A2.2 S4
-tengo	verb	A9+ Z5 A2.2 S4
-tenía	verb	A9+ Z5 A2.2 S4
-tenían	verb	A9+ Z5 A2.2 S4
+tener	verb	A9+ Z5 A2.2
 tenido	adj	A9+ Z5 A2.2 S4
 tenis	noun	K5.1
 tentación	noun	O4.2+ S3.2
 teología	noun	S9 X2.1 P1
-teólogo	noun	S2 S9 X2.1 A4.1
 teoría	noun	X2 X2.4 X4.1
-teórico	adj	A1.6 X2 Y1
 tercera	adj	N1 N4 N5Q4.2
-tercero	num/adj	N1 N4 N5
+tercero	adj/num/noun	N4 N5
+tercero	noun	N4 P1
 tercio	noun/num	N4 N5 N1
-términos	noun	Q1 I1 G2.1
+terminar	verb	T2- O4.1
 ternura	noun	E3+ B2-
 terremoto	noun	E6- W3 W4 W5
 terrible	adj	A5.1- E5- E6-
@@ -3402,28 +3594,29 @@ Testamento	noun	Q4.1 S9 L1- A3- A9 S1.1.2
 Testar	verb	S1 S1.1.2 L1- A3- A9
 testigo	noun	G2.1/S2mf X3.4/S2mf S9/S2mf S9 A10+ X3.4 G2.1
 texto	noun	Q1.2 Q4.1 P1
-tía	noun	S4f
+teólogo	noun	S2 S9 X2.1 A4.1
+teórico	adj	A1.6 X2 Y1
+teórico	noun	P1 X2.4 Q1.2
 tibio	adj	O4.6 X5.2- A5 A5.2-
-tiempo	noun	T1 X2 K5.1
+tiempo	noun	T1/W4 K5.1 T1.2 T1.3 T1.1.2
 tiempos	noun	T1.1 X2 K5.1
 tiene	verb	A9+ A2.2 S4 A15
 tienen	verb	A9+ A2.2 S4 A15
 tierra	noun	O1.1 M7 W3
 tigre	noun	L2mfn E3-
 tinta	noun	O1.2 Q1.2
-típico	adj	A4.2+ A6.2+
+tipo	noun	A4.1 A6.1 S2.2m Y2 I1.2 I1.3
 tipos	noun	S2 I2 Q1.2
-título	noun	Q1.2 P1 I1
 toda	adj	Z5 S2 A4 A9
 todas	adj	Z5 S2 A4 A9
 todavía	adv	Z5 T1.1
 todo	pron	Z5 Z8 S2 A4 A9
 todos	adj	Z5 S2 S2 A4 A9
 toma	verb	A10 G3 S7.2- S7.4-
-tomar	verb	A10 G3
+tomar	verb	F1@ F2@ A9+ B3@ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ M1 X2.5+ Q1.2@ F1/B1 A1.5.1/N5+ G3 S3.2
 tono	noun	B4 O4.3 A2.1+ B1
-tormenta	noun	E3- G3 W4 A12- O1.2
 torear	verb	C1 E3- E5+ Q2.1- A5.1-/A5.1-
+tormenta	noun	E3- G3 W4 A12- O1.2
 torno	noun	M1
 toro	noun	B4 L2mn Q2.1-/A5.1-/A5.1- E3- E5+
 torpedo	noun	L2 M3 M5 G3
@@ -3432,19 +3625,18 @@ torta	noun	F1 I1.1 O4.1
 tortura	noun	E3- B2- E4.1---
 Toscana	noun	Z2
 toscano	adj	Z2 S2.1/S2.2m
-total	noun	Q4.1 A5 A3
+total	adj/noun	N5.1+ A13.2 I1 S5
 trabajador	adj	S2 I1 X8+ I3.1 A1.1.1 X9.2+ A2.1+ A2.2 X8+ A1.1.1
 trabajadores	noun	S2 I1 X8+ I3.1 A1.1.1 X9.2+ A2.1+ A2.2 X8+ A1.1.1
 trabajar	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2 X8+ A1.1.1
 trabajo	noun	I3.1 A1.1.1 X9.2+ A2.1+ A2.2 X8+ A1.1.1
-tradición	noun	S1.1.1 T1.1.1 A6.2+
 tradicional	adj	S1.1.1 A6.2+ T3++
 tradicionalmente	adv	S1.1.1 A6.2+ T3++
+tradición	noun	S1.1.1 T1.1.1 A6.2+
 traducción	noun	Q3 A2.1+
 traducir	verb	Q3 A2.1+
 tragar	verb	B1 X2.1/A7+ A10-/E1
 tragedia	noun	E4.1- K4
-trágico	adj	E4.1- K4
 traicionar	verb	G2.2- A10+ E4.1- S8- A15-
 traidor	noun	G2.2-/S2mf A10+ E4.1- S8- A15-
 transformación	noun	A2.1+
@@ -3456,69 +3648,81 @@ trastornadamente	adv	A1.1.2 A2.1+ A1.3+ E6-
 trastornado	adj	A1.1.2 A2.1+ S2.1/S2.2 A1.3+ E6-
 trastorno	noun	A1.1.2 A2.1+ A1.3+ E6-
 trata	verb	A1.1.3 L2 S3.1 G2.1-
-tratar	verb	A1.1.3 L2 S3.1
 tratamiento	noun	A1.1.3 L2 S3.1 B2+
+tratar	verb	S3.1 A1.1.1 F3/I2.2 
 través	prep	Z5 M6
 trece	num/adj	N1
 treinta	num	N1 T3
 trepar	verb	M1 N5+/A2.1
 tres	num/adj	Z5 N1
-triángulo	noun	O4.4 K2
 tribu	noun	S5+ A9+ A10-
 tribunal	noun	G1 G2.1 H3 M7/K5.2 S3.2 X7+ S7 P1 M7
 trigo	noun	F1 L3
+trigésimo	adj/num/noun	N4 N5
 trimestral	adj	T1.3 P1
 trimestralmente	adv	T1.3 Z5
 trimestre	noun	T1.3 P1
 Trinidad	noun	S9 N3 S7
 trinitario	adj	S9 N3 S7
 triple	adj	N5+ F2
-tristeza	noun	E4.1- W2-
 triste	adj	E4.1- W2-
+tristeza	noun	E4.1- W2-
+triángulo	noun	O4.4 K2
 trono	noun	H5/S7.1+ S7.1+
 tropical	adj	M7 W4 O4.6+
-tú	pron	Z5 Z8 A9
+trágico	adj	E4.1- K4
 tu	adj	Z5 S2 A9
 tumba	noun	A10- S9 H1 L1-
 tuna	noun	P1 E1+ E4.1+ K2
-tuno	adj	S2mf E1+ E4.1+ A5.4-
 tunecino	adj	Z2 S2.1/S2.2mf
-túnel	noun	A1.1.1 O2 M3 M7 W2-
-Túnez	noun	Z2
+tuno	adj	S2mf E1+ E4.1+ A5.4-
 turco	adj	Z2 Q3 Z2/S2mfnc
 turiferario	noun	S9 H5 A11.1+
 turolense	adj	Z2 S2.1/S2.2
 Turquía	noun	Z2
 tutor	noun	P1 S7.1 S2.1/S2.2 S5
 tuvo	verb	A9+ A2.2 S4 A15
+tuyo	pron	A9 N5 Z8
 TV	noun	Q4.3 S2.1/S2.2mf
+té	noun	F2 F1 L3
+técnico	adj/noun	Y1/S2mf X9.1+/S2mf
+términos	noun	Q1 I1 G2.1
+tía	noun	S4f
+típico	adj	A4.2+ A6.2+
+título	noun	Q1.2 P1 I1
+tú	pron	Z8
+túnel	noun	A1.1.1 O2 M3 M7 W2-
+Túnez	noun	Z2
 u	conj	Z5
+u	noun	Z5
+U.	num/noun	N4
+u.	num/noun	N4
 Ucrania	noun	Z2 Z3c
 Ucraniano	adj	Z2 S2.1/S2.2mf
 última	adj	Z5 T1.1 A5 N4
-último	adj	Z5 T1.1 A5 N4
+último	adj	N4 T1.1 A5
 últimos	adj	Z5 T1.1 A5 N4
 un	art	Z5 N1
+un	num/art	Z5 N1 T3 T1.2 Z8
+una	art/art/pron	Z5 N1 T3 T1.2 Z8
 una	num/art/pron	Z5 Z8 N1
+unas	art/pron	Z5 N1 T3 T1.2 Z8
 unas	num/adj/pron	Z5 Z8 N1
 única	adj	S2 A5 A6 A11.1+ A14
 únicamente	adv	S2 A5 A6 A11.1+ A14
 único	adj	S2 S2 A5 A6 A11.1+ A14
-unidad	noun	N3	S5+ A9 A1.1.1 A1.8+
+unidad	noun	N3 S5+ A9 A1.1.1 A1.8+
 unido	adj	A9 S5+ A1.1.1 A1.8+
 unidos	adj	A9 S5+ A1.1.1 A1.8+
 uniforme	adj/noun	A6.1+ B5 P1
 uniformemente	adv	A6.1 Z5
-unión	noun	G1.2/I3.1/S5+c S5+c
 universal	adj	W3 M7 A1.8+ N5.1+ X2.2 A5.2+
 universidad	noun	P1 G1 S2.1/S2.2 Y1 H1 M7 X2.2 X2.3
 universitario	adj	P1 S2.1/S2.2 H1c Y1 X2.2 X2.3 S5
 universo	noun	W1 A4.1
-un	num/art	Z5 N1 T3 T1.2 Z8
-una	art/art/pron	Z5 N1 T3 T1.2 Z8
-uno	num/art/pron Z5 N1 T3 T1.2 Z8
+unión	noun	G1.2/I3.1/S5+c S5+c
+uno	num/art/pron	Z5 N1 T3 T1.2 Z8
 unos	art/pron	Z5 N1 T3 T1.2 Z8
-unas	art/pron	Z5 N1 T3 T1.2 Z8
 urbanidad	noun	S1.2.4+ X2.3. S3.1 P1
 urgencia	noun	A11.1+ T1.2 N3.8+
 urgente	adj	A11.1+ S2mf T1.3 N3.8+
@@ -3527,9 +3731,18 @@ Uruguay	noun	Z2
 uruguayo	adj	Z2 S2.1/S2.2mf
 usar	verb	A1.5.1 S7.1+
 uso	noun	A1.5.1 S7.1+
-usted	pron	Z5 Z8
+usted	pron	Z5 Z8mf
+ustedes	pron	Z5 Z8mf
+usuaria	noun	A1.5.1/S2.1 Y2/S2.1
+usuario	noun	A1.5.1/S2.2 Y2/S2.2
 útil	adj	A1.5.2+
+utilidad	noun	A1.5.2
+utilizar	verb	A1.1.1 A1.5.1 S7.1+
 uva	noun	F1 L3
+v	noun	N1 Z5 
+V	num	N1
+V.	num/noun	N4
+v.	num/noun	N4
 va	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
 vaca	noun	L2fn S2.1f/O4.2-
 vacaciones	noun	P1/T1.3/ K1
@@ -3538,15 +3751,13 @@ vago	adj	A1.1 A4.2- S1.13 P1 S2.1/S2.2.
 Valencia	noun	Z2 M7 E4.1+
 valenciano	adj	Z2 S2.1/S2.2
 valentía	noun	E5+
-válidamente	adv	A5.1 Z5
-valiente	adj	S2mf E5+
 validez	noun	A5.2+ A5.3 Q1.1
-válido                               adj                     	S2.1/S2.2 A5.2+ A5.3 A5.4 Q1.1 S7.4
-valido                               noun                  	S2.1 A5.2+ G1.2
+valido	noun	S2.1 A5.2+ G1.2
+valiente	adj	S2mf E5+
 Valladolid	noun	Z2
 valle	noun	W3 W5 A10+
 vallisoletano	adj	Z2 S2.1/S2.2
-valor	noun	G2.2. A11.1+ I1.3 A3 A5 X4
+valor	noun	I1.3/E5+ A11.1+ G2.2 A5
 valorar	verb	G2.2 A11.1+ I1.3 A3 A5 X4
 valores	noun	I1 G2.2 A11.1+ I1.3 A3 A5 X4
 vamos	verb	M1 M6 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
@@ -3555,6 +3766,7 @@ variación	noun	A6.3+ K2 A2.1+
 varias	adj	Z5 A3 A6.3+
 variedad	noun	A6.3+ A4.1 K4
 varios	adj	Z5 A6.3+ A3
+varios	noun	N5
 Varsovia	noun	Z2
 vasco	noun/adj	Z2/Q3 Z2/S2.1/S2.2 S1.2.5+
 Vascongadas	noun	Z2 M7
@@ -3564,8 +3776,8 @@ ve	verb	A1.1. M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/
 veces	noun	N6 T1.1 T1.3-
 vecino	noun	H3/S2mf N3.3-/S2mf M7/N3.3- M6
 Vedas	noun	S9 S2
-veinte	adj/num	N1
 vegetación	noun	L3 W5
+veinte	adj/num	N1
 vela	noun/verb	S9 O1.1 A1.3 O4.5 S1.1.2 X5.1+
 velar	verb	S9 A1.3 O4.5 S1.1.2 X5.1+
 velatorio	noun	S9 A1.3 O4.5 S1.1.2 X5.1+ H1 L1-
@@ -3576,7 +3788,7 @@ vender	verb	I2.2 A2.1
 Venecia	noun	Z2
 veneciano	adj	Z2 S2.1/S2.2
 venir	verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5
-venta	noun	I2.2 I2.2/I1.3- H1
+venta	noun	I2.2 I2.2/I1.3- H1 G2.2--
 ventana	noun	H2 T1.3
 ver	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
 verano	noun	T1.3 O4.6+ E2+ E3+
@@ -3590,8 +3802,7 @@ Versalles	noun	Z2 S1.2.4+
 versallesco	noun	Z2 S2.1/S2.2 S1.1.2 S1.2.4+
 vertiginoso	adj	B2- S1.2.6- N3.8+++
 vestido	adj/noun	B5 F1 B3 O4.1 B5/A5.1+
-vez	noun	N6 T1.1 T1.3-
-vía	noun	H1 M1 M7	A10+
+vez	noun	N6 T1 T1.1 T1.3 T1.2 T1.1.2 N6 N1
 viajar	verb	M1 M5 M7 S3.1
 viaje	noun	M1 M5 M7 S1.1.3 S3.1
 vibración	noun	M1 M2 A2.1+
@@ -3608,24 +3819,25 @@ vienés	adj	Z2 S2.1/S2.2mf
 viernes	noun	T1.3
 Vietnam	noun	Z2
 vietnamita	adj	Z2 S2.1/S2.2mf
+vigor	noun	S1.2.5+ O4.1 S3.2
+vigésimo	adj/num/noun	N4 N5
 vinculado	adj	A2.2 S5+ M3 A1.1.1
 vino	verb/noun	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1 F2 O1.2
 vio	verb	X2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
 violencia	noun	E3- A5 X2
 violentamente	adv	E3- A13.3
 violento	adj	E3- N3.2+
-violín	noun	E3+ K2 X3.2
 violinista	adj	E3+ S2mf K2 X3.2
+violín	noun	E3+ K2 X3.2
 VIP	noun	A11.1+/S2mf S1.1.1/S2mf S7.1+
 virgen	noun	S3.2 A2.1- S3.2/S2mf S9 A5.1+ A5.4+ S8+
 visibilidad	noun	X3.4 A11.2+ A10+
 visible	adj	S2mf X3.4 A11.2+ A10+
-visión	noun	X4.1 X3.4 X7+ S9 X9.1+
 visita	noun	S1.1.1 S2mf M1
 visitante	noun	S1.1.1/S2mf M1/S2mf
 visitar	verb	S1.1.1 M1
+visión	noun	X4.1 X3.4 X7+ S9 X9.1+
 vislumbrar	verb	X3.4 X5 A5 A5.3- O4.2
-víspera	noun	T1.3-/N4 Z1
 vista	adj/noun	X3.4 M5 B2 G2.1
 visto	adj	S2mf X3.4+
 visual	adj	X3.4 A10+ O4.1 X2.4 X5 X3.4+
@@ -3641,6 +3853,8 @@ voluntariamente	adv	X7+/S6- I3.1/I1.1- A5.1+ S1.1.2
 voluntario	adj/noun	S9 X7+/S6- I3.1/I1.1- A5.1+ S1.1.2
 volver	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
 volvió	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
+vosotras	pron	Z5f Z8f
+vosotros	pron	Z5m Z8m
 votar	verb	G1.2/X7 S1.1.3+
 voto	noun	G1.2/X7 S1.1.3+
 voy	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
@@ -3649,12 +3863,28 @@ vuelo	noun	M5 M1 H2 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B
 vuelta	noun	M1 M6 K5.2 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
 vuelve	verb	M1 M6 A15 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1 B1
 vulnerable	adj	S1.2.5- A5.1- A15- B2-
+válidamente	adv	A5.1 Z5
+válido	adj	S2.1/S2.2 A5.2+ A5.3 A5.4 Q1.1 S7.4
+vía	noun	H1 M1 M7 A10+
+víspera	noun	T1.3-/N4 Z1
+w	noun	Z5
+W.	num/noun	N4
+w.	num/noun	N4
 whisky	noun	F2 O1.2
+x	noun	Z5
+X.	num/noun	N4
+x.	num/noun	N4
 y	conj	Z5 A1.8+
+y	noun	Z5 A1.8+
+Y.	num/noun	N4
+y.	num/noun	N4
 ya	adv	Z5 T1.1.2 T2 A2.1+
-yo	pron	Z5 Z8 A9
+yo	pron	Z8mf
 Yugoslavia	noun	Z2 Z3c M7
 yugoslavo	adj	Z2 S2mf
+z	noun	Z5
+Z.	num/noun	N4
+z.	num/noun	N4
 Zambia	noun	Z2 M7
 Zamora	noun	Z2 M7
 zamorano	adj	Z2 S2.1/S2.2
