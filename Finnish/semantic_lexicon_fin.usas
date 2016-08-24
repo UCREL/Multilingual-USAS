@@ -16799,7 +16799,7 @@ Kopsusjärvi	Proper	Z2
 kopukka	Noun	L2
 koraali	Noun	K2/S9
 koraalikirja	Noun	Q4.1/S9
-koraani	Noun	Q4.1/S9
+Koraani	Noun	Z3/Q4.1/S9
 korahdella	Verb	X3.2
 korahdus	Noun	X3.2
 korahtaa	Verb	X3.2
@@ -26784,7 +26784,7 @@ olkikattoinen	Adjective	H2
 Olkiluoto	Proper	Z2 Z3
 Olkinuora	Proper	Z1
 Olkkala	Proper	Z2
-olla	Verb	A3+ A1.1.1 M6 A8 X5.2- A1.8-
+olla	Verb	A3+ A1.1.1 M6 Z5
 ollenkaan	Adverb	A13.7
 Olli	Proper	Z1m
 Ollikainen	Proper	Z1
