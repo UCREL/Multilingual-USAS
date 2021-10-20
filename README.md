@@ -1,4 +1,7 @@
 # Multilingual-USAS
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Lexicons for the Multilingual UCREL Semantic Analysis System 
 
 The UCREL semantic analysis system (USAS) is a framework for undertaking 
@@ -43,4 +46,19 @@ If you are interested in getting involved in creating lexicons for new
 languages or updating the existing ones then please get in touch with: 
 Paul Rayson (p.rayson@lancaster.ac.uk) and Scott Piao 
 (s.piao@lancaster.ac.uk) at Lancaster University.
+
+## Lexicon File Format
+
+All lexicon files are `tsv` formatted. There are two main type of file formats the **single word** and the **multi word expression (MWE)** lexicons. These two file formats can be easily distinguished in two ways:
+
+1. The **MWE** files will always have the word **mwe** within the file name e.g. the Welsh MWE lexicon file name is called `mwe-welsh.tsv` and can be found at [./Welsh/mwe-welsh.tsv](./Welsh/mwe-welsh.tsv). Where as the **single word** lexicon files will never have the word **mwe** within it's file name.
+2. The **MWE** files compared to the **single** word would typically only contain 2 headers:
+    * `mwe_template`
+    * `semantic_tags`
+
+### Single word lexicon file format
+
+
+
+### Multi Word Expression (MWE) lexicon file format
 
