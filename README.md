@@ -27,7 +27,30 @@ All lexicon files are `tsv` formatted. There are two main type of file formats t
 
 ### Single word lexicon file format
 
+These lexicons on each line will contain at minimum a lemma and a list of semantic tags associated to that lemma in rank order, whereby the most likely semantic tag is the first tag in white space separated list, an example of a line can be seen below:
 
+``` tsv
+Austin	Z1 Z2
+```
+
+In the example above we can see that for the lemma `Austin` the most likely semantic tag is `Z1`.
+
+A full list of valid TSV headers and their expected value:
+
+| Header name | Required | Value | Example |
+| ------------|----------|-------|---------|
+| `lemma`     | :heavy_check_mark: | The base/dictionary form of the `token`. See [Manning, Raghavan, and Schütze IR book for more details on lemmatization.](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) | `car` |
+| `semantic_tags` | :heavy_check_mark: | A list of semantic/USAS tags seperated by whitespace, whereby the most likely semantic tag is the first tag in the list.| `Z0 Z3` |
+| `pos` | :x: | Part Of Speech (POS) tag associated with the `lemma` and `token`. | `Noun` |
+| `token` | :x: | The full word/token form of the `lemma`. | `cars` |
+
+Example single word lexicon file:
+
+``` tsv
+lemma	token	pos	semantic_tags
+Austin	Austin	Noun	Z1 Z2
+car	cars	Noun	Z0 Z3
+```
 
 ### Multi Word Expression (MWE) lexicon file format
 
