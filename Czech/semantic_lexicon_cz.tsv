@@ -1,4 +1,4 @@
-#Czech semantic lexicon. Based on bilingual lexicon of Michal.
+lemma	pos	semantic_tags
 a	J	Z5
 být	V	A3+ Z5
 v	R	Z5
