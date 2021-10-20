@@ -33,19 +33,9 @@ In proceedings of the 10th edition of the Language Resources and Evaluation Conf
 (LREC2016), Portoroz, Slovenia, pp. 2614-2619.
 http://www.lrec-conf.org/proceedings/lrec2016/summaries/257.html
 
-For more details about the USAS tagger, see our website:
-http://ucrel.lancs.ac.uk/usas/
-Others collaborating on multilingual lexicon development are listed on this site.
 
-This work is licensed under a 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative 
-Commons Attribution-NonCommercial-ShareAlike 4.0 International 
-License</a>.
+For more details about the USAS tagger, see our website: [http://ucrel.lancs.ac.uk/usas/](http://ucrel.lancs.ac.uk/usas/). Others collaborating on multilingual lexicon development are listed on this site.
 
-If you are interested in getting involved in creating lexicons for new 
-languages or updating the existing ones then please get in touch with: 
-Paul Rayson (p.rayson@lancaster.ac.uk) and Scott Piao 
-(s.piao@lancaster.ac.uk) at Lancaster University.
 
 ## Lexicon File Format
 
@@ -62,3 +52,13 @@ All lexicon files are `tsv` formatted. There are two main type of file formats t
 
 ### Multi Word Expression (MWE) lexicon file format
 
+## Contact Information
+
+If you are interested in getting involved in creating lexicons for new languages or updating the existing ones then please get in touch with: Paul Rayson (p.rayson@lancaster.ac.uk) and Scott Piao (s.piao@lancaster.ac.uk) at Lancaster University.
+
+## License
+
+This work is licensed under a 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative 
+Commons Attribution-NonCommercial-ShareAlike 4.0 International 
+License</a>.
