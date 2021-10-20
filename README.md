@@ -73,6 +73,34 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 *_* Ocean_N*1	Z2 Z0
 ```
 
+## Test File Format
+
+To test that a lexicon collection conforms to the file format specified in [the Lexicon File Format section above](#lexicon-file-format) you can use the [test_collection.py python script.](./test_collection.py). The script takes two arguments:
+
+1. The path to the lexicon file you want to check.
+2. Wether the lexicon file is a single word lexicon (`single`) or a Multi Word Expression lexicon (`mwe`).
+
+Example for a single word lexicon:
+
+``` bash
+python test_collection.py Welsh/semantic_lexicon_cy.tsv single
+```
+
+Example for a Multi Word Expression lexicon:
+
+``` bash
+python test_collection.py Welsh/mwe-welsh.tsv mwe
+```
+
+The script tests the following:
+
+1. The minimum header names exist, 
+2. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
+
+### Python Requirements
+
+This has been tested with Python >= `3.7`, does not require any pips, just pure Python.
+
 ## Citation
 
 In order to reference this further development of the multilingual USAS tagger, please cite our [paper at NAACL-HLT 2015](https://aclanthology.org/N15-1137/), which described our bootstrapping approach: 
