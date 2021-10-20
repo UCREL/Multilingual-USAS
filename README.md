@@ -40,7 +40,7 @@ A full list of valid TSV headers and their expected value:
 | Header name | Required | Value | Example |
 | ------------|----------|-------|---------|
 | `lemma`     | :heavy_check_mark: | The base/dictionary form of the `token`. See [Manning, Raghavan, and Schütze IR book for more details on lemmatization.](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) | `car` |
-| `semantic_tags` | :heavy_check_mark: | A list of semantic/USAS tags seperated by whitespace, whereby the most likely semantic tag is the first tag in the list.| `Z0 Z3` |
+| `semantic_tags` | :heavy_check_mark: | A list of semantic/USAS tags separated by whitespace, whereby the most likely semantic tag is the first tag in the list.| `Z0 Z3` |
 | `pos` | :x: | Part Of Speech (POS) tag associated with the `lemma` and `token`. | `Noun` |
 | `token` | :x: | The full word/token form of the `lemma`. | `cars` |
 
@@ -53,6 +53,25 @@ car	cars	Noun	Z0 Z3
 ```
 
 ### Multi Word Expression (MWE) lexicon file format
+
+These lexicons on each line will contain only a value for the `mwe_template` and the `semantic_tags`. The `semantic_tags` will contain the same information as the `semantic_tags` header for the single word lexicon data. The `mwe_template`, which is best described in the [The UCREL Semantic Analysis System paper (see Fig 3, called multiword templates in the paper)](https://www.lancaster.ac.uk/staff/rayson/publications/usas_lrec04ws.pdf), is a simplified pattern matching code, like a regular expression, that is used to capture MWEs that have similar structure. For example, `*_* Ocean_N*1` will capture `Pacific Ocean`, `Atlantic Ocean`, etc. The templates not only match continuous MWEs, but also match discontinuous ones. MWE templates allow other words to be embedded within them. For example, the set phrase `turn on` may occur as `turn it on`, `turn the light on`, `turn the TV on` etc. Using the template ` turn*_* {N*/P*/R*} on_RP ` we can identify this set phrase in various contexts. 
+
+You will have noticed that these `mwe_templates` have the following pattern matching structure of `{token}_{pos} {token}_{pos}`, etc. In which each token and/or POS can have a wildcard applied to it, the wildcard means zero or more additional characters.
+
+A full list of valid TSV headers and their expected value:
+
+| Header name | Required | Value | Example |
+| ------------|----------|-------|---------|
+| `mwe_template`     | :heavy_check_mark: | See the description in the paragraphs above | `*_* Ocean_N*1` |
+| `semantic_tags` | :heavy_check_mark: | A list of semantic/USAS tags separated by whitespace, whereby the most likely semantic tag is the first tag in the list.| `Z2 Z0` |
+
+Example multi word expression lexicon file:
+
+``` tsv
+mwe_template	semantic_tags
+turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
+*_* Ocean_N*1	Z2 Z0
+```
 
 ## Citation
 
