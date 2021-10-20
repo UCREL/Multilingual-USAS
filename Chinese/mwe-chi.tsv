@@ -1,4 +1,4 @@
-#Chinese Multiword Expressions Semantic Lexicon.
+mwe_template	semantic_tags
 □_punc 崖_noun	W3
 □_punc 悬木_noun	L3
 □_punc 接_verb	B5
@@ -99,7 +99,6 @@
 一_num 次_msr 酿造_verb 的_part 量_noun	N5
 一_num 步_msr 一_num 步_msr 地_noun	A5.1+ A12-
 一_num 水盆_noun	O2/O1.2
-一_num 法郎_msr N3.1/I1
 一_num 法郎_msr 货币_noun	I1	N3.1/I1
 一_num 流的_noun	A5.1+++
 一_num 满碗_noun	N5	N3.1
@@ -116,7 +115,6 @@
 大_adj 白猪_noun	L2
 宽松_verb 的_part 长袍_noun	B5
 对_prep 号码_noun 的_part 牌戏_noun	K5.2
-平顶_noun 女帽_noun
 文字_noun 处理_noun 软件_noun	Y2
 防水_adj 布料_noun	O4.5
 种_msr 族_noun	S5+
