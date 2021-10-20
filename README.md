@@ -1,37 +1,16 @@
 # Multilingual-USAS
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Lexicons for the Multilingual UCREL Semantic Analysis System 
 
-The UCREL semantic analysis system (USAS) is a framework for undertaking 
-the automatic semantic analysis of text. The framework has been designed 
-and used across a number of research projects since 1990.
+<hr/>
 
-The USAS framework initially in English is being extended to other languages.
-This repository houses the lexicons and tagsets for the non-English versions
-of the USAS tagger.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-In order to reference this further development of the multilingual USAS 
-tagger, please cite our paper at NAACL-HLT 2015, which described our bootstrapping approach: 
+## Introduction
 
-Piao, S., Bianchi, F., Dayrell, C., D'Egidio, A. and Rayson, P. (2015). 
-Development of the multilingual semantic annotation system. In 
-proceedings of the 2015 Conference of the North American Chapter of the 
-Association for Computational Linguistics - Human Language Technologies 
-(NAACL HLT 2015), Denver, Colorado, United States, pp. 1268-1274.
-http://aclweb.org/anthology/N/N15/N15-1137.pdf
+The UCREL semantic analysis system (USAS) is a framework for undertaking the automatic semantic analysis of text. The framework has been designed and used across a number of research projects since 1990.
 
-In 2015/16, we extended this initial approach to twelve languages and evaluated the 
-coverage of these lexicons on multilingual corpora. Please cite our LREC-2016 paper:
-
-Scott Piao, Paul Rayson, Dawn Archer, Francesca Bianchi, Carmen Dayrell, Mahmoud El-Haj, 
-Ricardo-María Jiménez, Dawn Knight, Michal Kren, Laura Löfberg, Rao Muhammad Adeel Nawab, 
-Jawad Shafi, Phoey Lee Teh and Olga Mudraya. (2016) 
-Lexical Coverage Evaluation of Large-scale Multilingual Semantic Lexicons for Twelve Languages. 
-In proceedings of the 10th edition of the Language Resources and Evaluation Conference 
-(LREC2016), Portoroz, Slovenia, pp. 2614-2619.
-http://www.lrec-conf.org/proceedings/lrec2016/summaries/257.html
+The USAS framework initially in English is being extended to other languages. **This repository houses the lexicons and tagsets for the non-English versions of the USAS tagger.**
 
 
 For more details about the USAS tagger, see our website: [http://ucrel.lancs.ac.uk/usas/](http://ucrel.lancs.ac.uk/usas/). Others collaborating on multilingual lexicon development are listed on this site.
@@ -51,6 +30,58 @@ All lexicon files are `tsv` formatted. There are two main type of file formats t
 
 
 ### Multi Word Expression (MWE) lexicon file format
+
+## Citation
+
+In order to reference this further development of the multilingual USAS tagger, please cite our [paper at NAACL-HLT 2015](https://aclanthology.org/N15-1137/), which described our bootstrapping approach: 
+
+``` bibtex
+@inproceedings{piao-etal-2015-development,
+    title = "Development of the Multilingual Semantic Annotation System",
+    author = "Piao, Scott  and
+      Bianchi, Francesca  and
+      Dayrell, Carmen  and
+      D{'}Egidio, Angela  and
+      Rayson, Paul",
+    booktitle = "Proceedings of the 2015 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = may # "{--}" # jun,
+    year = "2015",
+    address = "Denver, Colorado",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N15-1137",
+    doi = "10.3115/v1/N15-1137",
+    pages = "1268--1274",
+}
+```
+
+In 2015/16, we extended this initial approach to twelve languages and evaluated the coverage of these lexicons on multilingual corpora. Please cite our [LREC-2016 paper](https://aclanthology.org/L16-1416/):
+
+``` bibtex
+@inproceedings{piao-etal-2016-lexical,
+    title = "Lexical Coverage Evaluation of Large-scale Multilingual Semantic Lexicons for Twelve Languages",
+    author = {Piao, Scott  and
+      Rayson, Paul  and
+      Archer, Dawn  and
+      Bianchi, Francesca  and
+      Dayrell, Carmen  and
+      El-Haj, Mahmoud  and
+      Jim{\'e}nez, Ricardo-Mar{\'\i}a  and
+      Knight, Dawn  and
+      K{\v{r}}en, Michal  and
+      L{\"o}fberg, Laura  and
+      Nawab, Rao Muhammad Adeel  and
+      Shafi, Jawad  and
+      Teh, Phoey Lee  and
+      Mudraya, Olga},
+    booktitle = "Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16)",
+    month = may,
+    year = "2016",
+    address = "Portoro{\v{z}}, Slovenia",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/L16-1416",
+    pages = "2614--2619",
+}
+```
 
 ## Contact Information
 
