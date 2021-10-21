@@ -73,7 +73,9 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 *_* Ocean_N*1	Z2 Z0
 ```
 
-## Test File Format
+## Scripts
+
+### Test file format
 
 To test that a lexicon collection conforms to the file format specified in [the Lexicon File Format section above](#lexicon-file-format) you can use the [test_collection.py python script.](./test_collection.py). The script takes two arguments:
 
@@ -96,6 +98,70 @@ The script tests the following:
 
 1. The minimum header names exist.
 2. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
+
+### Remove column
+
+Given a Lexicon file path will remove the column with the given header name, and save the rest of the data from the Lexicon to the new lexicon file path. The script takes three arguments:
+
+1. The path to the existing lexicon file.
+2. The path to save the new lexicon file too, this lexicon will be the same as argument 1, but with the removal of the column with the given header name.
+3. The header name for the column that will be removed.
+
+Example:
+
+``` bash
+python remove_column.py Malay/semantic_lexicon_ms.tsv Malay/new.tsv pos
+```
+
+### Test token is equal to lemma
+Tests for single word lexicon files if the `token` and `lemma` values per row/line are equal. Will output to stdout a JSON object for each line that contains a different `token` and `lemma` value. An example of the JSON object is shown below:
+
+``` json
+{"token": "A.E", "lemma": "A.E.", "row index": 0}
+```
+
+Example:
+
+``` bash
+python test_token_is_equal_to_lemma.py SINGLE_WORD_LEXICON_FILE_PATH
+```
+
+### Unique column values
+Given a header name and a lexicon file path, it will output to stdout all of the unique values and how often they occur from that header's column from the given lexicon file.
+
+Examples:
+
+``` bash
+python column_unique_values.py French/semantic_lexicon_fr.tsv pos
+# Output:
+Unique values for the header pos
+Value: prep Count: 60
+Value: noun Count: 1633
+Value: adv Count: 147
+Value: verb Count: 448
+Value: adj Count: 264
+Value: det Count: 86
+Value: pron Count: 56
+Value: conj Count: 20
+Value: null Count: 2
+Value: intj Count: 8
+```
+
+``` bash
+python column_unique_values.py Welsh/mwe-welsh.tsv semantic_tags
+# Output:
+Unique values for the header semantic_tags
+Value: G1.1 Count: 1
+Value: Z1 Count: 1
+Value: M3/Q1.2 Count: 3
+Value: Q2.1 Count: 1
+Value: I2.1/T2+ Count: 1
+Value: P1/G1.1 G1.2 Count: 2
+Value: A9- Count: 2
+Value: Z2 Count: 1
+Value: Y2 Count: 1
+Value: X5.1+ Count: 1
+```
 
 ### Python Requirements
 
