@@ -1,4 +1,4 @@
-#LEMMA	pos	SEM-TAG
+lemma	pos	semantic_tags
 A	abr	Z5
 A	noun	Z5
 A	verb	Z5
