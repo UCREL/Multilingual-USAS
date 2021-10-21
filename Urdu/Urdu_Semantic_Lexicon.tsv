@@ -1,4 +1,4 @@
-﻿id	Token	POS	Semantic Tags
+﻿id	lemma	pos	semantic_tags
 1	کے	AT	Z5
 2	اور	IO	Z5
 3	ایک	CC	Z5
