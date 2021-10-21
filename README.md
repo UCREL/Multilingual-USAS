@@ -114,6 +114,7 @@ python remove_column.py Malay/semantic_lexicon_ms.tsv Malay/new.tsv pos
 ```
 
 ### Test token is equal to lemma
+
 Tests for single word lexicon files if the `token` and `lemma` values per row/line are equal. Will output to stdout a JSON object for each line that contains a different `token` and `lemma` value. An example of the JSON object is shown below:
 
 ``` json
@@ -127,6 +128,7 @@ python test_token_is_equal_to_lemma.py SINGLE_WORD_LEXICON_FILE_PATH
 ```
 
 ### Unique column values
+
 Given a header name and a lexicon file path, it will output to stdout all of the unique values and how often they occur from that header's column from the given lexicon file.
 
 Examples:
@@ -161,6 +163,24 @@ Value: A9- Count: 2
 Value: Z2 Count: 1
 Value: Y2 Count: 1
 Value: X5.1+ Count: 1
+```
+
+### Compare header values between two files
+
+Write to stdout the following:
+    
+1. Number of unique values in the column with `header_name_1` from `lexicon_file_path_1`
+2. Number of unique values in the column with `header_name_1` from `lexicon_file_path_1`
+3. Number of unique values in common between the two files.
+
+Example:
+
+``` bash
+python compare_headers_between_lexicons.py Russian/semantic_lexicon_rus.tsv Russian/semantic_lexicon_rus_names.tsv lemma lemma
+# Output
+Number of unique values in lexicon file 1 17396
+Number of unique values in lexicon file 2 7637
+Number of unique values in common between the two files:3169
 ```
 
 ### Python Requirements

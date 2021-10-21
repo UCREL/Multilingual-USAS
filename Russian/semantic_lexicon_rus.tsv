@@ -1,4 +1,4 @@
-/*This is a Russian single word lexicon used for the USAS Russian semantic tagger
+token	lemma	pos	semantic_tags
 i	i	FW	N1
 ii	ii	FW	N1
 xix	xix	FW	N1
@@ -12998,8 +12998,6 @@ xxi	xxi	FW	N1
 ящерица	ящерица	S	L2mf W1
 ящик	ящик	S	O2 H5 N5
 ящур	ящур	S	B2-
-
-/*Russian names
 АПЛ	АПЛ	S	Z3/M4 Y2
 АЭС	АЭС	S	Z3c/O3
 Абай	Абай	S	Z1m
