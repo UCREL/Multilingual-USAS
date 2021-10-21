@@ -1,9 +1,4 @@
-#Added and updated with person and place names and adverbs/adjectives related to possibility, necessity, evidentiality, etc. Carlos Herrero Zorita, Autonomous University of Madrid, Spain. Last updated 26 April 2017		
-#Manually checked and expanded by Hugo Sanjurjo González, University of León, Spain. Last updated 8 Apr. 2016		
-#Manually checked and expanded by Ricardo-María Jiménez and Hugo Sanjurjo González, (University of Catalonia, Barcelona; and University of León) Spain. Last updated 21 Feb. 2017		
-#Manually checked by Ricardo-María Jiménez of International University of Catalonia, Barcelona; Last updated 31 Aug. 2015		
-#Lexicon editors: Scott Piao & Paul Rayson, UCREL, Lancaster University, UK.
-	
+lemma	pos	semantic_tags
 a	noun	Z5
 a	prep	Z5
 A.	num/noun	N4

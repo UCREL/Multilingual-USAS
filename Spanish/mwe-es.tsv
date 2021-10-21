@@ -1,10 +1,4 @@
-#Spanish Semantic MWE Lexicon. Clean Version. Last updated: 26 April 2017.	
-#Contributors include:	
-#Ricardo-María Jiménez of UICbarcelona (International University of Catalonia), Barcelona, Spain;	
-#Hugo Sanjurjo González, University of León, Spain;	
-#Carlos Herrero of Autonomous University of Madrid (UAM), Spain.	
-#Lexicon editors: Scott Piao & Paul Rayson, UCREL, Lancaster University, UK.	
-	
+mwe_template	semantic_tags
 A_pnoun Arnoia_pnoun	Z2
 A_pnoun Baña_pnoun	Z2
 A_pnoun Bola_pnoun	Z2
