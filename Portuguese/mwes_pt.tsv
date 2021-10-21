@@ -1,4 +1,4 @@
-#Portuguese MWE Semantic Lexicon
+mwe_template	semantic_tags
 24_num horas_noun por_prep dia_noun	T2+++
 Independência_pnoun Americana_adj	S5-
 República_pnoun de_prep o_det Tchad_pnoun	Z2 Z1m
