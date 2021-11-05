@@ -98,7 +98,7 @@ mwe_template	semantic_tags
 一_num 次_msr 的_part 收获_noun 量_noun	N3.1/F4
 一_num 次_msr 酿造_verb 的_part 量_noun	N5
 一_num 步_msr 一_num 步_msr 地_noun	A5.1+ A12-
-一_num 水盆_noun	O2/O1.2
+一_num 法郎_msr	N3.1/I1
 一_num 法郎_msr 货币_noun	I1	N3.1/I1
 一_num 流的_noun	A5.1+++
 一_num 满碗_noun	N5	N3.1
