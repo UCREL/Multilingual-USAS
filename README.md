@@ -97,7 +97,8 @@ python test_collection.py Welsh/mwe-welsh.tsv mwe
 The script tests the following:
 
 1. The minimum header names exist.
-2. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
+2. All fields/columns have a header name.
+3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
 
 ### Remove column
 

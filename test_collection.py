@@ -9,8 +9,11 @@ import sys
 if __name__ == '__main__':
     description = '''
     A file checker for single word and multi word expression lexicon files. 
-    This file checker checks the following; 1. The minimum header names exist, 
-    2. All lines contain the minimum information e.g. no comment lines exist 
+    This file checker checks the following; 
+    
+    1. The minimum header names exist, 
+    2. All fields/columns have a header name,
+    3. All lines contain the minimum information e.g. no comment lines exist 
     in the middle of the file.
     '''
     file_type_help = ('single for single word lexicon file format or '
@@ -52,6 +55,12 @@ if __name__ == '__main__':
 
         for row_index, row in enumerate(csv_reader):
             try:
+                if None in row.keys():
+                    error_message = ('This row contains an extra field that does'
+                                     ' not have a header name associated to it.'
+                                     ' This is represented by the `None` key in '
+                                     'the row data.\n\n')
+                    raise ValueError(error_message)
                 row_data: typing.MutableMapping[str, Union[str, List[str]]] = {}
                 for field_name in field_names_to_extract:
                     if field_name == 'semantic_tags':
@@ -59,7 +68,9 @@ if __name__ == '__main__':
                     else:
                         row_data[field_name] = row[field_name]
             except:
+                print('-'*50)
                 print(f'Error on row {row_index} within the lexicon File:\n'
                       f'{str(lexicon_collection_file)}\n\n'
                       f'Line contains: \n{row}\n\n')
                 traceback.print_exc(file=sys.stdout)
+                print('-'*50)
