@@ -53,7 +53,7 @@ mwe_template	semantic_tags
 一_num 夫_noun 多妻_adj 主义者_noun	X2.1/S2mf
 一_num 套_msr	N3.1
 一_num 套_msr 房间_noun	H2/N5--- H4
-一_num 套钟_msr	H5	
+一_num 套钟_msr	H5
 一_num 季_msr 期_noun	T1.3
 一_num 宗_msr	N5---/G2.1
 一_num 家_msr 之主_noun	H4/S2mf/S7
@@ -99,9 +99,9 @@ mwe_template	semantic_tags
 一_num 次_msr 酿造_verb 的_part 量_noun	N5
 一_num 步_msr 一_num 步_msr 地_noun	A5.1+ A12-
 一_num 法郎_msr	N3.1/I1
-一_num 法郎_msr 货币_noun	I1	N3.1/I1
+一_num 法郎_msr 货币_noun	I1 N3.1/I1
 一_num 流的_noun	A5.1+++
-一_num 满碗_noun	N5	N3.1
+一_num 满碗_noun	N5 N3.1
 一_num 片_msr	N3.1
 一_num 片_msr 草地_noun	W3/L3
 一_num 犁_msr	N3.1
