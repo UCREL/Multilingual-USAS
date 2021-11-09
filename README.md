@@ -21,7 +21,7 @@ This section will detail the USAS lexicon resources we have in this repository p
 
 ### USAS Lexicon Meta Data
 
-The [./language_resources.json](./language_resources.json) is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. The structure on the JSON file is the following:
+The [./language_resources.json](./language_resources.json) is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. The structure of the JSON file is the following:
 ``` JSON
 {
   "LANGUAGE NAME": [
@@ -119,7 +119,11 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 
 ### Test All File Formats
 
-This use the [test_collection.py script](./test_collection.py) that was explained in the [test file format section](#test-file-format) to test all of the single and multi word expression lexicon files within this repository to ensure that they conform to the file format specified in [the Lexicon File Format section](#lexicon-file-format). The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), which is explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
+The [test_all_collections.py script](test_all_collections.py) use the [test_collection.py script](./test_collection.py) that was explained in the [test file format section](#test-file-format) to test all of the single and multi word expression lexicon files within this repository to ensure that they conform to the file format specified in [the Lexicon File Format section](#lexicon-file-format). The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), which is explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
+
+``` bash
+python test_all_collections.py
+```
 
 ### Test file format
 

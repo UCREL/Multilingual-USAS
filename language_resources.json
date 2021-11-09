@@ -1,0 +1,55 @@
+{
+    "Arabic": [
+        {"single": "./Arabic/semantic_lexicon_arabic.tsv"}
+    ],
+    "Chinese": [
+        {"single": "./Chinese/semantic_lexicon_chi.tsv"}, 
+        {"mwe": "./Chinese/mwe-chi.tsv"}, 
+        {"pos": "./Chinese/simplified-pos-tagset-chi.txt"}
+    ],
+    "Czech" : [
+        {"single": "./Czech/semantic_lexicon_cz.tsv"}
+    ],
+    "Dutch" : [
+        {"single": "./Dutch/semantic_lexicon_dut.tsv"},
+        {"pos": "./simplified-pos-tagset-dut.txt"}
+    ],
+    "Finnish": [
+        {"single": "./Finnish/semantic_lexicon_fin.tsv"}
+    ],
+    "French": [
+        {"single": "./French/semantic_lexicon_fr.tsv"}
+    ],
+    "Italian": [
+        {"single": "./Italian/semantic_lexicon_ita.tsv"},
+        {"mwe": "./Italian/mwe-ita.tsv"}
+    ],
+    "Malay": [
+        {"single": "./Malay/semantic_lexicon_ms.tsv"}
+    ],
+    "Portuguese": [
+        {"single": "./Portuguese/semantic_lexicon_pt.tsv"},
+        {"mwe": "./Portuguese/mwe-pt.tsv"},
+        {"pos": "pt-common-pos-tagset.txt"}
+    ],
+    "Russian": [
+        {"single": "./Russian/semantic_lexicon_rus.tsv"},
+        {"single": "./Russian/semantic_lexicon_rus_names.tsv"},
+        {"mwe": "./Russian/mwe-rus.tsv"}
+    ],
+    "Spainsh": [
+        {"single": "./Spanish/semantic_lexicon_es.tsv"},
+        {"mwe": "./Spanish/mwe-es.tsv"},
+        {"pos": "./Spanish/spanish-simplified-pos-tagset.txt"}
+    ],
+    "Swedish": [
+        {"single": "./Swedish/semantic_lexicon_se.tsv"}
+    ],
+    "Urdu": [
+        {"single": "./Urdu/Urdu_Semantic_Lexicon.tsv"}
+    ],
+    "Welsh": [
+        {"single": "./Welsh/semantic_lexicon_cy.tsv"},
+        {"mwe": "./Welsh/mwe-welsh.tsv"}
+    ]
+}

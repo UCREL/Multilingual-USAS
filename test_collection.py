@@ -6,26 +6,28 @@ import typing
 import traceback
 import sys
 
-if __name__ == '__main__':
-    description = '''
-    A file checker for single word and multi word expression lexicon files. 
-    This file checker checks the following; 
-    
-    1. The minimum header names exist, 
-    2. All fields/columns have a header name,
-    3. All lines contain the minimum information e.g. no comment lines exist 
-    in the middle of the file.
-    '''
-    file_type_help = ('single for single word lexicon file format or '
-                      'mwe for multi word expression file format')
-    parser = argparse.ArgumentParser()
-    parser.add_argument('lexicon_file_path', type=Path, 
-                        help='File path to the lexicon file to check')
-    parser.add_argument('file_type', type=str, choices=['single', 'mwe'], 
-                        help=file_type_help)
-    args = parser.parse_args()
 
-    file_type = args.file_type
+def check_file(file_type: str, lexicon_collection_file: Path) -> None:
+    '''
+    Will raise a `ValueError` if the `lexicon_collection_file` is not formatted 
+    correctly. 
+
+    # Parameters
+
+    file_type : `str`
+        Type of the file can be one of the following values:
+        1. `single` -- single lexicon files.
+        2. `mwe` -- multi word expresion lexicon files.
+
+    lexicon_collection_file : `Path`
+        File path to the lexicon file.
+
+    # Raises
+
+    ValueError
+        If the `lexicon_collection_file` is not formatted correctly.
+    '''
+
     minimum_field_names = {'lemma', 'semantic_tags'}
     if file_type == 'mwe':
         minimum_field_names = {'mwe_template', 'semantic_tags'}
@@ -34,7 +36,6 @@ if __name__ == '__main__':
         extra_field_names = []
     field_names_to_extract = []
 
-    lexicon_collection_file = args.lexicon_file_path
     with lexicon_collection_file.open('r', newline='') as lexicon_data:
         csv_reader = csv.DictReader(lexicon_data, delimiter='\t')
         file_field_names: Set[str] = set()
@@ -74,3 +75,26 @@ if __name__ == '__main__':
                       f'Line contains: \n{row}\n\n')
                 traceback.print_exc(file=sys.stdout)
                 print('-'*50)
+                break
+                
+
+if __name__ == '__main__':
+    description = '''
+    A file checker for single word and multi word expression lexicon files. 
+    This file checker checks the following; 
+    
+    1. The minimum header names exist, 
+    2. All fields/columns have a header name,
+    3. All lines contain the minimum information e.g. no comment lines exist 
+    in the middle of the file.
+    '''
+    file_type_help = ('single for single word lexicon file format or '
+                      'mwe for multi word expression file format')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('lexicon_file_path', type=Path, 
+                        help='File path to the lexicon file to check')
+    parser.add_argument('file_type', type=str, choices=['single', 'mwe'], 
+                        help=file_type_help)
+    args = parser.parse_args()
+
+    check_file(args.file_type, args.lexicon_file_path)

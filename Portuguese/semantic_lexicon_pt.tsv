@@ -1,4 +1,4 @@
-token	lemma	semantic_tags
+lemma	pos	semantic_tags
 3º/3ª	num	N4
 4º/4ª	num	N4
 Abril	pnoun	T1.3 Z1f
@@ -757,7 +757,7 @@ ainda	adv	C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T1.1.2 T2++ Z4 Z5
 aipo	noun	F1 L3
 ajuda	noun	S8+
 ajudante	noun	S8+ S8+/S2mf
-ajudar	verb	A1.1.1	S8+
+ajudar	verb	A1.1.1 S8+
 ajuizado	adj	S1.2.6+
 ajuntador	noun	A9+/S2mf A1.1.1/S2mf A9+/S5+c A1.1.1/S5+c
 ajustamento	noun	A2.1+
@@ -852,7 +852,7 @@ alicate	noun	O2
 alicerce	noun	T2+ H2 S5+c A5.2+ B4
 alienígena	adj	A6.2- M7
 alienígena	noun	M7/S2mf W1/S2mf
-alijamento	noun	A1.8	M2
+alijamento	noun	A1.8 M2
 alimentado	verb	F1 A9- S8+ 
 alimentar	verb	F1 A9- S8+
 alimentação	noun	F1 S8+
@@ -1067,7 +1067,7 @@ anquinhas	noun	O2
 ansiando	noun	X7+
 ansiando	verb	X7+
 ansiedade	noun	E6-
-ansiar		verb	X7+
+ansiar	verb	X7+
 ansiosamente	adv	E6-
 ansioso	adj	E6- X7+
 antagonismo	noun	E2-
