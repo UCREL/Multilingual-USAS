@@ -15,6 +15,48 @@ The USAS framework initially in English is being extended to other languages. **
 
 For more details about the USAS tagger, see our website: [http://ucrel.lancs.ac.uk/usas/](http://ucrel.lancs.ac.uk/usas/). Others collaborating on multilingual lexicon development are listed on this site.
 
+## USAS Lexicon Resources Overview
+
+This section will detail the USAS lexicon resources we have in this repository per language, in addition we have a machine readable JSON file, [./language_resources.json](./language_resources.json), that contains all of the relevant meta data to allow for easier processing of these lexicon resources. 
+
+### USAS Lexicon Meta Data
+
+The [./language_resources.json](./language_resources.json) is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. The structure on the JSON file is the following:
+``` JSON
+{
+  "LANGUAGE NAME": [
+    {"FILE TYPE": "FILE PATH"},
+    {"FILE TYPE": "FILE PATH"}
+  ],
+  "LANGUAGE NAME": [
+    {"FILE TYPE": "FILE PATH"},
+  ],
+  ...
+}
+```
+
+* The `LANGUAGE NAME` is any of the language names that are folders in this repository.
+* The `FILE TYPE` can be 1 of 3 values:
+  * `single` - The `FILE PATH` has to be of the **single word lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
+  * `mwe` - The `FILE PATH` has to be of the **Multi Word Expression lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
+  * `pos` - The `FILE PATH` has to be of the **POS tagset** file format as described in the [POS Tagset File Format section].
+* The `FILE PATH` is always relative to the root of this repository.
+
+Below is an extract of the [./language_resources.json](./language_resources.json), to give as an example of this JSON structure:
+
+``` JSON
+{
+  "Arabic": [
+    {"single": "./Arabic/semantic_lexicon_arabic.tsv"}
+  ],
+  "Chinese": [
+    {"single": "./Chinese/semantic_lexicon_chi.tsv"}, 
+    {"mwe": "./Chinese/mwe-chi.tsv"}, 
+    {"pos": "./Chinese/simplified-pos-tagset-chi.txt"}
+  ],
+  ...
+}
+```
 
 ## Lexicon File Format
 
@@ -75,9 +117,13 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 
 ## Scripts
 
+### Test All File Formats
+
+This use the [test_collection.py script](./test_collection.py) that was explained in the [test file format section](#test-file-format) to test all of the single and multi word expression lexicon files within this repository to ensure that they conform to the file format specified in [the Lexicon File Format section](#lexicon-file-format). The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), which is explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
+
 ### Test file format
 
-To test that a lexicon collection conforms to the file format specified in [the Lexicon File Format section above](#lexicon-file-format) you can use the [test_collection.py python script.](./test_collection.py). The script takes two arguments:
+To test that a lexicon collection conforms to the file format specified in [the Lexicon File Format section](#lexicon-file-format) you can use the [test_collection.py python script.](./test_collection.py). The script takes two arguments:
 
 1. The path to the lexicon file you want to check.
 2. Wether the lexicon file is a single word lexicon (`single`) or a Multi Word Expression lexicon (`mwe`).
@@ -192,6 +238,12 @@ This has been tested with Python >= `3.7`, does not require any pips, just pure 
 
 In order to reference this further development of the multilingual USAS tagger, please cite our [paper at NAACL-HLT 2015](https://aclanthology.org/N15-1137/), which described our bootstrapping approach: 
 
+APA Format:
+```
+Piao, S. S., Bianchi, F., Dayrell, C., D’egidio, A., & Rayson, P. (2015). Development of the multilingual semantic annotation system. In Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1268-1274).
+```
+
+BibTeX Format:
 ``` bibtex
 @inproceedings{piao-etal-2015-development,
     title = "Development of the Multilingual Semantic Annotation System",
@@ -213,6 +265,12 @@ In order to reference this further development of the multilingual USAS tagger, 
 
 In 2015/16, we extended this initial approach to twelve languages and evaluated the coverage of these lexicons on multilingual corpora. Please cite our [LREC-2016 paper](https://aclanthology.org/L16-1416/):
 
+APA Format:
+```
+Piao, S. S., Rayson, P., Archer, D., Bianchi, F., Dayrell, C., El-Haj, M., Jiménez, R-M., Knight, D., Křen, M., Lofberg, L., Nawab, R. M. A., Shafi, J., Teh, P. L., & Mudraya, O. (2016). Lexical coverage evaluation of large-scale multilingual semantic lexicons for twelve languages. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16) (pp. 2614-2619).
+```
+
+BibTeX Format:
 ``` bibtex
 @inproceedings{piao-etal-2016-lexical,
     title = "Lexical Coverage Evaluation of Large-scale Multilingual Semantic Lexicons for Twelve Languages",
