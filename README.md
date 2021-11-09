@@ -130,7 +130,7 @@ python test_all_collections.py
 To test that a lexicon collection conforms to the file format specified in [the Lexicon File Format section](#lexicon-file-format) you can use the [test_collection.py python script.](./test_collection.py). The script takes two arguments:
 
 1. The path to the lexicon file you want to check.
-2. Wether the lexicon file is a single word lexicon (`single`) or a Multi Word Expression lexicon (`mwe`).
+2. Whether the lexicon file is a single word lexicon (`single`) or a Multi Word Expression lexicon (`mwe`).
 
 Example for a single word lexicon:
 
