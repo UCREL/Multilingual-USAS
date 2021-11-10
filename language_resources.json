@@ -1,55 +1,237 @@
 {
-    "Arabic": [
-        {"single": "./Arabic/semantic_lexicon_arabic.tsv"}
-    ],
-    "Chinese": [
-        {"single": "./Chinese/semantic_lexicon_chi.tsv"}, 
-        {"mwe": "./Chinese/mwe-chi.tsv"}, 
-        {"pos": "./Chinese/simplified-pos-tagset-chi.txt"}
-    ],
-    "Czech" : [
-        {"single": "./Czech/semantic_lexicon_cz.tsv"}
-    ],
-    "Dutch" : [
-        {"single": "./Dutch/semantic_lexicon_dut.tsv"},
-        {"pos": "./simplified-pos-tagset-dut.txt"}
-    ],
-    "Finnish": [
-        {"single": "./Finnish/semantic_lexicon_fin.tsv"}
-    ],
-    "French": [
-        {"single": "./French/semantic_lexicon_fr.tsv"}
-    ],
-    "Italian": [
-        {"single": "./Italian/semantic_lexicon_ita.tsv"},
-        {"mwe": "./Italian/mwe-ita.tsv"}
-    ],
-    "Malay": [
-        {"single": "./Malay/semantic_lexicon_ms.tsv"}
-    ],
-    "Portuguese": [
-        {"single": "./Portuguese/semantic_lexicon_pt.tsv"},
-        {"mwe": "./Portuguese/mwe-pt.tsv"},
-        {"pos": "pt-common-pos-tagset.txt"}
-    ],
-    "Russian": [
-        {"single": "./Russian/semantic_lexicon_rus.tsv"},
-        {"single": "./Russian/semantic_lexicon_rus_names.tsv"},
-        {"mwe": "./Russian/mwe-rus.tsv"}
-    ],
-    "Spainsh": [
-        {"single": "./Spanish/semantic_lexicon_es.tsv"},
-        {"mwe": "./Spanish/mwe-es.tsv"},
-        {"pos": "./Spanish/spanish-simplified-pos-tagset.txt"}
-    ],
-    "Swedish": [
-        {"single": "./Swedish/semantic_lexicon_se.tsv"}
-    ],
-    "Urdu": [
-        {"single": "./Urdu/Urdu_Semantic_Lexicon.tsv"}
-    ],
-    "Welsh": [
-        {"single": "./Welsh/semantic_lexicon_cy.tsv"},
-        {"mwe": "./Welsh/mwe-welsh.tsv"}
-    ]
+    "arb": {
+        "resources": [
+            {
+                "data type": "single",
+                "file path": "./Arabic/semantic_lexicon_arabic.tsv"
+            }
+        ],
+        "language data": {
+            "description": "Standard Arabic",
+            "macrolanguage": "ar",
+            "script": "Arab"
+        }
+    },
+    "cmn": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Chinese/semantic_lexicon_chi.tsv"
+            }, 
+            {
+                "data type": "mwe", 
+                "file path": "./Chinese/mwe-chi.tsv"
+            }, 
+            {
+                "data type": "pos", 
+                "file path": "./Chinese/simplified-pos-tagset-chi.txt"
+            }
+        ],
+        "language data": {
+            "description": "Mandarin Chinese",
+            "macrolanguage": "zh",
+            "script": "Hani"
+        }
+    },
+    "cs" : {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Czech/semantic_lexicon_cz.tsv"
+            }
+        ],
+        "language data": {
+            "description": "Czech",
+            "macrolanguage": "cs",
+            "script": "Latn"
+        }
+        
+    },
+    "nl" : {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Dutch/semantic_lexicon_dut.tsv"
+            },
+            {
+                "data type": "pos", 
+                "file path": "./Dutch/simplified-pos-tagset-dut.txt"
+            }
+        ],
+        "language data":{
+            "description": "Dutch, Flemish",
+            "macrolanguage": "nl",
+            "script": "Latn"
+        }
+        
+    },
+    "fi": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Finnish/semantic_lexicon_fin.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Finnish",
+            "macrolanguage": "fi",
+            "script": "Latn"
+        }
+        
+    },
+    "fr": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./French/semantic_lexicon_fr.tsv"
+            }
+        ],
+        "language data":{
+            "description": "French",
+            "macrolanguage": "fr",
+            "script": "Latn"
+        }
+        
+    },
+    "it": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Italian/semantic_lexicon_ita.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./Italian/mwe-ita.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Italian",
+            "macrolanguage": "it",
+            "script": "Latn"
+        }
+        
+    },
+    "zsm": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Malay/semantic_lexicon_ms.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Standard Malay",
+            "macrolanguage": "ms",
+            "script": "Latn"
+        }
+        
+    },
+    "pt": {
+        "resources": [
+            {
+                "data type": "single", 
+                "file path": "./Portuguese/semantic_lexicon_pt.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./Portuguese/mwe-pt.tsv"
+            },
+            {
+                "data type": "pos", 
+                "file path": "./Portuguese/pt-common-pos-tagset.txt"
+            }
+        ],
+        "language data":{
+            "description": "Portuguese",
+            "macrolanguage": "pt",
+            "script": "Latn"
+        }
+        
+    },
+    "ru": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Russian/semantic_lexicon_rus.tsv"
+            },
+            {
+                "data type": "single", 
+                "file path": "./Russian/semantic_lexicon_rus_names.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./Russian/mwe-rus.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Russian",
+            "macrolanguage": "ru",
+            "script": "Cyrl"
+        }
+    },
+    "es": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Spanish/semantic_lexicon_es.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./Spanish/mwe-es.tsv"
+            },
+            {
+                "data type": "pos", 
+                "file path": "./Spanish/spanish-simplified-pos-tagset.txt"
+            }
+        ],
+        "language data":{
+            "description": "Spanish, Castilian",
+            "macrolanguage": "es",
+            "script": "Latn"
+        }
+    },
+    "sv": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Swedish/semantic_lexicon_se.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Swedish",
+            "macrolanguage": "sv",
+            "script": "Latn"
+
+        }
+    },
+    "ur": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Urdu/Urdu_Semantic_Lexicon.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Urdu",
+            "macrolanguage": "ur",
+            "script": "Arab"
+        }
+    },
+    "cy": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Welsh/semantic_lexicon_cy.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./Welsh/mwe-welsh.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Welsh",
+            "macrolanguage": "cy",
+            "script": "Latn"
+        }
+        
+    }
 }
