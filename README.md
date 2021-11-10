@@ -17,7 +17,41 @@ For more details about the USAS tagger, see our website: [http://ucrel.lancs.ac.
 
 ## USAS Lexicon Resources Overview
 
-This section will detail the USAS lexicon resources we have in this repository per language, in addition we have a machine readable JSON file, [./language_resources.json](./language_resources.json), that contains all of the relevant meta data to allow for easier processing of these lexicon resources. 
+This section will detail the USAS lexicon resources we have in this repository per language, in addition we have a machine readable JSON file, [./language_resources.json](./language_resources.json), that contains all of the relevant meta data to allow for easier processing of these lexicon resources.
+
+### USAS Lexicon Statistics
+
+The table below is a summary of the lexicon data within this repository. Each row in the table reports the statistics for one lexicon file in this repository, of which each language can have multiple lexicon files. The lexicon file can either be a **single** or **Multi Word Expression (MWE)** lexicon file, the format of these lexicon files are explained in more detail in the [lexicon file format section below.](#lexicon-file-format)
+
+| Language   | File Name                      | Single Lexicon Number Entries   | Single Lexicon Include POS   | MWE Lexicon Number Entries   |
+|------------|--------------------------------|---------------------------------|------------------------------|------------------------------|
+| Arabic     | semantic_lexicon_arabic.tsv    | 37,313                          | :x:                          | :x:                          |
+| Chinese    | semantic_lexicon_chi.tsv       | 64,541                          | :heavy_check_mark:           | :x:                          |
+| Chinese    | mwe-chi.tsv                    | :x:                             | :x:                          | 19,039                       |
+| Czech      | semantic_lexicon_cz.tsv        | 28,161                          | :heavy_check_mark:           | :x:                          |
+| Dutch      | semantic_lexicon_dut.tsv       | 4,220                           | :heavy_check_mark:           | :x:                          |
+| Finnish    | semantic_lexicon_fin.tsv       | 46,226                          | :heavy_check_mark:           | :x:                          |
+| French     | semantic_lexicon_fr.tsv        | 2,724                           | :heavy_check_mark:           | :x:                          |
+| Italian    | semantic_lexicon_ita.tsv       | 33,091                          | :heavy_check_mark:           | :x:                          |
+| Italian    | mwe-ita.tsv                    | :x:                             | :x:                          | 5,622                        |
+| Malay      | semantic_lexicon_ms.tsv        | 64,863                          | :x:                          | :x:                          |
+| Portuguese | semantic_lexicon_pt.tsv        | 13,942                          | :heavy_check_mark:           | :x:                          |
+| Portuguese | mwe-pt.tsv                     | :x:                             | :x:                          | 1,781                        |
+| Russian    | semantic_lexicon_rus.tsv       | 17,443                          | :heavy_check_mark:           | :x:                          |
+| Russian    | semantic_lexicon_rus_names.tsv | 7,643                           | :heavy_check_mark:           | :x:                          |
+| Russian    | mwe-rus.tsv                    | :x:                             | :x:                          | 713                          |
+| Spainsh    | semantic_lexicon_es.tsv        | 9,709                           | :heavy_check_mark:           | :x:                          |
+| Spainsh    | mwe-es.tsv                     | :x:                             | :x:                          | 4,841                        |
+| Swedish    | semantic_lexicon_se.tsv        | 18,082                          | :heavy_check_mark:           | :x:                          |
+| Urdu       | Urdu_Semantic_Lexicon.tsv      | 2,000                           | :heavy_check_mark:           | :x:                          |
+| Welsh      | semantic_lexicon_cy.tsv        | 143,287                         | :heavy_check_mark:           | :x:                          |
+| Welsh      | mwe-welsh.tsv                  | :x:                             | :x:                          | 14                           |
+
+The table was generated using the following command:
+
+``` bash
+python lexicon_statistics.py
+```
 
 ### USAS Lexicon Meta Data
 
@@ -150,6 +184,16 @@ The script tests the following:
 2. All fields/columns have a header name.
 3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
 
+### Lexicon Statistics
+
+This generates the lexicon statistics table, as show in [USAS Lexicon Statistics section](#usas-lexicon-statistics), it does not take an arguments, but uses the [./language_resources.json](./language_resources.json) file, of which this meta data file is best explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
+
+Example:
+
+``` bash
+python lexicon_statistics.py
+```
+
 ### Remove column
 
 Given a Lexicon file path will remove the column with the given header name, and save the rest of the data from the Lexicon to the new lexicon file path. The script takes three arguments:
@@ -236,7 +280,11 @@ Number of unique values in common between the two files:3169
 
 ### Python Requirements
 
-This has been tested with Python >= `3.7`, does not require any pips, just pure Python.
+This has been tested with Python >= `3.7`, to install the relevant python requirements:
+
+``` bash
+pip install -r requirements.txt
+```
 
 ## Citation
 
