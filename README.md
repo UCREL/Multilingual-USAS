@@ -58,37 +58,91 @@ python lexicon_statistics.py
 The [./language_resources.json](./language_resources.json) is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. The structure of the JSON file is the following:
 ``` JSON
 {
-  "LANGUAGE NAME": [
-    {"FILE TYPE": "FILE PATH"},
-    {"FILE TYPE": "FILE PATH"}
-  ],
-  "LANGUAGE NAME": [
-    {"FILE TYPE": "FILE PATH"},
-  ],
+  "Language one BCP 47 code": {
+    "resources": [
+      {
+        "data type": "single",
+        "file path": "FILE PATH"
+      },
+      {
+        "data type": "pos",
+        "file path": "FILE PATH"
+      }
+    ],
+    "language data": {
+      "description": "LANANGUAGE NAME",
+      "macrolanguage": "Macrolanguage code",
+      "script": "ISO 15924 script code"
+    }
+  },
+  "Language two BCP 47 code": : {
+    "resources": [
+      {
+        "data type": "mwe",
+        "file path": "FILE PATH"
+      },
+    ],
+    "language data": {
+      "description": "LANANGUAGE NAME",
+      "macrolanguage": "Macrolanguage code",
+      "script": "ISO 15924 script code"
+    }
+  },
   ...
 }
 ```
 
-* The `LANGUAGE NAME` is any of the language names that are folders in this repository.
-* The `FILE TYPE` can be 1 of 3 values:
-  * `single` - The `FILE PATH` has to be of the **single word lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
-  * `mwe` - The `FILE PATH` has to be of the **Multi Word Expression lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
-  * `pos` - The `FILE PATH` has to be of the **POS tagset** file format as described in the [POS Tagset File Format section].
-* The `FILE PATH` is always relative to the root of this repository.
+* The [BCP 47 code](https://www.w3.org/International/articles/language-tags/) of the language, the [BCP47 language subtag lookup tool](https://r12a.github.io/app-subtags/) is a great tool to use to find a BCP 47 code for a language.
+  * `resources` - this is a list of resource files that are associated with the given language. There is no limit on the number of resources files associated with a language.
+    * `data type` value can be 1 of 3 values:
+      1. `single` - The `file path` value has to be of the **single word lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
+      2. `mwe` - The `file path` value has to be of the **Multi Word Expression lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
+      3. `pos` - The `file path` value has to be of the **POS tagset** file format as described in the [POS Tagset File Format section].
+    * `file path` - value is always relative to the root of this repository, and the file is in the format specified by the associated `data type`.
+  * `language data` - this is data that is associated with the `BCP 47` language code. To some degree this is redundant as we can look this data up through the `BCP 47` code, however we thought it is better to have it in the meta data for easy lookup. All of this data can be easily found through looking up the `BCP 47` language code in the [BCP47 language subtag lookup tool](https://r12a.github.io/app-subtags/)
+    * `description` - The `description` of the language code.
+    * `macrolanguage` - The macrolanguage tag, **note** if this does not exist then give the [primary language tag](https://www.w3.org/International/articles/language-tags/#language), which could be the same as the whole `BCP 47` code. The `macrolanguage` tag could be useful in future for grouping languages.
+    * `script` - The [ISO 15924 script code](https://www.w3.org/International/articles/language-tags/#script) of the language code. The `BCP 47` code by default does not always include the script of the language as the default script for that language is assumed, therefore this data is here to make the default more explicit.
 
 Below is an extract of the [./language_resources.json](./language_resources.json), to give as an example of this JSON structure:
 
 ``` JSON
 {
-  "Arabic": [
-    {"single": "./Arabic/semantic_lexicon_arabic.tsv"}
-  ],
-  "Chinese": [
-    {"single": "./Chinese/semantic_lexicon_chi.tsv"}, 
-    {"mwe": "./Chinese/mwe-chi.tsv"}, 
-    {"pos": "./Chinese/simplified-pos-tagset-chi.txt"}
-  ],
-  ...
+    "arb": {
+        "resources": [
+            {
+                "data type": "single",
+                "file path": "./Arabic/semantic_lexicon_arabic.tsv"
+            }
+        ],
+        "language data": {
+            "description": "Standard Arabic",
+            "macrolanguage": "ar",
+            "script": "Arab"
+        }
+    },
+    "cmn": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Chinese/semantic_lexicon_chi.tsv"
+            }, 
+            {
+                "data type": "mwe", 
+                "file path": "./Chinese/mwe-chi.tsv"
+            }, 
+            {
+                "data type": "pos", 
+                "file path": "./Chinese/simplified-pos-tagset-chi.txt"
+            }
+        ],
+        "language data": {
+            "description": "Mandarin Chinese",
+            "macrolanguage": "zh",
+            "script": "Hani"
+        }
+    },
+    ...
 }
 ```
 
