@@ -38,7 +38,7 @@ def format_number_lexicon_entries(number_entries: List[int]) -> List[str]:
 
 if __name__ == '__main__':
     json_data = Path(__file__, '..', 'language_resources.json').resolve()
-    language_names: List[str] = []
+    language_and_codes: List[str] = []
     single_lexicon_include_pos: List[bool] = []
     single_lexicon_number_entries: List[int] = []
     mwe_lexicon_number_entries: List[int] = []
@@ -46,33 +46,36 @@ if __name__ == '__main__':
 
     with json_data.open('r') as json_fp:
         data = json.load(json_fp)
-        for language, resources in data.items():
-            language: str
-            resources: List[Dict[str, str]]
-
+        for language_code, meta_data in data.items():
+            language_code: str
+            language_description: str = meta_data['language data']['description']
+            language_and_code: str = f'{language_description} ({language_code})'
             
-
+            resources: List[Dict[str, str]] = meta_data['resources']
             for resource in resources:
-                assert len(resource) == 1
 
                 language_single_lexicon_entries = 0
                 language_mwe_lexicon_entries = 0
                 language_single_lexicon_include_pos = False
 
-                for resource_type, resource_file_path in resource.items():
-                    if resource_type == 'single':
-                        language_single_lexicon_include_pos = contains_pos_information(resource_file_path)
-                        language_single_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
-                    if resource_type == 'mwe':
-                        language_mwe_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
-                    if resource_type != 'pos':
-                        resource_path = Path(resource_file_path).resolve()
-                        check_file(resource_type, resource_path)
-                        resource_file_names.append(resource_path.name)
-                        language_names.append(language)
-                        single_lexicon_include_pos.append(language_single_lexicon_include_pos)
-                        single_lexicon_number_entries.append(language_single_lexicon_entries)
-                        mwe_lexicon_number_entries.append(language_mwe_lexicon_entries)
+                resource_type = resource['data type']
+                if resource_type == 'pos':
+                    continue
+                resource_file_path = resource['file path']
+                
+                if resource_type == 'single':
+                    language_single_lexicon_include_pos = contains_pos_information(resource_file_path)
+                    language_single_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
+                if resource_type == 'mwe':
+                    language_mwe_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
+                if resource_type != 'pos':
+                    resource_path = Path(resource_file_path).resolve()
+                    check_file(resource_type, resource_path)
+                    resource_file_names.append(resource_path.name)
+                    language_and_codes.append(language_and_code)
+                    single_lexicon_include_pos.append(language_single_lexicon_include_pos)
+                    single_lexicon_number_entries.append(language_single_lexicon_entries)
+                    mwe_lexicon_number_entries.append(language_mwe_lexicon_entries)
     
     
     formatted_single_lexicon_include_pos: List[str] = []
@@ -85,7 +88,7 @@ if __name__ == '__main__':
     formatted_single_lexicon_number_entries = format_number_lexicon_entries(single_lexicon_number_entries)
     formatted_mwe_lexicon_number_entries = format_number_lexicon_entries(mwe_lexicon_number_entries)
     
-    data_frame = {'Language': language_names,
+    data_frame = {'Language (BCP 47 code)': language_and_codes,
                   'File Name': resource_file_names,
                   'Single Lexicon Number Entries': formatted_single_lexicon_number_entries,
                   'Single Lexicon Include POS': formatted_single_lexicon_include_pos,
