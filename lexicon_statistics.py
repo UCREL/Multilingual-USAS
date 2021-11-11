@@ -93,7 +93,7 @@ if __name__ == '__main__':
                   'Single Lexicon Number Entries': formatted_single_lexicon_number_entries,
                   'Single Lexicon Include POS': formatted_single_lexicon_include_pos,
                   'MWE Lexicon Number Entries': formatted_mwe_lexicon_number_entries}
-    headers = ['Language', 'File Name', 'Single Lexicon Number Entries', 
+    headers = ['Language (BCP 47 code)', 'File Name', 'Single Lexicon Number Entries', 
                'Single Lexicon Include POS', 'MWE Lexicon Number Entries']
     print(tabulate(data_frame, headers=headers, tablefmt="github"))
     
