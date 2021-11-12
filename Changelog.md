@@ -13,3 +13,4 @@ MWE = Multi Word Expression
 9. The [Portuguese single semantic lexicon file](./Portuguese/semantic_lexicon_pt.tsv) contained a few tab separation errors e.g. line 1070 was `ansiar		verb	X7+` and is now `ansiar	verb	X7+`, if this was left as was then it would suggest that the semantic tags are `verb` instead of `X7+`.
 10. The `language_resources.json` file has been added, which is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. This file is explained in the `USAS Lexicon Meta Data` section of the `README.md`
 11. Removed `ID` column in the [Urdu semantic lexicon file](./Urdu/Urdu_Semantic_Lexicon.tsv), as the ID only represented line number and nothing else.
+12. Added [CONTRIBUTING guidelines](./CONTRIBUTING.md) for contributing a lexicon resource.
