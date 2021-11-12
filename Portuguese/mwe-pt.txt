@@ -1,0 +1,1783 @@
+mwe_template	semantic_tags
+24_num horas_noun por_prep dia_noun	T2+++
+Independência_pnoun Americana_adj	S5-
+República_pnoun de_prep o_det Tchad_pnoun	Z2 Z1m
+a_det bordo_noun	M6 Z5
+a_det bordo_noun de_prep	M6 Z5
+a_det caminho_noun	A1.1.1
+a_det contragosto_noun	X7- X5.2-
+a_det curto_adj prazo_noun	T1.3-
+a_det esmo_noun	A1.4
+a_det fim_noun de_prep que_pron	Z5
+a_det gente_noun	Z8
+a_det granel_noun	N5++
+a_det maior_adj distância_noun	N3.3+
+a_det maioria_noun	A13.2 N5+++
+a_det meio_adj caminho_noun	M6 N5 T1.2
+a_det menor_adj sombra_noun de_prep	O4.1 A4.2--- N5---
+a_det menos_adv	Z5
+a_det mesma_pron coisa_noun	A6.1+
+a_det ponto_noun de_prep	A13.4 Z5 M6
+a_det propósito_noun	Z4
+a_det prova_noun	X8+ K5.1 X2.4 Q2.2 G2.1 A12-
+a_det quem_pron	Z8
+a_det rigor_noun	S1.2.1- G1.1 A6.2+ O4.2
+a_det tempo_noun	N3.8 T4
+a_det tentativa_noun	X8+ K5.1 X2.4 Q2.2 G2.1 A12-
+a_det vida_noun toda_det	T1.3
+a_det volta_noun	M1
+a_det vossa_det	Z8
+a_prep elas_pron	Z8mfn
+a_prep eles_pron	Z8mfn
+a_prep la_pron carte_verb	F1
+a_prep menos_adv que_conj	A1.8- Z5
+a_prep mim_pron	Z8mf
+a_prep mim_pron mesmo_adv	Z8mf
+a_prep não_adv ser_verb	Z5
+a_prep nós_pron	Z8
+a_prep o_det acaso_noun	A1.4
+a_prep o_det alcance_noun de_prep a_det vista_noun	A11.2+
+a_prep o_det ano_noun	N6
+a_prep o_det ar_noun livre_adj	M6
+a_prep o_det contrário_noun	A6.1-
+a_prep o_det lado_noun	M6 S5+ Z5
+a_prep o_det lado_noun de_prep	M6 S5+ Z5
+a_prep o_det largo_noun	M6 K1 A1.1.1 A1.9 Z5 E2-
+a_prep o_det longo_noun	M6 Z5
+a_prep o_det longo_noun de_prep	M6 S5+ Z5
+a_prep o_det mar_noun	N5.2+ M6
+a_prep o_det menos_adv	A13.7 Z4 N5.1+ T1.1.2
+a_prep o_det pé_noun	N3.3-
+a_prep o_det revés_noun	A6.1- Q2.1
+a_prep pagar_verb	I1.1- I1.2
+a_prep qualquer_det tempo_noun	Z5
+a_prep saber_verb	Z5
+a_prep si_pron mesmo_adv	Z8
+abaixo_adv de_prep	M6 Z5
+abertura_noun de_prep crédito_noun especial_adj	I1.2
+abridor_noun de_prep garrafas_noun	O2
+abridor_noun de_prep latas_noun	O2
+absorvente_adj higiênico_adj	M1 O2 Q1.2 H1
+acima_adv de_prep	M6 N4 N5++ T2- X9.1+ A1.1.1 N5+/A2.1 Z5
+acima_adv de_prep tudo_pron	A13.2
+acionador_adj de_prep partida_noun	O2 T2+ O3
+acordo_noun secreto_adj	S5+
+acredite_verb se_pron quiser_verb	Z4
+acrobacia_noun aérea_adj	M1 M2 O4.4 O2
+acúmulo_noun de_prep juros_noun	A9+ N5+
+adepto_noun de_prep jogos_noun eletrônicos_adj	Y2/K5.2/S2mf
+advogado_noun de_prep defesa_noun	S8+/S2mf G2.1/S2mf G3/S2mf O2
+afirmação_noun arbitrária_adj	S7.4+
+agente_noun de_prep apostas_noun	K5.1/S2mf
+agente_noun de_prep polícia_noun	G2.1/S2mf
+agente_noun de_prep turismo_noun	M2/S2mf
+agente_noun funerário_adj	L1-/S2mf
+agitação_noun popular_adj	L2/M1 M1
+agradeci_verb mento_noun	S1.2.4+ E4.2+
+agência_noun corretora_noun	I2.2
+agência_noun de_prep empregos_noun	I3.1/I2.1c
+ainda_adv que_conj	A2.1- Z5
+ainde_verb que_conj	Z7
+alarme_noun contra_prep incêndio_noun	O3/A15+
+algum_det dia_noun	T1.1.3
+alguma_det coisa_noun	Z8
+algumas_det vezes_noun	N6
+alta_adj sociedade_noun	S5+c
+alto_adj volume_noun	N3.5+ N5+ N3.2+ A1.1.2@ 
+alto_adv astral_adj	E4.1+ K2
+altos_adj e_conj baixos_adj	A5.1 A1.4 X9.2
+além_adv de_prep	M6 N4 Z5 T1.1.1 N5++
+além_adv de_prep isso_pron	N5++ Z5
+além_adv de_prep o_det mais_adv	N5++ N3.3++ T2++ N5+/A2.1
+alêm_verb de_prep isso_pron	Z5
+ameixa_noun seca_adj	F4 F1 A2.1 L3
+amostrador_adj de_prep sons_noun	B5 K3
+andar_noun de_prep cima_noun	H2
+andar_noun superior_adj	H2
+andar_noun térreo_adj	H2
+anel_noun viário_adj	M1/M3 A1.9 M3 B3
+animais_noun domésticos_adj	F4
+animal_adj de_prep estimação_noun	E2+ L2mfn S3.2
+animal_adj selvagem_adj	G2.2-/S2mf S5-
+ano_noun contábil_adj	T1.3/I1
+ansioso_adj por_prep	X7+
+antes_adv de_prep	N4 Z5
+antes_adv de_prep a_det hora_noun	T4++
+antes_adv de_prep mais_adv nada_pron	A13.2 N4
+antes_adv de_prep tudo_pron	A11.1+++
+análise_noun crítica_adj	X2.4 Q4 X2.4/A5 P1 
+aparador_noun de_prep lareira_noun	H5
+aparelho_noun de_prep som_noun	K3
+apartamento_noun com_prep varanda_noun	H2
+apartamento_noun conjugado_verb	C1/H2 Q4.3/H1c H1
+apartamento_noun de_prep cobertura_noun	H1
+aperto_noun de_prep mão_noun	S1.1.1
+apesar_conj de_prep	A2.1- C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T2++ Z4 Z5
+apesar_conj de_prep tudo_pron	A11.1- E6+ Z4
+aplicação_noun noturna_adj de_prep recursos_noun	T1.3 N3.8+
+apreensão_noun imediata_adj	A11.1+ T1.1.2
+apresentação_noun de_prep relatório_noun	Q2.2 S7.1-
+apropriação_noun indébita_adj	A9+/G2.1-
+apólice_noun de_prep seguro_noun	Q1.2/I2.1
+aquecimento_noun central_adj	O4.6+/H2
+aquele_pron que_pron telefona_verb	Q1.3/S2mf S1.1.1/S2mf Q2.2/S2mf 
+ar_noun livre_adj	W1
+arame_noun farpado_verb	O2
+arco_noun e_conj flecha_noun	K5.1
+areia_noun movediça_adj	W3 A12-
+arenque_noun defumado_verb	F1
+arma_noun de_prep fogo_noun	G3
+armas_noun brancas_adj	O1.1 O2 S1.2.5+ O4.3
+arroz_noun integral_adj	F1
+arte_noun barata_adj	C1/O4.2-
+articulação_noun de_prep o_det dedo_noun	B1
+artigo_noun manufaturado_verb	O2 A1.1.1 A2.2 N2%
+artigos_noun variados_verb	O2
+artista_noun de_prep rua_noun	K2/S2mf
+as_det mulheres_noun	S2.1
+assassino_noun de_prep aluguel_noun	A5.1+ Z4
+assassino_noun serial_adj	L1-/S2mf
+assim_adv como_conj	A13 Z5
+assunto_noun secundário_adj	Z4
+assédio_noun sexual_adj	S3.2/G2.2-
+ataque_noun de_prep mau_adj humor_noun	K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+
+ataque_noun de_prep nervos_noun	B2-/X1c E4.1+c
+ataque_noun de_prep raiva_noun	E3-
+atividade_noun agrícola_adj	F4
+atividade_noun rural_adj	F4
+ato_verb covarde_adj	M1 M2 A1.1.1 N3.8- O4.4 T1.3 E4.1+
+ato_verb de_prep barbear_verb	B4 A1.1.1 N5-/A2.1
+ato_verb sexual_adj	S3.2/B1 S1.1.1
+através_adv de_prep	M6 M1 Z5
+através_adv de_prep o_pron qual_pron	Z5
+atropelamento_noun e_conj fuga_noun	G2.1-
+atrás_adv de_prep	B1 M6 A6.1- Z5
+até_adv agora_adv	T1.1.1 T1.1.2 M6 N5
+até_adv aqui_adv	M6 T1.1.2 T1.1.1
+até_adv já_adv	Z4 S1.1.1
+até_adv logo_adv	Z4 S1.1.1
+até_adv que_conj	F4 I1/O2 Z5
+até_prep certo_det ponto_noun	A13.6
+até_prep o_det fim_noun	N5.1+ N5.1+/M1
+até_prep o_det momento_noun	T1.1.1
+auditoria_noun de_prep a_det qualidade_noun	A5.1/X2.4
+****aumentado_verb em_prep meio_adj tom_noun	O4.4
+aurora_noun boreal_adj	W1
+ave_noun canora_adj	L2/X3.2
+ave_noun de_prep rapina_noun	L2
+ave_noun doméstica_adj	L2
+aves_noun domésticas_adj	L2
+avião_noun de_prep combate_noun	E3-/S2mf X8+/S2mf K5.1/S2mf M5/G3fn
+ação_noun de_prep despejo_noun	H4/G2.1
+ação_noun judicial_adj	G2.1 G2.1/S5+
+ação_noun lucrativa_adj	I1.1
+baile_noun de_prep máscaras_noun	A5.2-
+balanço_noun geral_adj	Q1.2/I1.1
+banca_noun de_prep jornal_noun	Q4.2/I2.2
+banco_noun de_prep areia_noun	W3
+banco_noun de_prep igreja_noun	H5
+banco_noun de_prep sangue_noun	B3/A9+ B3/H1
+banda_noun de_prep música_noun	K2c A4.1 S5+c O2 S5+
+banda_noun larga_adj	Q1.3/Y2
+bando_noun de_prep aves_noun	S5+
+barco_noun a_prep remo_noun	M4fn
+barco_noun a_prep vela_noun	M4fn
+barra_noun invertida_verb	Q3 Y2
+barriga_noun de_prep a_det perna_noun	L2mfn B1 O1.1
+base_noun aérea_adj	M5/M7c
+bastão_noun de_prep beisebol_noun	K5.1
+batata_noun frita_adj	A1.1.1 F1 Y2 O2 A1.1.2 K5.2/I1 O4.5 O4.1
+batedor_noun de_prep ovos_noun	M2 A1.1.1
+bebida_noun alcoólica_adj	F2
+bebida_verb destilada_verb	F2
+bebê_verb índio_noun	B5
+beco_noun sem_prep saída_noun	M3/H3 S1.1.2- X9.2-
+beijo_noun ruidoso_adj	E3- M4fn F3 X3.2
+beira_noun de_prep o_det caminho_noun	M3
+bem-estar_noun social_adj	S8+ I1 G1.1c
+bem_adv cuidado_noun	O4.2
+bem_adv de_prep cabeça_noun	S1.2.6+ S5+ T1.1.2 M6
+bem_adv estar_verb	B2+ X9.2+
+bem_adv parecido_verb	O4.2+
+benefício_noun suplementar_adj	I1.1/N5++
+bens_noun de_prep família_noun	O2/S4
+bicho_noun de_prep estimação_noun	E2+ L2mfn S3.2
+blues_noun rural_adj	K2
+blusa_noun de_prep malha_noun	B5
+boa_adj condição_noun	X9.1
+boa_adj forma_noun	X9.1
+boa_adj saúde_noun	X9.1
+boa_adj sorte_noun	I1.1+++ A1.4 X9.2 T1.1.3/S9
+boa_adj tarde_noun	Z4
+boa_adj vinda_noun	Q2.2 S1.1.1 Z4
+boa_adj vontade_noun	S1.2.1+
+boca_noun de_prep o_det estômago_noun	B1
+bola_noun de_prep gude_verb	O1.1 O2
+bolsa_noun de_prep estudo_noun	I1 P1
+bom_adj dia_noun	Z4
+bom_adj senso_noun	E1 X9.1+ X9.1+/S2mf Q2.2/X9.1+ Q1.2/X9.1+ S1.2.6+
+bomba_noun atômica_adj	G3
+bomba_noun de_prep inseticida_adj	O2
+bonde_verb elétrico_adj	M3fn
+boneca_noun de_prep pano_noun	K6
+borda_noun decorativa_adj	B5 B2-
+bordo_noun de_prep ataque_noun	S7.1+
+bote_noun salva-vidas_adj	M4fn
+botão_noun de_prep controle_noun	O2
+botão_noun de_prep pressão_noun	O2
+braço_noun de_prep o_det assento_noun	H5/N5.1-
+brigada_noun de_prep incêndio_noun	O4.6+/G1.1c
+bucha_noun de_prep canhão_noun	G3/S2mf S7.1-
+buraco_noun de_prep a_det fechadura_noun	O2
+cabeceira_noun de_prep a_det cama_noun	H5
+cabelo_noun curto_adj	I1 B1 M1 Z1
+cabelo_noun emaranhado_verb	H1
+cabina_noun de_prep elevador_noun	A1.7+ H1/L2
+cabine_noun telefônica_adj	Q1.3/H1
+cabo_noun de_prep chicote_noun	F4 A1.1.1 N5 K5.1/O2 L2
+cabo_noun de_prep vassoura_noun	B4 S9/O2
+cada_det um_det	N5.1+ S1.1.2+ Z8/N5.1+c
+cada_det vez_noun mais_adv	A13.3 N5++
+cada_pron qual_pron	Z8/N5.1+c
+cadeia_noun de_prep fornecedores_noun	I2.2 I4
+cadeia_noun de_prep lojas_noun	I2.2/H1
+cadeira_noun de_prep braços_noun	H5
+cadeira_noun de_prep rodas_noun	M3
+caderneta_noun de_prep poupança_noun	I1.1
+caixa_noun de_prep câmbio_noun	M3/O2
+caixa_noun de_prep papelão_noun	O2
+caixa_noun eletrônico_adj	I1/Y2
+caixa_noun postal_adj	Q1.3/H1
+caixa_noun preta_adj	O3/M5 A10-
+caixa_noun registradora_adj	I1/O3
+caldo_noun de_prep carne_noun	F1
+cama_noun elástica_adj	T2+ O2
+camarão_noun grande_adj	F1
+camarão_noun graúdo_adj	F1
+caminhada_noun penosa_adj	M1
+caminho_noun de_prep busca_noun	M3 M1 X4.2
+caminho_noun estreito_adj	N3.7- A1.7+ A13.6
+camisa_noun polo_verb	B5
+campo_noun de_prep batalha_noun	G3/M7
+campo_noun de_prep concentração_noun	G2.1/M7
+campo_noun minado_verb	G3/M7 A15-
+canil_noun municipal_adj	A1.1.1 P1 I1 N3.5
+cano_noun de_prep arma_noun	O2
+cano_noun de_prep chaminé_noun	A1.1.1 O2 M7
+cansado_verb de_prep	E4.2- X5.2-
+canteiro_noun de_prep flores_noun	L3
+canto_noun de_prep galo_noun	L2 Q2.2 L2/X3.2 Q2.1
+canção_noun de_prep ninar_verb	K2 
+capa_noun de_prep chuva_noun	B5
+capital_noun de_prep risco_noun	I1.1
+carbonato_noun de_prep cálcio_noun	L2mfnc
+carente_adj de_prep	A9-
+carne_noun assada_verb	F1 F2/O4.3 O4.6+
+carne_noun de_prep ave_noun	L2
+carne_noun de_prep carneiro_noun	F1
+carne_noun de_prep porco_noun	F1
+carne_noun de_prep vaca_noun	F1 Q2.2
+carrinho_noun de_prep bebê_verb	M3
+carrinho_noun de_prep chá_noun	M3/O2
+carrinho_noun de_prep mão_noun	O2 I2.2
+carro_noun "_punc bichado_verb "_punc	F1 L3 F2 O4.3
+carro_noun blindado_verb	M3 O2 G3/M3fn
+carro_noun de_prep guerra_noun	M3
+carta_noun branca_adj	A1.7-
+carta_noun patente_adj	I2.2 I3.2% Q1.2
+cartão_noun de_prep crédito_noun	O2/I1
+cartão_noun de_prep embarque_noun	M3/Q1.2 M4/Q1.2 M5/Q1.2
+cartão_noun postal_adj	Q1.2
+carvão_noun de_prep lenha_noun	O1.1 O4.3
+carvão_noun vegetal_adj	O1.1 O4.3
+casa_noun de_prep campo_noun	H1 F1%
+casca_noun de_prep ferida_verb	A9+ B2- I4/S2mf
+casca_noun de_prep noz_noun	L3
+cavalo_noun de_prep aluguel_noun	Q1.2
+cavalo_noun de_prep corrida_noun	L2
+caçador_noun de_prep cabeças_noun	I3.1/S2mf
+central_noun telefônica_adj	A11.1+ M6
+centro_noun comercial_adj	I2.2/H1c
+centro_noun de_prep a_det cidade_noun	M6
+cerca_adv viva_adj	L3
+cerimônia_noun de_prep posse_noun	T2+ S1.1.1
+certidão_noun de_prep casamento_noun	Q1.2/S4
+certidão_noun de_prep nascimento_noun	Q1.2/S4
+certidão_noun de_prep óbito_noun	L1-/Q1.2
+certificado_verb de_prep seguro_noun	Q1.2/I2.1
+cerveja_noun de_prep malte_noun	O4.2 S1.2.5+
+cerveja_noun preta_adj	O4.2 S1.2.5+
+chave_noun de_prep fenda_noun	O2 F2
+chave_noun de_prep parafuso_noun	E4.1- O2 M2
+chave_noun elétrica_adj	A2.1+ O3
+chave_noun inglesa_adj	O2
+chefe_noun de_prep as_det arrumadeiras_noun	B4/S2mf
+chefe_noun de_prep família_noun	S7.1+/S2mf 
+cheio_adj de_prep vida_noun	X5.2+ L1+%
+cheque-ouro_verb de_prep exportação_noun	O2 K5.1
+cheque_noun bancário_adj	Q1.2 G3 M2 Q1.2/I1
+cheque_noun de_prep pagamento_noun	I1.1
+chiclete_noun de_prep bola_noun	F1
+chicote_noun de_prep fios_noun	L2 A1.5.1 O2
+chova_verb ou_conj faça_verb sol_noun	W4
+cidade_noun universitária_adj	M7/P1
+cientista_noun social_adj	S1.1.1/S2mf
+cimento_noun armado_verb	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+cirurgia_noun plástica_adj	B4 O4.2+/A2.1
+cisne_noun macho_adj	F1 L2mfn
+ciência_noun contábil_adj	I2.1/I1
+clara_adj de_prep ovo_noun	B1/O1
+classe_noun média_adj	S5+c
+classe_noun trabalhadora_adj	I3.1
+cláusula_noun contratual_adj	A9- A9+ N4 G2.1
+clínica_noun geral_adj	B3/A4.2- I2.1/A4.2-
+clínico_noun geral_adj	B3/S2mf A4.2-/S2mf
+coberto_verb de_prep cicatrizes_noun	B2-
+coberto_verb de_prep grama_noun	L3
+cobertura_noun morta_adj	F4
+cobertura_noun provisória_adj	Q1.2 Q1.2/S2mf
+cobrador_noun de_prep impostos_noun	G1.1/I1.1/S2mf
+cobrança_noun executiva_adj	T2-
+cofre_noun de_prep carga_noun	O2
+colaborador_noun independente_adj	S5- S5-/I3.1 S5-/S2mf
+colarinho_noun branco_noun	I3.2
+colação_noun de_prep grau_noun	P1 N3.1
+colega_noun de_prep classe_noun	S2mf/P1
+coleção_noun de_prep animais_noun vivos_adj	L2
+colher_verb de_prep chá_noun	O2 N5
+coluna_noun vertebral_adj	B1 A11.1+ S1.2.5+
+com_prep cara_noun de_prep	M6 S1.1.1 X2.1 B5
+com_prep certeza_noun	Z4
+com_prep cuidado_noun	A1.3+
+com_prep efeito_noun	A13.3 A5.4+
+com_prep fome_noun	F1-/B1 S1.2.2+ A1.5.1/N5+
+com_prep ironia_noun	E4.1+
+com_prep medo_noun	E5- E4.1-
+com_prep pena_noun	Z4 E4.1- O4.2-
+com_prep que_pron	Z5
+com_prep razão_noun	A5.3+
+com_prep referência_noun a_prep	X2.1 Z5
+com_prep relação_noun a_prep	Z5
+com_prep sucesso_noun	X9.2+
+com_prep todas_det as_det letras_noun	A7+ A11.2+ A12+
+com_prep vencimento_noun a_prep longo_adj prazo_noun	T1.3+
+com_prep vigência_noun a_prep partir_verb de_prep	Z5
+comida_noun para_prep animais_noun	F1 L2
+comissária_noun de_prep bordo_noun	M5/S2.1f
+comissário_noun de_prep bordo_noun	M5 M4 S1.1.1 M5/I3.2/S2mf M4/I3.2/S2mf M3/I3.2/S2mf S7.1+/S2mf M5/S2mf
+como_adv previsto_verb	Z4
+como_conj se_pron	Z5
+como_conj se_pron poderia_verb esperar_verb	Z4
+como_conj tal_pron	A4.2+
+como_conj é_verb	Z4 A2.1-
+competição_noun cultural_adj	X2.4 K5.2
+computador_noun de_prep grande_adj porte_noun	Y2
+comércio_noun eletrônico_adj	I2.1/Y2
+comércio_noun livre_adj	I2.2 I2.1c/S5-
+conclusão_noun antecipada_verb	X6+/N4
+concordância_noun absoluta_adj	S5+
+condicionamento_noun de_prep ar_noun	O4.6
+condição_noun resultante_adj	N4
+conduta_noun ilegal_adj	G2.1-
+conduto_noun de_prep ar_noun	O2
+conector_noun entre_prep redes_noun locais_adj	H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2 M1
+conflito_noun interno_adj	S5+
+conjunto_noun de_prep peças_noun	O2
+conselho_noun deliberativo_adj	S7.1+/S5+c
+consentimento_noun tácito_adj	S8+/G2.2-
+conta_noun corrente_adj	I1.1
+conta_noun de_prep poupança_noun	I1.1
+contabilidade_noun de_prep custos_noun	I2.1/I1.3
+contagem_noun de_prep votos_noun	N2 A11.1+
+contanto_adv que_conj	Z5
+contas_noun a_prep receber_verb	A9+ I1.2
+conto_noun de_prep fadas_noun	Q1.2/S9 A5.1
+controle_noun acionário_adj	I2.2
+controle_noun de_prep natalidade_noun	B3/S4
+controle_noun remoto_adj	O3
+contrário_noun a_prep	X7-
+conven_noun ção_verb	A6.2+ S1.1.3+ A6.1+/G1.1
+conversa_noun fiada_verb	Q2.1
+cor_noun de_prep areia_noun	W3 O4.3
+cor_noun de_prep canela_noun	F1
+corpo_noun de_prep balé_noun	K4/S5+
+corpo_noun de_prep bombeiros_noun	O4.6+/G1.1c
+corpo_noun de_prep exército_noun	G3/S5+c S5+c
+corpo_noun docente_adj	X9.1 H2 S5+c P1/I3.1/S2mfc
+corpo_noun humano_adj	B1
+corredor_noun de_prep a_det morte_noun	G2.1/H4
+corredor_noun entre_prep assentos_noun	H2
+correio_noun aéreo_adj	Q1.2
+corrente_noun de_prep ar_noun	W4 F2 O1.2 K5.2
+corretor_noun de_prep títulos_noun	I2.2/S2mf I1.2/S2mf
+corretor_noun imobiliário_adj	I2.2/S2mf
+corte_noun a_prep a_det escovinha_noun	B1
+corte_noun de_prep cabelo_noun	B4
+corvo_noun marinho_adj	L2
+costas_noun de_prep fora_adv	O4.1
+costas_noun nuas_adj	O4.1
+cota_noun de_prep armas_noun	Q1.1
+criador_noun de_prep gado_noun	F4/S2mf
+criança_noun de_prep rua_noun	O4.2- S2
+criação_noun mental_adj	X2.1 X3.4/Q1.1
+crise_noun econômica_adj	E4.1- B2-/X1 I2.1/N5- O4.4 W4
+crosta_noun de_prep gelo_noun	F1 O4.6- L1-%
+cruzeiro_noun marítimo_adj	M4 G3% M1
+crítica_noun mordaz_adj	B1 O2 E3- M1 A1.7+
+cueca_noun samba-canção_noun	B5
+cuidados_noun pessoais_adj	B4/H5 B4/H1
+curso_noun intensivo_adj	N5+/P1
+custo_noun de_prep vida_noun	I1.3
+cálice_noun de_prep a_det Eucaristia_pnoun	O2/S9
+câmara_noun municipal_adj	M7 G1.1c
+cão_noun de_prep caça_noun	E6- L2mfn
+cão_noun de_prep guarda_noun	L2 G2.1
+céu_noun de_prep a_det boca_noun	B1 F1 C1
+círculo_noun vicioso_adj	A1.7+
+código_noun DDD_pnoun	Q1.2
+código_noun de_prep barra_noun	Q1.1
+código_noun secreto_adj	A10-/Q1.2 N2 X3.2/N6+ A11.1- S7.1-/S2mf
+cópia_noun de_prep segurança_noun	S8+ Y2
+dama_noun de_prep companhia_noun	S8+/S2mf
+dar_verb audiência_noun	X3.2 X2.3+ G2.1@
+data_noun de_prep vencimento_noun	S6+/T1.1
+de_prep a_det China_pnoun	S4f
+de_prep a_det mesma_pron forma_noun	A6.1+
+de_prep acordo_noun	A1.2+ A6.1+ A9- Z5
+de_prep acordo_noun com_prep	A6.1+
+de_prep agora_adv em_prep diante_adv	T1.1.3 Z5
+de_prep algum_det modo_noun	N5 X4.2 A13.4
+de_prep alguma_det forma_noun	N5
+de_prep alta_adj capacidade_noun	I1.3+
+de_prep antemão_adv	N4
+de_prep aqui_adv em_prep diante_adv	T1.1.3
+de_prep boa_adj cepa_noun	L2/A4.1
+de_prep boa_adj fé_noun	A5.4+ G2.2+
+de_prep bom_adj coração_noun	G2.2+
+****de_prep bruxaria_noun	S9/S2.1f O4.2-/S2.1f
+de_prep cabeça_noun	M6
+de_prep cama_noun	B2-
+de_prep carreira_noun	I3.1 N3.8+
+de_prep cera_noun	A1.1.1 N3.2+/A2.1 A2.1+ B4 O1.1
+de_prep certa_det forma_noun	A13.6
+de_prep certa_det maneira_noun	A13.4
+de_prep certo_det modo_noun	A13.4
+de_prep colecionador_noun	T3 F2 T3+
+de_prep cor_noun	N5.1+
+de_prep de_prep confiança_noun	A5.1+ A5.3+
+de_prep de_prep encontro_noun	A5.1- S8- Z5
+de_prep de_prep madeira_noun	O1.1 X5.2-
+de_prep de_prep novo_adj	N6+ Z4
+de_prep de_prep repente_noun	N3.8+
+de_prep de_prep solo_noun	S5-
+de_prep de_prep série_noun	N4 Q4
+de_prep direção_noun	S7.1+ M2 A2.2
+de_prep ensaio_noun	A12-
+de_prep escritório_noun	Q1.2 S9
+de_prep fato_noun	A13.3 A5.2+ X2.2 A5.4+
+de_prep forma_noun alguma_det	Z6
+de_prep forma_noun econômica_adj	I1.3-
+de_prep forma_noun não_adv usual_adj	A6.2-
+de_prep forma_noun que_pron	Z5
+de_prep forma_noun relaxada_verb	E3+
+de_prep gala_noun	K1/S1.1.1
+de_prep giz_noun	O4.3 O4.5
+de_prep grande_adj projeção_noun	N5+ A13.2
+de_prep hora_noun em_prep hora_noun	N6
+de_prep imediato_noun	N3.8+
+de_prep imitação_noun	A5.4- A6.1+/A5.4- K1/S2mf P1 Q2.2/S1.2.4- S7.2-
+de_prep interesse_noun público_adj	A11.2+
+de_prep jeito_noun maneira_noun	Z6
+de_prep lado_noun	M6
+de_prep longo_adj alcance_noun	N5+
+de_prep longo_adj prazo_noun	T1.3+
+de_prep madeira_noun	O1.1 X5.2-
+de_prep manobra_noun	S7.1+ M2 A2.2
+de_prep modo_noun diferente_adj	T3---
+de_prep modo_noun que_pron	Z5
+de_prep novo_adj	T2+ N6+
+de_prep o_det caralho_noun	A5.1+++ S3.2/B1 Z4 S3.2/B1%
+de_prep o_det contrário_noun	A6.1-
+de_prep o_det início_noun a_prep o_det fim_noun	N5.1+ Z4 T2
+de_prep o_det jeito_noun que_pron está_verb	Z4 A2.1-
+de_prep o_det jeito_noun que_pron é_verb	Z4 A2.1-
+de_prep o_det lado_noun de_prep cá_adv	M6 T1.1.2
+de_prep o_det norte_noun	M6
+de_prep o_det sul_noun	M6
+de_prep o_pron qual_pron	Z5
+de_prep o_pron que_pron	Z5
+de_prep onde_adv	M6
+de_prep outra_det maneira_noun	T3---
+de_prep parte_noun	M6 A10- A9+ Q2.1/A1.2-
+de_prep pernas_noun para_prep o_det ar_noun	O4.2
+de_prep ponta-cabeça_verb	M6
+de_prep porcelana_noun	O1.1 O2
+de_prep primeira_adj	A5.1 A5.1+ O4.1
+de_prep propósito_noun	X7+
+de_prep qual_pron	Z5 Z8
+de_prep qualquer_det forma_noun	A13.1 Z4
+de_prep qualquer_det maneira_noun	A13.1 Z4 A13.7
+de_prep quatro_num	B1 A12+
+de_prep que_conj maneira_noun	Z5
+de_prep que_pron	Z5
+de_prep quem_pron	Z8
+de_prep religião_noun hindu_adj	S9 S9/S2mf
+de_prep repente_noun	N3.8+
+de_prep seda_noun	O1.1 B5 
+de_prep segunda_adj mão_noun	H5/A2.1 T3+ N4
+de_prep serviço_noun	I3.1
+de_prep um_det lado_noun para_prep outro_det	M6
+de_prep uma_det vez_noun por_prep todas_det	A7+++
+de_prep veludo_noun	O1.1
+de_prep verdade_noun	A5.1- A13.3
+de_prep vez_noun em_prep quando_adv	N6 N6- T1.1.1 T1/A7-
+de_prep vime_noun	O2
+de_prep volta_noun	B1 M6 N6+ T1.1.1 S1.1.2+ S8+ K5.1/I1 M1 K2
+debaixo_adv de_prep	M6 Z5
+declarado_verb publicamente_adv	A11.2+
+declaração_noun autoritária_adj	S7.4+
+declaração_noun juramentada_verb	G2.1/Q1.2
+dedo_noun de_prep o_det pé_noun	B1
+defeito_noun de_prep linguagem_noun	Q2.2/B2-
+defensivo_adj agrícola_adj	O1
+deficiente_adj físico_adj	B2- A1.1.2 B2-/S2mf
+delegado_noun de_prep polícia_noun	K5.1/S2mf G2.1/S2mf G3/S7.1+/S2mf
+delegação_noun de_prep poder_noun	S7.1+
+demanda_noun judicial_adj	G2.1
+dente_noun canino_adj	B1 O2
+dente_noun de_prep alho_noun	L3
+dente_noun de_prep engrenagem_noun	O2
+dente_noun reto_adj	X5.2+ A2.2 K5.1/O2 W3 B2- L2 L3 M3
+dentro_adv de_prep	M6 O4.2+ Z5
+dentro_adv de_prep o_det possível_adj	A7
+depois_adv de_prep	M6 T1.1.1 Z5
+depois_adv de_prep isso_pron	N4
+depois_adv de_prep o_pron que_pron	Z5
+depois_adv que_conj	N4 Z5 T2++
+depósito_noun de_prep mercadorias_noun	A9+/H1
+derramamento_noun de_prep sangue_noun	B1 E3-
+derrame_noun cerebral_adj	B2- 
+desconto_noun de_prep títulos_noun	I2.2
+desde_prep então_adv	T2++
+desde_prep que_pron	A2.2 Z5
+desejo_noun irreprimível_adj	Q2.2 X7+
+desenho_noun animado_verb	Q4.3 C1
+deslizamento_noun de_prep terra_noun	X9.2++ W3
+despesas_noun postais_noun	Q1.2
+deste_prep modo_noun	Z5/A2.2
+mão_noun única_adj	M6
+destreza_noun manual_adj	X9.1+
+dever_noun de_prep casa_noun	A1.1.1 P1 P1@ X2.4
+devido_verb a_prep	A2.2
+dia_noun a_prep dia_noun	A6.2+ N6+
+dia_noun após_prep dia_noun	A6.2+ N6+
+dia_noun chuvoso_adj	A12-
+diferente_adj de_prep	A6.1- Z5
+dinheiro_noun disponível_adj	I1.1 N5+
+direito_noun a_prep o_det voto_noun	G1.2
+direito_noun autoral_adj	G2.1/A9+
+direito_noun civil_adj	G2.1
+direito_noun comercial_adj	G2.1
+direito_noun consuetudinário_adj	G2.1
+direitos_noun civis_adj	G1.2
+direitos_noun humanos_adj	G2.1
+direitos_noun reservados_verb	G2.1/A9+
+direto_adv a_prep o_det ponto_noun	S1.2.1-
+diretor_noun administrativo_adj	S7.1+/S2mf
+diretor_noun de_prep escola_noun	P1/I3.2/S2.2m
+discurso_noun de_prep improviso_noun	N3.8+
+discurso_noun de_prep posse_noun	P1 T2+
+discurso_noun prolixo_adj	Q2.1
+dispêndio_noun monetário_adj	I1.2
+distante_adj de_prep	M6 A1.1.1%
+dito_verb popular_adj	S9/S2.2m
+divisor_noun de_prep águas_noun	A6.1- A9-/N5.1 N2 A6.1-/E3- T1.2/A2.1+ W3
+divisão_noun territorial_adj	M7
+diário_noun de_prep bordo_noun	O2 Q1.2 N2
+doce_adj cremoso_adj	A10- F1
+doença_noun venérea_adj	B2-/S3.2
+domínio_noun público_adj	A10+
+dona_noun de_prep casa_noun	B4/S2mf S2.1/H1f B5%
+dor_noun de_prep cabeça_noun	B2- E6-
+dor_noun de_prep dente_noun	B2
+dor_noun em_prep as_det costas_noun	B2-
+dor_noun nos_prep quartos_noun	B2-
+drag_noun queen_noun	K4/S2mf
+duas_num vezes_noun	N6
+duplo_adj sentido_noun	O4.2- A11.1-
+dura_adj realidade_noun	A5.2+
+durante_prep a_det noite_noun	T1.3 N3.8+
+durante_prep todo_det	N5.1+ M6 Z5
+dádiva_noun de_prep os_det céus_noun	F1
+décimo_adj nona_noun	N4
+e_conj assim_adv por_prep diante_adv	Z4
+editoração_noun eletrônica_adj	Y2
+ela_pron mesma_pron	Z8f
+ele_pron mesmo_adv	Z8m
+eles_pron mesmos_pron	Z8
+elevação_noun de_prep terreno_noun	A5.1+/A2.2 E4.1+/A2.2
+em_prep a_det base_noun	M6 Z5
+em_prep a_det direção_noun de_prep	Z5
+em_prep a_det direção_noun oeste_noun	M6
+em_prep a_det maior_adj parte_noun	A13.2
+em_prep a_det melhor_noun de_prep as_det hipóteses_noun	Z4
+em_prep a_det mente_noun	H2
+em_prep a_det moda_noun	O4.2 O4.2+ E2+ T3- O4.2+/S2mf
+em_prep a_det placa_noun	M6 S5+
+em_prep a_det verdade_noun	A5.2+
+em_prep a_det vertical_noun	A5.1+ F1 M6 A5.3+% X2.5+
+em_prep algum_det lugar_noun	M6
+em_prep alguma_det parte_noun	M6
+em_prep atraso_noun	G2.1-/S2mf T3- I1.2 T4-
+em_prep ação_noun	A1.1.1
+em_prep bom_adj som_noun	X3.2
+em_prep branco_noun	N5--- G3 Q1.2 O4.1 X9.1- X2.2- X2.1- A1.9
+em_prep brasa_noun	O4.6+ X5.2+
+em_prep breve_adv	A10- T1.1.3/N3.8+
+em_prep chamas_noun	L2/M5 M1 X5.2+ O4.6+ E1/X5.2+
+em_prep cima_noun	M6 A1.1.1 N4 N5++ T2- X9.1+ N5+/A2.1 Z5
+em_prep comum_adj	A6.1+ S1.1.2+
+em_prep consequência_noun	Z5
+em_prep conseqüência_noun de_prep	Z5
+em_prep conserva_noun	O2/F1
+em_prep desordem_noun	O4.2-
+em_prep diante_adv	M6
+em_prep direção_noun a_prep	M6 M1 Z5
+em_prep direção_noun de_prep	Z5
+em_prep face_noun de_prep	Z5 M6
+em_prep frente_noun	M6 N4 T1.1.3
+em_prep funcionamento_noun	I3.1 A1.1.1 X9.2+ A2.1+ A2.2 M7/I4@
+em_prep jogo_noun	A15-
+em_prep linha_noun reta_adj	O4.4 M6 M3
+em_prep lugar_noun de_prep	A2.1 Z4
+em_prep massa_noun	N3.2+ N5+
+em_prep meio_noun a_prep	Z5
+em_prep movimento_noun	A1.1.1 M1 B1
+em_prep média_noun	A6.2+
+em_prep nenhuma_det parte_noun	M6/Z6
+em_prep o_det ataque_noun	K5.1 T1.3
+em_prep o_det exterior_noun	M7
+em_prep o_det meio_noun	M6 N4 T1.2
+em_prep o_det meio_noun de_prep	Z5
+em_prep o_det ponto_noun	O4.1/L3/F1 A1.2+
+em_prep o_det sentido_noun horário_noun	M6
+em_prep o_pron qual_pron	M6
+em_prep ordem_noun reversa_adj	A6.1-
+em_prep outra_det parte_noun	M6/A6.1-
+em_prep parte_noun	A13.6
+em_prep parte_noun alguma_det	M6/Z6
+em_prep perspectiva_noun	X7+ A7+
+em_prep poucas_det palavras_noun	T1.3-
+em_prep processo_noun de_prep cura_noun	B2+/A2.1
+em_prep prol_noun de_prep	S1.1.1
+em_prep pé_noun	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. S7.1
+em_prep pêlo_noun	B5-/L2
+em_prep qualquer_det lugar_noun	M6
+em_prep que_pron	Z5
+em_prep resumo_noun	Z4
+em_prep seguida_noun	N4 Z5 T1.2 T1.1.2
+em_prep segundo_noun	N4 P1 F1 O2/T3+ S8+/S2mf S8+
+em_prep separado_noun	N3.3+ A1.8- S1.1.3-
+em_prep seqüência_noun	N4
+em_prep situação_noun financeira_adj estáve_verb	I1.1+
+em_prep surdina_noun	X3.2- N5- O4.3
+em_prep série_noun	N4 Q4
+em_prep tempo_noun real_adj	Y2
+em_prep terra_noun	M6
+em_prep toda_det parte_noun	M6/N5.1+
+em_prep todo_det lugar_noun	M6 M6/N5.1+
+em_prep torno_noun	A13.4 M6 Z5
+em_prep torno_noun de_prep	A13.4 M6 Z5
+um_det modo_noun de_prep dizer_verb	Z4 Q2.1
+em_prep um_det piscar_verb de_prep olhos_noun	N3.8+
+em_prep vez_noun de_prep	A6.1-
+em_prep vigor_noun	G2.1 N5+
+em_prep ziguezague_noun	O4.4
+empregada_noun doméstica_adj	I3.1/B4/S2.1f S2.1f%
+empregado_noun de_prep mesa_noun	F1 I3.1/F1/S2.2m
+encarregado_noun de_prep limpeza_noun	B4/S2mf
+encerramento_noun de_prep atividades_noun	T2- A10-
+encomenda_noun expressa_adj	A4.2+ N3.8+++ M3/N3.8+fn Q1.1 B1%
+encontrar_verb se_pron com_prep	T1.1.2
+engarrafamento_noun de_prep trânsito_noun	M3 S8- A12- M8
+engenheiro_noun civil_adj	Y1/S2mf
+engenheiro_noun de_prep software_noun	Y2/S2mf
+enquanto_adv isso_pron	T1.1.2 T1.3
+entenda_verb mal_adv	X2.5-
+entre_prep outras_det coisas_noun	Z5
+entrega_verb em_prep domicílio_noun	B1/H4
+enxoval_noun de_prep bebê_verb	B5
+equipe_verb de_prep funcionários_noun	I3.1 I3.1/S2mfc B3/S2mf G3/S2c L2mfn
+era_verb uma_det vez_noun	T1.1.1
+erro_noun de_prep cálculo_noun	N2 A5.3-
+erro_noun de_prep interpretação_noun	X2.5-
+erro_noun grosseiro_adj	A5.3-
+erro_noun tipográfico_adj	Q1.2/A5.3-
+erupção_noun em_prep a_det pele_noun	A1.3- B2- N5
+erva_noun daninha_adj	F4 L3 S1.2.5-/S2mf F3
+erário_noun público_adj	G1.1/I1 I1.1+ Z3c
+escada_noun rolante_adj	O2
+escala_noun musical_adj	A6.3+
+escola_noun primária_adj	P1/H1c
+escola_noun secundária_adj	P1/H1c
+escova_noun de_prep cabelo_noun	B4
+escova_noun de_prep dentes_noun	B4
+escritório_noun central_adj	S7.1+/H1c
+esforço_noun exagerado_verb	N5.2+
+espaço_noun em_prep branco_noun	N5--- G3 Q1.2 O4.1 X9.1- X2.2- X2.1- A1.9
+espaço_noun entre_prep margens_noun	I3.1
+espectro_noun solar_adj	A6.3+ O4.3 Y1
+especulador_noun de_prep curto_adj prazo_noun	L2mn
+espinha_noun dorsal_adj	B1 A11.1+ S1.2.5+
+estado_noun consciente_adj	B1 X1
+estado_noun de_prep espírito_noun	E1 E3- X1
+estado_noun de_prep pureza_noun	O4.2+
+estação_noun de_prep trabalho_noun	Y2
+esteira_noun rolante_adj	M2 M2/S2mf O2
+estilo_noun cafona_adj	C1/O4.2-
+estilo_noun de_prep jazz_noun de_prep os_det anos_noun 1940_num	K2
+estojo_noun compacto_adj	B4/O2 N3.2-
+estrada_noun de_prep ferro_noun	M3c S7.1+
+estrada_noun de_prep rodagem_noun	M3
+estrada_noun particular_adj	M3/H3
+estrada_noun pedagiada_adj	M3
+estrada_noun com_prep pedágio_noun	M3
+estrutura_noun de_prep poder_noun	S7.1
+estudante_noun de_prep medicina_noun	B3 B3/S2mf
+estudo_noun de_prep caso_noun	X8 X2.4 
+et_noun cetera_verb	Z4
+eu_pron mesmo_adv	Z8mf
+exame_noun detalhado_verb	X2.4
+exame_noun final_adj	K5.1 N4 T2-
+exame_noun médico_adj	B3
+exame_noun médico_adj completo_adj	B3
+excessivamente_adv abundante_adj	M3
+excesso_noun de_prep bagagem_noun	N3.5/N5.2+
+execução_noun de_prep hipoteca_noun	T2-
+exercício_noun de_prep cargo_noun	I3.1
+exercício_noun de_prep o_det direito_noun	S7.4+
+exercício_noun fiscal_adj	T1.3/I1
+expectativa_noun de_prep vida_noun	T3/X2.6
+exposição_noun pública_adj	I2.2/N5 B1 M2
+expressão_noun idiomática_adj	Q3
+extensão_noun de_prep tomada_noun	O3
+extintor_noun de_prep incêndio_noun	O2/O4.6-
+face_noun a_prep face_noun	S1.1.1
+faculdade_noun mental_adj	P1 N5.1- M3/W1
+faia_noun negra_adj	L3
+faixa_noun etária_adj	T3
+falsamente_adv modesto_adj	O4.2+
+falso_adj conceito_noun	X4.1/A5.2-
+falso_adj moralista_adj	S3.2/F5-/S2mf
+familiarizado_verb com_prep	X2.2+
+fatia_noun de_prep mercado_noun	N5/I2.1
+fazer_verb alusão_noun	I2.2/Q2.1 X2.2+ A10+
+faça_verb saber_verb	Q2.1 M2
+febre_noun tifóide_adj	B2-
+feira_noun de_prep artesanato_noun	C1/S1.1.3+c
+feito_verb a_prep a_det mão_noun	O4.1
+feito_verb em_prep casa_noun	O4.1
+feltro_noun de_prep lubrificação_noun	L1+ O2
+fenômeno_noun elétrico_adj	S9
+feriado_noun bancário_adj	T1.3/K1
+fermento_noun em_prep pó_noun	F1
+fermento_noun químico_adj	F1
+fertilizante_noun orgânico_adj	L1 W5
+fibra_noun de_prep vidro_noun	O1.1
+ficha_noun de_prep inscrição_noun	Q1.2
+ficção_noun científica_adj	Q4/Y1
+figura_noun de_prep proa_noun	O2/M4fn 
+filão_noun de_prep ouro_noun	I1.1+
+fim_noun de_prep semana_noun	T1.3
+fio_noun elétrico_adj	O2 O1.1 B1
+fio_noun flexível_adj	M2/B1 O3 M1
+firma_noun comercial_adj	S5+c S4 S3.2
+fisicamente_adv capaz_adj	B2+ S1.2.5+
+fita_noun adesiva_adj	K3 Q4.3 A1.7+ Y2 O2
+fita_noun de_prep cinema_noun	Q4.3 O2/C1 O1.1 O1.2 B3
+fita_noun de_prep rolo_noun	K3
+fita_noun demo_verb	K3
+fita_noun métrica_adj	N3.3/O2
+flauta_noun doce_adj	K3 O2 K2 G2.1/S2mf
+floresta_noun tropical_adj	L3 A12- W3
+flutuação_noun constante_adj de_prep preços_noun	A2.1+ E3- O4.1
+fluxo_noun de_prep caixa_noun	I1 I1.1
+fogo_noun de_prep artifício_noun	G3/K1
+folha_noun de_prep louro_noun	L2/Q2.1 W3/M4 H2 M5 O4.4 L3
+folha_noun de_prep pagamento_noun	I3.1
+folha_noun de_prep prova_noun	A10- O2
+folheto_noun dobrado_verb	O2/Q1.2 Y2
+fones_noun de_prep ouvido_noun	K3
+fora_adv de_prep a_det lei_noun	G2.1-
+fora_adv de_prep a_det tomada_noun	O3 O2
+fora_adv de_prep controle_noun	A1.7-
+fora_adv de_prep o_det prazo_noun	T3+ O4.2- X5.2-
+fora_adv de_prep operação_noun	F1/B1 A1.1.1 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z5
+fora_adv de_prep propósito_noun	A1.2-
+formação_noun de_prep bolhas_noun	O4.6++ E3-- N3.8+
+formulário_noun de_prep requerimento_noun	A9+/Q1.2
+formulário_noun impresso_adj	Q1.2/Y2
+forrado_verb de_prep pele_noun	B5
+força_noun de_prep trabalho_noun	I3.1/S2 I3.1/S5+c
+força_noun de_prep vontade_noun	X7+
+força_noun policial_adj temporária_adj	S5+c
+fracasso_noun total_adj	Z6/Z8 N1
+frios_noun importados_verb	F1/I2.2
+fumo_noun de_prep rolo_noun	O3 A1.1.1 I2.2/Q2.2 O2 S3.2/B1
+funcionário_noun administrativo_adj	I3.2
+funcionário_noun de_prep polícia_noun	G2.1/S2mf
+funcionário_noun público_adj	G1.1/S2mf
+fundo_noun de_prep comércio_noun	I2 O2/I2 
+fundo_noun de_prep fideicomisso_noun	I1.1
+futebol_noun americano_adj	K5.2
+fábrica_noun de_prep laticínios_noun	F4
+gado_noun leiteiro_adj	F4/L2
+gaita_noun de_prep foles_noun	K2
+galinha_noun choca_adj	M8- S1.2
+galinha_noun poedeira_adj	O2 A4.1
+garantia_verb de_prep qualidade_noun	A5.1
+garantido_verb legalmente_adv	X5.2+
+garota_noun de_prep programa_noun	G2.2-/S2mf
+garota_verb levada_verb	S2.2/S2.1f
+garota_verb sapeca_noun	S2.2/S2.1f S3.2
+garrafa_noun térmica_adj	O2
+gerente_noun geral_adj	S7.1+/S2mf
+germinaç_verb ão_adj	F4 N3.2+/A2.1 T2+
+globo_noun ocular_adj	B1 X3.4
+glossário_noun geográfico_adj	Q4.1
+golpe_noun de_prep estado_noun	G1.2
+golpe_noun de_prep sorte_noun	I1.1+
+goma_noun de_prep mascar_verb	F1
+gosto_noun popular_adj	A6.2+ A2.1+
+grade_noun de_prep programação_noun	T1.3
+grampo_noun para_prep cabelo_noun	B5
+grande_adj caixa_noun	K2
+grande_adj escala_noun	N3.2+ N5+
+grande_adj número_noun	N5+
+grande_adj quantidade_noun	F1/L2 S3.2
+grande_adj talento_noun	X9.1+
+graça_noun concedida_verb	N5+ I1
+grito_noun agudo_adj	Q2.2 Q2.2/X3.2+
+grito_noun esganiçado_verb	Q2.2 Q2.2/X3.2+
+grupo_noun de_prep discussão_noun	I4/H1 P1 Q2.1/Y2
+grupo_noun de_prep garotas_noun	S5+
+grupo_noun de_prep interesse_noun	G1.2 H2 G1.2/S5+c
+grupo_noun político_adj local_noun	S5+ A11.1+
+grupo_noun social_adj	O3 S1.1.3+/S2mf F2 K3 A2.1+/S2mf S1.1.1 I1.1/G1.1
+gás_noun lacrimogêneo_adj	G3/O1.3
+habilidade_noun artística_adj	X9.1+ C1
+hacker_noun "_punc de_prep o_det mal_noun "_punc	O2 O4.2+/S2.1f A5.1+ F1
+haste_noun ou_conj vara_noun flexível_adj	A2.1+ O3
+hino_noun nacional_adj	K2
+história_noun de_prep mistério_noun	G2.1/Q4.1
+história_noun em_prep quadrinhos_noun	Q4
+hoje_adv a_prep a_det noite_noun	T1.1.2
+hoje_adv em_prep dia_noun	T1.1.2
+homem_noun de_prep negócios_noun	I2.1/S2.2m
+homem_noun de_prep os_det sete_num instrumentos_noun	I3.1/A4.2-mfn
+homicídio_noun culposo_adj	L1-
+horário_noun de_prep funcionamento_noun	I3.1/T1.3
+hotel_noun de_prep veraneio_noun	H1 S5+c H4 M8 M2 Q2.2
+há_verb muito_adv tempo_noun	T1.1.1
+há_verb tempos_noun	T1.1.1
+ida_noun e_conj volta_noun	M1
+idioma_noun árabe_adj	Z2/Q3
+idéia_noun errônea_adj	X4.1/A5.2-
+idéia_noun fixa_adj	X5.2+ X2.1+
+iluminação_noun profusa_adj	O3/W2
+imper_verb ialismo_noun	G1.1/X2.1
+importância_noun bruta_adj	I1.1
+imposto_noun líquido_adj	I1.1/G1.1
+imposto_verb de_prep renda_noun	G1.1/I1
+imprensa_noun marrom_noun	Q4.2
+impressão_noun digital_adj	G2.1/B1 Q1.1/B1
+impressão_noun estilo_noun retrato_noun	C1 Q2.1
+inatividade_noun temporária_adj	A1.9
+inclinado_verb a_prep	A8 M6@ X7+
+incluindo_verb tudo_pron	N5.1+
+incêndio_noun culposo_adj	G2.1-/O4.6+
+incêndio_noun proposital_adj	G2.1-/O4.6+
+indisposição_noun a_prep	X7- X5.2-
+indivíduo_noun viciado_verb em_prep trabalho_noun	I3.1/X5.2+++
+indo_verb para_prep	T1.1.3
+inferior_adj a_prep	B1 M6 A6.1- Z5
+inflamação_noun de_prep garganta_noun	B2-
+insinuação_noun maldosa_adj	S1.2.4-
+insoci_verb ável_adj	S1.2.1-
+instalações_noun bancárias_adj	H1 X4.1
+instituições_noun públicas_adj	G1.1c
+instrumento_noun cortante_adj	L1- T2- O2
+instruções_noun para_prep impressão_noun	I1.3+/A2.1 Q1.2
+intimação_noun judicial_adj	G2.1 Q2.2
+introme_verb ter_verb	S1.1.3+++
+investimento_noun especulativo_adj	K1
+irmão_noun ou_conj irmã_noun de_prep alguém_pron	S4mf
+isento_adj de_prep impostos_noun	I1.3- F2/I1.3-
+janela_noun com_prep dobradiça_noun	H2
+jaqueta_noun de_prep aviador_noun	B5
+jaqueta_noun de_prep couro_noun	B5
+jardim_noun zoológico_adj	M7/L2
+jargão_noun tecnológico_adj	Q3
+jogador_noun resoluto_adj	Y2/K5.2/S2mf
+jogo_noun de_prep cartas_noun	Q1.2/A10- H5 K5.2
+julgamento_noun errado_verb	N2 A5.3-
+junto_adv com_prep	M6 Z5
+juro_noun composto_verb	I1.1
+ladeira_verb abaixo_adv	M6 A5.1-/A2.1
+lado_noun a_prep lado_noun	M6 S7.3 T1.1.2 Z5 S5+
+lançado_verb nos_prep livros_noun	Q1.2
+larga_adj escala_noun	N3.2+ N5+
+largura_noun de_prep banda_noun	Q1.3 Y2
+lavagem_noun de_prep dinheiro_noun	I1.1+/G2.1-
+lavanderia_noun automática_adj	B4/M7
+laço_noun de_prep gravata_noun	O4.1/B1 S7.2+ S1.2.4+ S7.1- O4.1/B1/S7.2+ B5 G3 K2 M4
+legítima_adj defesa_noun	E3- G2.1
+lei_noun municipal_adj	G2.1
+leite_noun desnatado_verb	F2
+leito_noun de_prep rio_noun	W3/M4 
+lente_noun de_prep aumento_noun	O2/N3.2+
+lenço_noun de_prep papel_noun	B1 O1.1 B4
+letra_noun de_prep música_noun	Q3
+leva_verb de_prep forçados_verb	G2.1/S5+ A1.7+/S5+
+levantamento_noun de_prep peso_noun	A9+/N3.8+ N5-
+levemente_adv salgado_verb	W3
+liberdade_noun condicional_adj	G2.1 Q3%
+licença_noun por_prep doença_noun	K1/B2-
+ligação_noun a_prep cobrar_verb	Q1.3
+limpador_noun de_prep chaminés_noun	B4 B4/S2mf A4.1 M2 M1 N3.6+/A2.1 X3.4 X9.2+
+limpeza_noun pesada_verb	B4 A1.1.1
+linguagem_noun dakota_verb	Z2
+linha_noun central_adj	M1 W3
+linha_noun compartilhada_verb	Q1.3
+linha_noun de_prep montagem_noun	I4
+linha_noun de_prep o_det coro_noun	K4/S5+
+linha_noun de_prep o_det horizonte_noun	W3 O4.1
+linha_noun de_prep raciocínio_noun	S8+
+linha_noun partidária_adj	Q1.3
+lista_noun de_prep candidatos_noun	O1.1 O2 Q1.2 Q2.2
+lista_noun de_prep passageiros_noun	Q1.2/S2
+lista_noun de_prep verificação_noun	Q1.2
+lista_noun telefônica_adj	Q1.3/Q4.1
+livro_noun de_prep bolso_noun	Q4.1
+livro_noun didático_adj	Q4.1/P1
+local_noun de_prep aplicação_noun de_prep a_det cotação_noun	S4/S2mf T1.1.1
+local_noun de_prep observação_noun	B5 K3
+local_noun de_prep recreação_noun	S6+ M7
+logo_adv que_conj	Z5
+logradouro_noun público_adj	M7
+loja_noun a_prep varejo_noun	Q2.1 I2.2 I2.2/H1 H2 A1.1.1
+loja_noun de_prep departamentos_noun	I2.2/H1c I2.2
+loja_noun de_prep frios_noun	F1/I2.2
+lombo_noun de_prep porco_noun	F1
+lote_noun negociável_adj de_prep mercadoria_noun	N5+
+lugar_noun atrasado_verb	M7/A11.1- O1.2/W3
+lugar_noun nenhum_pron	M6/Z6
+luta_noun de_prep boxe_noun	K5.1 A1.1.1 O4.4 T1.3
+luta_noun livre_adj	K5.1 E3- A1.1.1/A12-
+luva_noun de_prep boxe_noun	K5.1/B5
+luz_noun bruxuleante_adj	M1 N5-
+luz_noun de_prep freio_noun	O2
+luz_noun de_prep o_det dia_noun	W2 T1.3
+luz_noun de_prep o_det sol_noun	W2 W4
+luz_noun solar_adj	W2 W4
+lâmina_noun delgada_adj	O1.1 S8- G3
+madeira_noun compensada_verb	O2
+madre_noun superiora_noun	S9/S7.1+/S2.1f
+magia_noun negra_adj	S9
+mais_adv adicional_adj	N5++ N3.3++ T2++ N5+/A2.1
+mais_adv alerta_verb	K4/Q2.2/S2mf
+mais_adv alto_adj	X3.2++ O4.3
+mais_adv baixo_adj	M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1--
+mais_adv cavalier_adj	A1.3- G3/S2.2m T1.1.1/S2.2m
+mais_adv chandelier_adj	H5
+mais_adv claro_adj	O2/O4.6+ W2 O4.3 N3.5-- N5-- N3.2-- A12++ X3.2-- F1 A11.1-- O4.2++
+mais_adv elevado_verb	M6 A11.1++ F3@
+mais_adv hindmost_noun	N4
+mais_adv importante_adj	A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++
+mais_adv longe_adv	M6 N4 Z5
+mais_adv longo_adj	T1.3++ N3.7++ N3.3++ N3.2++
+mais_adv moderno_adj	T3--- T4---
+mais_adv ou_conj menos_adv	A13.4 E3- A4.2-
+mais_adv próximo_adj	N3.3-- S3.1 A6.1++ T1.3-- Z5
+mais_adv recente_adj	T3--- T4---
+mais_adv rápido_adj	N3.8++
+mais_adv tarde_adv	N4 T4-- T1.1.3
+mais_adv velho_adj	T3++
+mal_adv assado_verb	N6- A6.2- A5.1+ F1
+mala_noun postal_adj	Q1.2
+mamão_adj papaia_noun	F1 L3
+mamão_noun com_prep açúcar_noun	A12+
+mandado_verb judicial_adj	G2.1/Q1.2 Q1.2
+mandato_noun de_prep prisão_noun	N5
+manga_noun bufante_adj	B5
+manivela_noun de_prep espeto_noun	A1.1.1 O2 Z1
+manutenção_noun de_prep o_det lar_noun	H4 A1.1.1/A6.2+ I1/H4
+mapa_noun de_prep estrada_noun	M3/Q1.2 X4.2
+marca_noun d'água_verb	Q1.2 O4.1/O1.2
+marca_noun de_prep nascença_noun	B1
+marca_noun registrada_verb	Q1.1
+marco_noun miliário_adj	T1.2 M3%
+margem_noun de_prep lucro_noun bruto_adj	I1.3+/A2.1 Q1.2
+martelo_noun de_prep madeira_noun	O2
+massa_noun de_prep pastel_noun	F3 B1 O1.3 F1 S3.2/S2.2m
+massa_noun de_prep pão_noun	F1 I1
+massa_noun folhada_verb cremosa_adj	F1
+massa_noun mole_adj	O1.2
+mata_verb cerrada_verb	M8 O2
+material_noun de_prep escritório_noun	Q1.2
+mau_adj comportamento_noun	G2.2-
+medidas_noun legais_adj	A1.1.1 T2++ M1
+medidor_noun de_prep desempenho_noun	A6/A5.1
+medo_noun súbito_adj	X5.2-
+medula_noun óssea_adj	B1
+meia_adj volta_noun	M1 M8-
+meia_noun de_prep nylon_noun	B5
+meio_adv ambiente_noun	W5 W3 E1 Y2 O4.1
+meio_adv byte_noun	F1
+meio_adv período_noun	T1.3
+meio_adv termo_noun	N3.2 N3.1 Q4 X4.2 O1 S9/S2mf
+meio_noun expediente_adj	T1.3
+meios_noun de_prep comunicação_noun	Q4c
+meios_noun de_prep defesa_noun	G3
+melhores_adj votos_noun	Z4
+membro_noun de_prep a_det família_noun Hominidae_pnoun	S3.2/S2.2m
+mensagem_noun codificada_verb	A10-/Q1.2 N2 X3.2/N6+ A11.1- S7.1-/S2mf
+mensagem_noun urgente_adj	A4.2+ N3.8+++ M3/N3.8+fn Q1.1 B1%
+mercado_noun de_prep capitais_noun	I2.1/I1.1c
+mercado_noun de_prep trabalho_noun	I3.1
+mercado_noun negro_adj	I2.2/G2.2-
+mercado_noun público_adj	I2.2/M7 I2.2
+mesa_noun de_prep trabalho_noun	H5
+mesmo_adv que_conj	Z7
+meu_det bem_adv	F1
+milho_noun de_prep pipoca_noun	F1
+milésimo_noun de_prep segundo_noun	T1.2
+mina_noun de_prep carvão_noun	I4/H1c W3/I4
+mina_noun terrestre_adj anti-pessoal_adj	G3 A15-
+miolo_noun de_prep pão_noun	F1 N5-
+mistura_noun de_prep cores_noun	A7-
+moda_noun passageira_adj	E2+/T1.2 O4.3 N5-/A2.1
+modo_noun de_prep andar_verb	M1
+modo_noun de_prep proceder_verb	X4.2
+modo_noun de_prep vida_noun	I3.1 N3.8+ S1.1.1 A6.2+
+modo_noun verbal_adj	E1 E3-
+moeda_noun corrente_adj	I1 A6.2+
+moeda_noun de_prep cobre_noun	I1.1 O4.3 O1.1 G2.1/S2mf
+moeda_noun de_prep um_det centavo_noun	I1
+moeda_noun falsa_adj	A5.4- A5.4-/A1.1.1
+moinho_noun de_prep vento_noun	H1
+molusco_noun de_prep o_det gênero_noun Heliotis_pnoun	L2 F1
+moléstia_noun contagiosa_adj	B2-
+momento_noun oportuno_adj	A9-/G2.1- G2.1 A1.1.2 G2.1/H1 B2-
+montanha_noun muito_adv alta_adj	W3
+morrendo_verb por_prep	L1- T2-
+motivos_noun éticos_adj	G2.2
+motor_noun de_prep arranque_noun	F1 O2 T2+ K5.1/S2mf
+mudança_noun de_prep atitude_noun	A6.1- G3
+muitas_det vezes_noun	N6+
+muito_adv bem_adv	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- G2.1 G2.1/I1.3 Z4
+muito_adv bom_adj	A5.1+ K5.2 M5/S2mf W3/M4 X3.2+/A2.1 O4.4/A2.1 N5+/A2.1 X5.2+ X9.1+
+muito_adv curta_adj	Q1.2 G2.1/S2mf Q2.1 T1.3- N3.7-%
+muito_adv menos_adv	Z5
+muito_adv obrigado_verb	S1.2.4+
+muito_adv seca_adj	O1.2-
+mulher_noun atraente_adj	O1.1
+mulher_noun de_prep má_adj fama_noun	O1.1
+mulher_noun desmazelada_verb	G2.2-/S3.2/S2.1f
+mundo_noun espiritual_adj	X3.4-
+museu_noun de_prep arte_noun	C1/H1c
+má_adj sorte_noun	A1.4-/A1.1.1
+má_adj vontade_noun	X7- X5.2-
+máquina_noun de_prep descaroçar_verb algodão_noun	F2
+máquina_noun de_prep escrever_verb	Q1.2/O2
+máquina_noun de_prep lavar_verb	B4/O3 O2
+máquina_noun de_prep passar_verb roupa_noun	A1.1.2 B4/O2
+máquina_noun fotográfica_adj	C1 Q4.3
+mão-de-obra_noun direta_adj	I3.1
+médico_noun clínico_adj	B3/S2mf
+música_noun clássica_adj	K2
+música_noun de_prep câmara_noun	K2
+música_noun evangélica_adj	S9/Q4.1 A5.2+ K2
+música_noun pop_adj	K2 X3.2 F2 S4m M1 Z4
+música_noun tradicional_adj	S2mf K2
+músico_noun de_prep rua_noun	K2/S2mf
+nado_noun de_prep costas_noun	M4
+nado_noun de_prep peito_noun	M4/K5.1
+nado_noun livre_adj	A1.7-
+naipe_noun de_prep cordas_noun	O1.1 N5 N4 S6+ K2
+natureza_noun morta_adj	C1
+nau_noun capitânia_adj	M4fn A11.1+++
+navalha_noun de_prep barba_noun	B4
+navio_noun a_prep vapor_noun	M4fn
+navio_noun cargueiro_adj	M4
+navio_noun charter_noun	M1 S2 M4fn X3.2/M1
+navio_noun de_prep cruzeiro_noun	M4fn
+navio_noun de_prep guerra_noun	M4/G3fn
+navio_noun de_prep linha_noun regular_adj	M4fn B5
+navio_noun de_prep passageiros_noun	M4fn
+navio_noun mercante_adj	I2.2/M4
+nenhum_det lugar_noun	M6/Z6
+ninho_noun de_prep pombo_noun	A4.1 Q1.2@ H5
+nome_noun coletivo_adj	S5+ N5+ A4.2- Q3 S5+c
+nome_noun comercial_adj	I2.2/Q2.2
+nome_noun de_prep solteira_noun	Q2.2/S4-
+nome_noun falso_adj	A10- A5.4-
+norma_noun nacional_adj	A5.1/G1.1
+nota_noun de_prep 20_num dólares_noun	I1
+nota_noun de_prep banco_noun	I1
+nota_noun de_prep crédito_noun	I1/Q1.2
+nota_noun fiscal_adj	Q1.2/I1 I1.1 A9+
+nota_noun tônica_adj	A11.1++
+notas_noun de_prep rodapé_noun	Q1.2
+notificação_noun de_prep recebimento_noun	Q2.2
+novinho_adj em_prep folha_noun	T3---
+não_adv apropriado_verb	A1.2-
+não_adv castrado_verb	N5.1+
+não_adv confiável_adj	A5.1- A5.3-
+não_adv convencional_adj	A6.2-
+não_adv corroborado_verb	A5.2-
+não_adv disponível_adj	A3- A9-
+não_adv empregável_adj	I3.1
+não_adv envolvido_verb	M2/A6.1- E6 X5.2- E1- H1
+não_adv familiar_adj	X2.2- A6.2-
+não_adv faz_verb mal_adv	Z4
+não_adv feito_verb	A1.7- A1.1.1
+não_adv importa_verb	Z4
+não_adv importa_verb qual_pron	Z5 Z8
+não_adv mais_adv	T2-
+não_adv migratório_adj	H4 H4/S2mf
+não_adv mobiliado_verb	H5-
+não_adv natural_adj	A6.2- A5.4-
+não_adv obstante_adj	A2.1- Z4 Z5
+não_adv oficialmente_adv	G1.1- S7.4-
+não_adv ofuscante_adj	O4.3/A2.1
+não_adv ouvido_verb	A11.2-
+não_adv pago_verb	I1.1-
+não_adv usado_verb	A1.5.1-
+nível_noun de_prep o_det mar_noun	W3
+nó_noun de_prep um_det dedo_noun	B1
+núcleo_noun duro_adj	S5+c/X5.2+ S3.2 K2 M3
+número_noun primo_adj	A11.1+++ A5.1+++ A4.2+ A5.1+++/T1.2 Q2.2 A1.1.1 G3
+números_noun redondos_adj	I1.1
+um_det bocado_noun	N5+ N3.3+ N3.4+
+o_det despertar_verb	B1 X5.2+
+o_det ensaio_noun	X8+ K5.1 X2.4 Q2.2 G2.1 A12-
+levantar_verb se_pron	A2.1 M2
+o_det mais_adv alto_adj	M6 A11.1+++
+o_det mais_adv distante_adj	N3.3+
+o_det mais_adv próximo_adj	N3.3--- S3.1 A6.1+++ T1.3--- Z5
+o_det melhor_adj	A5.1++ G2.2++ O4.2++ A5.1+++ O4.5 A5.1++/S2mf
+o_det mesmo_adv	A6.1+++
+o_det mesmo_pron que_conj "_punc ascendant_noun "_punc	S9
+o_det mesmo_pron que_conj "_punc fagot_noun "_punc	F1 E2-/S3.2/S2mf
+negócio_noun	I2
+o_det próprio_adj	S5-
+troço_noun	O2 N3.6-
+o_pron que_pron	X2.1 Z5 Z8
+o_pron que_pron quer_verb que_conj	X2.1 Z8 Z5
+o_pron que_pron quer_verb que_conj ..._punc	X2.1 Z8 Z5
+o_pron que_pron se_pron mastiga_verb	F1/B1 X2.1
+objeto_noun em_prep exposição_noun	A10+ O2/A10+
+obra_noun clássica_adj	A4.1 A5.1+ T3+ Q4.1 K2
+obra_noun de_prep carpintaria_noun	C1 H2
+observação_noun inteligente_adj	A1.1.2 X3.2 N3.3--- E4.1+ F3 X9.2+ B2-/X1 Q2.2/E4.1+ A5.1+
+observância_noun de_prep as_det leis_noun	A1.1.1 S7.1+
+oceano_noun Atlântico_pnoun	Z2
+oh_intj Deus_noun !_punc	Z4
+olhar_noun fixo_adj	X3.4
+olhar_noun raivoso_adj	E3-/X3.4 W2 X5.1+ X3.4/E3-
+ombros_noun caídos_verb	M2 O4.4
+onde_adv quer_verb que_conj	M6
+operador_noun de_prep títulos_noun	I2.1/S2mf K5.2/S2mf F3/S2mf
+os/as_verb quais_pron	A13.3 A6.1+ Z5 Z8
+os_det danos_noun	A1.1.2 I1.1+/G2.1
+os_det fatos_noun básicos_adj	A4.2+
+os_det teus_det	Z8
+ostra_noun jovem_adj	A6.1- E2- B1 W4 X3.2
+ou_conj seja_verb	Z5
+outra_det vez_noun	N6+ Z4
+outro_det lugar_noun	M6/A6.1-
+ovo_noun de_prep piolho_noun	S1.2.6-/S2 L2
+pagamento_noun a_prep a_det vista_noun	I1.2
+pagamento_noun parcial_adj	I1.2
+pagamento_noun por_prep serviços_noun	I1.1
+pago_verb como_conj multa_noun	A9-
+paixão_noun cega_adj	X5.2+/N5.2+
+palavra_noun por_prep palavra_noun	A6.1+++
+panela_noun de_prep pressão_noun	F1/O2
+pano_noun de_prep fundo_noun	M6
+papel_noun barato_adj	Q4.2
+papel_noun de_prep alumínio_noun	O1.1 S8- G3
+papel_noun de_prep carta_noun	Q1.2
+papel_noun de_prep embrulho_noun	A1.1.1 O2
+papel_noun de_prep parede_noun	H5
+papo_noun furado_verb	Q2.1/A5.2- Q3
+para_prep a_det frente_noun	M6
+para_prep aqui_adv	M6 T1.1.2
+para_prep baixo_adj	F1/B1 A1.1.1 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z5
+para_prep cima_noun	M6 N4 N5++ T2- X9.1+ A1.1.1 N5+/A2.1 Z5
+para_prep dentro_adv	M6 G2.1@ Z5
+para_prep diante_adv	K5.1/S2mf M2 M6 A5.1+/A2.1 S1.2.3+ T4+ T1.1.3
+para_prep fora_adv	F1 M6 A11.2+
+para_prep fora_adv de_prep	K5.1 M6 S3.2 Z5
+para_prep possuir_verb	A9+ S5-
+para_prep que_pron	A13.3 A6.1+ Z5 Z8
+para_prep sempre_adv	T2+++ N6+++
+para_prep trás_prep	M6 X9.1- T1.1.1
+parada_noun cardíaca_adj	B2-
+parque_noun de_prep diversões_noun	K1/M7
+parque_noun principal_adj	A11.1+ N5+++ O2/M4 O3
+parte_noun de_prep cima_noun	M6 A11.1++ F3@
+parte_noun dianteira_adj	A11.1+ M6 S7.1+ Z4 M7/W3 A4.1 A10- S1.2.3+ W4 Q4.3
+parte_noun inferior_adj	M7 T2+ A1.1.1 O1 K5.1@ B1% A5.1- M6 A2.2
+parte_noun lateral_adj de_prep a_det cama_noun	H5
+parte_noun traseira_adj	B1 M6 B1@ N6+ T1.1.1 S1.1.2+ S4 F4 M1 S8+ K5.1/I1 K2
+participação_noun em_prep o_det mercado_noun	N5/I2.1
+participação_noun especial_adj	C1 Q4.3 B5
+passa_verb de_prep Corinto_noun	F1
+passagem_noun de_prep ar_noun	M5 B3
+passagem_noun de_prep ônibus_noun	M3/Q1.2
+passagem_noun estreita_adj	H2
+passeio_noun a_prep pé_noun	M1 L2 X9.2+/A12+
+passo_noun a_prep passo_noun	N3.8- N4
+passo_noun arrastado_verb	O4.2-
+passo_noun largo_adj	M1 N3.3 N3.7 X9.2+
+pasta_noun de_prep dentes_noun	B4
+pasta_noun de_prep papéis_noun	O2/Q1.2 O2 Y2 S5+/N4 Q1.2 A1.1.1
+patrimônio_noun líquido_adj	G2.2+ G2.1 I1.1
+pausa_noun para_prep o_det cafezinho_noun	K1/T1.3
+pausa_noun para_prep o_det lanche_noun	K1/T1.3
+pauta_noun de_prep o_det dia_noun	Q1.2/X7+
+pauta_noun musical_adj	K2 O2 S8-
+pedaço_noun de_prep fumo_noun de_prep mascar_verb	I1
+pedido_noun de_prep casamento_noun	Q2.2 X7+ S3.2/Q2.2
+pedido_noun de_prep demissão_noun	A9- Q2.2 S7.1- I3.1
+pedra_noun de_prep calçamento_noun	O2
+pedra_noun preciosa_adj	O1.1 O4.2+ O4.2+/S2mf X4.1 O2 B5
+pegar_verb o_det touro_noun pelos_prep chifres_noun	A1.1.1 K5.1 Q2.2
+peixe_noun carnívoro_adj	F4/S2mf K5.1/S2mf
+peixe_noun miúdo_noun	A11.1-
+pele_noun de_prep arminho_noun	O1.1 L2
+pele_noun de_prep marta_noun	L2 B5
+pele_noun fina_adj	Q4.3 O2/C1 O1.1 O1.2 B3
+pelo_prep menos_adv	A13.7
+pelo_prep que_pron	Z5
+pena_noun capital_noun	G2.1/L1-
+pensão_noun alimentícia_adj	A1.1.1 I1.1 I1.1/S4 T2++ I1.2/G2.1
+pequena_adj quantia_noun	N5- Q1.2 Q2.2
+pequeno_adj almoço_noun	F1
+per_prep capita_noun	S1.1.2+
+perda_noun de_prep memória_noun	B2- A10- O4.3 G3@
+permanência_noun breve_adv	M8
+perna_noun mecânica_adj	A1.7+ O2 N5
+pertencente_adj a_prep o_det final_noun	N4
+perto_adv de_prep	M6 Z5
+período_noun de_prep tempo_noun	T1.3 Z5
+período_noun integral_adj	T1.3 K5.1/T1.2
+peso_noun extra_adj	N3.5/N5.2+
+peso_noun morto_adj	A1.5.2- N3.6+
+pesquisa_noun de_prep mercado_noun	I2.1/X2.4
+pessoa_noun atraente_adj	O4.2+
+pessoa_noun conhecida_verb	S3.1/S2mf X2.2+
+pessoa_noun eficiente_adj	A1.1.1 O2 Y2
+pessoa_noun idosa_adj	S7.1+/S2mf T3+/S2mf S9/S2mf T3++
+pessoa_noun importante_adj	A11.1/S2mf
+pessoa_noun privilegiada_verb	A5/S2mf O4.2/S2mf
+pessoa_noun qualquer_det	A1.1.1 O2 Z1
+pessoa_noun que_pron viaja_verb diariamente_adv	M3/S2mf
+pessoa_noun tímida_adj	B5
+pessoal_noun de_prep casa_noun	S4c B4
+peste_noun bubônica_adj	B2-
+petróleo_noun bruto_adj	O1.2
+peça_noun embutida_verb	A1.1.1 O2
+pia_noun batismal_adj	Q1.2 S9/H5
+pintura_noun abstrata_adj	A1.6
+pirata_noun eletrônico_adj	O2 O4.2+/S2.1f A5.1+ F1
+pista_noun de_prep patinação_noun	M7/K5.1
+planilha_noun eletrônica_adj	Q1.2
+plano_noun de_prep pensão_noun	I1.1
+pleno_adj vigor_noun	L3 X9.2+
+plural_noun de_prep "_punc penny_noun "_punc	I1
+pneu_noun recauchutado_verb	Q2.1 Q2.2
+policial_adj montado_verb	G3/S2mf G2.1/S2mf
+polícia_noun militar_adj	G2.1/G3
+ponha_verb em_prep perigo_noun	A15-
+ponta_noun de_prep flecha_noun	G3 L3
+ponte_noun pênsil_adj	H1
+ponto_noun cardeal_adj	N1 N5 T1.3 H4
+ponto_noun de_prep apoio_noun	A11.1+ S8+ L2
+ponto_noun de_prep encontro_noun	M7 S1.1.3+ S3.1 A10- S3.1/T1.1
+ponto_noun de_prep exclamação_noun	Q3
+ponto_noun de_prep inflexão_noun	A11.1+/A2.1+
+ponto_noun de_prep partida_noun	T2+
+ponto_noun de_prep vista_noun	X2.1 T1.1.3 Q1.1 X4.1
+ponto_noun de_prep ônibus_noun	M3/M7
+ponto_noun final_adj	H1/M3 T1.3 B1 Q3 P1/T1.3 T1.1.1
+ponto_noun fraco_adj	S1.2.5- O4.1 S7.1- A5.1- X9.1- E2+
+ponto_noun inicial_adj	H2 N5
+ponto_noun vital_adj	A2.2 O2
+por_prep ano_noun	N6
+por_prep atacado_noun	I2.2 N5.1+
+por_prep aí_adv	A13.4
+por_prep baixo_adj	M6 Z5
+por_prep cabeça_noun	S1.1.2+
+por_prep causa_noun de_prep	A2.2
+por_prep cause_verb de_prep	Z5/A2.2
+por_prep cento_noun	N5
+por_prep conseguinte_adj	Z5/A2.2
+por_prep conta_noun	I1.2
+por_prep de_prep o_det sol_noun	T1.2 W2
+por_prep definição_noun	A1.9 A6.2+
+por_prep encomenda_noun	A1.1.1/A6.2-
+por_prep enquanto_adv	T1.1.2 M6 N5
+por_prep esta_det razão_noun	Z5
+por_prep exemplo_noun	Z5
+por_prep extenso_adj	N5+ N4
+por_prep falar_verb em_prep isso_pron	Z4
+por_prep favor_noun	E4.2+ E2+ X7+ Z4
+por_prep fim_noun	N4 Z4
+por_prep inteiro_noun	A13.2
+por_prep isso_pron	N4 Z5 T1.2
+por_prep mais_adv tempo_noun	T1.3++ N3.7++ N3.3++ N3.2++
+por_prep meio_noun de_prep	M6 Z5 X4.2
+por_prep muito_det tempo_noun	N3.7+ T1.3+ N3.3+ N3.2+ X7+
+por_prep outro_det lado_noun	Z4 Z5
+por_prep pouco_adv	A13.7
+por_prep toda_det a_det parte_noun	M6/N5.1+ N5.1+
+por_prep toda_det a_det vida_noun	T1.3+
+por_prep todo_det	N5.1+ M6 Z5
+por_prep volta_noun de_prep	A13.4 M6 Z5
+por_prep último_noun	N4
+porra_intj louca_noun	B2-/S2mf S1.2.6-/S2mf S1.2.6- B2-/X1
+porta_noun a_prep porta_noun	H3
+porta_noun de_prep emergência_noun	H2/A15- M3/A15-
+porte_noun postal_adj	Q1.2
+porto_noun de_prep escala_noun	M7
+posição_noun de_prep rebatida_noun	M6
+posto_noun avançado_verb	M7
+posto_noun de_prep controle_noun	M7/M3
+posto_noun de_prep gasolina_noun	M3/H1c
+pouco_adv a_prep pouco_adv	N3.8-
+pouco_adv usual_adj	A6.2-
+prato_noun principal_adj	F1
+prato_noun raso_adj	F1/O2
+prazo_noun de_prep entrega_noun	T1.2
+prazo_noun final_adj	T1.2
+precipitação_noun pluviométrica_adj	W3/W4
+preparo_noun mental_adj	O2
+prestador_noun de_prep serviço_noun	I2.1/S2mf
+prestação_noun de_prep contas_noun	Q2.2 S7.1- X3.2
+prevenção_noun de_prep acidentes_noun	A1.4/S8-
+previdência_noun social_adj	I1.1/G1.1 I1.2/G1.1
+previsão_noun de_prep o_det tempo_noun	W4/X2.6+
+preço_noun pago_adj pelo_prep uso_noun de_prep patent_noun	S7.1+ I1.1
+primeira_adj mão_noun	N4
+primeiro_adj estágio_noun	B3 M2 A5.1+/A2.1
+primeiro_adj passo_noun	A1.1.1 T2+ O2 I3.1
+primeiro_adj plano_noun	A11.1+ M7
+primeiros_adj socorros_noun	B3
+princíp_noun io_verb	A9+ T2+ Q1.1 X2.2 W3/M4
+princípio_noun básico_adj	S8+
+prisão_noun de_prep ventre_noun	B2-
+procedimento_noun legal_adj	G2.1
+processamento_noun de_prep dados_noun	Y2
+processo_noun decisório_adj	X6+
+processo_noun operacional_adj	X4.2
+procura_noun por_prep bens_noun e_conj serviços_noun	I2.2 G2.1@ I2.2/O2
+produto_noun acabado_verb	O2/N4 A2.2/N4
+produto_noun básico_adj	A1.1.1 A11.1+ O2 F1 O1
+produto_noun de_prep consumo_noun	O2
+produtor_noun de_prep espetáculos_noun	K4/S2.2m
+profissional_adj autônomo_adj	I3.1/S5-
+proibido_verb para_prep menores_noun	Q4.3
+promoção_noun exagerada_verb	Q2.2/I2.2
+propaganda_noun musical_adj em_prep rimas_noun	X3.2+ K2
+propenso_adj a_prep acidentes_noun	A15-
+propriedade_noun arrendada_verb	I2.2
+propriedade_noun senhorial_adj	H1c H1/G2.1
+protegido_verb por_prep "_punc copyright_noun "_punc	G2.1/A9+
+prova_noun de_prep impressão_noun	T4+/Q1.2
+proveniente_adj de_prep	M6
+provisão_noun de_prep reserva_noun	A9+ N5+
+próximo_adj a_prep	M6 Z5
+pulso_noun de_prep disparo_noun	N3.1 Q2.1% O2/T1
+punho_noun ou_conj guarda_noun	O2
+purê_noun de_prep batatas_noun	F1
+pá_noun grosseira_adj	O2 K5.2 S2/O4.3mf
+página_noun central_adj	Q4.2/C1
+pássaro_noun canoro_adj	L2mfn
+pão_noun doce_adj	Z2 Z2/Q3 Z2/S2mfnc F1
+pãozinho_noun de_prep sanduíche_noun	F1 O4.4
+pílula_noun abortiva_adj	B3
+pílula_noun de_prep o_det dia_noun seguinte_adj	B3
+quadra_noun de_prep tênis_noun	K5.1/M7
+qualificado_verb por_prep direito_noun	S7.4+
+qualquer_det coisa_noun	Z8
+qualquer_det um_det	Z8mfc
+quantidade_noun apreendida_verb	N5/G2
+quanto_adv a_prep	Z5
+quarto_noun de_prep círculo_noun	N5.1-
+quarto_noun de_prep hóspedes_noun	H2
+quase_adv aberto_adj	A10+
+que_conj está_verb por_prep vir_verb	T1.1.3
+que_conj parte_noun	I1.2 S1.2.1+ T2-
+que_conj prende_verb a_det atenção_noun	K2 A11.2+ Q3
+que_conj sai_verb	I1.2 S1.2.1+ T2-
+que_conj vem_verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1.1.3 S9
+queimadura_noun de_prep sol_noun	B2-/W4
+quem_pron fala_verb	Q2.1/S2mf
+quem_pron quer_verb que_conj	Z8
+quer_verb dizer_verb	Z5
+raio_noun X_noun	B3 Y1@
+raiz_noun quadrada_verb	N2
+rato_noun de_prep biblioteca_noun	Q4.1/S2mf
+razão_noun social_adj	A7+ I2.1/S5+c O4.5 A1.7+
+raça_noun de_prep cavalo_noun	O4.1/L2mfn
+reação_noun em_prep cadeia_noun	O1/A2.2 A1.1.1/A2.2
+recebimento_noun de_prep o_det aviso_noun	Z8
+receita_noun bruta_adj	Q1.2/I1 I1.1 A9+
+receita_noun orçamentária_adj	G1.1/I1 I1.1+ Z3c
+receptor_noun de_prep rádio_noun	O3
+rede_noun de_prep computadores_noun	Q4.3 Y2 S1.1.1 S5+c
+rede_noun interna_adj de_prep comunicações_noun	Y2
+redução_noun de_prep multa_noun	G2.1 B2+ T2- A9-
+refeição_noun coletiva_adj	F1/O2 O2
+regiões_noun rurais_adj	W3 F4/M7
+relação_noun de_prep itens_noun	Q1.2
+relação_noun sexual_adj completa_verb	N5.1+ N5.1+/M1
+relações_noun industriais_adj	I2 I3.1
+remo_noun pequeno_adj	M4
+representação_noun pictórica_adj	C1 Q2.2
+reservatório_noun de_prep lampião_noun	Q1.2 S9/H5
+resgate_noun de_prep títulos_noun	S9 S8+ A9+
+resistente_adj a_prep a_det adversidade_noun	S1.2.5+ O4.1
+respeito_noun próprio_adj	S7.2+ S1.2.3+
+restaurante_noun industrial_adj	F1/H2
+resultado_noun líquido_adj	A11.1+++
+reunião_noun de_prep cúpula_noun	W3 N5.1+ S1.1.3+
+revestimento_noun interno_adj	B5 O4.1 B1
+revisor_noun de_prep contas_noun	I2.1/S2mf
+revista_noun barata_adj	A1.1.1 E3- O1.2 B1 L3
+revista_noun de_prep moda_noun	B5/Q4.2
+rifle_noun de_prep assalto_noun	G3
+roda_noun de_prep o_det leme_noun	O2/M4
+rotina_noun exaustiva_adj	S7.3+
+rotina_noun monótona_adj	K2 O2
+roupa_noun branca_adj	O1.1 H5
+roupa_noun de_prep baixo_adj	B5
+roupa_noun de_prep lã_noun	O1.1
+roupa_noun de_prep noite_noun	B5/T1.3
+roupa_noun esportiva_adj	B5/K5.1
+roupa_noun para_prep lavar_verb	B4
+roupão_noun feminino_adj	B5
+rumo_noun a_prep o_det norte_noun	M6
+ruíde_verb o_pron agudo_adj	A1.1.2 X3.2 N3.3--- E4.1+ F3 X9.2+ B2-/X1 Q2.2/E4.1+ A5.1+
+ruíde_verb o_pron de_prep fundo_noun	X3.2
+sabedoria_noun tradicional_adj	L2 X2.2
+sair_verb com_prep	T1.1.2
+sala_noun de_prep aula_noun	P1/H2
+sala_noun de_prep espera_noun	H2
+sala_noun de_prep estar_verb	H2
+sala_noun de_prep jantar_verb	H2
+sala_noun de_prep operação_noun	B3/H1 B3/H2 
+sala_noun de_prep reuniões_noun	H2/S7.1+
+sala_noun de_prep visitas_noun	H2
+salada_noun de_prep repolho_noun cru_adj	F1
+salário_noun líquido_adj	F1
+salão_noun de_prep barbeiro_noun	B4/H1
+salão_noun de_prep beleza_noun	H2
+salão_noun de_prep jantar_verb	F1/S2mf F1/H1
+sangue_noun coagulado_verb	B1
+sapato_noun alto_adj	B5
+sapato_noun baixo_adj	M2 A1.1.1 A9- Q2.2 S8+ B3 O2 B5
+saque_noun a_prep descoberto_verb	I1.2
+secretária_noun eletrônica_adj	Q1.3
+seda_noun crua_adj	B4 O1
+seguidor_noun de_prep Carl_pnoun Jung_pnoun	Z3
+segunda_adj mão_noun	T3+
+segunda_adj pele_noun	B5
+segundo_prep o_pron qual_pron	Z5
+seguridade_noun social_adj	I1.1/G1.1
+seguro_noun de_prep vida_noun	I1.1
+seja_verb onde_adv for_verb	M6
+seja_verb quem_pron for_verb	Z8
+selva_noun de_prep pedra_noun	M7/A5.1-
+sem_prep auxílio_noun	S1.2.5- S7.1- X9.1-
+sem_prep base_noun	A5.2- A5.3-
+sem_prep competidores_noun	A5.1+++
+sem_prep corda_noun	O4.2-
+sem_prep corte_noun	O4.5 A5.2+
+sem_prep dedução_noun	I1.1 N1 N5.1+ O4.2- N5
+sem_prep defeito_noun	A5.1+
+sem_prep demora_noun	N3.8+ T1.1.2
+sem_prep dúvida_noun	A5.1+ A7+ Z4
+sem_prep emenda_noun	B5
+sem_prep entraves_noun	A1.7-
+sem_prep entusiasmo_noun	O4.6 X5.2-
+sem_prep escalas_noun	T2+
+sem_prep exagero_noun	A13.2 Q3
+sem_prep fala_verb	Q2.1-
+sem_prep falar_verb em_prep	Z5
+sem_prep filhos_noun	S4
+sem_prep fim_noun	T2+++ N2 N5+
+sem_prep fio_noun	O4.5 A5.2+ Q4.3 Q1.3
+sem_prep forças_noun	S7.1-
+sem_prep fundamento_noun	A5.2- A5.3-
+sem_prep fundo_noun	A1.7- N3.1
+sem_prep gosto_noun	O4.2-
+sem_prep graça_noun	O4.2- S1.2.4- G2.2- S9 X5.2- O4.3 W2 W4 X3.2 N5- O4.1
+sem_prep igual_adj	A5.1+++
+sem_prep imaginação_noun	M3 A6.2+ M3/S2mf
+sem_prep importância_noun	A11.1-
+sem_prep juros_noun	I1.1
+sem_prep lar_noun	H4- H4-/S2c
+sem_prep lei_noun	G2.1-
+sem_prep levar_verb em_prep conta_noun	A11.1- E6+
+sem_prep mangas_noun	B5/O4.1
+sem_prep móveis_noun	H5-
+sem_prep nexo_noun	A7- S1.2.6- X2.5-
+sem_prep nome_noun	Q2.2
+sem_prep nuvens_noun	W4
+sem_prep par_noun	A5.1+++
+sem_prep parar_verb	A2.1- T2+
+sem_prep pausa_noun	A2.1-
+sem_prep precedentes_noun	A6.2-
+sem_prep preparação_noun prévia_adj	A1.4 K4 Q2.2
+sem_prep pressa_noun	N3.8-
+sem_prep propósito_noun	A1.5.1- A1.5.2- X5.2- S1.2
+sem_prep rodeios_noun	A12+ A10+/S1.2
+sem_prep rosto_noun	S1.2.1- X2.2-
+sem_prep saída_noun	M3 X2.6- X9.2-
+sem_prep sentido_noun	A1.5.2- A11.1-/Q1.1 Q3 X9.2- A5.2- S1.2.6-
+sem_prep uso_noun	F1 I1.1/H1 I1.1
+sem_prep valor_noun	A1.1.2 A5.1- A1.5.1- A1.5.2- X5.2- S1.2 I1.3- Z6/Z8 N1
+sem_prep vintém_noun	I1.1-
+sementeira_noun coberta_verb por_prep vidro_noun	L3/O2
+senso_noun comum_adj	S1.2.6+
+sentido_noun horário_noun	M6
+seqüestro_noun de_prep avião_noun	G2.1- A9+/G2.2-
+ser_verb conivente_adj com_prep	G2.2-
+ser_verb contíguo_adj com_prep	M6 A1.8+
+serviçal_adj masculino_adj	S7.1-/S2.2m
+serviço_noun de_prep jantar_verb	O2/F1
+serviço_noun militar_adj obrigatório_adj	G3 S6
+serviço_noun secreto_adj	X9.1+ X2.2+ S1.2.6+
+serviços_noun públicos_adj	A1.5.2 O2
+sexo_noun feminino_adj	S2.1
+sexo_noun masculino_adj	S2.2
+sexo_noun oral_adj	B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 S3.2
+shopping_noun center_verb	I2.2/H1c M3/H3
+significado_noun oculto_adj	A8
+sindicato_noun de_prep trabalhadores_noun	G1.2/I3.1/S5+c S5+c
+situação_noun financeira_adj	B4 P1 O4.1 S6+ B2- B2+ Z7
+sob_prep a_det condição_noun de_prep que_pron	Z5
+sob_prep medida_noun	A1.1.1/A6.2- A6.2+ S1.1.1 I2.2
+sob_prep o_det patrocínio_noun de_prep	S7.1-
+sociedade_noun anônima_adj	I2.1/S5c G1.1c
+soldado_noun motorizado_verb	G3/S2mf G2.1/S2mf
+soleira_noun de_prep a_det porta_noun	H2 
+solstício_noun de_prep verão_noun	T1.3
+solução_noun de_prep problema_noun	A12/X9.2+ X4.1 N2
+som_noun de_prep buzina_noun	X3.2
+som_noun de_prep carrilhão_noun	X3.2
+som_noun grave_adj	K2 K3
+soma_noun global_adj	I1.1
+somente_adv de_prep ida_noun	Z3c
+subscritor_noun de_prep seguros_noun	I2.1/S2mf
+substância_noun detergente_adj	H1/S2mf A1.1.1/S2mf
+substância_noun inflamável_adj	K2 K2/S2mf K2/S5
+substância_noun química_adj	O1
+sucesso_noun inconteste_adj	A1.1.1 X3.2 S3.2/B1
+sujeito_noun a_prep	A1.2+
+suporte_noun de_prep prateleira_noun	O3 S8+
+sérios_adj apuros_noun	Z3c
+só_adv por_prep precaução_noun	A1.3+
+só_adv pra_prep prevenir_verb	A1.3+
+sólido_adj como_conj uma_det rocha_noun	O4.5 A2.1-
+taco_noun de_prep bilhar_noun	Q1.1 K5.1
+taco_noun de_prep pólo_noun	O2
+talento_noun artístico_adj	X9.1+ C1
+talão_noun de_prep cheques_noun	Q1.2/I1
+tambor_noun grave_adj	K2
+tampinha_noun de_prep garrafa_noun	B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4 S7.1+ M6 X9.2+
+tanque_noun de_prep combustível_noun	L2
+tanto_adv quanto_adv	Z5
+tanto_adv quanto_adv possível_adj	N5.1+++
+tanto_adv que_conj	Z5
+taxa_noun alfandegária_adj	I1.3
+taxa_noun de_prep juros_noun	I1
+taxa_noun de_prep juros_noun mínima_adj	I2.2 Q2.2
+teatro_noun lírico_adj	K2/H1c
+tecido_noun grosseiro_adj	S3.2/B1
+teia_noun de_prep aranha_noun	L2/O2
+telefone_noun celular_adj	Q1.3
+telegrafia_noun sem_prep fio_noun	Q4.3 Q1.3
+televisão_noun a_det cabo_noun	Q4.3
+telhado_verb de_prep palha_noun	H1
+tema_noun central_adj	A11.1++
+tempestade_noun com_prep trovoadas_noun	W4
+tempestade_noun de_prep idéias_noun	X2.4
+tempo_noun de_prep chuva_noun	G1.2 O1.2 W4 X5.2-
+tempo_noun de_prep serviço_noun	S7.1++ T3++
+tempo_noun real_adj	Y2 T1.1.2
+tempos_noun difíceis_adj	A12-
+tendendo_verb a_det	X7+
+tendente_adj a_prep	A8 M6@
+tendente_adj a_prep a_det alta_noun	I2.1
+tendente_adj a_prep a_det baixa_noun	I2.1
+tentativa_noun de_prep escalar_verb	E3- G3 X8+
+ter_verb conhecimento_noun	B1 X1
+terapia_noun ocupacional_adj	B3
+terra_noun inculta_adj	F4 X9.2-
+terreno_noun baldio_noun	W3/L3 M7/O4.2-
+testemunha_noun ocular_adj	G2.1/S2mf X3.4/S2mf
+tintim_verb por_prep tintim_noun	N4
+tipo_noun de_prep limusine_noun	M3 O2/M3
+toda_det vez_noun que_pron	Z5
+todo_det a_det gente_noun	Z8/N5.1+c
+todo_det mundo_noun	Z8/N5.1+c
+tom_noun pastel_noun	C1 O4.3
+tomada_verb de_prep decisões_noun	X6+
+toque_noun de_prep recolher_verb	G2.1
+torre_noun de_prep perfuração_noun	M4/H1
+torrão_noun de_prep açúcar_noun	F1
+trabalhador_noun braçal_adj	I3.1/S2mf
+trabalhador_noun medíocre_adj	Y2/S2mf
+trabalho_noun de_prep casa_noun	A1.1.1
+trabalho_noun de_prep parto_noun	A1.7+ G2.1 A12-
+trabalho_noun doméstico_adj	A1.1.1/H1 B4/H4 H4 A1.1.1 I1/H4
+trabalho_noun em_prep grupo_noun	I3.1/S5+ A1.1.1/S5+
+trabalho_noun infantil_adj	T3-/I3.1
+trabalho_noun penoso_adj	E2-
+tradução_noun literal_adj	Q1.2/A10- H5 K5.2
+traje_noun noturno_adj	B5/T1.3
+transferência_noun escrita_verb	P1 A1.1.1 A9-
+trem_noun de_prep carga_noun	M2
+trem_noun de_prep ferro_noun	K5.1 P1 M2 K5.1/I3.2/S2mf P1/I3.2/S2mf M3fn
+trem_noun de_prep passageiros_noun	M3/S2mf
+trem_noun de_prep subúrbio_noun	M3
+tributo_noun a_prep a_det vida_noun	Z3c
+trilha_noun sonora_adj	K3
+triturador_noun de_prep lixo_noun	X7- M2
+trote_noun estudantil_adj	E4.1+ O2 Q4.2
+tráfego_noun de_prep dados_noun	F3/G2.1- G2.1-/I2.2 M3 M4 M1 S1.1.2+
+tu_pron mesmo_adv	Z8
+tubo_noun de_prep ensaio_noun	O2/Y1
+tufo_noun de_prep penas_noun	L3 W3 N3.2+
+título_noun de_prep propriedade_noun	A9+ I3.1
+um_det bocado_noun	A13.3
+um_det dia_noun	T1.1.3
+um_det dia_noun desses_prep	T1.1.3
+um_det dólar_noun	I1 L2mn S8- M1
+um_det mil_num	N3.3 N3.7 Q3 Z5
+um_det monte_noun	A13.3 N6+
+um_det número_noun regular_adj	N5+
+um_det outro_det	A6.1- N5++
+um_det pouco_pron	A13.6 B1 A12- N5- N5.1- O2 Y2 N6-
+um_det quarto_adj	N1 N5 T1.3 H4
+um_det tanto_det	A13.6
+um_det tipo_noun de_prep	A13.5 Z4 E2++
+um_num a_prep o_det outro_pron	Z8
+um_num a_prep um_det	A6.1- N4
+uma_det boa_adj quantidade_noun	N5+
+uma_det comunicação_noun	Q2.1 Q1.2 Q1.3 Q4.3
+uma_det grande_adj quantidade_noun	N5+
+uma_det quantidade_noun	N5 N5+/A2.1
+uma_det vez_noun	N6- T1.1.1 Z5
+uma_det vez_noun em_prep a_det vida_noun outra_pron em_prep a_det mort_noun	N6-
+uma_det vez_noun que_pron	N6- T1.1.1 Z5
+unidade_noun de_prep luz_noun	S1.2.6-/S2 L2
+unidade_noun de_prep medida_noun	F1/L2 S3.2
+urna_noun eleitoral_adj	G1.2
+usina_noun siderúrgica_adj	A5.4- C1/M7
+uso_noun impróprio_adj	G2.2-/A1.5.1
+uísque_noun escocês_adj	F2
+v.pp._verb de_prep "_punc te_pron o_det wear_noun "_punc	B5 A1.1.1 O4.1
+v.pt._verb de_prep "_punc te_pron o_det go_noun "_punc	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+v.pt._verb de_prep "_punc te_pron o_det steal_noun "_punc	G2.1-/A9+
+v.pt._verb de_prep "_punc te_pron o_det wear_noun "_punc	B5 A1.1.1
+v.pt._verb e_conj pp._verb de_prep "_punc te_pron o_det weep_noun "_punc	E4.1-
+vale_verb estreito_noun	W3
+vale_verb postal_adj	I2.2/Q1.2
+valor_noun declarado_verb	A8
+valor_noun facial_adj	A8
+valor_noun nominal_adj	A8
+vara_noun de_prep marmelo_noun	G2.1 O2 L3 L2mfnc
+vaso_noun de_prep barro_noun	F1/O2 S1.2.5-/S2mf A5.2-
+vaso_noun sangüíneo_adj	B1
+veleiro_noun de_prep um_det só_adj mastro_noun	I4/S2mf O2 M4fn
+veludo_noun cotelê_verb	O1.1
+vencimento_noun de_prep um_det título_noun	T3+
+venda_noun a_prep varejo_noun	I2.2
+venda_noun em_prep leilão_noun	I2.2
+venda_noun por_prep atacado_noun	I2.2 N5.1+
+vendedor_noun de_prep ferragens_noun	I2.2/S2mf
+vento_noun oeste_noun	M6
+verba_noun orçamentária_adj	A9+ I1
+versado_verb em_prep	X2.2+
+verso_noun branco_noun	Q3
+vestido_noun de_prep noite_noun	B5
+vestíbulo_noun auricular_adj	B1
+via_noun expressa_adj	L2mfnc F1 G3
+via_noun fluvial_adj	O1.2/M4
+viagem_noun de_prep ida_noun e_conj volta_noun	M1
+vias_noun aéreas_adj	M5 B3
+vias_noun respiratórias_adj	M5 B3
+vida_noun futura_adj	S9
+vida_noun pós-morte_adj	S9
+vide_noun "_punc confer_noun "_punc	Z5/A6
+vigésima_adj primeira_noun	N4
+visto_verb que_conj	Z5/A2.2
+vitória_noun consagradora_adj	X9.2++ W3
+vitória_noun fácil_adj	S3.2
+vocais_adj de_prep acompanhamento_noun	K2
+vocal_adj "_punc de_prep fundo_noun "_punc	K2
+você_pron mesmo_adv	Z8
+volume_noun complementar_adj	Q4.1
+volume_noun de_prep o_det som_noun	M2 K5.1 X7+ M1 X3.2 H1 M7/K5.1 N5 O1.2
+voto_noun afirmativo_adj	Z4
+vôo_noun planado_verb	M1 M5 Q3%
+web_noun browser_adj	X2.4/S2mf Y2%
+xícara_noun de_prep chá_noun	F2/O2
+zona_noun eleitoral_adj	I2.2/H1c M7/G2.1 H1 H3
+à_prep frente_noun	M6 N4 T1.1.3
+à_prep hora_noun	N6
+à_prep maneira_noun de_prep	A6.1+ E2+ Z4 Z5
+à_prep margem_noun de_prep	M6 S5+ Z5
+à_prep noite_noun	N6+
+à_prep parte_noun	A6.1- M6 A10- A9+ N3.3+ A1.8- S1.1.3- Q2.1/A1.2-
+à_prep popa_noun	M6/M4 M4
+à_prep prova_noun	A11.1+ M6 S7.1+ Z4
+à_prep prova_noun de_prep bala_noun	A15+/G3
+à_prep prova_noun de_prep erros_noun	A15+
+à_prep prova_noun de_prep intempéries_noun	A1.1.1/W4 B5/W4
+à_prep prova_noun de_prep água_noun	B5/O1.2- O4.1/O1.2-
+à_prep prumo_noun	A5.1+ F1 M6 A5.3+% X2.5+
+à_prep queima-roupa_noun	A5.2+ N3.3-
+à_prep revelia_noun	A1.9
+à_prep risca_noun	A4.2+ A5.3+
+à_prep toa_noun	A1.4 A1.5.2-
+à_prep venda_noun	I2.2
+à_prep vista_noun	A11.2+
+à_prep vontade_noun	N3.8-
+à_prep água_noun	N5.2+ M6
+às_prep cegas_noun	X3.4- X2.5-
+às_prep pressas_noun	X5.2+ E3-
+às_prep vezes_noun	N6 N6-
+água_noun derramada_verb	O1.2 F1 B4/G2.1@ O1.2/M2
+água_noun mineral_adj	F2
+álamo_noun tremedor_adj	L3
+área_noun cercada_verb	Q1.2 M7 A1.8+ A10-
+área_noun cercada_verb em_prep uma_det residênci_verb	A2.1+ A5.1-/A2.1 H3 H4 O1 A6.3+ G2.1/M6 Q3%
+área_noun de_prep trabalho_noun	H5
+área_noun residencial_adj	M6
+árvore_noun frutífera_adj	A9+/S2mf
+árvore_noun genealógica_adj	S4
+época_noun de_prep a_det vindima_noun	T3 F2 T3+
+índio_noun dacota_adj	Z2
+óculos_noun de_prep sol_noun	B5/X3.4
+óleo_noun de_prep freio_noun	O1.2
+óleo_noun de_prep rícino_noun	O1.2
+órgãos_noun genitais_adj	M6
+ônibus_noun de_prep dois_num andares_noun	O2/M3
+
