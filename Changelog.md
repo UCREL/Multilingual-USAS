@@ -14,3 +14,4 @@ MWE = Multi Word Expression
 10. The `language_resources.json` file has been added, which is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. This file is explained in the `USAS Lexicon Meta Data` section of the `README.md`
 11. Removed `ID` column in the [Urdu semantic lexicon file](./Urdu/Urdu_Semantic_Lexicon.tsv), as the ID only represented line number and nothing else.
 12. Added [CONTRIBUTING guidelines](./CONTRIBUTING.md) for contributing a lexicon resource.
+13. Added [GitHub action](./.github/workflows/ci.yml) which will convert the lexicon resources created in text file format, following [CONTRIBUTING guidelines](./CONTRIBUTING.md), to TSV format. After conversion it will check that TSV files are formatted correctly, and if so it will add and commit the TSV files into the repository.
