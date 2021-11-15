@@ -37,4 +37,4 @@ jobs:
           python txt_to_tsv.py
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          if [ $? -eq 0 && $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.ref_name }}; fi
