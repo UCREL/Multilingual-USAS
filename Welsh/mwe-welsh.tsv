@@ -1,0 +1,15 @@
+mwe_template	semantic_tags
+Adran_NOUN Iechyd_NOUN	G1.1
+Carwyn_PNOUN Jones_PNOUN	Z1
+cynllun*_NOUN {NOUN} bws_NOUN am_PREP ddim_NOUN	M3/Q1.2
+cynllun*_NOUN {NOUN} bws_NOUN am_PREP dim_NOUN	M3/Q1.2
+cynllun*_NOUN {NOUN} bws_NOUN {ADJ/CONJ} am_PREP dim_NOUN	M3/Q1.2
+gofyn_VERB {NOUN/VERB} i_PREP	Q2.1
+parhad_NOUN busnes_NOUN	I2.1/T2+
+pwyllgor*_NOUN addysg_NOUN	P1/G1.1 G1.2
+pwyllgor_NOUN addysg_NOUN	P1/G1.1 G1.2
+rhoi_VERB 'r_ART ffidil_NOUN yn_PREP y_ART to_NOUN	A9-
+rhoi_VERB y_ART ffidil_NOUN yn_PREP y_ART to_NOUN	A9-
+Sir_NOUN Drefaldwyn_PNOUN	Z2
+tagiwr_* semantig_*	Y2
+talu_VERB sylw_noun i_PREP	X5.1+

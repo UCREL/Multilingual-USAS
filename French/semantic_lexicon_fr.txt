@@ -1,0 +1,2726 @@
+lemma	pos	semantic_tags
+à	prep	Z5
+abri	noun	A10- H1/A10- H4/H1c
+absence	noun	S1.1.3- A3-
+absent	noun	S1.1.3- A3-
+absolu	noun	A5.1+++ A1.7-
+absolument	adv	A13.2 Z4
+absurde	noun	S1.2.6-
+accélération	noun	N3.8+/A2.1
+accent	noun	Q3 A11.1+ A4.2+
+acceptation	noun	A9+ X2.5+ S1.2.1+ S7.4+
+accepter	verb	A9+ X2.5+ S1.2.1+ S7.4+
+accès	noun	M1 A9+ A1.1.1
+accessoire	noun	N5++ O2 B5 S8+/S2mf
+accident	noun	A1.1.2 A1.4
+accompagner	verb	S3.1 K2 T1.1.2
+accompli	adj	X9.1+ X9.2+
+accomplir	verb	X9.2+
+accord	noun	A6.1+ Q2.2
+accorder	verb	A9- Q2.2
+accroissement	noun	N5+/A2.1
+accroître	verb	N5+/A2.1
+accusé	noun	G2.1/S2mf
+accuser	verb	Q2.2 G2.1
+achat	noun	I2.2
+acheter	verb	I2.2
+acide	noun	O1 K2 F3%
+acier	noun	O1.1 O2 S1.2.5+ O4.3
+acquérir	verb	A9+
+acte	noun	A1.1.1 K4 A5.4- G2.1 P1% T1.1.2 A8
+acteur	noun	K4/S2.2m A1.1.1/S2mf@
+actif	noun	A1.1.1 X5.2+
+action	noun	A1.1.1 G3
+actionnaire	noun	I1.1/S2mf
+activement	adv	X5.2+ A1.1.1
+activité	noun	A1.1.1
+adaptation	noun	A2.1+
+adapter	verb	A2.1+
+additionnel	adj	N5++
+admettre	verb	Q2.2 B3 A1.8+ S7.4+/M1
+administrateur	noun	S7.1+/S2mf
+administratif	noun	S7.1+
+administration	noun	S7.1+c A9-
+admiration	noun	S7.2+ E2+
+admirer	verb	S7.2+ E2+
+adopter	verb	A9+ S4
+adresse	noun	H4 Q2.2 Q1.2 A1.1.1
+adresser	verb	Q1.2 Q2.2 A1.1.1
+adulte	noun	T3+/S2 T3+/S2mf
+aérien	adj	M5 Q1.3
+aéroport	noun	M5/M7
+affaiblir	verb	S7.1-/A2.1 I1.1-/A2.1 S1.2.5-/A2.1 O4.1/A2.1 A5.1-/A2.1
+affecter	verb	A2.1+ A5.4-/A8
+afficher	verb	A10+
+africain	noun	Z2 Z2/S2mf
+âge	noun	T3 T1.3 T3++
+âgé	adj	T3+ Z4
+agence	noun	I2.2/S5+c G1.1c
+agent	noun	I2.1/S2mf G1.1/X2.2+/S2mf K4/S2mf
+agir	verb	A1.1.1 T1.1.2 A8 K4
+agressif	noun	E3-
+agriculteur	noun	F4/S2mf
+agriculture	noun	F4
+ainsi	adv	Z5/A2.2
+ajouter	verb	N5+/A2.1 N2 A1.8+
+ajustement	noun	A2.1+
+alarme	noun	E5- E6- Q1.1/A15- O2/T1
+albanais	noun	Z2 Z2/S2mf
+album	noun	K2 Q4.1
+alcool	noun	F2 O1.2
+algérien	noun	Z2 Z2/S2mf
+aliment	noun	F1
+alimentaire	adj	F1
+allemand	noun	Z2/S2mf Z2/Q3
+aller	noun	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+alliance	noun	S5+c
+allouer	verb	A9-
+allusion	noun	A10-/Q2.2 A10-/Q2.1
+amant	noun	S3.2/S2mf E2+/S2mf
+amateur	noun	I3.2- I3.2-/S2mf
+ambassade	noun	G1.1/S7.1+/S5+ G1.1/H1
+ambassadeur	noun	G1.1/S2mf S1.1.1/S2mf
+ambiguïté	noun	Q3 A7-
+ambition	noun	X7+
+âme	noun	K2 S9 E1 S2mf
+amélioration	noun	A5.1+/A2.1
+améliorer	verb	A5.1+/A2.1
+amende	noun	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- G2.1 G2.1/I1.3 Z4
+amendement	noun	A2.1+
+amener	verb	M2 A2.2
+amer	adj	F2 X3.1 E3-
+américain	noun	Z2 Z2/S2mf
+ami	noun	S3.1/S2mf
+amical	adj	K5.1 S1.2.1+ S7.3-/K5.2
+amitié	noun	S3.1
+amour	noun	E2+ S3.2 E2+/S2mf
+amuser	verb	E4.1+
+an	noun	T1.3 P1c
+analyse	noun	X2.4 Y1
+analyser	verb	X2.4 Y1
+analyste	noun	Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf
+ancrer	verb	A1.7+ M4
+ange	noun	S9mf O4.2+/S2mf
+anglais	noun	Z1mf Z2 Z2/Q3 Z2/S2mfnc
+anglo-saxon	noun	Q3 Z2/S5
+animal	noun	L2 L2mfn S5+c O2c
+année	noun	T1.3 P1c
+annonce	noun	Q2.2
+annoncer	verb	Q2.2
+annuel	adj	N6+ Q4.1 L3
+annuler	verb	T2-
+anonyme	adj	A10-
+anormal	noun	A6.2-
+antenne	noun	B1/L2
+août	noun	T1.3 Z1m
+apparaître	verb	A8 A10+ A3+ G2.1 K4 Q4
+apparemment	adv	A8
+apparence	noun	A10+ O4.1 A3+ G2.1 K5 Q4
+appartenir	verb	A9+ A1.2+ S5+
+appel	noun	Q2.2 S1.1.1 Q1.3 S9% X7+
+appeler	verb	Q2.2 S1.1.1 Q1.3 S9%
+applicable	adj	A1.5.2+
+application	noun	Q1.2 A1.5.1 Y2 X5.1+ A1.1.1
+appliquer	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+apporter	verb	M2 A2.2
+apprécier	verb	E2+ X2.5+ S1.1.1 I1.1++
+apprendre	verb	X2.3+ P1
+approbation	noun	S7.4+ E2+ G1.1
+approche	noun	M1 A1.1.1 Q2.2 X4.2 E1 S1.1.1
+approcher	verb	M1 A1.1.1 Q2.2
+approprié	adj	A1.2+ A9+
+approuver	verb	S7.4+ E2+ G1.1
+appui	noun	S8+ A1.1.1 K5.1 I1.1 A10+ O2 B5%
+après	prep	Z5
+après	adv	N4 Z5
+après-midi	noun	T1.3
+apte	adj	X9.1+
+aptitude	noun	X9.1+
+arbitraire	noun	A1.4
+arbre	noun	L3 S4
+architecte	noun	H1/I3.2/S2mf X7+/S2mf T2+/S2mf
+architecture	noun	H1 O4.1
+argument	noun	Q2.1 Q2.1/A6.1- Q2.1/E3-
+arme	noun	G3 X4.1
+armé	adj	G3 B1
+armée	noun	G3c N5+
+armer	verb	G3
+arranger	verb	S7.1+ A1.1.1
+arrestation	noun	G2.1
+arrêt	noun	M3 T2- M8 H4 Q3 K2 S8- A1.1.1@
+arrivé	adj	M1 T2-
+arrivée	noun	M1 T2-
+art	noun	C1 X9.1+
+article	noun	G2.1/P1 Q4.2 O2 Q3 G2.1/P1@
+articuler	verb	Q2.2 Q2.1
+artificiel	adj	A5.4-
+artiste	noun	C1/S2mf K4/S2mf K2/S2mf
+artistique	adj	C1
+asiatique	noun	Z2 Z2/S2mf
+aspect	noun	A4.1 A8 M6
+aspiration	noun	X7+ Q3
+asseoir	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
+assez	adv	A13.3 N5+ N6+
+assistant	noun	S8+ S8+/S2mf I2.2/S2mf
+association	noun	S5+c A6.1+/X2.1
+associer	verb	A6.1+/X2.1 S3.1
+assumer	verb	X2.1 A5.4-/A8
+athlète	noun	K5.1/S2mf
+atlantique	noun	Z2
+atmosphère	noun	W3 W1 E1 N3.5
+atomique	adj	Y1
+atroce	adj	A5.1---
+attacher	verb	A1.7+ A2.2
+attaque	noun	E3- G3 B2- A1.1.2 Q2.2
+attaquer	verb	E3- G3 B2- A1.1.2 Q2.2
+attarder	verb	M8
+atteindre	verb	M1 N3.3 Q2.1 X9.2+
+attendre	verb	T1.3 A3+ A11.1+ S1.1.1%
+attente	noun	T1.3 A3+ A11.1+ S1.1.1%
+attention	noun	X5.1+ S8+
+attirer	verb	O4.2+ S3.2 O3
+attitude	noun	X2.1/E1
+au	det	Z5
+au	prep	Z5
+au-delà	prep	Z5
+au-delà	prep	Z5
+au-delà	adv	M6 N4 Z5
+au-dessous	prep	Z5
+au-dessous	adv	M6 Z5
+au-dessus	prep	Z5
+au-dessus	adv	M6 A5.1++ Z5
+audiovisuel	noun	X3.2/X3.4
+auparavant	adv	N4
+auteur	noun	Q1.2 Q4.1 Q4.1/S2mf
+auto	noun	M3fn
+autobus	noun	M3 M3fn
+automatique	adj	A1.1.1/S5- X2.1- X7- O2/S5- M3fn G3
+automatiquement	adv	O2/S5- X2.1- X7-
+automobile	noun	M3
+autonomie	noun	G1.1/S7.1+ X6+/S5-
+autoriser	verb	S7.4+
+autoritaire	adj	S7.1+
+autorité	noun	G1.1c S7.1+ S7.4+ X2.2+
+autour	prep	Z5
+autour	adv	A13.4 M6 Z5
+autre	det	A6.1- A6.1-/Z8
+autrui	pron	A6.1-/Z8
+aux	det	Z5
+avalanche	noun	W4 N5+
+avaler	verb	B1 X2.1/A7+ A10-/E1
+avance	noun	I1.1 M1/G3 S3.2 A5.1+/A2.1+ M1 T4+ S8+ X2.1 N4
+avant	prep	Z5
+avant	adj	N4 Z5
+avantage	noun	A5.1+ K5.2
+avec	prep	Z5
+avec	prep	Z5
+avenir	noun	T1.1.3
+aventure	noun	X8+ X5.2+ A15-
+avenue	noun	M3/H3 X4.2
+avertir	verb	X2.2+/A15- A1.3+
+avertissement	noun	X2.2+/A15- A1.3+
+aveu	noun	Q2.2/A10+ S9
+aveugle	noun	X3.4- X3.4-/B2- X3.4-/S2mf H5
+aviation	noun	M5
+avion	noun	A1.1.1/O4.5 M1 M5fn O4.4 O2 L3
+avocat	noun	G2.1/I3.2/S2mf
+avoir	noun	A9+ Z5 A2.2 S4
+avouer	verb	Q2.2 B3 A1.8+ S7.4+/M1
+avril	noun	T1.3 Z1f
+axer	verb	M6
+baiser	noun	S3.2
+ballon	noun	O2/O4.4 K5.1 B1 K1 O4.4
+bancaire	adj	I1.1 X2.6+ M1 H1
+banque	noun	I1.1 X2.6+ M1 I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6
+banquier	noun	I1.1/S2mf
+bar	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 S7.4- A1.7+ Z5
+barreau	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 S7.4- A1.7+ Z5
+base	noun	M7 T2+ A1.1.1 O1 K5.1@ B1% A5.1- M6 A2.2
+baser	verb	T2+ M6 A2.2
+basque	noun	Z2/S2mf Z2/Q3
+bataille	noun	X8+ G3 E3- O2
+bâtiment	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+bâtir	verb	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+beauté	noun	O4.2+ B4
+bébé	noun	NN1 T3--/Q2.1 T3-- T3--/S2mf E2+mfn
+belge	noun	Z2 Z2/S2mf
+ben	adv	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 W3/M4 W3
+bénéficiaire	noun	A9+/S2mf
+bénéficier	noun	S8+
+bénéfique	adj	S8+
+besoin	noun	S6+
+béton	noun	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+beurre	noun	F1
+bibliothèque	noun	Q4.1/H1c
+bien	adj	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 W3/M4 W3
+bientôt	adv	T1.1.3/N3.8+
+bienvenu	noun	Q2.2 S1.1.1 Z4
+bijou	noun	B5 O4.2+
+bilatéral	adj	S5+
+billet	noun	Q1.2 G2.1/Q1.2 G1.2
+blague	noun	E4.1+ S1.2.6-
+blanc	adj	O4.3 G2.2+ O4.3/S2mf F2 F1 B1
+blé	noun	F1
+blessé	noun	B2- A1.1.2 E1
+blesser	verb	B2- E4.1- A1.1.2
+bleu	adj	I1.2 O4.3 S1.2.4- G1.2
+bloc	noun	A10- S8- K4% O2 H1 N5+ B3
+blocage	noun	A10- S8- K4% O2 H1 N5+ B3
+bloquer	verb	A10- S8- K4%
+boire	noun	F2/B1
+bois	noun	O1.1 W3/L3
+boîte	noun	K5.1 A1.1.1 E3- O2 O4.4 Q4.3 G2.1 H2 B5/K5.1@ A4.1@
+bombarder	verb	G3 E2- N3.8+
+bombe	noun	G3 E2- N3.8+ N5+
+bon	adj	A5.1+ G2.2+ A1.5.2+ O4.2+ N3.2+
+bonheur	noun	E4.1+
+bonjour	noun	S1.1.1 Z4
+bosniaque	noun	Z2 Z2/S2mf
+bouche	noun	B1 Q2.2 M7/W3 W3/M4 O2 Q2.1
+boue	noun	O1.1 E2-/Q2.2
+boule	noun	O2/O4.4 K5.1 B1 K1 O4.4
+boulevard	noun	M3/H3
+bouleversement	noun	A2.1+
+bouteille	noun	A1.1.1 E5- A10- O2 E5+
+boutique	noun	I2.2 G2.1@ I2.2/H1c I4/H1c I3.1
+branche	noun	N5+ A2.1+ S5+c L3 A4.1
+bras	noun	B1 S5+c G3 O2 B5
+bref	adj	Q1.2 G2.1/S2mf Q2.1 T1.3- N3.7-%
+brièvement	adv	T1.3-
+brillant	adj	A5.1+++ X9.1+++ O4.3
+briller	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+briser	verb	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+bruit	noun	X3.2
+brûler	verb	O4.6+ E1 A1.5.1
+brutal	noun	E3-
+brutalement	adv	E3-
+budget	noun	I1 G1.1/I1 I1.3-
+budgétaire	adj	I1.1
+bulle	noun	O2 E1 O4.5 X3.2 A1.1.1
+bus	noun	M3 M3fn
+c'	pron	Z8
+ça	pron	Z8
+cacher	verb	A10-
+cadavre	noun	L1-/S2mf L1-
+cage	noun	A1.7+ H1/L2
+cahier	noun	Q1.2 Y2
+calcul	noun	N2 X2.4
+calculer	verb	N2 X7+
+calendrier	noun	O2/T1.3 T1.1 Q1.2
+calme	noun	E3+ E4.2+
+caméra	noun	C1 Q4.3
+camion	noun	M3 M3fn
+camp	noun	H4 M7 S5+c S2.1/A8 O4.2-
+campagne	noun	W3 F4/M7
+canadien	noun	Z2 Z2/S2mf
+cancer	noun	B2-
+candidat	noun	A7+ A1.2+ G1.2/S2mf I3.1/S2mf P1/S2mf
+cap	noun	Z2
+capitaine	noun	G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf S7.1+
+capitale	noun	I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1 M7/G1.1
+capitalisme	noun	G1.2/I2.1
+car	conj	Z5
+car	conj	Z5/A2.2
+caractériser	verb	A4.1 Q2.2
+caractéristique	noun	A6.2+ A4.2+ O4.1 N2
+carburant	noun	A1.1.1 A2.2 O1
+carrière	noun	I3.1 N3.8+
+carte	noun	B5 Q1.2 O1.1 I1.1/O2/Q1.1 K5.2
+cas	noun	A4.1 O2 G2.1 B3 X4.1 Q3
+casque	noun	B5
+casser	verb	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+cassette	noun	K3
+catégorie	noun	A4.1
+catholique	noun	S9 A6.2+ S9/S2mf
+cause	noun	A2.2 X2.1 X4.1 Z5/A2.2
+ce	det	Z5
+ce	pron	Z8
+ceci	pron	Z8
+ceci	pron	A13.3 M6 Z5 Z8
+cela	pron	Z8
+célèbre	adj	X2.2+
+célébrer	verb	E4.1+ S9
+celle	pron	Z8
+celle	pron	Z8
+celle-ci	pron	Z8
+celle-là	pron	Z8
+celles	pron	Z8
+celles-ci	pron	Z8
+celles-là	pron	Z8
+cellule	noun	B1 G2.1/H2 S9/H2 S5+c O3
+celui	pron	Z8
+celui	pron	Z8
+celui-ci	pron	Z8
+celui-là	pron	Z8
+censé	adj	S6+ X7+
+censure	noun	Q4/S7.4-
+cent	det	Z5
+centaine	noun	N1
+central	noun	A11.1+ M6
+centre	noun	M6 H1c M7c G1.2c K5.1mfn
+centrer	verb	M6
+cependant	adv	A13.1 Z4
+céréale	noun	F1 L3
+cérémonie	noun	S1.1.1
+certainement	adv	A7+
+certificat	noun	Q1.2
+certitude	noun	A7+
+cerveau	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+ces	det	Z5
+cessez-le-feu	noun	G3
+cet	det	Z5
+cette	det	Z5
+ceux	pron	Z8
+ceux-ci	pron	Z8
+ceux-là	pron	Z8
+chacun	pron	N5.1+ S1.1.2+
+chair	noun	B1 L2 A4.2+ O4.3 S3.2@
+chaise	noun	H5 S7.1+mf P1 S7.1+
+chaleur	noun	O4.6+ E1 A1.1.1 S7.3
+chaleureux	adj	O4.6+ E2+ O4.2+ S1.2.1+
+champion	noun	S8+ X9.2+/S7.3/S2mf S8+/S2mf
+championnat	noun	K5/S7.3+ S7.1+/K5 S8+@
+chancelier	noun	S7.1+/S2mf
+change	noun	A9/S1.1.2+ A2.1+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1
+changement	noun	A2.1+ I1 B1 B5
+changer	verb	A2.1+ I1 B5
+chanson	noun	K2
+chant	noun	K2
+chanter	verb	K2
+chanteur	noun	K2/S2mf
+chaos	noun	A1.7- G2.1- Y1@
+chapeau	noun	B5 I3.1@
+chapitre	noun	Q4.1 T1.3 S9/S5c S5+c
+chaque	det	N5.1+ S1.1.2+
+char	noun	M3 O2 G3/M3fn
+charbon	noun	O1.1
+charité	noun	S8+/S5+c S8+ S1.2.2-
+charmant	adj	O4.2+ S9%
+charme	noun	O4.2+ S9%
+charte	noun	I2.2 I3.2% Q1.2
+château	noun	H1
+chèque	noun	X2.4/A5.3 A15 Q1.2 T2- M5 I1.3 O4.4/B5
+cher	adj	I1.3+
+chercheur	noun	X2.4/S2mf
+cheval	noun	L2mfn
+cheveu	noun	B1
+chez	prep	Z5
+chien	noun	E6- L2mfn
+chimie	noun	Y1 S3.1
+chimique	adj	O1
+chinois	noun	Z2/Q3 Z2/S2mf
+chirurgien	noun	B3/S2mf
+chocolat	adj	F1
+choisir	verb	X7+
+choix	noun	A5.1+ S1.2.4- X7+ A6.3+
+chômage	noun	I3.1-
+chose	adj	O2 X4.1 A7- S2mf L2mf
+chute	noun	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 W3/M4 S9 K5 T1.3
+chuter	verb	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+cible	noun	X7+ G3 K5.1
+cibler	verb	X7+
+ciel	noun	W1
+cigarette	noun	F3
+cinéma	noun	Q4.3/H1 Q4.3
+cinq	det	Z5
+cinq	det	N1 T3 T1.2
+cinquième	det	Z5
+cinquième	det	N1
+circonstance	noun	O4.1
+circuit	noun	O3 S1.1.1 M7 K5.1 G2.1
+cité	noun	M7c M7/I2.1c
+citer	verb	Q2.2 I1.3
+citoyen	noun	G1.1/S2mf S5+/S2mf
+citoyenneté	noun	G1.1 S5+
+civilisation	noun	S1.1.1 A5.1+++ O4.2+++
+civiliser	verb	P1 A5.1+ O4.2+ S1.2.4+
+clair	adv	A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4
+clairement	adv	A7+ A11.2+ A12+
+clan	noun	S4c S5+c
+clarifier	verb	A7+/Q2.2
+classe	noun	A4.1 P1c S5+c O4.2+
+classique	noun	A4.1 A5.1+ T3+ Q4.1 K2
+clause	noun	Q1.2 Q3
+clé	noun	A1.1.1 A11.1+ O2 X9.2+ Q1.2
+clef	noun	A1.1.1 A11.1+ O2 X9.2+ Q1.2
+client	noun	I2.2/S2mf
+climat	noun	W4 A1.1.1 E1
+climatique	adj	W4
+clinique	noun	B3 B3/H1
+cloche	noun	O2/X3.2 O4.4
+clore	verb	A1.1.1 A10- T2-
+club	noun	K1 E3- S5+ S5+c O2
+coalition	noun	S5+c
+cochon	noun	L2mf O4.2-/S2mf A12-
+code	noun	A10-/Q1.1 A4.1 Y2@ B1% G2.1 G2.2 B3%
+cœur	noun	B1 M6 A11.1+ E1 X5.2+
+cohérent	adj	A7+ S1.2.6+ X2.5+
+cohésion	noun	S5+ A1.7+
+coin	noun	A1.7+ S7.1+ M3 O4.4 M6 K5.1
+coïncidence	noun	A1.4
+colère	noun	E3-
+collaboration	noun	S1.1.3+ S8+
+collectif	noun	S5+ N5+ A4.2- Q3 S5+c
+collègue	noun	I3.2/S2mf
+colline	noun	W3
+colonel	noun	G3/S7.1+/S2mf
+colonial	noun	M7/S7.1 C1
+colonie	noun	M7/S7.1- M7/H4 S5+ L2 L3
+colonne	noun	O2 S5+c Q4.2
+combattant	adj	E3-/S2mf X8+/S2mf K5.1/S2mf M5/G3fn
+combattre	verb	S8- X8+ E3- G1.2
+combinaison	noun	A6.3+ A2.1+ N1 M3fn
+comité	noun	S7.1+/S5+c
+commandant	noun	S7.1+/S2mf G3/S7.1+/S2mf G2.1/S2mf
+comme	conj	Z5
+comment	adv	Z5 A13.3
+commenter	verb	Q2.1
+commercial	noun	I2.1 I2.2/Q2.2
+commettre	verb	A1.1.1 S6+ A1.7+/G2.1
+commission	noun	A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ I2.2
+commun	noun	A6.2+ N5++ S5+ O4.2- M7
+communauté	noun	S5+c
+communication	noun	Q2.1 Q1.2 Q1.3 Q4.3
+communiquer	verb	Q2.1 Q1.2 Q1.3 X2.2+
+communisme	noun	G1.2
+communiste	noun	G1.2 G1.2/S2mf
+compagnie	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
+comparable	adj	A6.1+
+comparaison	noun	A6.1
+comparaître	verb	A8 A10+ A3+ G2.1 K4 Q4
+comparer	verb	A6.1 A5.1 Q3
+compassion	noun	E1 X2.5+/S1.2
+compatriote	noun	M7/S2mf
+compétence	noun	X9.1
+compétent	adj	X9.1+
+compétitif	adj	S7.3+
+compétition	noun	K1 S7.3+
+compétitivité	noun	S7.3+
+complément	noun	N5.1+ N5+ S5+ Q3
+complètement	adv	A13.2
+compléter	verb	T2- Q1.2
+complexe	noun	A12- H1 B2-/X1
+complexité	noun	A12-
+complice	noun	S8+/S2mf
+complicité	noun	A1.8+
+compliment	noun	S1.2.4+
+compliquer	verb	A12-
+comportement	noun	S1.1.1 A1.1.1
+composante	noun	N5.1- O2
+comprendre	verb	X2.5+
+compromettre	verb	A6.1+/S1.1.2+ G2.2-
+compter	verb	N2 A11.1+
+comte	noun	N2 A11.1+
+con	noun	S1.2.6- X9.1-
+concentration	noun	X5.1+ N5+ I2.2% O1.2
+concentrer	verb	X5.1+ I2.2% M6 N5+ O1.2 W3/I4
+concept	noun	X4.1
+conception	noun	X4.1 B1
+concernant	prep	Z5
+concerner	verb	E6- A1.8+ S1.1.3+
+concert	noun	E6- K2
+concession	noun	S7.4+ A9- I2.2 I1.3-
+concevoir	verb	X2.1 B1%
+concilier	verb	A6.1 S1.2.1+/E3+ X2.5+
+conclure	verb	X6+ T2-
+conclusion	noun	X6+ T2-
+concret	noun	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+concrétiser	verb	A3+ A10+
+concurrence	noun	K1 S7.3+
+concurrentiel	adj	S7.3+
+condamnation	noun	Q2.2/E2-
+condamner	verb	Q2.2/E2- Q2.2/A1.1.2 G2.1
+condition	noun	B4 P1 O4.1 S6+ B2- B2+ Z7
+conditionnel	noun	A2.2 Z7 Q3
+confédération	noun	S5+c
+conférence	noun	S1.1.3+
+conférer	verb	Q2.2 A9-
+confession	noun	Q2.2/A10+ S9
+confidentiel	adj	A10-
+confier	verb	A9- S7.1+ S7.4+
+confiner	verb	A1.7+
+confirmation	noun	A7+ Q2.2 S9@
+confirmer	verb	A7+ Q2.2 S9@
+conflit	noun	A6.1- G3 E3-
+conforme	adj	A6.1+
+conformité	noun	A6.1+
+confort	noun	S8+
+confortable	adj	O4.2+
+confrère	noun	I3.2/S2mf
+confrontation	noun	A6.1- G3 S1.1.1/E3-
+confronter	verb	A1.1.1 S1.1.1
+conjointement	adv	S1.1.2+
+connaissance	noun	X2.2+ S3.2/B1%
+connaître	verb	X2.2+ S3.2/B1%
+connexion	noun	A2.2 S5+ M3 O3 A1.1.1
+conquérir	verb	X9.2+/S7.3 X9.2+/G3 S7.1+
+conquête	noun	X9.2+/S7.3 X9.2+/G3 S7.1+
+consécutif	adj	N4
+consensus	noun	A6.1+
+consentement	noun	S7.4+ Q2.2
+conséquence	noun	A2.2
+conservateur	noun	G1.2 A6.2+ A1.3+ A9+ G1.2/S2mf A2.1-/S2mf
+considération	noun	X2.1 X2.4 S1.2.3-
+considérer	verb	X2.1 X2.4 X6
+consister	verb	A1.8+
+consommation	noun	A1.5.1 A1.5.1/N5 F1 F1/N5 B2-%
+constant	adj	A2.1- N2 T2++ S6+
+constituer	verb	A3+ A1.8+ A1.1.1
+constitution	noun	G1.1 B2 O1/A1.8+
+constitutionnel	noun	G1.1 M1
+constructif	adj	S8+
+consultatif	adj	S8+
+consultation	noun	Q2.1 B3 X2.3
+consulter	verb	Q2.1 Q1.1/S8+
+contact	noun	Q2.2 S1.1.1 S2mf O3
+conte	noun	Q2.1
+contemporain	noun	T1.1.2/S2mf
+contenir	verb	A1.8+ A1.7+
+contenu	noun	A1.8+ Q2.1
+contexte	noun	O4.1/A3+ A2.2 Q3
+continent	adj	B1 W3
+continental	adj	W3 Z2/S2mf
+continu	noun	T2++
+continuer	verb	T2++
+contradiction	noun	A6.1-
+contrainte	noun	A1.7+
+contrairement	adv	A6.1-
+contrat	noun	Q1.2/I2.1 N3.2-/A2.1 B2- Q1.2/I3.1 Q1.2/G2.1
+contre	prep	Z5
+contre	adv	A5.1- S8- Z5
+contredire	verb	A6.1-/Q2.2 A6.1-
+contrer	verb	A6.1-
+contribuable	noun	I1.1/S2mf
+contribuer	verb	A9- A2.2 S1.1.3+
+contribution	noun	A9- A2.2 S1.1.3+
+contrôle	noun	S7.1+ A1.7+ O2
+controverse	noun	Q2.2
+convaincant	adj	A7+ A7+/Q2.2
+convaincre	verb	A7+/Q2.2
+conventionnel	noun	A6.2+
+conversation	noun	Q2.1
+conversion	noun	A2.1+ S9 K5.1
+convertir	verb	A2.1+ S9 K5.1
+coopération	noun	S8+
+coopérer	verb	S8+
+coordination	noun	S7.1+ T1.1.2 O4.1
+coordonner	verb	S7.1+ T1.1.2
+corps	noun	B1 O2 S5+c O4.1 S2mf
+correct	adj	A5.3+ A5.3+/A2.1
+correctement	adv	A5.3+ S1.2.4+ A13.3
+correction	noun	A5.3+/A2.1
+correspondant	noun	Q4.2/S2mf Q1.2/S2mf
+correspondre	verb	Q1.2 A6.1+
+corriger	verb	A5.3+/A2.1
+corruption	noun	G2.2- G2.1- Q3
+côte	noun	E6+ W3/M4
+côté	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+cotisation	noun	Q4.2/I2.2 A9-/I1 I2.2/I1
+coton	noun	O1.1 X2.3+
+cou	noun	B1 O2 S3.2
+coude	noun	B1 E3-
+couleur	noun	O4.3
+coupable	noun	G2.1- E4.1-
+couper	verb	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
+couple	noun	N5+ S4c
+courage	noun	E5+/S1.2
+courageux	noun	E5+/S1.2
+courant	adj	T1.1.2 W3/M4 W3/M5 O3 E1
+courir	verb	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
+cours	noun	M1 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 Z4
+court	adj	N5- T1.3- O3 Q4.3 F2 N3.7- N3.3- S1.2.4- N3.8+@ F1%
+cousin	noun	S4mf
+coût	noun	I1.3 I1.2
+couteau	noun	E3- O2
+coûter	verb	I1.3 I1.2
+coutume	noun	A6.2+ S1.1.1 I2.2
+couverture	noun	H5 O2 N5.2+ N5.1+
+couvrir	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+crainte	noun	E5-
+crâne	adj	B1 M4%
+créateur	noun	A1.1.1/S2mf A2.2/S2mf
+création	noun	A1.1.1 A2.2
+créature	noun	L2 S9
+crédibilité	noun	A5.2+/A8
+crédible	adj	A5.2+/A8
+crédit	noun	I1.1 A5.1+ X2.1 P1
+créer	verb	A1.1.1 A2.2 E1
+crème	adj	F1 A9+ S7.1+ B3 O1.2 O4.3 A5.1+++
+creuser	verb	A1.1.1 X2.4 E2+ S8+ X7+
+crime	noun	G2.1-
+criminalité	noun	G2.1-
+criminel	noun	G2.1- A5.1- G2.1-/S2mf
+crise	noun	A12-
+critiquer	verb	Q2.2/E2-
+croire	verb	X2.1 S9%
+croiser	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+croisière	noun	M4 G3% M1
+croissance	noun	N3.2+/A2.1 A5.1+/A2.1 L3 B2-
+croix	noun	E3- M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 S1.1.1 S9@ S9/O2 A2.1+mfn G2.1/O2%
+croyance	noun	X2.1 S9%
+croyant	noun	X2.1/S2mf S9/S2mf
+cruauté	noun	E3-
+culpabilité	noun	G2.2- G2.1-
+culture	noun	C1 S1.1.1 S5+ L1
+culturel	adj	C1 S1.1.1 S5+
+curieux	noun	X5.2+ A6.2-
+curiosité	noun	X5.2+
+cycle	noun	M3 N6 M3fn B1
+d'	det	Z5
+d'après	prep	Z5
+d’autant	null	N4 Z5
+dame	intj	S2.1f S7.1+/S2.1f
+danger	noun	A15- A7+
+dangereux	adj	A15-
+dans	prep	Z5
+danser	verb	K1
+danseur	noun	K1/S2mf
+date	noun	T1.2 S3.2 S3.2/S2mf T3
+dater	verb	T3 S3.2
+davantage	adv	A13.3 N6++ N5++
+de	prep	Z5
+de	det	Z5
+débat	noun	Q2.2
+debout	adv	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. S7.1
+début	noun	T2+
+débuter	verb	T2+ E5- E3-
+décembre	noun	T1.3
+décennie	noun	T1.3
+décès	noun	L1-
+décevant	adj	E4.2-
+décevoir	verb	E4.2-
+décharger	verb	M2
+décider	verb	X6+
+décisif	adj	A11.1+ X6+
+décision	noun	X6+
+déclaration	noun	Q2.2
+déclarer	verb	Q2.2 K5.1%
+découverte	noun	A10+
+découvrir	verb	A10+
+décret	noun	Q2.2 G2.1
+décrire	verb	Q2.2
+dédier	verb	Q2.2 A9-
+défaite	noun	X9.2+/G3 X9.2+/S7.3 A12- X9.2-
+défense	noun	S8+ G3 G2.1c Q2.2 K5.1 S7.3+
+défenseur	noun	S8+/S2mf G2.1/S2mf G3/S2mf O2
+défi	noun	A12- A6.1- S7.3+ E3- Q2.2
+déficit	noun	N5- B2-
+défini	noun	A7+++
+définir	verb	Q2.2 A2.2
+définition	noun	Q2.2 O4.1
+dégât	noun	A1.1.2 I1.1+/G2.1
+degré	noun	A13.1 N3.1 N3.2 N5 P1
+déguiser	verb	A10-
+dehors	adv	M6 S1.1.3- S5- Z5
+déjà	adv	T1.1.1
+délai	noun	T4-
+délégation	noun	S7.4+ A9- S5+c
+délégué	noun	G1.1/S2mf S7.4+ A9-
+déléguer	verb	S7.4+ A9-
+délibérément	adv	X7+ A1.3+
+déménager	verb	M2 M1 A2.1+ E1 H4/A2.1
+demi	adj	N1 A13.4 N5 N5c
+démission	noun	A9- Q2.2 S7.1- I3.1
+démissionner	verb	A9- Q2.2 S7.1- I3.1
+démocratie	noun	G1.2
+démocratique	adj	G1.2
+démographique	adj	S5+
+démonstration	noun	G1.2 A10+
+démontrer	verb	A10+ G1.2
+dénoncer	verb	Q2.2/E2-
+dénonciation	noun	Q2.2/E2-
+départ	noun	M1 T2+
+département	noun	H2/S5+c X2.2
+dépendre	verb	A2.2 S7.1-
+dépens	noun	I1.3
+dépenser	verb	I1.2 A1.5.1 T1.3
+déplorer	verb	E2-
+dépression	noun	E4.1- B2-/X1 I2.1/N5- O4.4 W4
+depuis	prep	Z5
+dérive	noun	M1 A1.4 W4 N5+ A2.1+ X4.1 W3
+dernier	noun	N4 O2 T2++ T1.3
+derrière	prep	Z5
+des	det	Z5
+dès	prep	Z5
+désastre	noun	A5.1--- X9.2- A1.1.2/W4
+désastreux	adj	A5.1--- X9.2-
+description	noun	Q2.2 A4.1
+déséquilibre	noun	A6.1-
+désespérer	verb	E4.1-
+désespoir	noun	E4.1-
+désigner	verb	Q2.2 X7+
+désir	noun	X7+ S3.2
+désirer	verb	X7+ S3.2
+destination	noun	M6
+destruction	noun	A1.1.2
+détachement	noun	X5.2- E1- G3/S5+c
+détail	noun	A4.2+ S5+c B5 Q2.2
+détailler	verb	Q2.2
+détecter	verb	A10+
+détenu	noun	G2.1/S2mf A1.7+/S2mf
+détérioration	noun	A5.1-/A2.2
+détériorer	verb	A5.1-/A2.1
+détourner	verb	M6 A2.1+
+détresse	noun	E6- E4.1- B2-
+détriment	noun	A1.1.2
+détruire	verb	A1.1.2
+dette	noun	I1.2
+deux	det	Z5
+deux	det	N1 T3 T1.2
+deuxième	det	Z5
+deuxième	det	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+deuxièmement	adv	N4
+devant	prep	Z5
+développement	noun	A2.1+ A5.1+/A2.1 H1
+développer	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
+devenir	noun	A2.1+ O4.2+
+diable	intj	F1 E3- S9 G2.2-/S2mf
+diagnostic	noun	B3 X4.1
+dialogue	noun	Q2.1
+diamant	noun	O1.1 O4.4
+dictateur	noun	S7.1+/S2mf Q2.2/S2mf
+dictature	noun	S7.1+
+dictionnaire	noun	Q4.1
+dieu	intj	Z4 S9
+différemment	adv	A6.1-
+différence	noun	A6.1-
+différencier	verb	A6.1- N2%
+différent	adj	A6.1-
+difficile	noun	A12-
+difficulté	noun	A12-
+dignité	noun	S7.2+
+dilemme	noun	X2.5-
+dimanche	noun	T1.3
+dimension	noun	A4.1 N3.2
+diplomatie	noun	S1.2.4+ G1.1
+diplomatique	noun	G1.1 S1.2.4+
+dire	noun	Q2.1 Z4%
+direct	noun	M6 O4.4 N3.8+ S1.2 A10+ S1.1.1 Q2.2 S7.1+ K4
+directement	adv	M6 N3.8+ S1.1.1
+directeur	noun	S7.1+/S2mf K4/S2mf
+directive	noun	S8+
+dirigeant	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
+discipline	noun	G2.1 A1.7+ P1
+discrétion	noun	A1.3+ S7.1+
+discrimination	noun	A6.1- G2.2-
+discussion	noun	Q2.1 Q2.2
+disparition	noun	A10- M1 A3-
+disponibilité	noun	A3 A9+ A1.2+/G1.2
+disponible	adj	A3+ A9+ A1.2+/G1.2 S4
+disputer	verb	Q2.2/A6.1-
+disque	noun	O4.4/O2 B1 K3
+distance	noun	A1.9 N3.3+ S1.2.1-
+distinct	adj	A6.1- A11.2+ A4.2+
+distinction	noun	A6.1- A5.1+ S7.2+
+distinguer	verb	A6.1- X3 A5.1+
+distorsion	noun	A2.1+
+distribution	noun	A9- N5
+diversité	noun	A6.3+
+diviser	verb	A6.1- A9-/N5.1 N2
+division	noun	A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c
+divorce	noun	S4 A6.1-
+dix	det	Z5
+dix	det	N1 T3
+dix-huit	det	N1 T3
+dix-neuvième	det	N4
+dix-sept	det	N1 T3 T1.2
+dixième	det	Z5
+dixième	det	N4 N1
+docteur	noun	B3 A2.1+/G2.1- B3/I3.2/S2mf P1/S2mf
+doctrine	noun	S9 X4.1
+document	noun	Q1.2 X2.2+ A5.2+ Y2
+doigt	noun	B1 O4.4 X3.3
+dollar	noun	I1
+dominer	verb	S7.1+ A11.1+ A11.2+
+don	noun	A9- X9.1+
+donc	conj	Z5
+donner	verb	A9- A1.1.1
+dont	pron	Z8
+doré	adj	O4.3 A11.1+ A5.1+
+dormir	verb	B1 H4/N5
+dos	noun	B1 M6 N6+ T1.1.1 S1.1.2+ T3+ S8+ K5.1/I1 M1 K2
+double	noun	F2 A6.1+/S2mf N5+ N5+/A2.1
+douleur	noun	B2- E2- E4.1-
+doute	noun	A7-
+douter	verb	A7-
+douzaine	noun	N5
+drame	noun	K4 A1.1.1
+drapeau	noun	Q1.1 N5-/A2.1 B2-/A2.1 H1 O2/H1
+drogue	noun	B3 F3
+droit	adj	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 S7.4+ G1.2 Z4
+droite	noun	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 S7.4+ G1.2 Z4
+du	det	Z5
+du	prep	Z5
+duc	noun	S7.1+/S2.2m
+dur	adv	O4.1 X8+ X5.2+ N5+ A12- O4.5 S1.2.5+
+durant	prep	Z5
+durer	verb	T2++ T1.3
+dynamique	noun	A2.1+ X5.2+
+dynamisme	noun	X5.2+ A2.1+
+eau	noun	F4 B1 O1.2 W3/M4 C1%
+échange	noun	A9/S1.1.2+ A2.1+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1
+échanger	verb	A9/S1.1.2+ A2.1+
+échantillon	noun	A4.1 B3 X7+ X3.1 X8+ K2
+échapper	verb	A1.7- X2.2- Y2
+échec	adj	X9.2- A5.1-/A2.1
+écho	noun	X3.2
+échouer	verb	X9.2- A5.1-/A2.1
+école	noun	P1 P1/H1c S5+c L2%c
+écologique	adj	W5
+économie	noun	I2.1 I1.3-
+économiquement	adv	I1.3- I2.1@
+économiste	noun	I2.1/S2mf
+écoute	noun	X3.2
+écran	noun	A10- Q4.3 X2.4 B3 Y2 H5
+écrire	verb	Q1.2 I2.1
+écrit	noun	Q1.2 I2.1
+écriture	noun	Q1.2 I2.1
+écrivain	noun	Q4.1/S2mf Q1.2/S2mf
+édifice	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+éditorial	noun	Q1.2 Q4 Q4.2
+éducation	noun	P1 X2.3+
+effectivement	adv	A5.4+ X9.2+
+effet	noun	A2.2 A8
+effort	noun	X8+ O2
+égal	noun	A6.1+ A6.1+++
+égalité	noun	A6.1+
+église	noun	S9/H1c S9c
+égyptien	noun	Z2/S2mf
+élection	noun	G1.2/X7+
+électoral	adj	G1.2/X7+
+électricité	noun	O3
+électrique	adj	O3
+électronique	noun	O3 Y2
+élément	noun	A4.1 N5 S5+c O1 O3 O2 W4
+élimination	noun	A9- E3/L1-
+éliminer	verb	A9- E3/L1-
+élire	verb	G1.2/X7+
+élite	noun	A5.1+++ A5.1+++/S5+c S7.1+/S5+c
+elle	pron	Z8
+elles	pron	Z8
+éloge	noun	S7.2+/Q2.2
+embargo	noun	S7.4-
+embaucher	verb	I2.2 I3.1
+emmener	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+empêcher	verb	S8-
+empereur	noun	S7.1+/S2mf
+empire	noun	G1.1 I2.1/S+
+employé	noun	I3.1/S2mf
+employeur	noun	I3.1/S2mf
+emprunt	noun	A9- I1.2
+emprunter	verb	A9+
+en	prep	Z5
+en	pron	Z8
+encourageant	adj	S8+
+encouragement	noun	S8+
+encourager	verb	S8+
+énergie	noun	X5.2+ Y1
+énergique	adj	X5.2+
+enfance	noun	T1.3/T3-
+enfant	noun	S2mf/T3- S4mf
+enfer	noun	S9 O4.2- E3- G2.2- Z4
+enfermer	verb	A10-
+enjeu	noun	A1.4 I1/A1.4 S1.1.2+ O2
+enlever	verb	M2
+ennemi	noun	S1.2.1-/S2mfc S8-
+énorme	adj	N3.2+++
+énormément	adv	A13.3
+enseignant	noun	P1/I3.2/S2mf
+enseigner	verb	P1
+ensuite	adv	N4
+entamer	verb	T2+ E5- E3-
+entendre	verb	X3.2 X2.3+ G2.1@
+enthousiaste	adj	X5.2+
+entité	noun	O2 S5+
+entourer	verb	M6 A1.8+ A10- G3
+entre	prep	Z5
+entre	prep	M6 N4 Z5
+entrée	noun	M7 M1 T2+ O4.2+
+entretenir	verb	A9+ T2++ S8+ A1.1.1 Q2.2
+énumérer	verb	N1/N4 Q1.2/N4
+enveloppe	noun	O2
+envers	prep	Z5
+envie	noun	S1.2.2+
+environ	prep	Z5
+environnement	noun	W5 W3 E1 Y2 O4.1
+environnemental	adj	W5 W3
+envoyer	verb	M2 A2.2
+épaule	noun	B1 M3 M2 E3- A9+
+épidémie	noun	B2-/S5+ N5+
+épisode	noun	A3+/A11.1+ A6.2- Q4 B2-
+équation	noun	N2
+équilibrer	verb	O4.1/B1 A6.1+ A11.1 I1.1
+équipe	noun	S5+ S5+c K5.1/S5+c
+équipement	noun	O2
+équivalent	noun	A6.1+
+ère	noun	T1.3
+erroné	adj	A5.3- A5.2-
+esclave	noun	A1.1.1 S7.1-/S2mf
+espace	noun	N3.6 W1 T1.3 Q1.2 N6
+espagnol	noun	Z2 Z2/Q3 Z2/S2mfnc F1% Z2/S2c
+espèce	noun	A4.1c L2c
+espérance	noun	X2.6+ E4.1+ X9.2+ A5.1+
+espérer	verb	X2.6+ E4.1+ X9.2+ A5.1+
+espoir	noun	X2.6+ E4.1+ X9.2+ A5.1+
+essayer	verb	X8+ X2.4 Q2.2 G2.1 A12-
+essentiel	noun	S6+ A4.2+
+essentiellement	adv	S6+ A13.2 Z4
+est	noun	M6
+et	conj	Z5
+et	conj	Z5
+établir	verb	T2+ X6+
+étage	noun	H2 S5+ X9.2- E3-
+état	noun	G1.1c O4.1 Q2.1
+été	noun	T1.3
+ethnique	noun	S5+
+étoile	noun	A11.1+ Q1.2 K4/A11.1+ W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 Z3c
+étroitement	adv	A13.4 A4.2+ N3.3-
+étude	noun	P1 X2.4 H2 Q1.2 C1
+étudiant	noun	P1/S2mf
+étudier	verb	P1 X2.4
+européen	noun	Z2 Z2/S2mf Z3
+eux	pron	Z8
+eux	pron	Z8mfn
+évaluation	noun	A5.1 N2
+évaluer	verb	A5.1 N2
+événement	noun	A3+/A11.1+ A6.2- S1.1.1/X7+ K5
+éventuel	noun	A7+
+éventuellement	adv	A7+
+évêque	noun	S9/S7.1+/S2mf
+évidemment	adv	Z4 A11.2+
+évidence	noun	A10+ A5.2+ X2.4 X2.2 G2.1
+évident	adj	A11.2+
+éviter	verb	A1.9 M1
+évoluer	verb	A2.1+
+évolution	noun	A2.1+
+ex	noun	S4/S2mf T1.1.1
+exactement	adv	A4.2+ A5.3+
+examen	noun	P1 B3% X2.4%
+examiner	verb	X2.4 B3 P1
+excédent	noun	N5.2+
+excéder	verb	N5.2+
+excellence	noun	A5.1+++
+excellent	adj	A5.1+++
+excepté	prep	Z5
+exception	noun	A6.1-
+exceptionnel	noun	A6.2-
+exclu	noun	A1.8-/S2mf
+excluant	prep	Z5
+exclure	verb	A1.8-
+excuser	verb	Q2.2 S1.2.4+
+exécutif	noun	I2.1/S2mf G1.1c S7.1+/S5+c S7.1+
+exemple	noun	A4.1
+exil	noun	M2/G1.2 G1.2/S2mf
+exiler	verb	M2/G1.2
+existant	adj	A3+
+existence	noun	A3+
+exister	verb	A3+
+exode	noun	M1 S9
+expansion	noun	N3.2+/A2.1 A4.2-/A2.1
+expérience	noun	A2.1+/A3+ X3 X2.2+ X9.1+ I3.2
+expérimental	adj	X2.4 Y1
+expérimenter	verb	X2.4
+expert	noun	X2.2+ X9.1+ X2.2+/S2mf X9.1+/S2mf
+expertise	noun	X2.2+ X9.1+
+explication	noun	Q2.2/A7+ A2.2
+explicite	adj	A4.2+
+explicitement	adv	A4.2+
+expliquer	verb	Q2.2/A7+ A2.2
+exploit	noun	A1.1.1 G2.2- A1.5.1
+exploiter	verb	G2.2- A1.5.1
+explosif	noun	A15- N3.2+/A2.1 G3/O1.1
+explosion	noun	A1.1.1 E3- N5+/A2.1 G3
+exportation	noun	I2.2/M2
+exporter	verb	I2.2/M2
+expression	noun	Q3 E1/B1
+exprimer	verb	Q1.1 B1%
+extérieur	noun	M6
+extraction	noun	B3 A9+
+extraordinaire	adj	A6.2-
+extrême	noun	N5.1+++ N5.2+ S1.2.6- A12- N3.3+++
+extrêmement	adv	A13.3
+fabricant	noun	A1.1.1/S2mfc
+facile	adj	A12+
+facilement	adv	A12+
+faible	noun	S1.2.5- O4.1 S7.1- A5.1-
+faiblesse	noun	S1.2.5- O4.1 S7.1- A5.1- X9.1- E2+
+faille	noun	A5.3- A2.2 W3% E2-
+faim	noun	F1-/B1 S1.2.2+ A1.5.1/N5+
+fameux	adj	X2.2+
+familial	adj	S4c A4.1c
+famille	noun	S4c A4.1c
+famine	noun	F1-
+fardeau	noun	A12- M2 O2
+fasciner	verb	X5.2+
+faveur	noun	E2++ S8+
+favorable	adj	A5.1+ S8+
+favoriser	verb	E2++
+fédéral	noun	S5+
+félicitation	noun	Q2.2
+féliciter	verb	Q2.2
+féminin	noun	S2.1 S2.1f
+fenêtre	noun	H2 T1.3
+fer	noun	B4 O1.1 B4/O2 O2 S1.2.5+
+fermement	adv	A1.7+ S1.2.5+ A7+
+fermeture	noun	A1.1.1 A10- T2-
+fermier	noun	F4/S2mf
+festival	noun	K1/S1.1.3+ S9
+fêter	verb	E4.1+ S9
+feu	adj	I3.1- G3 M2 A2.2 Q2.2 O4.6+
+février	noun	T1.3
+fichier	noun	O2/Q1.2 O2 Y2 S5+/N4 Q1.2 A1.1.1
+fiction	noun	A5.2-
+fidèle	noun	S6+ A5.2+ S9 S9/S2c
+fierté	noun	E4.2+ S1.2.3+ E4.2+/S1.2 S7.2+ O4.2+
+fièvre	noun	B2- X5.2+
+film	noun	Q4.3 O2/C1 O1.1 O1.2 B3
+fils	noun	S4m
+final	noun	K5.1 N4 T2-
+finance	noun	I1
+financement	noun	I1
+financer	verb	I1
+finir	verb	T2- A1.5.1/N5.1+ A1.1.1 X9.2-
+firme	noun	A7+ I2.1/S5+c O4.5 A1.7+
+fiscal	adj	G2.1/S2mf I1/G1.1 I1
+fixe	noun	A1.7+ A2.1- X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
+flèche	noun	G3 O4.4 A5.1+/O2
+fleur	noun	L3 X9.2+
+fleuve	noun	W3/M4 N5+
+flic	noun	A9+ G2.1/S2mf A5.1+@
+flotte	noun	M4c M3c
+flux	noun	M4 M1 N5
+foi	noun	E6+ S9 X2.1
+foie	noun	B1 F1 S2mf
+foire	noun	A1.1.1 G2.2+ A5.1+ O4.2+ O4.3 W4 N5 K1/S1.1.1 I2.2/S1.1.1
+fonction	noun	A1.1.1 A1.5.1 S1.1.3+ A2.2 N2 Y2
+fonctionnel	adj	A1.5.2+
+fond	noun	N4 M6 B1 A5.1---
+fondateur	noun	T2+/S2mf
+fondation	noun	T2+ H2 S5+c A5.2+ B4
+fondement	noun	T2+ H2 S5+c A5.2+ B4
+fonds	noun	I1.1 N5+
+force	adv	E3- S7.1+ G2.1c N3 S5+c A1.1.1
+forcer	verb	S7.1+ A1.1.1 E3-
+forêt	noun	W3/L3 Z3
+formalité	noun	A6.2+ G1.1
+format	noun	O4.1 Y2
+formation	noun	P1 K5.1
+forme	noun	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ T2+ A2.1+ A1.8+ A3+ A1.1.1
+formé	noun	S7.1 O4.1 T2+ A2.1+ A1.8+ A3+ A1.1.1
+former	verb	T2+ A2.1+ A1.8+ A3+ A1.1.1
+formuler	verb	X2.1 Q2.2
+fort	adv	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+fortement	adv	A13.3 A5.1+
+fortune	noun	I1.1+++ A1.4 X9.2 T1.1.3/S9
+fossé	noun	A9- M7
+foudre	noun	W2/W4 N3.8+
+fouet	noun	E3- M2 M1/N3.8+ A1.1.1 A2.2 A9- E3-/O2 O2 F1 G1.2/S2mf
+foule	noun	N5++ S5+c
+fraction	noun	N5- N2
+français	noun	Z2 Z2/S2mf Z2/Q3
+franchement	adv	A5.2+
+fraude	noun	G2.1- G2.2-
+frein	noun	M8 O2
+fréquemment	adv	N6+
+fréquence	noun	N6
+fréquent	adj	M1/N6+ N6+
+frère	noun	S4m S2.2m S9/S2.2m
+froid	noun	B2- O4.6- S1.2.1- E1- A1.1.1
+fromage	noun	F1
+frontière	noun	M7/G1.1 M6 O2 B5 L3/H3
+fruit	noun	F1 X9.2+
+frustration	noun	E4.2- S8-
+frustrer	verb	S8-
+fuir	verb	M1
+fuite	noun	A1.7- O2 X2.2- Y2
+fumée	noun	F3 O1.3 F1 F3@
+fumer	verb	F3 O1.3 F1
+futur	noun	T1.1.3
+gain	noun	A9+ N5+/A2.1
+galerie	noun	C1/H1 H2
+gamin	noun	E4.1+ A5.2- S2mf/T3- S4mf L2
+garage	noun	M3/H1
+garantie	noun	A7+/Q2.2
+garantir	verb	A7+/Q2.2
+garçon	noun	S2.2m L2m@ Z4
+garde	noun	A1.1.1/A15+ X3.4/A15+ A15+/I3.2/S2mf O2/A15+
+garder	verb	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4
+gars	noun	S2.2m O2 Z1
+gâteau	noun	F1 I1.1 O4.1
+gauche	noun	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- M6 G1.2 G1.2c
+gaz	noun	E3- Q2.1 O1.3
+gendarme	noun	G2.1/I3.2/S2.2m
+gène	noun	B1
+général	noun	G3/S7.1+/S2mf B3/H1 N5+ A4.2-
+généralement	adv	A6.2+ A4.2- A13.2
+généraliser	verb	A4.2-
+génération	noun	T1.3 S5+c
+générer	verb	A2.2 O3
+généreux	adj	S1.2.2- N5+
+génétique	noun	B1
+génétiquement	adv	B1
+génie	noun	X9.1+/S2mf X9.1+
+génocide	noun	L1-/S5+
+genou	noun	B1 E3-
+gens	noun	S2 S2mfc
+gérer	verb	S7.1+ A1.1.1 X9.2+
+geste	noun	Q1.1/B1 A10+ M1 A1.1.1
+gestion	noun	S7.1+c
+global	adj	W3 M7 A1.8+ O4.4
+globalement	adv	M7 A1.8+
+globe	noun	W1 O4.4
+golfe	noun	A6.1- W3/M4
+gorge	noun	B1 B5%
+gosse	noun	E4.1+ A5.2- S2mf/T3- S4mf L2
+goût	noun	X3.1 F1 X2.2 O4.2 E2+
+goutte	noun	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 O1.2/N5 N5- B3 N3.3 F1
+gouvernement	noun	G1.1c
+gouverneur	noun	S7.1+/S2mf G1.1/S2mf O2%
+grand-mère	noun	S4f
+grand-père	noun	S4m
+gré	noun	E2+
+grec	noun	Z2 Z2/Q3 S3.2/B1% Z2/S2mf
+grève	noun	I3.1-/G1.2 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ G3 A10+ K5.1
+gris	noun	O4.3 O4.2- E4.1-
+gros	adv	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+
+grossesse	noun	B1
+groupe	noun	S5+ A4.1 B3% S5+c A4.1c
+guère	adv	A13.7
+guerre	noun	G3 S7.3
+guide	noun	S8+ Q4.1 S8+/S2mf K1/S2.1f
+guider	verb	S8+
+ha	intj	Z4
+habitant	noun	H4/S2mf
+habiter	verb	H4 L1+ A3
+habitude	noun	S1.1.1 A6.2+ B5@
+handicap	noun	B2- S8- K5.1
+handicaper	verb	B2- S8-
+hanter	verb	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+hausser	verb	M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4
+hautement	adv	A13.3
+hauteur	noun	N3.7 N5.1+ S7.1+
+hé	intj	Z4
+hebdomadaire	noun	N6+ Q4.2
+hélas	intj	E4.1-
+hélicoptère	noun	M5
+hépatite	noun	B2-
+héritage	noun	A9+/S1.1.1 T1.1.1
+hériter	verb	A9+/S4 A9+/N4
+héritier	noun	S4mf
+héroïne	noun	Q4.1/S2.1f E5+/S2.1f E2+/S2.1f
+héros	noun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m
+hésitation	noun	A7-
+hésiter	verb	A7-
+heure	noun	T1.3
+hier	adv	T1.1.1
+hiérarchie	noun	S7.1+
+historien	noun	P1/T1.1.1/S2mf
+historique	noun	T1.1.1 T3+
+hiver	noun	H4/T1.3 T1.3
+homme	noun	I3.1 S2.2m
+homosexuel	noun	S3.2 S3.2/S2mf
+honte	noun	G2.2- G2.2
+hôpital	noun	B3/H1c
+horreur	noun	E5- O4.2- G2.2-/S2mf
+hors	prep	Z5
+hostile	adj	S1.2.1- E3- E2-
+hôtel	noun	H4/H1
+huile	noun	A1.1.1 O1.2 C1 C1/O1
+huit	det	Z5
+huitième	det	Z5
+huitième	det	N1
+humain	noun	S2 S1.2.1+ S2mf
+humanitaire	adj	S1.2.3-/S2mf S8+
+humanité	noun	S1.2.1+ S2 P1%
+humour	noun	E4.1+ E1
+hypothèse	noun	X4.1 X2.1
+ici	adv	M6 T1.1.2 T1.2
+idéal	noun	A5.1+++ X4.1
+idée	noun	X4.1 X7+
+identification	noun	X2.2+ A6.1+
+identifier	verb	X2.2+ A10+ X2.5+
+identique	adj	A6.1+++
+identité	noun	S2 A6.1+ Q1.2
+idéologie	noun	X4.1
+idéologique	adj	X4.1
+ignorance	noun	X2.2- S1.2.4-
+ignorer	verb	X5.1- A1.9
+il	pron	Z8
+île	noun	W3
+illégal	adj	G2.1-
+illusion	noun	A5.2- A3-
+illustration	noun	A4.1 C1
+illustrer	verb	A4.1 C1
+ils	pron	Z8
+imaginaire	noun	A5.2-
+imagination	noun	X2.1/A6.2- A5.2-
+imaginer	verb	X2.1 A5.2-
+imiter	verb	A6.1+
+immédiat	noun	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+immédiatement	adv	N3.8+ T1.1.2/A11.1+ N4 Z5/N3.8+
+immense	adj	N3.2++
+immeuble	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+immigrant	noun	M1/M7/S2mf
+immigration	noun	M1/M7
+immigrer	verb	M1/M7
+impact	noun	A1.1.1 A2.2
+impatience	noun	X5.2+ E3-
+impatient	noun	X5.2+/S1.2 E3-/S1.2
+implication	noun	A2.2
+importance	noun	A11.1+
+important	noun	A11.1+
+importation	noun	I2.2/M2 A11.1+ Q1.1
+imposer	verb	S6+ S7.1+/X7-
+imposition	noun	I1.1/G1.1
+impossibilité	noun	A7- A12-
+impossible	noun	A7- A12-
+impôt	noun	I1.1/G1.1 A12-
+impression	noun	X2.1 A8 A5.4-/A8 O4.2 O4.4
+improviser	verb	A1.4 K2
+inacceptable	adj	X7- E2-
+inattendu	adj	X2.6-
+incertitude	noun	A7-
+inchangé	adj	A2.1-
+incident	adj	A1.4 A3+/A5.1-
+incluant	prep	Z5
+inclure	verb	A1.8+
+incompatible	adj	A6.1-
+incompréhensible	adj	X2.5-
+inconnu	noun	X2.2-
+inculper	verb	I1.3 O3 G2.1 M1 G3%
+indépendance	noun	S5-
+indépendant	noun	S5-
+indicateur	noun	A10+ O2 M3/O4.3
+indication	noun	A10+ Q1.1
+indien	noun	Z2
+indifférence	noun	X5.2-
+indirect	adj	A10-
+indirectement	adv	A10-
+indispensable	adj	S6+ A4.2+
+individu	noun	N5- S2mf
+individuel	adj	N5- S2mf
+industrie	noun	I4c I2.1c
+industriel	noun	I4
+inévitablement	adv	A7+++
+inexistant	adj	A3-
+inférieur	noun	S7.1-- A5.1-- S7.1--/S2mf A5.1--/S2mf
+infiniment	adv	A13.2 A1.7-
+infirmier	noun	B3 A9+ S8+ B3/S2mf
+inflation	noun	I1.3+
+infliger	verb	A2.2/E4.1-
+influence	noun	A2.2 A2.1+ S7.1+
+influencer	verb	A2.2 A2.1+
+information	noun	X2.2+
+informé	noun	X2.2+ X2.4 Q2.1
+informer	verb	X2.2+ X2.4 Q2.1
+infrastructure	noun	I2.1/S8+
+ingénieur	noun	S7.1+ A1.1.1 Y1/I3.2/S2mf
+inhabituel	adj	A6.2-
+inhérent	adj	A6.2+
+initial	adj	Q1.2 T2+
+initialement	adv	N4
+initiative	noun	A1.1.1 X5.2+
+injecter	verb	B3 A9- Y1
+innocence	noun	G2.1+ G2.2+
+innocent	noun	G2.1+ X9.1- G2.2+ G2.1+/S2mf X9.1-/S2mf
+innovation	noun	T3-
+inonder	verb	W4 N5+
+insensé	noun	B2-/X1 S1.2.6-
+insérer	verb	A1.1.1
+insister	verb	S7.1+/Q2.2
+inspecteur	noun	G2.1/S2mf G1.1/S2mf
+inspection	noun	X2.4/A5.3
+inspiration	noun	S8+ B1
+inspirer	verb	S8+
+instabilité	noun	A2.1+
+instable	adj	A2.1+ O4.1 S1.2
+installer	verb	A1.1.1 S1.1.1
+instinct	noun	X1/A6.2+
+institut	noun	P1/S5+c X2.4/S5+c S5+c T2+
+institution	noun	S5+c S7.1+ H1c S1.1.1 T2+
+institutionnel	adj	S5+ H1c S1.1.1
+instrument	noun	O2 K2 X4.2 B3 Y1
+insulte	noun	Q2.2/S1.2.4- S7.2-
+insulter	verb	Q2.2/S1.2.4- S7.2-
+insupportable	adj	S7.4-
+intact	adj	N5.1+
+intégration	noun	A1.8+ S5+ A2.2 N2%
+intégrer	verb	A1.8+ S5+ A2.2 N2%
+intégrité	noun	G2.2+ N5.1+
+intellectuel	noun	X2 X2.1 X2.1/S2mf
+intelligence	noun	X9.1+ X2.2+ S1.2.6+
+intensif	noun	N5+ X8+
+intensité	noun	N5
+intention	noun	X7+ O4.1%
+interaction	noun	S1.1.2+ A1.1.1
+intéressant	adj	X5.2+
+intérêt	noun	X5.2+ I1.1 S8+ S1.1.3+
+interface	noun	Q1.1 S1.1.1 Y2
+intergouvernemental	adj	G1.1/S5+
+interlocuteur	noun	Q2.1/S2mf G1.1/S2mf O3
+international	noun	M7 M7/S5+c K5.1 K5.1/S2mf
+interprétation	noun	X2.5+ K2 Q3
+interpréter	verb	X2.5+ Q3
+interrompre	verb	Q2.2 X7- T2-
+intervenir	verb	S1.1.3+ N4
+interview	noun	Q2.1
+intimider	verb	E5-
+intolérable	adj	S7.4-
+introduction	noun	T2+ Q4 S1.1.1
+introduire	verb	S1.1.1 T2+
+inutile	noun	A1.5.2-
+invasion	noun	G3 X7- N5+
+inventer	verb	X2.1 A5.2-
+invention	noun	X2.1 A5.2-
+investir	verb	I1.1
+investissement	noun	I1.1
+investisseur	noun	I1.1/S2mf
+invisible	adj	X3.4- A11.2-
+invitation	noun	Q2.2
+invité	noun	H4/S2mf S1.2.2-/S2mf
+inviter	verb	Q2.2
+irakien	noun	Z2 Z2/S2mf
+irlandais	noun	Z2/S2mf Z2/Q3
+ironie	noun	Q2.2/S1.2.4- A6.1-/X2.6
+ironique	adj	Q2.2/S1.2.4- A6.1-/X2.6
+irréversible	adj	A2.1-
+islam	noun	S9
+israélien	noun	Z2 Z2/S2mf
+italien	noun	Z2 Z2/S2mf Z2/Q3 F1
+jamais	adv	T1/Z6
+jambe	noun	B1 O2 N3.3 M1/N3.8+
+janvier	noun	T1.3
+japonais	noun	Z2/S2mfnc
+jardin	noun	F4 L3/H3 M7/L3
+jaune	adv	O4.3
+je	pron	Z8
+je	pron	Z8mf
+jeter	verb	M2 A2.2 Q2.2 A1.1.1 X2.5-
+jeu	noun	K5.1 K5.2 X7+ A1.1.1 L2 F1 X5.2+
+jeudi	noun	T1.3
+jeune	noun	T3-
+jeunesse	noun	T3-/S2mf T3-
+joie	noun	E4.1+ Z1f
+joindre	verb	A2.2 S5+ A1.8+ A1.1.1
+joue	noun	B1 S1.2.4-
+jouer	verb	K1 K5.1 K5.2 K2 K3 A1.1.1 K6
+jouet	noun	X2.1 A1.1.1
+joueur	noun	K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3
+jouir	verb	E2+ A9+ E4.1+
+jour	noun	T1.3
+journaliste	noun	Q4.2/I3.2/S2mf
+journée	noun	T1.3
+judiciaire	adj	G2.1c
+juge	noun	G2.1 X6 G2.1/I3.2/S2mf X6/S2mf
+jugement	noun	X2.1 X6 G2.1
+juger	verb	G2.1 X6
+juillet	noun	T1.3
+juin	noun	T1.3 Z1f
+jumeau	noun	A6.1+ S5+/M7 S4mf S5+
+jungle	noun	L3 A12-
+jurer	verb	Q2.2/S1.2.4- Q2.2
+jusqu'	prep	Z5
+justice	noun	G2.1+ G2.2+
+justifier	verb	G2.2+ A2.2 O4.1
+kilo	noun	N3.6
+kilomètre	noun	N3.3 N3.7
+la	pron	Z8
+laboratoire	noun	Y1/H1c
+lac	noun	W3/M4
+laisser	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+lait	noun	F2 O1.2 F4 A9+
+lancement	noun	M4 M5 T2+ M4fn
+langage	noun	Q3 Y2
+largement	adv	N5+ A4.2-
+larme	noun	A1.1.1 A1.1.2 B1 O4.2- N3.8+%
+latin	noun	Z2/Q3 Z2 Z2/S2mf
+le	det	Z5
+le	pron	Z8
+leader	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
+leadership	noun	S7.1+
+leçon	noun	P1 S9/Q4.1
+lecteur	noun	Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1
+lecture	noun	Q3 Q1.2 X3.2+ X2.5+ A10+ G2.1 P1
+léger	adj	N3.5- O4.3 W2 O3/W2 M3 O4.6+ X4.1 E1 N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+
+législatif	noun	G2.1
+législation	noun	G2.1
+législature	noun	G1.1c
+légitime	noun	G2.2+
+légitimité	noun	G2.2+
+légume	noun	F1 X9.1-/S2mf
+lent	adj	N3.8- T1.3+ X9.1- A5.3-/T1
+lentement	adv	N3.8-
+les	det	Z5
+lettre	noun	Q1.2 Q3
+leur	det	Z5
+leurs	det	Z5
+lèvre	noun	B1 O2 S1.2.4-
+libanais	noun	Z2 Z2/S2mfnc Z2/S2mf
+libéral	noun	A1.7- G1.2 N5+ G1.2/S2mf
+libéralisation	noun	A1.7-
+libération	noun	A1.7-
+libre	adj	S6- A1.7- A1.5.1- I1.3-
+librement	adv	N5+ A1.7- A5.2+ A12+ X5.2+
+lieu	noun	M2 X2.2+ I3.1 Q2.2 M7 H1 A1.2 P1
+lieutenant	noun	G3/S7.1+/S2mf G2.1/S2mf S7.1+/S2mf S8+/S2mf
+ligne	noun	A1.1.1 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@
+limite	noun	A1.7+ N5.1 M7
+limiter	verb	A1.7+
+liquide	noun	O1.2 A2.1+
+liste	noun	Q1.2 N4 M4
+lit	noun	H5 H3/L3 L3 S3.2/B1
+litre	noun	N3.4
+littéraire	noun	Q4.1
+littéralement	adv	A13.2 Q3
+littérature	noun	Q4.1 Q1.2
+livraison	noun	M2 Q2.1 X9.2+ B3 S9%
+livrer	verb	M2 Q2.1 X9.2+ B3 S9%
+local	noun	H3/S2mf F2/H1c M7
+location	noun	I2.2
+logement	noun	H4 S8+ A1.2+
+logiquement	adv	X2.1 S1.2.6+ A1.6
+loi	noun	G2.1 S6+ Y1
+loin	adv	A13.3 N3.3+ X9.2+
+loisir	noun	K1
+longueur	noun	N3.7 T1.3 M4
+lorsque	conj	Z5
+lorsque	conj	Z5
+loup	noun	F1/B1 L2mfn
+lourd	adj	N3.5+ N5+ S1.2.5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ S1.2.5+/S2mf
+lourdement	adv	A13.3
+loyer	noun	I2.2 I1
+lui	pron	Z8
+lui-même	pron	Z8m
+lumière	noun	N3.5- O4.3 W2 O3/W2 M3 O4.6+ X4.1 E1 N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+
+lundi	noun	T1.3
+lune	noun	W1 X5.2-/E4.1-
+luxe	noun	O4.2+
+ma	det	Z5
+machine	noun	A1.1.1 O2 Y2
+magasin	noun	A9+ I2.2/H1c A9+/H1
+magazine	noun	Q4.2 Q4.3 G3 O2
+magnifique	adj	A5.1+ A5.1+
+mai	noun	T1.3 Z1f
+main	noun	A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf
+maintenant	adv	T1.1.2 Z4 Z5
+maintenir	verb	A9+ T2++ S8+ A1.1.1 Q2.2
+maire	noun	G1.1/S7.1+/S2mf
+mais	conj	Z5
+mais	adv	A13.6 Z5
+maison	noun	H1 P1/S5+c G1.1c H4
+maître	noun	S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+
+majesté	noun	O4.2+ S7.1+
+majeur	noun	A11.1+ N3.2+ G3/S7.1+/S2mf P1 P1/S2mf
+majoritaire	adj	N5+++c
+majorité	noun	N5+++c
+mal	adj	A5.1- G2.2- O4.2- B2-
+malentendu	noun	X2.5-
+malgré	prep	Z5
+malheur	noun	A1.4- A5.1-
+malheureusement	adv	A1.4- A5.1- E4.1-
+maman	noun	S4/S2.1f
+manger	noun	F1/B1 A1.5.1/N5+
+manque	noun	A9-
+manquer	verb	A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3-
+manuel	adj	A1.1.1 Q4.1/P1 M3fn
+marchand	noun	I2.2/S2mf
+marché	noun	I2.2 I2.2/H1
+marcher	verb	M1 L2 X9.2+/A12+
+mardi	noun	T1.3
+marée	noun	W3/M4 A6.2+ A2.1+ N5+
+marge	noun	N5 Q1.2 N5.2+ M7 A6.2-
+marginal	noun	A11.2- A7- G1.2/A7-
+mari	noun	A1.5.1/A1.3+ S4m
+mariage	noun	S4
+marier	verb	S4 A2.2
+maritime	adj	W3/M4 W4
+mark	noun	I1 O4.2- Q1.2 A5/P1 N3.1 Q1.1
+marocain	noun	Z2 Z2/S2mf
+marquer	verb	O4.2- Q1.2 A5/P1 N3.1 Q1.1
+masque	noun	A10- O2 B5 B1/L2%
+masse	noun	N5+ N3.5 S9 S5+c B2-
+massif	noun	N3.2+
+matériau	noun	A1.6 A11.1+ O1 B5 O2 X2.2 S1.2
+matin	noun	T1.3
+matinée	noun	T1.3
+maximum	noun	N5.1+
+me	pron	Z8
+mec	noun	S2.2m O2 Z1
+mécanique	adj	O2 A6.2+
+mécanisme	noun	O2
+médaille	noun	O2
+médias	noun	Q4c
+médiatique	adj	Q4c
+médical	adj	B3
+membre	noun	S5+/S2mf B1
+mémoire	noun	X2 X2.2+ S7.2+ Y2
+menace	noun	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+menacer	verb	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+mener	verb	S7.1+ A2.2 M2 A1.1.1
+mensonge	noun	A5.2- M1 T2++ M6 A3+
+mensuel	noun	N6+ Q4.2
+mental	noun	X2 B2/X2 S1.2.6-
+mentalité	noun	X2.1
+mentionner	verb	Q2.1
+mentir	verb	A5.2- M1 T2++ M6 A3+
+mer	noun	W3/M4
+mercredi	noun	T1.3
+mère	adj	S4 S4f A11.1+++
+mérite	noun	A5.1+ S1.1.4+
+mes	det	Z5
+message	noun	Q1.1 Q1.3/Y2
+messe	noun	N5+ N3.5 S9 S5+c B2-
+messieurs	noun	S2.2m
+mesure	noun	N3.1 F2 K2
+mesurer	verb	N3.1
+métal	noun	O1.1 K2
+mètre	noun	N3.1 N3.1/O2
+meurtre	noun	L1- A12-
+mexicain	noun	Z2 Z2/S2mf
+midi	noun	T1.2
+mien	noun	I4 G3 I4/H1c N5+ Z8
+mieux	adj	A5.1++ G2.2++ O4.2++ A5.1++/S2mf
+milice	noun	G3/S5+
+milieu	noun	M6 N5 N4 T1.2
+militaire	noun	G3
+militant	noun	E3-/G1.2 E3-/G1.2/S2mf
+militer	verb	S8-
+mille	det	Z5
+millier	noun	N1 I1
+million	noun	N1 I1
+minier	adj	I4 G3
+minimum	noun	N5---
+ministère	noun	G1.1c S9
+ministre	noun	G1.1/S2mf S9/S2mf
+minoritaire	noun	N5-
+minorité	noun	N5-
+minuit	noun	T1.2
+minute	noun	N3.2- Q1.2 T1.3
+miracle	noun	S9 X2.6- O4.2+
+miroir	noun	A6.1+ O2 Z3c
+missile	noun	G3
+mission	noun	X7+ G3 S9 S9/H1
+mixte	adj	A6.3+ S1.1.3+ S2
+mobilisation	noun	A1.5.1 G3
+mobilité	noun	M1 I1.1
+modèle	noun	A5.1+ A5.4- A10+ C1 O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf
+moderne	noun	T3- T3---
+modernisation	noun	T1.1.2/A2.1
+moderniser	verb	T1.1.2/A2.1
+modeste	adj	N3.2- S1.2.3-
+modification	noun	A2.1+
+moi	pron	Z8
+moi	noun	Z8mf
+moi-même	pron	Z8mf
+moins	prep	Z5
+moins	adj	A13.6 N5-- Z5
+mois	noun	T1.3
+moitié	noun	N1 A13.4 N5 N5c
+moment	noun	T1.2 T1.1.2 N3
+mon	det	Z5
+mon	det	Z8
+monétaire	adj	I1
+monopole	noun	S7.1+ S5-
+monstre	noun	L2/S9mfn G2.2-/S2mf N3.2++
+montagne	noun	W3
+montre	noun	T1/O2 M4 X3.4 S7.1 X2.4 A1.3+
+montrer	verb	A10+ S1.1.1
+monument	noun	O2 A10+
+mot	noun	Q3 Q2.1 S9@
+moteur	noun	M3 O3 B1 M3fn
+motion	noun	M1 Q1.1
+mou	adj	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+
+mourir	verb	L1- T2-
+mouton	noun	L2mfnc
+mouvement	noun	M1 S5+c K2 A2.1+
+moyennant	prep	Z5
+moyenne	noun	A6.2+ A5.1 N2
+multinational	adj	I2.1/M7 M7
+multiple	noun	N2 N5+
+multiplication	noun	N1 N2
+multiplier	verb	N2 N5+/A2.1
+municipal	adj	M7/G1.1
+municipalité	noun	M7/G1.1
+mur	noun	H2 O2 N5+ S8-
+murmurer	verb	Q2.2/X3.2- X3.2-
+musée	noun	T1.1.1/H1c A10+/H1c
+musical	adj	K2 K4/K2
+musicien	noun	K2/S2mf
+musique	noun	K2
+mutuel	adj	S1.1.2+
+mystère	noun	X2.2- X2.5- A6.2-
+mythe	noun	S9/Q2.2 A5.2-/Q2.2
+naissance	noun	B1 T2+
+nation	noun	G1.1c S5+c
+national	noun	M7/N5.1+ M7/S2mf
+nationalité	noun	G1.1c S5+c
+nature	noun	W5 A4.1 S1.2 A6.2+
+naturel	noun	A6.2+ A9+ A5.4+ W3 W5 B1 K2 X9.1+
+naturellement	adv	A6.2+ Z4 W5 A12+ X9.1+
+naval	adj	M4
+navette	noun	M1 M2 M3fn M5fn O2
+navigation	noun	M4
+navire	noun	M2 M4fn
+nazi	noun	G1.2 G1.2/S2mf
+ne	adv	Z6
+néanmoins	adv	Z4
+néant	noun	A3- N5.1--- A11.1---
+nécessairement	adv	S6+
+néerlandais	noun	Z2 Z2/Q3 Z2/S2mfnc
+négatif	noun	C1 Z6 S8- A5.1-
+négliger	verb	A1.9
+négociateur	noun	Q2.2/S2mf
+négociation	noun	Q2.2
+négocier	verb	Q2.2
+neige	noun	W4 Q4.3%
+nettoyer	verb	B4
+neuf	det	Z5
+neutre	adj	S5- O4.1
+neuvième	det	Z5
+nez	noun	B1 O2 X2.4/X7-
+ni	conj	Z5
+ni	conj	Z6
+nier	verb	Q2.2/Z6 S7.4-
+niveau	noun	A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
+noble	noun	G2.2+ S7.1+ O4.2+
+nœud	noun	A1.1.1 O2 X2.5- N3.8
+noir	noun	O4.3 G2.2- A5.1- E4.1- S5+ S5+/S2mf F2%
+nom	noun	Q2.2
+nombre	noun	N1 N5 Q1.3 K2 Q4.2
+nombreux	adj	N5+
+nominal	noun	S7.1 A3 I1.3 Q3
+nord	adj	M6
+nord-est	noun	M6
+nord-ouest	noun	M6
+normal	adj	A6.2+
+normalement	adv	A6.2+
+nos	det	Z5
+notamment	adv	A14 A13.3
+notion	noun	X4.1
+notre	det	Z5
+notre	det	Z8
+nourriture	noun	F1
+nous	pron	Z8
+nous-mêmes	pron	Z8
+nouveau	adj	T3-
+novembre	noun	T1.3
+nuage	noun	O4.3 A12- W4 N5
+nucléaire	adj	Y1 B1 S5+%
+nuire	verb	A1.1.2
+nuit	noun	T1.3
+numérique	adj	N1
+numéro	noun	N1 N5 Q1.3 K2 Q4.2
+objection	noun	E2-
+obscurité	noun	W2- O4.3
+observation	noun	X3.4 Q2.1/X2.4 X2.1
+obsession	noun	X5.2+/N5.2+
+obstacle	noun	S8-
+occidental	noun	Q4.3 Q4.1
+occuper	verb	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
+océan	noun	W3/M4
+octobre	noun	T1.3
+œil	noun	B1 X3.4
+œuf	noun	L2 F1 Q2.2
+œuvrer	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2
+officiel	noun	G1.1 S7.4+ G1.1/S2mf S7.1+/S2mf
+officiellement	adv	G1.1 S7.4+
+offre	noun	A9- Q2.2 I1.3-
+offrir	verb	A9- Q2.2
+oh	intj	Z4
+oiseau	noun	L2mfn S2.1f
+olympique	adj	Z3c
+on	pron	Z8
+oncle	noun	S4m
+onde	noun	Q1.1 M2 M1 W3/M4 O4.4 Y1 N5
+onze	det	N1 T3
+opérateur	noun	Q1.3/S2mf A1.1.1/S2mf
+opération	noun	A1.1.1 B3 G3
+opinion	noun	X2.1 X2.1/A5 X6+
+opposer	verb	S8-/E2- A6.1-
+opposition	noun	S8-/E2- S7.3+ A6.1-
+optimisme	noun	X2.6+/A5.1+
+optimiste	noun	X2.6/A5.1+/S1.2
+option	noun	X7+ I2.1 P1
+or	conj	Z5
+oral	noun	B1 Q2.1 Q2.1/P1
+orange	adj	F1 O4.3
+orchestre	noun	K2/S5c K2/H2
+ordinaire	adv	A6.2+
+ordinateur	noun	Y2
+ordre	noun	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
+oreille	noun	B1
+organe	noun	B1 K2 Q4.2
+organique	adj	L1 W5
+organisation	noun	S5+c S7.1+
+organiser	verb	S7.1+ O4.1 S5+@
+organisme	noun	L2
+orgueil	noun	E4.2+ S1.2.3+ E4.2+/S1.2 S7.2+ O4.2+
+original	noun	A5.4+ T3- A6.2-
+os	noun	B1 F1
+oser	verb	E5+
+otage	noun	A1.7+/S2mf
+ou	conj	Z5
+ou	conj	Z5
+où	pron	Z8
+où	adv	M6
+ouais	intj	Z4
+oublier	verb	X2.2-
+ouest	adj	M6
+oui	adv	Z4
+ours	adj	L2mfn I2.1/S2mf M2 E2+ A8 A9+ A1.1.1 M6 B1@
+outil	noun	C1
+outre	adv	Z5
+ouvert	adj	A10+ S1.2.1+ X6- X5.2+ A7+ T2+ K5.1
+ouverture	noun	A1.1.1 T2+ O2 I3.1
+ouvrage	noun	I3.1 A1.1.1 Q4 K2 C1 X9.2+ A2.1+ A2.2
+ouvrier	noun	I3.1/S2mf
+ouvrir	verb	A10+ T2+
+page	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
+paiement	noun	I1.1
+pain	noun	F1 I1.1
+paire	noun	N5 N5c
+paix	noun	E3+
+pâle	adj	A11.1- O4.3
+palestinien	noun	Z2 Z2/S2mf
+panier	noun	O2 K5.1
+panique	noun	E5-
+pape	noun	S9/S7.1+/S2.2m
+papier	noun	H5 Q4.2c O1.1 Q1.2 P1/Q1.2
+paquet	noun	O2 I1.1++ A1.8+
+par	prep	Z5
+par	prep	M6 Z5
+par-dessous	prep	Z5
+par-dessus	prep	Z5
+par-dessus	adv	K5.1 N5.2+ A13.2 T2- M6 Z5
+par-devers	prep	Z5
+paradoxe	noun	A6.1-/X2.6
+paragraphe	noun	Q3
+paraître	verb	A8 A10+ A3+ G2.1 K4 Q4
+paramètre	noun	A1.7+ N3.1 N2
+parc	noun	M2 M7 M7/L3
+pardon	noun	G2.2+
+parent	noun	S4mf A9+
+parfait	noun	A5.1+++ A1.2+++ Q3
+parfaitement	adv	A13.2 A5.1+++
+parfois	adv	N6
+pari	noun	I1/A1.4 X2.6+
+parier	verb	I1/A1.4 X2.6+
+parisien	noun	Z2 Z2/S2mf
+parlement	noun	G1.1
+parler	noun	Q2.1
+parmi	prep	Z5
+parmi	prep	Z5
+parole	noun	Q3 Q2.1 S9@
+part	noun	S1.1.2+ I1.1
+partager	verb	S1.1.2+
+partenaire	noun	S3.1 S3.1/S2mf S3.2/S2mf S4mf
+partenariat	noun	S5+c S4 S3.2
+parti	noun	K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
+participant	noun	S1.1.3/S2mf
+participation	noun	S1.1.3+
+participer	verb	S1.1.3+
+particulièrement	adv	A13.3 A14
+partie	noun	A10+ B4 S3.1- N5.1- O2 M7 I3.1 S1.1.3+ K4
+partiel	noun	N5.1-
+partiellement	adv	A13.6
+partir	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+partout	adv	M6/N5.1+
+passé	prep	Z5
+passé	noun	M6 T1.1.1 Z5
+passeport	noun	G1.1/Q1.2
+passer	verb	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8
+passion	noun	X5.2+ S3.2 S9@ E4.1-@
+patience	noun	E3+ K5.2%
+patient	noun	B2-/S2mf E3+
+patron	noun	S7.1+ S7.1+/S2mf
+pauvre	noun	I1.1- A5.1- N5- E4.1- X9.1-
+pauvreté	noun	I1.1- N5-
+payer	verb	I1.2 A9- I1.1/I3.1
+pays	noun	G1.1c W3 F4/M7 K2
+peau	noun	A1.1.1/L2 B1 O2
+péché	noun	G2.2-/S9 G2.2-
+pêcheur	noun	F4/M4/S2.2m K5.1/M4/S2.2m
+peintre	noun	C1/S2mf
+pénal	adj	G2.1
+pendant	prep	Z5
+pénétrer	verb	M1 A1.8+ X2.5+
+pensée	noun	X2.1 X4.1
+penser	noun	X2.1
+pente	noun	O4.4 W3
+pénurie	noun	N5-
+percevoir	verb	X4.1 X3.4 X2.5+
+perdre	verb	X9.2- A9- M6/A5.3- L1-
+père	noun	S4/B1 S4m S9/S2.2m
+performance	noun	K4 X9.2 A1.1.1 A12-
+péril	noun	A15-
+période	noun	T1.3 B1 Q3 P1/T1.3 T1.1.1
+périr	verb	L1- T2- O4.2-
+permanent	adj	T2+++
+permettre	verb	S7.4+ S8+ X2.1
+personnalité	noun	S1.2 S2mf
+personnellement	adv	S5-
+perte	noun	I1.2 A9- S8- L1-
+peser	verb	N3.5 X2.1 E6- A2.1+
+pétition	noun	Q1.2 Q2.2
+peu	adv	A13.7 N3.2- T3- N3.7- N3.3- T1.3- A11.1- N5-
+peuple	noun	S2 S2mfc
+peur	noun	E5-
+pharmaceutique	noun	B3
+phase	noun	N3.8- X2.5- E5- T1.3
+phénomène	noun	A3 X3.4 A1.1.1
+philosophe	noun	X2.1/S2mf
+philosophie	noun	P1 X2.1
+philosophique	adj	A1.6 E6+ P1
+photo	noun	C1
+photographe	noun	C1/S2mf
+photographie	noun	C1
+photographier	verb	C1
+physiquement	adv	B1 A1.6
+piano	adv	K2
+pied	noun	B1 O2 I1.2 N4 N3.7 N3.3
+piège	noun	A1.7+ A9+ S3.2% M3@fn
+pierre	noun	F1 E3- O1.1 O2 B2- N3.5 B5
+pilier	noun	H2
+pis	adv	A5.1--
+placer	verb	M2 X2.2+ I3.1 Q2.2
+plage	noun	M4 W3/M4
+plaider	verb	Q2.2 G2.1/Q2.2
+plaie	noun	B2- E4.1- M2 M1 B1 O4.4
+plaire	verb	E4.2+ E2+ X7+
+plaisanter	verb	E4.1+
+plaisir	noun	E4.2+ K1
+plan	adj	X7+ C1/H1
+plancher	noun	H2 S5+ X9.2- E3-
+planète	noun	W1
+planification	noun	X7+
+planifier	verb	X7+
+plante	noun	F4 M2 L3 I4/H1c O2 A10-/S2mf
+plastique	noun	O1.1 O4.5
+plate-forme	noun	M3/M7 M4/H1 H5 X7+ Y2
+plein	adv	N5.1+ I3.2+
+pleurer	verb	E4.1- Q2.2
+pleuvoir	verb	W4
+plomb	noun	S7.1+ A2.2 M2 A1.1.1 O2/L2 O3 S8+ O1.1 K4/S2mf
+plonger	verb	M4 M1 N5-/A2.1
+pluie	noun	W4
+plume	noun	A1.1.1 L2
+plus	prep	Z5
+plusieurs	det	N5
+plutôt	adv	A13.5 Z4 E2++
+pneu	noun	B1 B2- X5.2- M3/O2
+poche	noun	A9+ K5.2% B5 O2 I1.1 M7/N3.2-
+poème	noun	Q3
+poésie	noun	Q3
+poète	noun	Q4.1/S2mf
+poids	noun	N3.5 A11.1 O2/K5.1 N3.5+
+point	adv	A10+ M6 H1 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5
+poisson	noun	K5.1/L2 F4/M4 X2.4 L2mfnc F1
+pôle	noun	O2 W3 A6.1-
+police	noun	G2.1 G2.2
+policier	noun	G2.1/I3.2/S2.2m
+politicien	noun	G1.2/S2mf
+pollution	noun	W5
+polonais	noun	Z2 Z2/Q3 Z2/S2mfnc
+pomme	noun	L3 F1
+pompe	noun	M2 A1.1.1 A9- Q2.2 S8+ B3 O2 B5
+ponctuel	adj	T4
+pont	noun	H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2 M1
+populaire	noun	E2+ S5+
+population	noun	S2/N5c
+porte	noun	H2 H1@
+portefeuille	noun	B5/I1
+portugais	noun	Z2 Z2/Q3 Z2/S2mfnc
+positif	noun	A5.1+ A7+ N2
+position	noun	M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1%
+possibilité	noun	A7+
+possible	adj	A7+
+potentiel	noun	A7+ O3
+poudre	noun	B4 O1.1 G3
+poulet	noun	E5- L2mfn F1 E5-/S2mf
+poumon	noun	B1
+pour	prep	Z5
+pourquoi	adv	A2.2
+poursuivre	verb	A1.1.1 X8+ X2.4 M1
+pousser	verb	M2 M1 S7.1+ X8+ I2.2 F3 I3.1-
+poussière	noun	B4 A1.1.1 O1.1
+pratiquement	adv	A13.4 A1.6
+pratiquer	verb	A1.1.1
+précaution	noun	A1.3+
+précédemment	adv	N4
+précéder	verb	N4
+précieux	noun	E2+ I1.1+ E2-% A5.4-%
+précis	noun	A4.2+ A5.3+
+précisément	adv	A4.2+ A5.3+
+précision	noun	A5.3+
+prédécesseur	noun	N4/S2mf N4
+prédire	verb	Q2.2/T1.1.3 X2.6+
+préférable	adj	E2++
+préférer	verb	E2++
+préfet	noun	S7.1+/S2mf P1/S2mf
+prématuré	noun	T4+
+premier	det	Z5
+premier	det	N4 P1@
+premièrement	adv	N4 P1@
+prendre	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+préparation	noun	A1.1.1
+préparer	verb	A1.1.1 F1
+présence	noun	M6 A3+ S1.1.3+ S1.2 S9
+présent	noun	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+
+présentation	noun	O4.1 Q2.2 S1.1.1 K4
+présenter	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
+préserver	verb	S8+ A9+/A2.1- F1 L2
+président	noun	G1.1/S7.1+/S2mf
+présidentiel	adj	G1.1/S7.1+
+présider	verb	S7.1+
+presque	adv	A13.4
+presse	noun	A1.1.1 X8+ S7.1+ E6- Q4.2c O2 Q4.1/I2.1c
+pression	noun	N3.5 S7.1+ E6-
+prestation	noun	S8+ I1.1/G1.1
+prestigieux	adj	S7.2+ A5.1+ A11.1+
+prêt	adj	A1.1.1 A1.5 I1 O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+
+prétendre	verb	A5.4-
+prétention	noun	Q2.2 A9+
+prêter	verb	A9-
+prétexte	noun	A5.4-/A2.2
+prêtre	noun	S9/S2mf
+preuve	noun	A15+ A5.3+ Q4.1 F1 F2 A5.2+
+prévaloir	verb	X9.2+ S7.1+
+préventif	adj	S8-
+prévu	noun	X7+
+prier	verb	S9/Q2.2
+prière	noun	S9/Q2.2 A7+
+primaire	noun	A11.1+ P1 G1.2 B2-
+primitif	noun	T3+
+prince	noun	S7.1+/S2.2m
+princesse	noun	S7.1+/S2.1f
+principal	noun	A11.1+++ S7.1+/S2mf
+principe	noun	X4.1 G2.2+
+printemps	noun	M1 A2.2 Q2.1 G2.1-@ T1.3% O2 T1.3 W3/M4
+priorité	noun	A11.1+
+prison	noun	G2.1/H1
+privatisation	noun	G1.1-
+privé	noun	A10- S5- G1.1- G3/S2mf B1
+priver	verb	A9-
+privilège	noun	A5.1+ G2.1 S7.1+ S7.2+
+privilégié	noun	A5.1+ A10-
+privilégier	verb	E2++
+probablement	adv	A7+
+problème	noun	A12- X4.1 N2 B2-
+procéder	verb	A1.1.1 T2++ M1
+procédure	noun	X4.2
+processus	noun	A1.1.1 X4.2 Y2 M1
+prochain	noun	N4
+procureur	noun	G2.1/I3.1/S2mf
+producteur	noun	K4/S7.1+/S2mf A1.1.1/S2mf
+productif	adj	X9.2+
+production	noun	A1.1.1 A10+ K4 K3 Q4.3
+productivité	noun	I2.1/N5+
+produit	noun	O2 A1.1.1 A2.2 N2%
+profession	noun	I3.1
+professionnel	noun	I3.2+ I3.1 X9.1+ A5.1+ I3.2+/S2mf X9.1+/S2mf
+profond	adv	N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 W3/M4
+profondeur	noun	N3.3+ N5+ A4.2+ Q2.2 S1.2
+programmation	noun	Y2 P1 Q4.3
+programme	noun	Y2 P1 X7+ Q4.3 Q1.2
+progrès	noun	A5.1+/A2.1 T2++ A2.1+ M1 M1%
+progresser	verb	A5.1+/A2.1 T2++ A2.1+ M1
+progressif	adj	G1.2 T3--- N3.8- Q3 G1.2/S2mf
+progression	noun	A2.1+ N4 M1 N2% K2%
+progressiste	noun	G1.2 T3--- N3.8- Q3 G1.2/S2mf
+progressivement	adv	T2++
+proie	noun	L2 S7.1- S1.2.2+
+projet	noun	A1.1.1 P1 A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1
+promesse	noun	S6+ A7+ X9.1+
+prometteur	noun	A7+/Q2.2 A8 A7+/X9
+promettre	verb	S6+ A7+
+promouvoir	verb	S8+ I2.2/Q2.2 S7.1+/A2.1
+prononcer	verb	Q3 Q2.2
+propagande	noun	G1.2
+prophète	noun	T1.1.3/S9/S2mf
+proportion	noun	A2.2/N3.2 O4.2 N5.1- N5 A2.2 N3.2
+proportionnel	adj	A2.2
+propos	noun	Q2.2
+proposer	verb	Q2.2/X7+ X4.1 G1.2 Q2.2/S4
+propriétaire	noun	A9+/S2mf
+propriété	noun	A9+ H1/H3 O4.1
+prospérité	noun	I1.1+
+prostitué	noun	S3.2+/I3.1/S2mf G2.2-/S2mf
+prostitution	noun	S3.2/G2.2-
+protection	noun	S8+/A15+ A10-
+protéger	verb	S8+/A15+ A10-
+protester	verb	Q2.2 A10+ G1.2
+prouver	verb	A5.2+ X2.4
+provenance	noun	T2+ N2
+province	noun	M7 A4.1
+provocation	noun	A2.2
+provoquer	verb	A2.2 E3-
+psychologie	noun	Y1/X1
+psychologique	adj	X1
+publication	noun	Q4
+publier	verb	Q4
+publique	adj	A10+ S5+ S5+c
+publiquement	adv	A10+
+puisque	conj	Z5
+puisque	conj	N4 Z5
+puissance	noun	A1.1.1 S7.1+ O3 S1.2.5+ N2@
+puissant	noun	S7.1+ S1.2.5+ N3
+punir	verb	G2.1
+punition	noun	G2.1
+pur	noun	A5.4+ O4.1 A14 A4.2+ G2.2+
+purement	adv	A14
+qualification	noun	P1 X9.1 S6+ A1.7+
+qualifier	verb	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3
+qualité	noun	A5.1 A5.1+ O4.1
+quand	conj	Z5
+quand	adv	Z5
+quantité	noun	N5
+quarante	det	N1 T3
+quart	noun	N1 N5 T1.3 H4
+quatorze	det	N1 T3
+quatre	det	Z5
+quatre	det	N1 T3 T1.2
+quatrième	det	Z5
+quatrième	det	N4
+que	conj	Z5
+que	pron	Z8
+quel	det	Z5
+quelles	det	Z5
+quelles	det	Z5
+quelque	adv	A13.5 N5 Z5
+quelquefois	adv	N6
+quels	det	Z5
+querelle	noun	E3-
+question	noun	Q2.2 X4.1
+questionner	verb	Q2.2
+qui	pron	Z8
+quitter	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+quoi	pron	Z8
+quoi	pron	Z8 Z5
+quoique	conj	Z5
+quota	noun	N5
+quotidien	noun	Q4.2 B4/S2mf T1.1.2 N6+
+racial	adj	S5+
+racine	noun	L3 B1 A2.2 S4 A11.1+ Q3 N2 X2.4
+racisme	noun	S5+/Z2
+raciste	noun	S5+/Z2 S5+/Z2/S2mf
+raconter	verb	Q2.2 Q2.1 X3 A10+
+radical	noun	G1.2/S2mf O1% N5+/A2.1 A11.1+
+radicalement	adv	A11.1+
+radio	adj	Q1.3 Q4.3
+radioactif	adj	Y1
+raison	noun	A2.2 X2.1 Q2.2
+raisonnement	noun	X2.1 Q2.2
+rare	adj	N6- A6.2- A5.1+ F1
+rat	adj	L2mfn G2.2-/S2mf Q2.2 A1.9
+ratification	noun	S7.4+
+ratifier	verb	S7.4+
+rationnel	noun	S1.2.6+
+rayonnement	noun	O4.2+ O4.3
+réaction	noun	A1.1.1 A6.1- B2- Y1
+réagir	verb	A1.1.1 A6.1- B2- Y1
+réalisateur	noun	S7.1+/S2mf K4/S2mf
+réalité	noun	A3+ A5.2+
+rébellion	noun	E3- G1.2/A6.1-
+récemment	adv	T3---
+récent	adj	T3-
+réception	noun	H2 S1.1.1 Q4.3 S1.1.3+ T3-
+récession	noun	I2.1/N5-
+recette	noun	F1 X4.2
+recevoir	verb	A9+ S5+
+recommandation	noun	Q2.2
+recommander	verb	Q2.2
+réconciliation	noun	S1.2.1+/E3+ A6.1 S9
+réconcilier	verb	A6.1 S1.2.1+/E3+ X2.5+
+reconnaissant	adj	S1.2.4+ E4.2+
+reconnaître	verb	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
+reconstruction	noun	H1/N6+ S7.1+/A2.1 A1.1.1 X2.1/T1.1.1
+record	noun	N5.2+ Q1.2 K3 T1.1.1 A5.1+++
+recruter	verb	I3.1/A9+
+réduction	noun	N5-/A2.1 Y1@
+réduire	verb	N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1
+réel	noun	A13.3 A3+ A5.2+ A5.4+
+réellement	adv	A13.3 A5.2+
+référence	noun	Q2.2 Q1.2
+référendum	noun	G1.2
+réfléchir	verb	A10+ Y1/M2 X3.4 X2.1 A5.1
+refléter	verb	A10+ Y1/M2 X3.4 X2.1 A5.1
+réflexe	noun	B1
+réflexion	noun	X3.4 Y1/M2 A2.2/A10+ X2.1
+réforme	noun	A2.1+
+refuge	noun	A15+/M7 A10-
+refus	noun	Q2.2/Z6 S7.4- X7-
+refuser	verb	Q2.2/Z6 S7.4- X7-
+régime	noun	G1.1 S7.1+ B3
+régiment	noun	A1.7+ G3/S5+c S5+c
+région	noun	M7 B1
+régional	noun	M7
+régir	verb	S7.1+ A1.7+
+règle	noun	G2.1 X4.2 A6.2+ S7.1+ Q3 Q1.2 X6+
+réglementation	noun	G2.1 A1.7+/G1.1
+règne	noun	S7.1+
+régner	verb	S7.1+
+regretter	verb	E4.1-
+régulier	adj	A6.2+ N6+ O4.1 I3.1 T2++ A13.3 N6+/S2mf G3/S2mf
+régulièrement	adv	N6+
+reine	noun	S7.1+/S2.1f S3.2/S2.2m K5.2
+rejet	noun	X7-
+rejeter	verb	X7-
+relatif	noun	A13 A6 S4mf Q3%
+relation	noun	S3.1 S3.2 A2.2 S4
+relativement	adv	A13/A6
+reléguer	verb	S7.1-/A2.1
+relever	verb	M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4
+relier	verb	A2.2 S5+ M3 A1.1.1
+religieux	noun	S9
+religion	noun	S9
+remarque	noun	Q2.2
+remercier	verb	S1.2.4+
+remplacer	verb	A2.1+ M2
+rencontre	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
+rencontrer	verb	S3.1 M6 A1.1.1 X9.2+ A6.1+
+rendez-vous	noun	T1.1 I3.1
+renouveau	noun	T2+/A2.1
+renouveler	verb	T2+/A2.1
+renseignement	noun	X2.2+
+rentabilité	noun	I1.1
+rentable	adj	I1.1+ A1.5.2+
+repas	noun	F1
+repenser	verb	N6+/X2.1
+répercussion	noun	A2.2
+répéter	verb	N6+ Q2.1/N6+ F1/B1@
+répliquer	verb	Q2.2
+répondre	verb	Q2.2 S1.1.1
+repos	noun	E3+ K1 T2-/T1.3 O2 N5.1- M6 A3+ A2.2
+reposer	verb	E3+ M6 A3+ A2.2
+représentant	noun	A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf
+représentatif	adj	A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf
+représentation	noun	G1.1 C1 Q1.1 G2.1 K4
+représenter	verb	Q1.1 A6.2+ S1.1.3 A5.4- K4
+reproche	noun	Q2.2/G2.2
+reproduction	noun	A6.1+ A5.4- A1.1.1/N6+ S3.2/B1
+républicain	noun	G1.2 G1.2/S2mf
+république	noun	G1.2 S5+/M7
+réputation	noun	I3.2 A5.1
+requérir	verb	X7+ S6+
+réseau	noun	Q4.3 Y2 S1.1.1 S5+c
+réserve	noun	A9+ K5.1/S2mf I1.1 M7 S1.2.1- G3/S2mf I1.3@
+résider	verb	H4
+résistance	noun	S8- S1.2.5+
+résister	verb	S8-
+résolument	adv	A7+
+résolution	noun	X6+ X9.2+
+respect	noun	S7.2+ A4.1
+respecter	verb	S7.2+
+respectif	adj	A6.1-
+respectivement	adv	A6.1-
+respectueux	adj	S7.2+
+responsabilité	noun	S6+ S7.1+ X6+
+responsable	noun	A2.2 S6+ S7.1 S1.2.6+ X6+
+ressentir	verb	X2.1 E1 X3
+ressource	noun	A9+ W3 A9-
+restaurant	noun	F1/H1
+reste	noun	E3+ K1 T2-/T1.3 O2 N5.1- M6 A3+ A2.2
+rester	verb	M8 T2++ H4
+restriction	noun	A1.7+
+résulter	verb	A2.2
+retard	noun	T4-
+retour	noun	M1 A9- N6 S1.1.2+ I1.1 G1.1/Q1.2 M3 K5.1 Y2% M6
+retrait	noun	M2 M1 S1.1.3- A2.1+
+retraité	noun	I3.1-
+réunion	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
+réussi	adj	X9.2+
+réussir	verb	X9.2+ N4
+réussite	noun	X9.2+
+rêve	noun	X2 X2.1 X7++ X4.1 X7+ A5.2-
+révéler	verb	A10+
+revendiquer	verb	Q2.2 A9+
+revenu	noun	I1.1
+rêver	verb	X2 X2.1 X7++
+révolte	noun	G2.1- E3- G3 G1.2
+révolution	noun	G1.2 A2.1+ M1@
+révolutionnaire	noun	T3---
+riche	noun	I1.1+ O4.1 N5+ X5.2+ E4.1+
+rideau	noun	A10- H5
+rien	adv	A11.1- Z6/Z8
+rire	noun	E4.1+/X3.2
+risque	noun	A15- A1.4
+risquer	verb	A15- A1.4
+rival	noun	S7.3 S7.3+/S2mf
+rivière	noun	W3/M4 N5+
+robe	noun	B5 F1 B3 O4.1 B5/A5.1+
+roi	noun	S7.1+/S2.2m
+rôle	noun	I3.1 K4 S1.1.1 A1.1.1
+romain	adj	Z2 Z2/S2mf T1.1.1/S2mf
+roman	adj	A6.2- Q4.1
+romancier	noun	Q4.1/S2mf
+romantique	noun	S3.2 Q4/S5 S3.2mf
+rompre	verb	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+rond	adv	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+roue	noun	M2 O2 N4
+rouge	noun	O4.3 G1.2 G1.2/S2mf
+rouler	verb	M1 M2 A1.1.1
+route	noun	M3 X4.2
+routine	noun	A6.2+ X4.2 K4
+rouvrir	verb	A10+/N6+ T2+/N6+
+royal	adj	S7.1+/S2mf
+royaume	noun	G1.1 M7/S7.1+ A4.1/L2
+rue	noun	M3/H3
+rural	noun	F4/M7
+russe	noun	Z2 Z2/S2mf
+sa	det	Z5
+sable	adj	A1.1.1 O1.1 W3
+sacré	noun	S9 S7.2+
+sacrifice	noun	S9 A9-
+saison	noun	F1 T1.3
+saisonnier	adj	T1.3
+salarial	adj	I1.1/I3.1
+salaud	noun	S4/S2mf A5.1-/S2.2m A12-
+sale	noun	O4.2- G2.2- S1.2.4-
+salle	noun	H2 N3.6 H4
+samedi	noun	T1.3
+sanction	noun	S7.4 G2.1
+sang	noun	B1
+sans	prep	Z5
+sans	prep	M6 Z5
+santé	noun	B2 X9.2
+satellite	noun	W1 Y1 Q1.3 S7.1-
+satisfaction	noun	E4.2+
+satisfaire	verb	E4.2+ A1.2+
+sauf	prep	Z5
+sauf	adj	A1.8- Z5
+sauter	verb	M1 N5+/A2.1 A1.9
+savoir	noun	X2.2+ S3.2/B1%
+savoir-faire	noun	X2.2+
+scène	noun	K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+
+scepticisme	noun	X2.1
+science	noun	Y1
+scientifique	noun	Y1
+score	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ A1.1.1
+se	pron	Z8
+sec	adj	O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5-
+second	adj	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+secondaire	noun	A11.1- N4 P1
+seconde	det	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+secouer	verb	M2 M1 E4.1- E5- A2.1+ A6.1+
+secret	noun	A10-
+secrétaire	noun	I3.2/S2mf S7.1+/S2mf
+secteur	noun	A4.1 S5+ M7 N2@
+section	noun	A1.1.1 B3/X1 N5.1- S5+c B3 Y1 C1/H1@
+sécuritaire	adj	A15+ A7+ O2
+seigneur	noun	S7.1+ S7.1+/S2.2m S9/S2.2m Z4
+séjour	noun	M8 T2++ H4 T4-
+sel	noun	F1 O1.1
+sélection	noun	X7+
+sélectionner	verb	X7+
+selon	prep	Z5
+semaine	noun	T1.3
+semblable	noun	A6.1+
+sembler	verb	A8
+sénateur	noun	G1.2/S2mf
+sensation	noun	X3 X5.2+
+sensible	noun	X2.5+/E1 E6- O4.1 B1 A4.2+
+sentiment	noun	E1 X3 X2.1
+séparation	noun	A6.1-
+séparatiste	noun	G1.2 G1.2/S2mf
+séparer	verb	A6.1- S3.1-
+sept	det	N1 T3 T1.2
+septembre	noun	T1.3
+septième	det	Z5
+septième	det	N1
+séquence	noun	N4 K2 Y1% Q4.3% S9%
+serbe	adj	Z2 Z2/Q3 Z2/S2mf
+série	noun	N4c Q4.3c
+sérieusement	adv	A13.3 Z4 E4.1-
+sérieux	noun	A11.1+ A15- E4.1-
+serre	noun	F4/H1
+service	noun	A1.1.1 S8+ S7.1- I2.2 S9 I3.1 F1 G3@ G1.1@ G2.1@
+servir	verb	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
+ses	det	Z5
+session	noun	T1.3
+seulement	adv	A14 Z5
+sévère	adj	A5.1- S1.2.5+ S1.2.1- O4.2-
+sexe	noun	L2 S2 S3.2
+sexuel	adj	S3.2
+si	conj	Z5
+siècle	noun	T1.3 K5.1%
+siéger	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
+signal	noun	A11.1+ Q1.1 X2.2 X4.1 O2 Y1 A10+
+signataire	noun	Q1.2/S2mf
+signature	noun	Q1.2
+signe	noun	Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 G2.1 I3.1
+signer	verb	Q1.2 Q1.1 G2.1 I3.1 S9
+signification	noun	A11.1+
+signifier	verb	Q1.1 X7+
+silence	noun	X3.2- A10-
+similaire	adj	A6.1+
+simple	noun	A12+ A6.2+ O4.1 X9.1-
+simplement	adv	A13.6 A14 A12+
+simplifier	verb	A12+/A2.1
+simultanément	adv	T1.1.2
+sincère	adj	A5.4+
+sincèrement	adv	A5.2+
+sincérité	noun	A5.4+
+singe	noun	L2mfn G2.2-/S2mf
+site	noun	M6 M7
+situation	noun	A3+ O4.1 M6 I3.1@
+six	det	Z5
+six	det	N1 T3 T1.2
+sixième	det	Z5
+sixième	det	N1
+slogan	noun	Q2.1
+social	noun	S1.1.1 I1.1/G1.1
+socialisme	noun	G1.2
+socialiste	noun	G1.2 G1.2/S2mf
+société	noun	S5+c
+sœur	noun	S4f S9/S2.1f B3/S2.1f S2.1f A2.2
+soi	pron	Z8
+soif	noun	B1/F2 X7+
+soin	noun	E6- E2+ S8+ B3 X7+ G1.1/S8+ A1.3
+soir	noun	T1.3
+soirée	noun	T1.3
+soixante	det	N1 T3
+soixante-dix	det	N1 T3 T1.2
+solaire	adj	W1 W2 O3
+soldat	noun	A1.1.1 G3 G3/S2mf
+soleil	noun	K1/W4 W1 W2 W4 Z3
+solidarité	noun	S5+
+solide	noun	O1.1 O4.5 A5.1+ A5.3+ T2++
+solution	noun	X4.2 O1.2
+sombre	adj	W2- O4.3 E4.1- X2.2- O4.2-
+sommet	noun	W3 N5.1+ S1.1.3+
+son	det	Z5
+sondage	noun	G1.2 Q1.1
+songer	verb	X2 X2.1 X7++
+sonner	verb	Q1.3 X3.2 A8 O4.4
+sortant	noun	I1.2 S1.2.1+ T2-
+sortie	noun	M1 T2- M7 L1-@
+sou	noun	I1
+souffrance	noun	E4.1- B2- X3 A5.1-/A2.1 S7.4+
+souffrir	verb	E4.1- B2- X3 A5.1-/A2.1 S7.4+
+souhait	noun	X7+
+souhaitable	adj	O4.2+ X7+
+souhaiter	verb	X7+
+soulagement	noun	E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1%
+soumettre	verb	A9- S7.1-
+soumission	noun	S7.1- Q1.2
+soupçon	noun	X2.1/A5.1- A7 N5---
+soupçonner	verb	X2.1/A5.1- A7
+soupe	noun	F1
+sourd	noun	X3.2-
+souris	noun	L2mfn Y2 S1.2.3-/S2mf
+sous	prep	Z5
+sous	prep	A13.6 M6 S7.1- B1 Z5
+sous-estimer	verb	N5- A11.1- X2.1/A5.3-
+souscrire	verb	X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1
+soutien	noun	S8+ A1.1.1 K5.1 I1.1 A10+ O2 B5%
+souvent	adv	N6+
+souveraineté	noun	S7.1+
+spécial	adj	A4.2+ A6.2- G2.1/S2mf
+spécialiser	verb	A4.2+
+spécialiste	noun	X2.2+ X2.2+/S2mf B3/S2mf
+spécialité	noun	A4.2+
+spécification	noun	A4.2+/Q2.2
+spécifier	verb	A4.2+/Q2.2
+spécifique	adj	A4.2+
+spectaculaire	adj	K4 O4.2+
+spéculation	noun	X2.6+ I2.1
+sphère	noun	O4.4 A4.1 S5+
+spontané	adj	X7-
+sport	adj	A10+ K5.1
+spt	det	Z5
+stabiliser	verb	A2.1- O4.1
+stabilité	noun	A2.1-
+stable	adj	A2.1- S1.2 O4.1 L2/H1 L2/H4
+star	noun	A11.1+ Q1.2 K4/A11.1+ W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 Z3c
+station	noun	G3/H4 M3/H1c G2.1/H1c Q4.3 M7c S7.1@
+statue	noun	C1
+statut	noun	S7.1 A4.1 A11.1
+stimuler	verb	A2.2 X5.2+
+stratégie	noun	X7+
+stratégique	adj	X7+ G3
+stress	noun	E6- A1.7+ Q3 A1.1.2 Q2.2
+strictement	adv	S1.2.5+ A1.7+ A14
+structure	noun	A1.1.1 O4.1 H1 S7.1 O2 A4.1 X4.2 B1
+structurel	adj	O4.1 S7.1
+style	noun	A1.1.1 Q2.2 X4.2 O4.1 O4.2+ A4.1 Q3
+subit	adj	N3.8+
+substance	noun	O1 A11.1+
+substantiel	adj	N3.2+ O4.1%
+substituer	verb	A2.1+
+subvention	noun	I1.1
+succès	noun	X9.2+
+successeur	noun	N4/S2mf N4
+successif	adj	N4
+succession	noun	N4
+successivement	adv	N4
+sucre	noun	F1
+sud	adj	M6
+sud-est	noun	M6
+sud-ouest	noun	M6
+suffisamment	adv	A13.5
+suffisant	adj	N5
+suffrage	noun	G1.2/X7
+suggérer	verb	Q2.2 Q1.1
+suggestion	noun	Q2.2 Q1.1
+suicide	noun	L1-
+suisse	adj	Z2 Z2/S2mf Z2/S2mfnc
+suivant	prep	Z5
+suivant	noun	N4 S5+ M1 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 Z5
+suivre	verb	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4
+super	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 S7.2+/S2mf P1%
+supérieur	noun	A5.1++ S7.1++ S7.1++/S2mf A5.1++/S2mf
+supplémentaire	adj	N5++
+suprême	noun	A5.1+++ S7.1+++
+sur	prep	Z5
+sûr	adj	A7+ Z4
+sûrement	adv	A7+
+surface	noun	A10+ M6 O2
+surplus	noun	N5.2+
+surprenant	adj	X2.6- A6.2-
+surprendre	verb	X2.6-
+surprise	noun	X2.6-
+surveiller	verb	X3.4 S7.1 X2.4 A1.3+
+survie	noun	A3+/T2++ L1+
+survivre	verb	A3+/T2++ L1+
+symbole	noun	A6.2+ Q1.1 X4.1 M2
+symbolique	noun	A6.2+ Q1.1 X4.1 M2 A5.4- A5.1-
+symboliser	verb	A6.2+ Q1.1
+symptôme	noun	B2- A4.2+
+syndicat	noun	G1.2/I3.1/S5+c S5+c
+syndrome	noun	B2- A1.1.1
+syrien	noun	Z2/S2mf
+systématique	noun	X4.2
+systématiquement	adv	X4.2
+système	noun	X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c
+ta	det	Z5
+table	noun	H5 Q1.2 N2 Q2.2
+tâche	noun	A1.1.1 P1
+talent	noun	X9.1+
+tandis	null	T1.3 Z5
+tante	noun	S4f
+tard	adv	T4- L1- T1.1
+tarder	verb	T4-
+tardif	adj	T4- L1- T1.1
+taux	noun	A5.1 N3.8 N5 I1.3
+taxe	noun	I1.1/G1.1 A12-
+taxer	verb	I1.1/G1.1 A12-
+taxi	noun	M3fn M5 M2
+tchèque	noun	Z2 Z2/Q3 Z2/S2mf
+te	pron	Z8
+technicien	noun	Y1/S2mf X9.1+/S2mf
+techniquement	adv	Y1 I4 X9.1
+technologie	noun	Y1
+technologique	adj	Y1
+tel	adj	Z5 Z8
+télé	noun	Q4.3 S2.1/S2.2m
+télécommunication	noun	Q1.3
+téléphone	noun	Q1.3
+téléphonique	adj	Q1.3
+téléviser	verb	Q4.3
+télévision	noun	Q4.3
+témoignage	noun	G2.1 Q2.2
+témoigner	verb	G2.1 A5.2+
+témoin	noun	G2.1/S2mf X3.4/S2mf S9/S2mf S9 A10+@ X3.4 G2.1
+température	noun	O4.6
+temple	noun	S9/H1 B1
+temporaire	adj	T1.3
+temps	noun	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ X7+/T1 N3.1/T1
+teneur	noun	E4.2+ Q2.1 A1.8+ N5 E4.1+%
+tenir	verb	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+
+tennis	noun	K5.1
+tension	noun	E6- O4.1
+tentation	noun	O4.2+ S3.2
+tentative	noun	X8+
+tente	noun	H1 K1
+terminal	noun	L1- T2- M5/H1 M4/H1 O3 Y2
+territoire	noun	M7 A4.1
+terrorisme	noun	G2.1-
+terroriste	noun	G2.1-/S2mf
+tes	det	Z5
+test	noun	P1 B3 X2.4 A12- K5.1@
+tester	verb	P1 B3 X2.4 A12-
+tête	noun	B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3
+texte	noun	Q1.2 Q4.1
+textile	noun	B5
+thé	noun	F2 F1
+théâtre	noun	K4/H1 K4 B3/H2 M7
+théologie	noun	S9
+théorie	noun	X4.1
+théorique	adj	A1.6
+théoriquement	adv	A1.6
+thérapie	noun	B3
+tiers	noun	N4 N5 N1
+timbre	noun	Q1.2 A1.1.1 A10+ A2.2
+tisser	verb	B5 A1.1.1 A1.8+ M1
+titre	noun	Q2.2 Q4 S7.1+ A9+
+toi	pron	Z8
+toit	noun	H2 B1 M3
+tomber	verb	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+ton	det	Z5
+tort	noun	A5.3- A5.1- G2.2- B2-
+torture	noun	E3- B2- E4.1---
+torturer	verb	E3- B2- E4.1---
+tôt	adj	T4+ T1.1.1
+total	noun	N5
+toucher	noun	X3.3 M6 Q2.2 E1 E2-
+toujours	adv	N6+++
+tourner	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+tout	pron	Z8
+toutefois	adv	A13.1 Z4
+tradition	noun	S1.1.1 T1.1.1 A6.2+
+traditionnel	adj	S1.1.1 A6.2+ T3++
+traditionnellement	adv	S1.1.1 A6.2+ T3++
+traduction	noun	Q3 A2.1+
+traduire	verb	Q3 A2.1+
+tragédie	noun	E4.1- K4
+tragique	noun	E4.1-
+train	noun	M3fn N4 B5@ P1 K5.1
+traité	noun	G3 G1.1 G2.1
+tranquille	adj	X3.2- E3+ A1.1.1/N5- A10-
+transaction	noun	I2.2 S1.1.1 A1.1.1
+transférer	verb	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
+transfert	noun	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1
+transformer	verb	A2.1+
+transit	noun	M1 M3
+transition	noun	A2.1+
+transmission	noun	Q4.3 Q1.3 A2.1+
+transparence	noun	Q1.2 O4.3 C1
+transport	noun	M2 M3
+travail	noun	I3.1 A1.1.1 Q4 K2 C1 X9.2+ A2.1+ A2.2
+travailler	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2
+travailleur	noun	I3.1/S2mf
+traversée	noun	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+trente	det	N1 T3
+très	adv	A13.3 A4.2+ A5.2+%
+trêve	noun	G3- E3+
+tribu	noun	S5+
+tribunal	noun	G2.1 H3 M7/K5.2 S3.2 X7+
+triomphe	noun	X9.2+
+triple	noun	N5+ F2
+triste	adj	E4.1- A5.1-
+trois	det	Z5
+troisième	det	Z5
+troisième	det	N4 N5 N1
+tromper	verb	A5.2-
+trône	noun	H5/S7.1+ S7.1+
+trottoir	noun	M3/H3
+trou	noun	A1.1.1 K5.2 A1.1.2/G3 O2 H4/L2 M7/O4.2- X2.1/A5.1- N5-
+troublant	adj	E6- X5.1- A2.1+
+trouver	verb	A10+ X2.1 X6+
+tu	pron	Z8
+tu	pron	Z8mf
+tube	noun	O2 B1 O4.4 M3c O3
+tuer	verb	L1- A12- A1.5.1 E4.1-/A2.2
+tunnel	noun	A1.1.1 O2 M7
+typique	noun	A4.2+ A6.2+
+ultime	adj	T2- S7.1+++ A11.1+ N5.1+ A5.1+++
+un	det	Z5
+un	det	Z5
+unanime	adj	A6.1+
+unanimité	noun	A6.1+
+une	det	Z5
+uni	noun	S5+ A1.1.1
+unilatéral	adj	S1.1.2-
+union	noun	G1.2/I3.1/S5+c S5+c
+unique	adj	N5---
+uniquement	adv	A14 Z5
+unir	verb	S5+
+univers	noun	W1 A4.1
+universel	noun	W3 M7 A1.8+ N5.1+ X2.2 A5.2+
+université	noun	P1/H1c
+uranium	noun	O1.1
+urbain	adj	M7
+urgence	noun	A11.1+
+urgent	adj	A11.1+
+usager	noun	A1.5.1/S2mf
+usine	noun	I4/H1c
+utile	adj	A1.5.2+
+utilisateur	noun	A1.5.1/S2mf
+utilisation	noun	A1.5.1 S7.1+
+utiliser	verb	A1.5.1 S7.1+
+vache	adj	L2fn S2.1f/O4.2-
+vain	adj	X9.2- S1.2.3+
+vainqueur	noun	X9.2+/S7.3/S2mf X9.2+/G3/S2mf
+valable	adj	A5.2+ Q1.1 S7.4+
+valise	noun	B5
+vallée	noun	W3
+variable	noun	A6.3+ N2
+variété	noun	A6.3+ A4.1 K4
+véhicule	noun	M3fn X4.2
+vendre	verb	I2.2
+vendredi	noun	T1.3
+vengeance	noun	E3-
+venir	verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5
+vent	noun	M2 M1 B1 O4.4 W4
+vente	noun	I2.2 I2.2/I1.3-
+venu	noun	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5
+venue	noun	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1.1.3 S9
+verbal	adj	Q2.2 Q3
+verdict	noun	G2.1 X6+
+vérité	noun	A5.2+
+verre	noun	O1.1 O2
+vers	prep	Z5
+versement	noun	I1.1
+version	noun	A4.1 Q2.1
+versus	prep	Z5
+vert	noun	O4.3 M7 G1.1/W5mf K5.1/M7 W5 L3 X9.1-
+vertu	noun	G2.2+
+via	prep	Z5
+via	prep	Z5
+viande	noun	F1 A4.2+
+vice-président	noun	G1.1/S7.1+/S2mf
+victime	noun	A1.1.2/G2.1/S2mf B2-/S2mf
+victoire	noun	X9.2+
+vide	noun	N5--- M1/M4 S5--- A1.5.2- X5.2- O2/N5---
+vidéo	adj	Q4.3
+vie	noun	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1
+vierge	noun	S3.2 A2.1- S3.2/S2mf
+vieux	adj	T3+ Z4
+vif	noun	X5.2+ L1+%
+vigoureux	adj	X5.2+ S1.2.5+
+village	noun	M7
+ville	noun	M7c M7/I2.1c
+vin	noun	F2
+viol	noun	G2.1-/S3.2 A1.1.2
+violence	noun	E3-
+violent	noun	E3- N3.2+
+virus	noun	L2 Y2
+visage	noun	B1 W3 O2 A8 S1.2.3+ M6 S1.1.1 X2.1 B5
+viser	verb	X7+ M6
+visite	noun	S1.1.1 M1
+visiter	verb	S1.1.1 M1
+visiteur	noun	S1.1.1/S2mf M1/S2mf
+visuel	adj	X3.4
+vital	adj	A11.1+ X5.2+
+vitesse	noun	N3.8+ F3%
+vivre	noun	H4 L1+ A3
+vocabulaire	noun	Q3
+vocal	adj	Q3 A11.2+
+voiler	verb	A10-
+voir	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+voisin	noun	H3/S2mf N3.3-/S2mf M7/N3.3- M6
+voisinage	noun	N3.3-/H3c N3.3-/S2mf M7/N3.3-
+voiture	noun	M3fn
+voix	noun	Q2.1 X2.1 S7.1+ Q3 K2
+volet	noun	A10- A1.7+
+volonté	noun	T1.1.3 X7+ G2.1/Q1.2
+volume	noun	N3.4 N5 Q4.1 Q4.2 X3.2
+vos	det	Z5
+vote	noun	G1.2/X7
+voter	verb	G1.2/X7
+votre	det	Z5
+votre	det	Z8
+vôtre	noun	Z8
+vouloir	noun	X7+ S6+ A7+ S3.2 A9-
+vous	pron	Z8
+vous	pron	Z8mf
+voyager	verb	M1
+vrai	adv	A5.2+ A5.4+
+vu	prep	Z5
+vue	noun	X2.1 X3.4 X2.4 X4.1 A4.1 X7+
+vulnérable	adj	S1.2.5-
+week-end	noun	T1.3
+y	adv	M6 T1.2 Z5
+yen	noun	I1 Z2 Z1
+zéro	noun	N1 G3% N5---
+

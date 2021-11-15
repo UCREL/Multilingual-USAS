@@ -1,0 +1,4221 @@
+lemma	pos	semantic_tags
+Afrikaans	adj	Z2 Z2/S2mf
+Amerikaan	noun	Z2 Z2/S2mf
+Amerikaans	adj	Z2 Z2/S2mf
+Amsterdams	adj	Z2
+Antwerps	adj	Z2 Z3c
+Arabisch	adj	Z2/Q3
+Belg	noun	Z2 Z2/S2mf
+Belgisch	adj	Z2 Z2/S2mf
+Bijbel	noun	S9/Q4.1 Q1.2
+Brussels	adj	F1 Z2
+Chinees	adj	Z2/Q3 Z2/S2mf
+Duits	adj	Z2/S2mf Z2/Q3
+Duits	noun	Z2/S2mf Z2/Q3
+Duitser	noun	Z2/S2mf Z2/Q3
+EU	noun	Z3c Z2
+Engels	adj	Z1mf Z2 Z2/Q3 Z2/S2mfnc
+Engels	noun	Z1mf Z2 Z2/Q3 Z2/S2mfnc
+Europees	adj	Z2 Z2/S2mf Z3
+Frans	adj	Z2 Z2/S2mf Z2/Q3
+Frans	noun	Z2 Z2/S2mf Z2/Q3
+Fransman	noun	Z2/S2.2m
+Franstalig	adj	Z2 Z2/S2mf Z2/Q3
+Gents	adj	Z2
+Grieks	adj	Z2 Z2/Q3 S3.2/B1% Z2/S2mf
+Haags	adj	Z2 Z1mf
+Hollands	adj	Z2 Z2/Q3 Z2/S2mfnc
+Iraaks	adj	Z2 Z2/S2mf
+Israëlisch	adj	Z2 Z2/S2mf
+Italiaans	adj	Z2 Z2/S2mf Z2/Q3 F1
+Japans	adj	Z2/S2mfnc
+Marokkaans	adj	Z2 Z2/S2mf
+Nederlander	noun	Z2 Z2/S2.2m
+Nederlands	adj	Z2 Z2/Q3 Z2/S2mfnc
+Nederlands	noun	Z2 Z2/Q3 Z2/S2mfnc
+Pools	adj	Z2 Z2/Q3 Z2/S2mfnc
+Romeins	adj	Z2 Z2/S2mf T1.1.1/S2mf
+Rotterdams	adj	Z2
+Russisch	adj	Z2 Z2/S2mf
+Spaans	adj	Z2 Z2/Q3 Z2/S2mfnc F1% Z2/S2c
+Turks	adj	Z2 Z2/Q3 Z2/S2mfnc
+VN	noun	Z3c
+Vlaams	adj	Z2 Z2/Q3 Z2/S2mfnc
+Vlaming	noun	Z1
+Waals	adj	Z2/S2mf
+aanbieden	verb	A9- Q2.2
+aanbieding	noun	A9- Q2.2 I1.3-
+aanblik	noun	X3.4 A8 G3
+aanbod	noun	A9- Q2.2 I1.3-
+aanbrengen	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+aandacht	noun	X5.1+ S8+
+aandachtig	adj	X5.1+ S8+
+aandeel	noun	S1.1.2+ I1.1
+aandeelhouder	noun	I1.1/S2mf
+aandringen	verb	S7.1+/Q2.2
+aanduiden	verb	A10+ M6 Q1.1/M3
+aangaan	verb	T2+ E5- E3-
+aangenaam	adj	O4.2+
+aangeven	verb	A9-
+aangezien	conj	N4 Z5
+aankleden	verb	B5 F1 B3 O4.1
+aankomen	verb	M1 T2-
+aankomst	noun	M1 T2-
+aankondigen	verb	Q2.2
+aankoop	noun	I2.2
+aankopen	verb	I2.2
+aankunnen	verb	S7.1+ A1.1.1 X9.2+
+aanleg	noun	H1 A1.1.1 O2 X2.1
+aanleggen	verb	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+aanloop	noun	N4 K5
+aanmerking	noun	Q2.1
+aanmoedigen	verb	S8+
+aannemen	verb	X2.1 A5.4-/A8
+aannemer	noun	I2.1/S2mf
+aanpak	noun	M1 A1.1.1 Q2.2 X4.2 E1 S1.1.1
+aanpakken	verb	A1.1.1 K5.1 Q2.2
+aanpassen	verb	A2.1+
+aanpassing	noun	A2.1+
+aanraden	verb	Q2.2
+aanraken	verb	X3.3 M6 Q2.2 E1 E2-
+aanraking	noun	X3.3 M6 Q2.2 E1 E2-
+aanrichten	verb	A2.2
+aanschaffen	verb	I2.2
+aanslag	noun	E3- G3 B2- A1.1.2 Q2.2
+aansluiten	verb	A2.2 S5+ M3 A1.1.1
+aansluiting	noun	A2.2 S5+ M3 O3 A1.1.1
+aansteken	verb	W2 O4.6+
+aanstellen	verb	S7.1+
+aantal	noun	N1 N5 Q1.3 K2 Q4.2
+aantasten	verb	A2.1+ A5.4-/A8
+aantekening	noun	Q1.2 K2 Q2.1
+aantonen	verb	A10+ G1.2
+aantreffen	verb	A10+ X2.1 X6+
+aantrekkelijk	adj	O4.2+ S3.2
+aanvaarden	verb	A9+ X2.5+ S1.2.1+ S7.4+
+aanval	noun	E3- G3 B2- A1.1.2 Q2.2
+aanvallen	verb	E3- G3 B2- A1.1.2 Q2.2
+aanvaller	noun	Q2.2/S2mf E3-/S2mf G3/S2mf
+aanvang	noun	T2+
+aanvankelijk	adj	Q1.2 T2+
+aanvraag	noun	Q1.2 A1.5.1 Y2 X5.1+ A1.1.1
+aanvullen	verb	N5.1+
+aanwezig	adj	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4 T1.1.2 A3+
+aanwezigheid	noun	M6 A3+ S1.1.3+ S1.2 S9
+aanwijzing	noun	Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 G2.1 I3.1
+aanzetten	verb	S8+
+aanzien	noun	S7.2+ A4.1
+aanzienlijk	adj	N5+
+aap	noun	L2mfn G2.2-/S2mf
+aard	noun	W5 A4.1 S1.2 A6.2+
+aardappel	noun	L3/F1
+aarde	noun	O3 W3 W1 O1.1 N5++
+aardig	adj	O4.2+ S1.2.1+
+aarzelen	verb	A7-
+abrupt	adj	N3.8+ S1.2.1-
+absoluut	adj	A5.1+++ A1.7-
+abstract	adj	A1.6 C1 Q4.1 A9+
+absurd	adj	S1.2.6-
+academie	noun	P1/H1 S5+c P1
+accepteren	verb	A9+ X2.5+ S1.2.1+ S7.4+
+ach	interj	Z4
+achten	verb	X2.1 X6
+achter	prep	B1 M6 A6.1- Z5
+achteraan	adv	B1 M6 A6.1- Z5
+achteraf	adv	N4
+achteren	adv	B1 M6 N6+ T1.1.1 S1.1.2+ T3+ S8+ K5.1/I1 M1 K2
+achtergrond	noun	T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8-
+achterkant	noun	B1 M6 N6+ T1.1.1 S1.1.2+ T3+ S8+ K5.1/I1 M1 K2
+achterlaten	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+achterlijk	adj	M6 X9.1- T1.1.1
+achterover	adv	M6 X9.1- T1.1.1
+achterstand	noun	I1.2
+achteruit	adv	M6 X9.1- T1.1.1
+achtervolgen	verb	M1 X7+ X2.4
+achttien	num	N1 T3
+acteur	noun	K4/S2.2m A1.1.1/S2mf@
+actie	noun	A1.1.1 G3
+actief	adj	A1.1.1 X5.2+
+activiteit	noun	A1.1.1
+actrice	noun	K4/S2.1f
+actueel	adj	T1.1.2 W3/M4 W3/M5 O3 E1
+adem	noun	B1 N5-@
+ademen	verb	B1
+ader	noun	B1 O2 W3 A4.1 X4.2
+administratie	noun	S7.1+c A9-
+administratief	adj	S7.1+
+adres	noun	H4 Q2.2 Q1.2 A1.1.1
+advertentie	noun	I2.2/Q2.1 X2.2+ A10+
+advies	noun	Q2.2/S8+
+adviseren	verb	Q2.2/S8+ Q2.1/X2.2+
+advocaat	noun	G2.1/I3.2/S2mf
+af	adv	M6 K1 A1.1.1 A1.9 O4.2- A5.1- G2.2- B2- Z5 E2-
+afbeelden	verb	C1 Q2.2
+afbeelding	noun	A6.1+ A8 X3.4 X2.1 C1 O4.1
+afdeling	noun	H2/S5+c X2.2
+afdwingen	verb	A1.1.1 S7.1+
+affaire	noun	A1.1.1 S1.1.1 S3.2
+affiche	noun	Q1.2
+afgelopen	adj	N4 O2 T2++ T1.3
+afgeven	verb	M2 Q2.1 X9.2+ B3 S9%
+afhangen	verb	A2.2 S7.1-
+afhankelijk	adj	A2.2 S7.1- S7.1-/S2mf
+afkeer	noun	E2-
+afkeuren	verb	E2-
+afkomst	noun	T2+ N2
+afleggen	verb	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5
+afleveren	verb	M2 Q2.1 X9.2+ B3 S9%
+aflevering	noun	A3+/A11.1+ A6.2- Q4 B2-
+afloop	noun	M6 T2- O2 X7+ N4
+afmaken	verb	T2- A1.5.1/N5.1+ A1.1.1 X9.2-
+afschaffen	verb	T2- A1.1.2 G2.1/T2-
+afschuwelijk	adj	O4.2-
+afsluiten	verb	A1.1.1 A10- T2-
+afspelen	verb	A2.1+ A3+ X7-
+afspraak	noun	T1.1 I3.1
+afspreken	verb	S7.1+ A1.1.1
+afstand	noun	A1.9 N3.3+ S1.2.1-
+afstemmen	verb	K2 A1.1.1 Q4.3 A2.1+
+afstuderen	verb	P1 A11.1+/A2.1
+aftrap	noun	T2+ K5.1
+afval	noun	N5.2+ O4.2- X9.2- N3.2-/A2.1
+afvoeren	verb	M2
+afvragen	verb	X2.1
+afwachten	verb	T1.3 A3+ A11.1+ S1.1.1%
+afwachting	noun	X2.6+
+afwezig	adj	S1.1.3- A3-
+afwezigheid	noun	S1.1.3- A3-
+afwijken	verb	A6.1-
+afwijking	noun	A6.1-
+afwijzen	verb	X7-
+afwisselen	verb	A2.1+ S1.1.2+
+afzonderlijk	adj	A6.1- S3.1-
+agent	noun	G2.1/I3.2/S2.2m
+agressie	noun	E3-
+agressief	adj	E3-
+ah	interj	Z4
+akelig	adj	O4.2- S1.2.1-
+al	adv	T1.1.1
+al	pron	A13.2 N5.1+
+alarm	noun	E5- E6- Q1.1/A15- O2/T1
+album	noun	K2 Q4.1
+alcohol	noun	F2 O1.2
+aldus	adv	Z5/A2.2
+algemeen	adj	G3/S7.1+/S2mf B3/H1 N5+ A4.2-
+alhoewel	conj	Z5
+allebei	num	N5 Z5
+alleen	adv	A14 S5-
+alleenstaand	adj	A4.2+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 N5--- S5- S3.2- M3
+allemaal	adv	Z8/N5.1+
+allereerst	adj	N4 P1@
+alles	pron	Z8/N5.1+
+allicht	adv	A7+
+allochtoon	adj	M7
+allochtoon	noun	M1/M7/S2mf
+als	conj	Z5
+alsmaar	adv	T1.1 N6+++ A13
+alsnog	adv	T1.1.2 Z5
+alstublieft	intj	E4.2+ E2+ X7+ Z4
+alternatief	adj	A6.1- N6
+alternatief	noun	A6.1- N6
+althans	adv	A13.7 N5.1- A11.1---
+altijd	adv	N6+++
+alvast	adv	T1.1.2
+alvorens	conj	N4 Z5
+alweer	adv	N6+ Z4
+ambassade	noun	G1.1/S7.1+/S5+ G1.1/H1
+ambassadeur	noun	G1.1/S2mf S1.1.1/S2mf
+ambitie	noun	X7+
+ambitieus	adj	X7+
+amper	adv	A13.7
+amuseren	verb	E4.1+
+analist	noun	Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf
+analyse	noun	X2.4 Y1
+analyseren	verb	X2.4 Y1
+ander	adj	A6.1- A6.1-/Z8
+anders	adv	A6.1-
+angst	noun	E5-
+angstig	adj	E6-
+anoniem	adj	A10-
+antwoord	noun	Q2.2 S1.1.1 X4.1 X9.2+
+antwoorden	verb	Q2.2 S1.1.1
+apart	adj	A6.1- S3.1-
+apparaat	noun	O2 X4.2 Q1.1
+apparatuur	noun	O2
+appartement	noun	H1/H4
+appel	noun	L3 F1
+applaus	noun	E2+/X3.2+
+april	noun	T1.3 Z1f
+arbeid	noun	A1.1.1 A12- I3.1/S5+ B1 A1.1.1/A12- A11.1+/N5.2+
+arbeider	noun	I3.1/S2mf
+archief	noun	Q1.2/A9+
+architect	noun	H1/I3.2/S2mf X7+/S2mf T2+/S2mf
+architectuur	noun	H1 O4.1
+argument	noun	Q2.1 Q2.1/A6.1- Q2.1/E3-
+arm	adj	I1.1- A5.1- N5- E4.1- X9.1-
+arm	noun	B1 S5+c G3 O2 B5
+armoede	noun	I1.1- N5-
+arrestatie	noun	G2.1
+arresteren	verb	G2.1
+arriveren	verb	M1 T2-
+artiest	noun	C1/S2mf K4/S2mf K2/S2mf
+artistiek	adj	C1
+arts	noun	B3/S2mf
+asfalt	noun	O1
+aspect	noun	A4.1 A8 M6
+assistent	noun	S8+ S8+/S2mf I2.2/S2mf
+associëren	verb	A6.1+/X2.1 S3.1
+atelier	noun	C1/H2 Q4.3/H1c H1
+augustus	noun	T1.3 Z1m
+auteur	noun	Q1.2 Q4.1 Q4.1/S2mf
+authentiek	adj	A5.4+
+auto	noun	M3fn
+automatisch	adj	A1.1.1/S5- X2.1- X7- O2/S5- M3fn G3
+autoriteit	noun	G1.1c S7.1+ S7.4+ X2.2+
+avond	noun	T1.3
+avontuur	noun	X8+ X5.2+ A15-
+baan	noun	I3.1 A1.1.1 A12-
+baard	noun	B1
+baas	noun	S7.1+ S7.1+/S2mf
+baat	noun	S8+ I1.1/G1.1
+babbelen	verb	Q2.1
+baby	noun	T3--/Q2.1 T3-- T3--/S2mf E2+mfn
+bad	noun	H5/B4
+badkamer	noun	B4/H2
+bagage	noun	B5
+bah	interj	Z4/E2-
+bak	noun	O2
+bakken	verb	F1 O4.6
+bakker	noun	F1/S2mf
+baksteen	noun	H1 E3-@ O2/H1 S8+
+bal	noun	O2/O4.4 K5.1 B1 K1 O4.4
+balans	noun	O4.1/B1 A6.1+ A11.1 I1.1 S7.3
+balk	noun	E4.1+ W2 Q4.3 Y1 H2 O2/K5.1
+balkon	noun	H2
+ban	noun	S7.4-
+band	noun	A1.7+ S3.1 S5+ I1.1
+bar	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 S7.4- A1.7+ Z5
+baren	verb	M2 E2+ A8 A9+ A1.1.1 M6 B1@
+barst	noun	A1.1.2 X3.2 N3.3--- E4.1+ F3 X9.2+ B2-/X1 Q2.2/E4.1+ A5.1+
+barsten	verb	A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+
+basis	noun	A2.2 T2+ X4.2
+baten	verb	A1.5.1 A9+
+beamen	verb	S8+/Q2.2 Q1.2
+beantwoorden	verb	Q2.2 S1.1.1
+bed	noun	H5 H3/L3 L3 S3.2/B1
+bedanken	verb	S1.2.4+
+bedekken	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+bedenken	verb	X2.1
+bedoelen	verb	X7+
+bedoeling	noun	X7+ O4.1%
+bedrag	noun	N5 N5+/A2.1
+bedreigen	verb	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+bedreiging	noun	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+bedriegen	verb	G2.2-/A5.2-
+bedrijf	noun	I2.1 A1.1.1 A5.1+++
+bedrijfsleven	noun	I2.1 A1.1.1 A5.1+++
+bedwingen	verb	S7.4- A10-
+beek	noun	N5+ M1 P1 B2- W3/M4 N5 S5+c P1c
+beeld	noun	C1
+been	noun	B1 O2 N3.3 M1/N3.8+
+beer	noun	L2mfn I2.1/S2mf M2 E2+ A8 A9+ A1.1.1 M6 B1@
+beest	noun	L2mfn E3-/S2mf
+beetje	noun	B1 A12- N5- N5.1- O2 Y2
+begaan	verb	A1.1.1 S6+ A1.7+/G2.1
+begeleider	noun	S7.1+/S2mf
+begeleiding	noun	S7.1+ P1@
+begin	noun	T2+ E5- E3-
+beginnen	verb	T2+ E5- E3-
+begrafenis	noun	L1-/S1.1.1
+begraven	verb	A10- L1-
+begrijpen	verb	X2.5+
+begrip	noun	X2.5+
+begroeten	verb	Q2.2/S1.2.4+ E1 X3
+begroting	noun	I1 G1.1/I1 I1.3-
+behalve	conj	A1.8- Z5
+behandelen	verb	S1.1.1 A9- X4.2 X2.1 B3 A1.1.1
+behandeling	noun	B3 S1.1.1 A1.1.1 X4.2
+beheer	noun	S7.1+c
+beheersen	verb	S7.1+ X9.1+
+beheren	verb	S7.1+ A1.1.1 X9.2+
+behoefte	noun	S6+
+behoren	verb	A9+ A1.2+ S5+
+behoud	noun	S8+ A9+/A2.1-
+behouden	verb	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4
+behulp	noun	S8+ Z4
+beide	num	N5 Z5
+bek	noun	B1 Q2.2 M7/W3 W3/M4 O2 Q2.1
+bekendheid	noun	X2.2+
+bekendmaken	verb	Q2.2
+bekennen	verb	Q2.2/A10+
+beker	noun	O2 S7.3+ A5.1+/O2 O4.4
+beklagen	verb	Q2.2/E2-
+bekleden	verb	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
+beklimmen	verb	M1 N5+/A2.1
+bekomen	verb	B2+ A5.1+/A2.1 A9+
+bel	noun	O2/X3.2 O4.4
+belachelijk	adj	S1.2.6-
+belang	noun	A11.1+
+belangrijk	adj	A11.1+
+belangstelling	noun	X5.2+ I1.1 S8+ S1.1.3+
+belasting	noun	I1.1/G1.1 A12-
+beledigen	verb	S1.2.4- G2.1-
+belegger	noun	I1.1/S2mf
+beleid	noun	X7+ Q1.2
+beletten	verb	S8-
+belofte	noun	S6+ A7+ X9.1+
+belonen	verb	A5.1+/A2.2 I1.1+ S1.1.4+
+beloning	noun	A5.1+/A2.2 I1.1+ S1.1.4+
+beloven	verb	S6+ A7+
+beluisteren	verb	X3.2
+bemoeien	verb	S1.1.3+++
+benaderen	verb	M1 A1.1.1 Q2.2
+benadering	noun	X2.1/A7-
+benadrukken	verb	A11.1+
+benaming	noun	Q2.2
+benauwd	adj	T3+ O4.2-
+bende	noun	S5+c
+benieuwd	adj	X5.2+ A6.2-
+benoemen	verb	S7.1+
+benoeming	noun	T1.1 I3.1
+benutten	verb	A1.5.1 S7.1+
+benzine	noun	O1.2
+beogen	verb	X7+ M6
+beoordelen	verb	G2.1 X6
+bepaald	adj	A4.2+ A7+
+bepalen	verb	A2.2 A7+ X6+
+beperken	verb	A1.7+
+beperking	noun	A1.7+
+beperkt	adj	A1.7+ N5- I2.1
+bereiden	verb	A1.1.1 F1
+bereik	noun	M1 N3.3 Q2.1 X9.2+ X9.1+
+bereiken	verb	M1 N3.3 Q2.1 X9.2+
+berekenen	verb	N2 X7+
+berekening	noun	N2 X2.4
+berg	noun	W3
+bericht	noun	Q1.1 Q1.3/Y2
+berichtgeving	noun	Q4/N5 A1.8+ N5
+beroemd	adj	X2.2+
+beroep	noun	I3.1
+beroerd	adj	E4.1- N3.2-
+beroven	verb	G2.1-
+berucht	adj	X2.2+/G2.2-
+beschaafd	adj	A5.1+/A2.1 G2.1+ S1.2.4+ P1 A5.1+ O4.2+
+beschadigen	verb	A1.1.2
+beschaving	noun	S1.1.1 A5.1+++ O4.2+++
+bescheiden	adj	N3.2- S1.2.3-
+beschermen	verb	S8+/A15+ A10-
+bescherming	noun	S8+/A15+ A10-
+beschikbaar	adj	A3+ A9+ A1.2+/G1.2 S4
+beschikking	noun	X7- M2
+beschouwen	verb	X2.1 X2.4 X6
+beschrijven	verb	Q2.2
+beschrijving	noun	Q2.2 A4.1
+beschuldigen	verb	Q2.2 G2.1
+beschuldiging	noun	Q2.2 G2.1
+besef	noun	X2.5+
+beseffen	verb	X2.5+ X9.2+
+beslaan	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+beslissen	verb	X6+
+beslissing	noun	X6+
+besluit	noun	X6+
+besluiten	verb	X6+
+besmetten	verb	B2-
+besparen	verb	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
+bespreken	verb	Q2.1 Q2.2
+bespreking	noun	Q2.1 Q2.2
+best	adj	A5.1+++ A13.2 G2.2+++ O4.2+++
+bestaan	noun	A3+
+bestaan	verb	A3+
+besteden	verb	I1.2 A1.5.1 T1.3
+bestellen	verb	S7.1+/Q2.2 I2.2/Q2.2
+bestelling	noun	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
+bestemmen	verb	X7+
+bestemming	noun	M6
+bestempelen	verb	Q1.2 Q2.2
+bestraffen	verb	G2.1
+bestrijden	verb	Q2.2/A6.1-
+bestuderen	verb	P1 X2.4
+bestuur	noun	A1.1.1 M4 H4 S7.1+/S5+c O2 O1.1 P1 K5.1
+bestuurder	noun	S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf
+bestuurlijk	adj	S7.1+
+betaalbaar	adj	I1.3-
+betalen	verb	I1.2 A9- I1.1/I3.1
+betaling	noun	I1.1
+betekenen	verb	Q1.1 X7+
+betekenis	noun	X2.1 A11.1+ Q3 X7+
+betogen	verb	Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2
+beton	noun	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+betonnen	adj	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+betrappen	verb	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3
+betreden	verb	M1 S5+ Q1.2 T2+ A1.8+ Y2
+betreffen	verb	E6- A1.8+ S1.1.3+
+betrekkelijk	adv	A13/A6
+betrekken	verb	A1.8+
+betrekking	noun	A2.2 S1.1.1 S4mf
+betreuren	verb	E4.1-
+betrokkenheid	noun	A1.8+ S3.2
+betrouwbaar	adj	A5.1+ A5.3+
+betwijfelen	verb	A7-
+beu	adj	B1 B2- X5.2- O4.2-
+beurt	noun	M2 M1 O4.4 A1.1.1 A2.1+ O4.2- N4 B2- K4 T1.3/I3.1
+bevalling	noun	M2 Q2.1 X9.2+ B3 S9%
+bevatten	verb	A1.8+ A1.7+
+bevel	noun	S7.1+ Q2.2 X9.1+
+beven	verb	M1 E5-
+bevestigen	verb	A7+ Q2.2 S9@
+bevestiging	noun	A7+ Q2.2 S9@
+bevinden	verb	A10+ X2.1 X6+
+bevoegd	adj	X9.1+
+bevoegdheid	noun	G1.1c S7.1+ S7.4+ X2.2+
+bevolking	noun	S2/N5c
+bevorderen	verb	S8+ I2.2/Q2.2 S7.1+/A2.1
+bevriend	adj	K5.1 S1.2.1+ S7.3-/K5.2
+bevriezen	verb	O4.6- M8 T2- E5-
+bevrijden	verb	S6- A1.7-
+bevrijding	noun	A1.7-
+bewaken	verb	A1.1.1/A15+ X3.4/A15+
+bewaren	verb	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4
+bewegen	verb	M2 M1 A2.1+ E1 H4/A2.1
+beweging	noun	M1 S5+c K2 A2.1+
+beweren	verb	Q2.2 A9+
+bewering	noun	Q2.1 Q2.2
+bewerken	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2
+bewijs	noun	A15+ A5.3+ Q4.1 F1 F2 A5.2+
+bewijzen	verb	A5.2+ X2.4
+bewonderen	verb	S7.2+ E2+
+bewondering	noun	S7.2+ E2+
+bewoner	noun	H4/S2mf
+bewustzijn	noun	X2.2+
+bezien	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+bezig	adj	A1.1.1 X5.1+ A1.1.1/N5+
+bezigheid	noun	A1.1.1
+bezighouden	verb	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
+bezit	noun	A9+ S9%
+bezitten	verb	A9+ E1 S9%
+bezitting	noun	A9+ S9%
+bezoek	noun	S1.1.1 M1
+bezoeken	verb	S1.1.1 M1
+bezoeker	noun	S1.1.1/S2mf M1/S2mf
+bezorgd	adj	E6- A1.8+ A2.2 S1.1.3+
+bezorgen	verb	A9- A1.1.1
+bezwaar	noun	E2-
+bezweren	verb	Q2.2/S1.2.4- Q2.2
+beëindigen	verb	T2-
+beïnvloeden	verb	A2.2 A2.1+
+bibliotheek	noun	Q4.1/H1c
+bidden	verb	S9/Q2.2
+bieden	verb	A9- Q2.2
+bier	noun	F2
+bijdrage	noun	A9- A2.2 S1.1.3+
+bijdragen	verb	A9- A2.2 S1.1.3+
+bijeenkomst	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
+bijna	adv	A13.4
+bijnaam	noun	Q2.2
+bijstaan	verb	S8+
+bijten	verb	B1 A12-
+bijwonen	verb	S1.1.3+
+bijzonder	adj	A4.2+ A6.2- G2.1/S2mf
+bil	noun	B1
+binden	verb	S6+ A1.7+ A2.2 A1.1.1
+binnen	prep	M6 Z5
+binnenkant	noun	M6 G2.1@ S1.1.3+ Z5
+binnenkomen	verb	M1 S5+ Q1.2 T2+ A1.8+ Y2
+binnenkort	adv	N3.8+
+binnenland	noun	M6
+binnenlands	adj	B4/S2mf H4 S4 E3+/L2 M6
+biografie	noun	Q4.1
+biologisch	adj	L1 B1
+bioscoop	noun	Q4.3/H1 Q4.3
+bisschop	noun	S9/S7.1+/S2mf
+bitter	adj	F2 X3.1 E3-
+bizar	adj	A6.2-
+bladzijde	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
+blaffen	verb	L2/X3.2
+blank	adj	N5--- G3 Q1.2 O4.1 X9.1- X2.2- X2.1- A1.9
+blauw	adj	I1.2 O4.3 S1.2.4- G1.2
+blazen	verb	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+
+bleek	adj	A11.1- O4.3
+blesseren	verb	B2- A1.1.1 E4.1-
+blessure	noun	B2- A1.1.2 E1
+blij	adj	E4.1+ E4.2+
+blijkbaar	adv	A8
+blijken	verb	A5.2+ X2.4
+blijven	verb	T2++ M8 N5.2+
+blik	noun	A8 X3.4 X2.4 O4.1 X7+ Z4
+blind	adj	X3.4- X3.4-/B2- X3.4-/S2mf H5
+blinken	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+bloed	noun	B1
+bloeden	verb	B1 A1.1.1 B3%
+bloeien	verb	L3 X9.2+
+bloem	noun	L3 X9.2+
+blok	noun	A10- S8- K4% O2 H1 N5+ B3
+blokkeren	verb	A10- S8- K4%
+blond	adj	O4.1/S2mf O4.3
+bloot	adj	A10+ O4.1 B5- A13.2
+blozen	verb	E1/B1
+bod	noun	A9- Q2.2 I1.3-
+bodem	noun	N4 M6 B1 A5.1---
+boeien	verb	K1 S1.1.1 S7.4+
+boeiend	adj	X5.2+
+boek	noun	A9+/Q2.2 G2.1 Q4.1 Q1.2 K5.1/I1
+boeken	verb	A9+/Q2.2 G2.1
+boel	noun	N5 S5+ A3+ A1.4 M7 O2
+boer	noun	F4/S2mf
+boerderij	noun	F4 F4/M7
+boete	noun	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- G2.1 G2.1/I1.3 Z4
+bol	noun	O4.4 A4.1 S5+
+bom	noun	G3 E2- N3.8+ N5+
+bond	noun	G1.2/I3.1/S5+c S5+c
+boom	noun	L3 S4
+boord	noun	A9+ B5 G2.1@
+boos	adj	E3- W4
+boot	noun	M4 M4fn
+bord	noun	A1.1.1 F1 O2 C1 B3
+boren	verb	A1.1.1 G3
+borrel	noun	F2 F2/B1
+borst	noun	B1 O2
+bot	noun	B1 F1
+boter	noun	F1
+boterham	noun	F1 O2 T1.3/P1 M2 A1.8+
+botsen	verb	E3- A6.1- X3.2- A1.1.1
+botsing	noun	A1.1.2 A6.1-
+bouw	noun	H1 A1.1.1 O2 X2.1
+bouwen	verb	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+boven	prep	M6 A5.1++ Z5
+bovendien	adv	N5++
+box	noun	Q2.1/S2mf G1.1/S2mf O3
+braaf	adj	A5.1+ G2.2+ A1.5.2+ O4.2+ N3.2+
+brand	noun	I3.1- G3 M2 A2.2 Q2.2 O4.6+
+branden	verb	O4.6+ E1 A1.5.1
+brandstof	noun	A1.1.1 A2.2 O1
+breed	adj	K5.1 N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@
+breedte	noun	N3.7 N3.3
+brein	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+breken	verb	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+brengen	verb	M2 A2.2
+breuk	noun	B2- A1.1.2
+brief	noun	Q1.2 Q3
+brievenbus	noun	H2
+broeder	noun	S4m S2.2m S9/S2.2m
+broek	noun	B5
+broer	noun	S4m S2.2m S9/S2.2m
+brok	noun	N5.1- O2 Q4 K2 K4 G3@
+brommen	verb	Q2.2/X3.2-
+bron	noun	A9+ T2+ Q1.1 X2.2 W3/M4
+bronzen	adj	O1.1 O4.3
+brood	noun	F1 I1.1
+brug	noun	H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2 M1
+bruikbaar	adj	A1.5.2+
+bruin	adj	O4.3
+brullen	verb	X3.2 Q2.2
+brutaal	adj	S1.2.4-
+btw	noun	G1.1/I1
+budget	noun	I1 G1.1/I1 I1.3-
+buigen	verb	O4.4 A2.1+ M1
+buik	noun	B1 O2
+buis	noun	O2 B1 O4.4 M3c O3
+buit	noun	G2.1-/A9+
+buiten	prep	M6 S1.1.3- S5- Z5
+buitenkant	noun	M6 S1.1.3- S5- Z5
+buitenlander	noun	Z2/S2mf I3.1/S2mf
+buitenlands	adj	M7
+bukken	verb	O4.4 A2.1+ M1
+bundel	noun	A1.1.1 M2 Y2 O2 N5+ I1.1+
+bundelen	verb	A1.1.1 M2 Y2
+bureau	noun	H5
+burgemeester	noun	G1.1/S7.1+/S2mf
+burger	noun	G1.1/S2mf S5+/S2mf
+burgerlijk	adj	G1.1 S1.2.4+ G2.1 H1%
+bus	noun	M3 M3fn
+buur	noun	H3/S2mf N3.3-/S2mf M7/N3.3- M6
+buurman	noun	H3/S2mf N3.3-/S2mf M7/N3.3- M6
+buurt	noun	N3.3-/H3c N3.3-/S2mf M7/N3.3-
+cadeau	noun	A9- X9.1+
+café	noun	F2 F2/H1
+camera	noun	C1 Q4.3
+campagne	noun	X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3
+capaciteit	noun	X9.1+
+carrière	noun	I3.1 N3.8+
+categorie	noun	A4.1
+cd	noun	K3
+cel	noun	B1 G2.1/H2 S9/H2 S5+c O3
+celstraf	noun	G2.1 A1.7+
+cent	noun	I1
+centimeter	noun	N3.7 N3.3
+centraal	adj	A11.1+ M6
+centrum	noun	M6 A11.1+ H1c M7c G1.2c K5.1mfn
+champagne	noun	F2 O4.3 Z2
+chaos	noun	A1.7- G2.1- Y1@
+charme	noun	O4.2+ S9%
+chauffeur	noun	M3/S2mf O2
+checken	verb	X2.4/A5.3 A15 Q1.2 T2- M5
+chef	noun	S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf
+chemisch	adj	O1
+chic	adj	O4.2+
+chocolade	noun	F1
+christelijk	adj	S9 S9/S2mf Z1mf
+christen	noun	S9 S9/S2mf Z1mf
+christendom	noun	S9
+circa	adv	A13.4
+circuit	noun	O3 S1.1.1 M7 K5.1 G2.1
+cirkel	noun	M1 O4.4 S5+c K4/H1@
+citaat	noun	Q2.2 I1.3
+citeren	verb	Q2.2 I1.3
+cliënt	noun	I2.2/S2mf
+club	noun	K1 E3- S5+ S5+c O2
+coach	noun	K5.1 P1 M2 K5.1/I3.2/S2mf P1/I3.2/S2mf M3fn
+cm	noun	N3.7 N3.3
+coalitie	noun	S5+c
+code	noun	A10-/Q1.1 A4.1 Y2@ B1% G2.1 G2.2 B3%
+collectie	noun	A9+ I1 B5
+collectief	adj	S5+ N5+ A4.2- Q3 S5+c
+collega	noun	I3.2/S2mf
+college	noun	Q2.2 P1
+column	noun	O2 S5+c Q4.2
+combinatie	noun	A6.3+ A2.1+ N1 M3fn
+combineren	verb	A2.2 A1.8+ S5+c F4
+comfortabel	adj	O4.2+
+comité	noun	S7.1+/S5+c
+commentaar	noun	Q2.1
+commercieel	adj	I2.1 I2.2/Q2.2
+commissaris	noun	G1.1/S2mf G2.1/S2mf
+commissie	noun	S7.1+/S5+c
+communicatie	noun	Q2.1 Q1.2 Q1.3 Q4.3
+communiceren	verb	Q2.1 Q1.2 Q1.3 X2.2+
+communist	noun	G1.2 G1.2/S2mf
+communistisch	adj	G1.2 G1.2/S2mf
+compenseren	verb	S8+
+competitie	noun	K1 S7.3+
+compleet	adj	N5.1+ T2- N3.2+ Q1.2
+complex	adj	A12- H1 B2-/X1
+complex	noun	A12- H1 B2-/X1
+compliment	noun	S1.2.4+
+componist	noun	K2/S2mf
+compromis	noun	A6.1+/S1.1.2+ G2.2-
+computer	noun	Y2
+concentratie	noun	X5.1+ N5+ I2.2% O1.2
+concentreren	verb	X5.1+ I2.2% M6 N5+ O1.2 W3/I4
+concept	noun	X4.1
+concern	noun	S5+ A4.1 B3% S5+c A4.1c
+concert	noun	E6- K2
+concluderen	verb	X6+ T2-
+conclusie	noun	X6+ T2-
+concreet	adj	A1.1.1 A7+/A2.1 A4.2+ A7+ A1.6 O1
+concurrent	noun	S7.3+/S2mf
+concurrentie	noun	K1 S7.3+
+conditie	noun	B4 P1 O4.1 S6+ B2- B2+ Z7
+conferentie	noun	S1.1.3+
+conflict	noun	A6.1- G3 E3-
+confrontatie	noun	A6.1- G3 S1.1.1/E3-
+confronteren	verb	A1.1.1 S1.1.1
+consequent	adj	A6.1+
+consequentie	noun	A2.2
+conservatief	adj	G1.2 A6.2+ A1.3+ A9+ G1.2/S2mf A2.1-/S2mf
+constant	adj	A2.1- N2 T2++ S6+
+constateren	verb	X2.3+
+constructie	noun	H1 A1.1.1 O2 X2.1
+consument	noun	I2.2/S2mf
+contact	noun	Q2.2 S1.1.1 S2mf O3
+content	adj	E4.2+ Q2.1 A1.8+ N5 E4.1+%
+context	noun	O4.1/A3+ A2.2 Q3
+continent	noun	B1 W3
+continu	adj	T2++
+contract	noun	Q1.2/I2.1 N3.2-/A2.1 B2- Q1.2/I3.1 Q1.2/G2.1
+contrast	noun	A6.1-
+controle	noun	S7.1+ A1.7+ O2
+controleren	verb	X2.4/A5.3 A15 Q1.2 T2- M5
+cool	adj	O4.6- S1.2.1- O4.2+ E6+ O4.6-/A2.1 X5.2-/A2.1
+correct	adj	A5.3+ A5.3+/A2.1
+correspondent	noun	Q4.2/S2mf Q1.2/S2mf
+corrigeren	verb	A5.3+/A2.1
+corruptie	noun	G2.2- G2.1- Q3
+creatief	adj	C1/S2mf X2.1/A6.2-
+creëren	verb	A1.1.1 A2.2 E1
+criminaliteit	noun	G2.1-
+crimineel	adj	G2.1- A5.1- G2.1-/S2mf
+crimineel	noun	G2.1- A5.1- G2.1-/S2mf
+crisis	noun	A12-
+criterium	noun	X4.1
+criticus	noun	Q2.2/S2mf
+cruciaal	adj	A11.1+
+cultureel	adj	C1 S1.1.1 S5+
+cultuur	noun	C1 S1.1.1 S5+ L1
+cursus	noun	M1 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 Z4
+cynisch	adj	X2.1 S7.2-
+daad	noun	A1.1.1 K4 A5.4- G2.1 P1% T1.1.2 A8
+daadwerkelijk	adj	A5.4+ A14
+daar	adv	M6 T1.2 Z5
+daaraan	adv	Z5
+daarbij	adv	Z5
+daarbuiten	adv	M6 S1.1.3- S5- Z5
+daardoor	adv	Z5
+daarin	adv	M6
+daarna	adv	N4
+daarom	adv	Z5
+daarvan	adv	Z8
+daarvoor	adv	Z5
+dadelijk	adv	N3.8+ T1.1.2/A11.1+ N4 Z5/N3.8+
+dag	noun	T1.3
+dagblad	noun	Q4.2
+dagboek	noun	Q1.2
+dagelijks	adj	Q4.2 B4/S2mf T1.1.2 N6+
+daglicht	noun	W2 T1.3
+dak	noun	H2 B1 M3
+dal	noun	W3
+daling	noun	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 O1.2/N5 N5- B3 N3.3 F1
+dame	noun	S2.1f S7.1+/S2.1f
+dan	adv	N4 Z5 T1.2 T1.1.1
+dan	conj	Z5
+dank	noun	S1.2.4+
+dankbaar	adj	S1.2.4+ E4.2+
+danken	verb	S1.2.4+
+dans	noun	K1
+dansen	verb	K1
+dapper	adj	E5+ S2@m
+dat	conj	A13.3 A6.1+ Z5 Z8
+dat	pron	A13.3 A6.1+ Z5 Z8
+data	noun	X2.2/X2.4 Q1.1
+datgene	pron	Z8 Z5
+datum	noun	T1.2 S3.2 S3.2/S2mf T3
+datzelfde	pron	A6.1+++
+de	art	Z5
+deal	noun	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 N5 Q2.2
+debat	noun	Q2.2
+debuut	noun	T2+
+december	noun	T1.3
+decennium	noun	T1.3
+deel	noun	A10+ B4 S3.1- N5.1- O2 M7 I3.1 S1.1.3+ K4
+deelgemeente	noun	M7c G1.1c
+deelname	noun	S1.1.3+
+deelnemen	verb	S1.1.3+
+deelnemer	noun	S1.1.3/S2mf
+deels	adv	A13.6
+defensie	noun	S8+ G3 G2.1c Q2.2 K5.1 S7.3+
+definitie	noun	Q2.2 O4.1
+definitief	adj	K5.1 N4 T2-
+definiëren	verb	Q2.2 A2.2
+deftig	adj	S7.1+
+degelijk	adj	A13.2 O4.1 B2+ A5.1+ X3.2 Q2.2 A8 N3.1%
+deken	noun	H5 O2 N5.2+ N5.1+
+dekken	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+deksel	noun	O2
+delegatie	noun	S7.4+ A9- S5+c
+delen	verb	S1.1.2+
+democratie	noun	G1.2
+democratisch	adj	G1.2
+demonstratie	noun	G1.2 A10+
+denken	verb	X2.1
+departement	noun	H2/S5+c X2.2
+depressie	noun	E4.1- B2-/X1 I2.1/N5- O4.4 W4
+derde	num	N4 N5 N1
+dergelijk	adj	Z5 Z8
+derhalve	adv	Z5
+dertig	num	N1 T3
+deskundig	adj	X2.2+ X9.1+ X2.2+/S2mf X9.1+/S2mf
+desondanks	adv	Z4
+detail	noun	A4.2+ S5+c B5 Q2.2
+deugd	noun	G2.2+
+deur	noun	H2 H1@
+deuropening	noun	H2
+dezelfde	pron	A6.1+++
+diagnose	noun	B3 X4.1
+dialect	noun	Q3
+dialoog	noun	Q2.1
+dicht	adj	A10- T2-
+dichtbij	adv	A1.1.1 A10- T2- M3/H3 N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4
+dichter	noun	Q4.1/S2mf
+dief	noun	G2.1-/S2mf
+diefstal	noun	G2.1-/A9+
+dienst	noun	A1.1.1 S8+ S7.1- I2.2 S9 I3.1 F1 G3@ G1.1@ G2.1@
+diep	adj	N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 W3/M4
+diepte	noun	N3.3+ N5+ A4.2+ Q2.2 S1.2
+dier	noun	L2 L2mfn S5+c O2c
+dierbaar	adj	E2+ I1.3+ E2+/S2mf
+digitaal	adj	Y2 N1
+dij	noun	B1
+dijk	noun	H2/M4 S3.2/S2.1%f
+dik	adj	N3.7 O4.5 N3.7+ N3.2+ N5+ X9.1- A10- A11.2+ O4.3@ O4.2-@
+dikwijls	adv	N6+
+diner	noun	F1
+ding	noun	O2 X4.1 A7- S2mf L2mf
+dinsdag	noun	T1.3
+diploma	noun	P1 Q1.2
+diplomatiek	adj	G1.1 S1.2.4+
+direct	adj	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+directeur	noun	S7.1+/S2mf K4/S2mf
+directie	noun	S7.1+c
+dirigent	noun	K2/S2mf I3.2/M3/S2mf O3
+discipline	noun	G2.1 A1.7+ P1
+discriminatie	noun	A6.1- G2.2-
+discussie	noun	Q2.1 Q2.2
+discussiëren	verb	Q2.1 Q2.2
+district	noun	M7
+dit	pron	A13.3 M6 Z5 Z8
+divers	adj	A6.3+
+divisie	noun	A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c
+docent	noun	P1/I3.2/S2mf
+doch	conj	A13.6 Z5
+dochter	noun	S4f
+document	noun	Q1.2 X2.2+ A5.2+ Y2
+documentaire	noun	Q1.2 Q4.3
+dodelijk	adj	L1-
+doden	verb	L1- A12- A1.5.1 E4.1-/A2.2
+doek	noun	B5 O2 S9/S5+
+doel	noun	K5.1 X7+
+doelman	noun	K5.1/S2mf
+doelpunt	noun	K5.1 X7+
+doelstelling	noun	K5.1 X7+
+doemen	verb	A5.1-/A2.1
+doen	verb	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5
+dof	adj	X5.2- O4.3 W2 W4 X3.2 N5- O4.1
+dol	adj	B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++
+dollar	noun	I1
+dom	adj	S1.2.6- X9.1-
+domein	noun	X4.1 A9+ Y2
+dominee	noun	S9/S7.1+/S2mf
+domineren	verb	S7.1+ A11.1+ A11.2+
+donderdag	noun	T1.3
+donderen	verb	W4 X3.2+ Q2.2 E3-
+donker	adj	W2- O4.3 E4.1- X2.2- O4.2-
+dood	adj	A13.3 A4.2+ L1- X5.2- A1.1.2 A1.1.1- E3+ B2-
+dood	noun	L1-
+doodgaan	verb	L1- T2-
+door	prep	M6 Z5
+doorbraak	noun	X9.2+
+doorbrengen	verb	I1.2 A1.5.1 T1.3
+doordat	conj	Z5/A2.2
+doordringen	verb	M1 A1.8+ X2.5+
+doorgaan	verb	T2++
+doorgaans	adv	A6.2+
+doorheen	prep	M6 Z5
+doorstaan	verb	A1.1.1 T2++
+doorzichtig	adj	O4.3
+doos	noun	K5.1 A1.1.1 E3- O2 O4.4 Q4.3 G2.1 H2 B5/K5.1@ A4.1@
+dopen	verb	S9
+dorp	noun	M7
+dorst	noun	B1/F2 X7+
+dosis	noun	A9- N5
+dossier	noun	O2/Q1.2 O2 Y2 S5+/N4 Q1.2 A1.1.1
+douche	noun	A9+/N5+ B4 W4 S5+/O4.2-c S1.1.1%
+doven	verb	O4.6- A1.1.2@
+downloaden	verb	M2
+draad	noun	A1.1.1 M1 O2 X4.1 N5.1-
+draaien	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+dragen	verb	M2 A9+ Q4 S7.4+ B1% B2-%
+drama	noun	K4 A1.1.1
+dramatisch	adj	K4 E1/N5.2+ N3.8++
+drang	noun	Q2.2 X7+
+drank	noun	F2 F2/B1
+drastisch	adj	N5+++
+dreigen	verb	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+dreiging	noun	E3-/Q2.2 A15- X2.6+/O4.2- A7+
+drijven	verb	M1 T2+ I2.2
+dringen	verb	M2 M1 S7.1+ X8+ I2.2 F3 I3.1-
+dringend	adj	A11.1+
+drinken	verb	F2/B1
+drogen	verb	O1.2-
+dromen	verb	X2 X2.1 X7++
+dronken	adj	F2++ F2+++/S2mf F2/B1
+droog	adj	O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5-
+droom	noun	X2 X2.1 X7++ X4.1 X7+ A5.2-
+drug	noun	B3 F3
+druipen	verb	O1.2/M1
+druk	adj	A1.1.1 X5.1+ A1.1.1/N5+
+druk	noun	N3.5 S7.1+ E6-
+drukken	verb	Q1.2
+druppel	noun	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 O1.2/N5 N5- B3 N3.3 F1
+dubbel	adj	F2 A6.1+/S2mf N5+ N5+/A2.1
+duidelijk	adj	A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4
+duif	noun	L2mfn F1
+duiken	verb	M4 M1 N5-/A2.1
+duim	noun	B1 B5 M3
+duin	noun	W3
+duister	adj	W2- O4.3 E4.1- X2.2- O4.2-
+duister	noun	W2- O4.3 E4.1- X2.2- O4.2-
+duisternis	noun	W2- O4.3
+duivel	noun	F1 E3- S9 G2.2-/S2mf
+duizend	num	N1 I1
+dumpen	verb	M2 T2- I2.2/I1.3- S3.1- Y2
+dun	adj	N3.7- B1 O4.5 N5- A5.1- X3.2% N5-/A2.1 O4.1/A2.1
+duo	noun	S5+c K2
+duren	verb	T2++ T1.3
+durven	verb	E5+
+dus	adv	A13.3 Z5
+duur	adj	I1.3+
+duur	noun	T1.3
+duurzaam	adj	O1.1 O4.1
+duw	noun	M2 M1 S7.1+ X8+ I2.2 F3 I3.1-
+duwen	verb	M2 M1 S7.1+ X8+ I2.2 F3 I3.1-
+dwaas	adj	S1.2.6- E4.1+
+dwalen	verb	M1 X5.1-
+dwars	adj	O4.4
+dwingen	verb	S7.1+ A1.1.1 E3-
+e-mail	noun	Q1.3/Y2
+echo	noun	X3.2
+echt	adj	A13.3 A3+ A5.2+ A5.4+
+echter	adv	A13.1 Z4
+echtgenoot	noun	A1.5.1/A1.3+ S4m
+echtgenote	noun	S4f
+echtpaar	noun	N5+ S4c
+economie	noun	I2.1 I1.3-
+economisch	adj	I1.3- I2.1
+editie	noun	Q4
+een	art	Z5
+een	num	N1 T3 T1.2 Z8
+eend	noun	L2mfnc F1 K5.1 E2+/S2mf M1 A1.9 M2
+eenheid	noun	S5+c O2 H5 H1 N3.1 P1 N1
+eenmalig	adj	N6-
+eens	adv	A13.1 A6.1+ O4.4 A1.4 N1 T1.3 Z5
+eentje	num	N1 T3 T1.2 Z8
+eenvoudig	adj	A12+ A6.2+ O4.1 X9.1-
+eenzaam	adj	S5-
+eenzaamheid	noun	S5-
+eenzelfde	pron	A6.1+++
+eer	conj	N4 Z5
+eer	noun	G2.2+ S7.2+
+eerder	adv	T1.1.3/N3.8++
+eerst	adv	N4 P1@
+eerste	num	N4 P1@
+eeuw	noun	T1.3 K5.1%
+eeuwig	adj	T2+++
+eeuwigheid	noun	T2+++
+effectief	adj	X9.2+
+efficiënt	adj	X9.1+/I3.2 N3.8+ A1.5.2+
+ei	noun	L2 F1 Q2.2
+eigen	adj	A9+ S5-
+eigenaar	noun	A9+/S2mf
+eigenaardig	adj	A6.2- A4.2+
+eigendom	noun	A9+ H1/H3 O4.1
+eigenlijk	adv	A5.4+ A14
+eiland	noun	W3
+eind	noun	M6 T2- O2 X7+ N4
+einde	noun	M6 T2- O2 X7+ N4
+eindelijk	adv	N4
+eindeloos	adj	T2+++ N5+
+eindigen	verb	T2-
+eis	noun	X7+ S6+
+eisen	verb	Q2.2 S6+ X7+
+elders	adv	M6/A6.1-
+elegant	adj	O4.2+
+elektriciteit	noun	O3
+elektrisch	adj	O3
+elektronisch	adj	O3 Y2
+element	noun	A4.1 N5 S5+c O1 O3 O2 W4
+elf	num	N1 T3
+elftal	noun	S5+ S5+c K5.1/S5+c
+elite	noun	A5.1+++ A5.1+++/S5+c S7.1+/S5+c
+elk	pron	N5.1+ S1.1.2+
+elleboog	noun	B1 E3-
+ellende	noun	E4.1-
+emmer	noun	O2 W4 A4.1
+emotie	noun	E1
+emotioneel	adj	E1
+en	conj	Z5
+energie	noun	X5.2+ Y1
+eng	adj	E5-
+engel	noun	S9mf O4.2+/S2mf
+enig	adj	A14 Z5
+enig	pron	A14 Z5
+enigszins	adv	A13.6
+enkel	noun	B1
+enorm	adj	N3.2+++
+enquête	noun	X2.4
+enthousiasme	noun	X5.2+
+enthousiast	adj	X5.2+
+envelop	noun	O2
+er	adv	M6 T1.2 Z5
+eraf	adv	M6 K1 A1.1.1 A1.9 O4.2- A5.1- G2.2- B2- Z5 E2-
+erbij	adv	M6 T1.2 Z5
+erf	noun	H3 L3/H3 M7/I4 N3.7 N3.3
+erfenis	noun	A9+/S1.1.1 T1.1.1
+erg	adv	A13.3 A4.2+ A5.2+%
+ergens	adv	M6
+ergeren	verb	E3-
+ergernis	noun	E3-
+erkennen	verb	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
+erkenning	noun	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
+ernst	noun	A11.1+ A15- E4.1-
+ernstig	adj	A11.1+ A15- E4.1-
+eronder	adv	M6 Z5
+erover	adv	A13.4 Z5 M6
+eruit	adv	K5.1 M6 S3.2 Z5
+ervaren	verb	A2.1+/A3+ X3
+ervaring	noun	A2.1+/A3+ X3 X2.2+ X9.1+ I3.2
+essentie	noun	A11.1+ O1
+essentieel	adj	S6+ A4.2+
+etc	adv	Z4
+eten	noun	F1
+eten	verb	F1/B1 A1.5.1/N5+
+ethisch	adj	G2.2+
+etiket	noun	Q1.2 Q2.2
+etnisch	adj	S5+
+evaluatie	noun	A5.1 N2
+even	adv	N3.8+
+eveneens	adv	N5++
+evenement	noun	A3+/A11.1+ A6.2- S1.1.1/X7+ K5
+eventjes	adv	N3.8+
+eventueel	adj	A7+ O3
+evenveel	num	A6.1+++
+evenwel	adv	Z4
+evenwicht	noun	O4.1/B1 A6.1+ A11.1 I1.1 S7.3
+evident	adj	A11.2+
+evolueren	verb	A2.1+
+evolutie	noun	A2.1+
+ex	noun	S4/S2mf T1.1.1
+exact	adj	A5.3+ A9+
+examen	noun	P1 X2.4 B3
+exclusief	adj	A14/Q4.2 O4.2+ A14 A1.8-
+excuus	noun	A2.2 Q2.2 S1.2.4+
+exemplaar	noun	A5.4- Q4.1 Q4.2 Q1.2
+experiment	noun	X2.4 Y1
+experimenteren	verb	X2.4
+expert	noun	X2.2+ X9.1+ X2.2+/S2mf X9.1+/S2mf
+expliciet	adj	A4.2+
+explosie	noun	A1.1.1 E3- N5+/A2.1 G3
+extern	adj	M6 G1.1/M7
+extra	adj	N5++
+extreem	adj	N5.1+++ N5.2+ S1.2.6- A12- N3.3+++
+fabriek	noun	I4/H1c
+fabrikant	noun	A1.1.1/S2mfc
+factor	noun	A2.2 A4.1 N2 I2.1/S2mf@
+failliet	adj	I1.2+ A5.1- I1.2+/S2mf
+faillissement	noun	I1.2+ A5.1-
+falen	verb	X9.2- A5.1-/A2.1
+familie	noun	S4c A4.1c
+familielid	noun	A13 A6 S4mf Q3%
+fan	noun	A1.1.1 E2+/S2mf O2 O4.4
+fanatiek	adj	X5.2+++ X5.2+++/S2mf
+fantasie	noun	A5.2-
+fantastisch	adj	A5.1+ N5++ A6.2- A5.2-
+fascineren	verb	X5.2+
+fase	noun	N3.8- X2.5- E5- T1.3
+fataal	adj	A5.1--- L1-
+fatsoenlijk	adj	A5.1+ G2.2+ S1.2.4+
+favoriet	adj	E2+++
+favoriet	noun	E2+++
+februari	noun	T1.3
+federaal	adj	S5+
+feest	noun	K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
+feestdag	noun	K1/T1.3
+feestelijk	adj	E4.1+
+feit	noun	A5.2+ X2.2
+feitelijk	adj	A5.2+ X2.2
+fel	adj	E3-
+feliciteren	verb	Q2.2
+fenomeen	noun	A3 X3.4 A1.1.1
+ferm	adj	A7+ I2.1/S5+c O4.5 A1.7+
+festival	noun	K1/S1.1.3+ S9
+fier	adj	E4.2+/S1.2 S1.2.3+
+fiets	noun	M3 M3fn
+fietsen	verb	M3 N6
+fietser	noun	M3/S2mf
+figuur	noun	N5 N1 B1 S2mf C1 O4.4 O2 X2.1 X2.5+
+fijn	adj	O4.2+ S1.2.1+
+film	noun	Q4.3 O2/C1 O1.1 O1.2 B3
+filmen	verb	Q4.3
+filosofie	noun	P1 X2.1
+filosoof	noun	X2.1/S2mf
+finale	noun	K5.1 N4 T2-
+financieel	adj	I1
+financieren	verb	I1
+financiering	noun	I1
+firma	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
+fiscaal	adj	G2.1/S2mf I1/G1.1 I1
+fit	adj	A1.2+ B2+ B2- N3.2/A5.1+ E6- N3.2 M2
+flard	noun	A1.1.2 N5.1-
+flat	noun	H1/H4 M3 W3 B5% O4.4% O4.4 N5- A6.1+ K2 O3 O4.1 A5.3+
+flauw	adj	S1.2.5- O4.1 S7.1- A5.1-
+fles	noun	A1.1.1 E5- A10- O2 E5+
+flink	adj	A11.1+ N5+
+flits	noun	O4.2+ O4.3/N6 A10+ N3.8+ G2.1- Q4.3 O2
+flitsen	verb	O4.3/N6 A10+ N3.8+ G2.1-
+fluisteren	verb	Q2.1/X3.2-
+fluit	noun	K2
+fluiten	verb	X3.2+
+folder	noun	Q1.2
+fonds	noun	I1.1 N5+
+forceren	verb	S7.1+ A1.1.1 E3-
+formaat	noun	O4.1 Y2
+formeel	adj	S1.2.1- G1.1 A6.2+ O4.2
+formule	noun	Y1 N2
+formuleren	verb	X2.1 Q2.2
+formulier	noun	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ T2+ A2.1+ A1.8+ A3+ A1.1.1
+fors	adj	S1.2.5+ O4.1
+forum	noun	S1.1.3+c M7
+foto	noun	C1
+fotograaf	noun	C1/S2mf
+fotograferen	verb	C1
+fout	adj	A5.3- A5.1- G2.2- B2-
+fout	noun	A5.3-
+fraai	adj	O4.2+
+fragment	noun	A1.1.2 N5.1-
+frank	noun	A5.2+ Q1.2 Z1
+fraude	noun	G2.1- G2.2-
+frequentie	noun	N6
+fris	adj	T3- O4.2+ B1 W4 S1.2.3+
+fronsen	verb	B1 E2-
+front	noun	M6 A11.1+ M7/W3 A4.1 A10- S1.2.3+ W4 S7.1+ Q4.3
+fruit	noun	F1 X9.2+
+frustratie	noun	E4.2- S8-
+frustreren	verb	S8-
+fuif	noun	K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
+functie	noun	A1.1.1 A1.5.1 S1.1.3+ A2.2 N2 Y2
+functioneren	verb	A1.1.1
+fundamenteel	adj	A11.1+ K2
+fungeren	verb	A1.1.1
+fusie	noun	S5+
+fysiek	adj	B1 A1.6 E3- Y1 B3
+gaan	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+gang	noun	H2 M7
+gans	adj	N5.1+
+gapen	verb	B1
+garage	noun	M3/H1
+garanderen	verb	A7+/Q2.2
+garantie	noun	A7+/Q2.2
+gas	noun	E3- Q2.1 O1.3
+gast	noun	H4/S2mf S1.2.2-/S2mf
+gat	noun	A1.1.1 K5.2 A1.1.2/G3 O2 H4/L2 M7/O4.2- X2.1/A5.1- N5-
+ge	pron	Z8mf
+gebaar	noun	Q1.1/B1 A10+ M1 A1.1.1
+gebaren	verb	Q1.1/B1 A10+ M1
+gebed	noun	S9/Q2.2 A7+
+gebeuren	verb	A2.1+ A3+ X7-
+gebeurtenis	noun	A3+/A11.1+ A6.2- S1.1.1/X7+ K5
+gebied	noun	M7 A4.1 N3.6
+geboorte	noun	B1 T2+
+geboren	adj	B1 X9.1+
+gebouw	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
+gebrek	noun	A9-
+gebruik	noun	A1.5.1 S7.1+
+gebruikelijk	adj	A6.2+
+gebruiken	verb	A1.5.1 S7.1+
+gebruiker	noun	A1.5.1/S2mf
+gedachte	noun	X2.1 X4.1
+gedeelte	noun	A1.1.1 B3/X1 N5.1- S5+c B3 Y1 C1/H1@
+gedeeltelijk	adj	N5.1-
+gedenken	verb	X2.2+
+gedicht	noun	Q3
+gedoe	noun	A12-
+gedrag	noun	S1.1.1 A1.1.1
+gedragen	verb	S1.1.1 A1.1.1
+geduld	noun	E3+ K5.2%
+geduldig	adj	B2-/S2mf E3+
+gedurende	prep	Z5
+geel	adj	O4.3
+geen	pron	S8- Z4 Z6
+geestelijk	adj	X2 B2/X2 S1.2.6-
+gehandicapt	adj	B2- S8- B2-/S2c
+geheel	adj	N5.1+
+geheel	noun	N5.1+
+geheim	adj	A10-
+geheim	noun	A10-
+geheimzinnig	adj	A6.2-
+geheugen	noun	X2 X2.2+ S7.2+ Y2
+gehoor	noun	B1/X3.2 G2.1 X3.2
+gek	adj	B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++
+gelaat	noun	B1 W3 O2 A8 S1.2.3+ M6 S1.1.1 X2.1 B5
+geld	noun	I1
+gelden	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+geldig	adj	A5.2+ Q1.1 S7.4+
+geleden	adj	T1.1.1
+gelegenheid	noun	A1.4
+geleidelijk	adj	T2++
+geliefd	adj	E2+
+gelijk	adj	A6.1+ A6.1+++
+gelijk	noun	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 S7.4+ G1.2 Z4
+gelijkaardig	adj	A6.1+
+gelijkspel	noun	A1.4 K5.1 O4.2+ C1 M2 A9+ X5.1+ I1.2 X2.1
+geloven	verb	X2.1 S9%
+gelovig	adj	S6+ A5.2+ S9 S9/S2c
+geluid	noun	A13.2 O4.1 B2+ A5.1+ X3.2 Q2.2 A8 N3.1%
+geluk	noun	E4.1+
+gelukken	verb	X9.2+ N4
+gelukkig	adj	E4.1+ E4.2+
+gemak	noun	A12+ A12+/A2.1 N5-/A2.1
+gemakkelijk	adj	A12+
+makkelijk	adj	A12+
+gemeen	adj	N2 Q1.1 X7+ S1.2.2+ S1.2.1-
+gemeenschap	noun	S5+c
+gemeenschappelijk	adj	A6.2+ N5++ S5+ O4.2- M7
+gemeente	noun	M7/G1.1
+gemeentelijk	adj	M7/G1.1
+gemeenteraadslid	noun	G1.1/S2mf
+gemiddeld	adj	A6.2+ A5.1 N2
+gen	noun	B1
+genaamd	adj	Q2.2
+generaal	noun	G3/S7.1+/S2mf B3/H1 N5+ A4.2-
+generatie	noun	T1.3 S5+c
+genetisch	adj	B1
+genezen	verb	B3 F1
+genieten	verb	E2+ A9+ E4.1+
+genoeg	adv	A13.3 N5+ N6+
+genoegen	noun	E4.2+ K1
+genot	noun	E4.1+
+genre	noun	Q4/A4.1
+geografie	noun	P1/W3 W3
+geraken	verb	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-
+gerechtelijk	adj	G2.1
+geregeld	adv	N6+
+gerucht	noun	Q2.2
+geruim	adj	N5+
+gerust	adj	E3+ E4.2+
+geruststellen	verb	E6+
+geschenk	noun	A9- X9.1+
+geschiedenis	noun	T1.1.1 P1/T1.1.1 Q2.1 B2
+geschikt	adj	A1.2+
+geschrift	noun	Q1.2 I2.1
+geslacht	noun	L2 S2 S3.2
+gespannen	adj	A1.7+ E6- O4.1 Q3
+gesprek	noun	Q2.1
+gestalte	noun	O4.4 A2.2
+getal	noun	N1 N5 Q1.3 K2 Q4.2
+getuige	noun	G2.1/S2mf X3.4/S2mf S9/S2mf S9 A10+@ X3.4 G2.1
+getuigen	verb	X3.4 G2.1 A10+@ S9
+geur	noun	X3.5
+gevaar	noun	A15- A7+
+gevaarlijk	adj	A15-
+geval	noun	A4.1 O2 G2.1 B3 X4.1 Q3
+gevangenis	noun	G2.1/H1
+gevangenisstraf	noun	G2.1 A1.7+
+gevecht	noun	S8- X8+ E3- G1.2 K5.1
+gevel	noun	H2 A5.2-/A8
+geven	verb	A9- A1.1.1
+gevoel	noun	E1 X3 X2.1
+gevoelig	adj	X2.5+/E1 E6- O4.1 B1 A4.2+
+gevolg	noun	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2
+geweer	noun	G3 O2 O3
+geweld	noun	E3-
+gewelddadig	adj	E3- N3.2+
+geweldig	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 S7.2+/S2mf P1%
+gewest	noun	M7 B1
+gewicht	noun	N3.5 A11.1 O2/K5.1 N3.5+
+gewond	adj	B2- A1.1.2 E1
+gewoonlijk	adv	A6.2+
+gewoonte	noun	S1.1.1 A6.2+ B5@
+gewoonweg	adv	A13.6 A14 A12+
+gezag	noun	G1.1c S7.1+ S7.4+ X2.2+
+gezamenlijk	adj	B1 F1 H1 F3 S5+
+gezellig	adj	E4.1+
+gezelschap	noun	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
+gezicht	noun	B1 W3 O2 A8 S1.2.3+ M6 S1.1.1 X2.1 B5
+gezien	prep	X2.1 X2.4 X6 Z5
+gezin	noun	S4c A4.1c
+gezond	adj	B2+ X9.2+ A5.1+
+gezondheid	noun	B2 X9.2
+gids	noun	S8+ Q4.1 S8+/S2mf K1/S2.1f
+giechelen	verb	E4.1+
+gieren	verb	Q2.2
+gieten	verb	A1.1.1/O1.2 W4 M1/N5+
+gigantisch	adj	N3.2+++
+gij	pron	Z8mf
+gillen	verb	Q2.2
+gisteren	adv	T1.1.1
+gitaar	noun	K2
+glad	adj	O4.5 X3.3 A12+/A2.1
+glans	noun	W2 O4.2+ B4 E4.1+ X9.1+ W4/A5.1+
+glanzen	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+glas	noun	O1.1 O2
+glazen	adj	O1.1 O2
+glijden	verb	M1 M2 A5.1-/A2.1 I1.1-/A2.1 K2 K5.2
+glimlach	noun	E4.1+
+glimlachen	verb	E4.1+
+glippen	verb	M1 A9- A2.1+ A5.1-/A2.1
+globaal	adj	M7/K5.1 A4.2- E3-/S2mf X3.3 O4.5 B2 E3- S1.2.4- O4.2- A12- W4 E3-/K5.2
+gloeien	verb	O4.3
+goal	noun	K5.1 X7+
+god	noun	Z4 S9
+goddelijk	adj	S9 O4.2+ X2.1/A7- X2.4/S9
+godsdienst	noun	S9
+goed	adj	A5.1+ G2.2+ A1.5.2+ O4.2+ N3.2+
+goed	noun	A5.1+ G2.2+ A1.5.2+ O4.2+ N3.2+
+goederen	noun	O2
+goedkeuren	verb	S7.4+ E2+ G1.1
+goedkeuring	noun	S7.4+ E2+ G1.1
+goedkoop	adj	I1.3- O4.2-
+goesting	noun	E2+ X2.6+ X7+ X2.1 O4.2+
+gokken	verb	A15- I1/A1.4 K5.2/I1
+golf	noun	Q1.1 M2 M1 W3/M4 O4.4 Y1 N5
+gooien	verb	M2 A2.2 Q2.2 A1.1.1 X2.5-
+gordijn	noun	A10- H5
+goud	noun	O1.1 O4.3 I1
+gouden	adj	O1.1 O4.3 I1
+gouverneur	noun	S7.1+/S2mf G1.1/S2mf O2%
+graad	noun	A13.1 N3.1 N3.2 N5 P1
+gracht	noun	W3/M4 B1
+graf	noun	E4.1- M7/L1- Q3%
+gram	noun	N3.6
+grap	noun	E4.1+ S1.2.6-
+grappig	adj	E4.1+ A6.2- A12- B2-
+gras	noun	L3 Q2.2/S2mf F3 Q2.2
+gratis	adj	S6- A1.7- A1.5.1- I1.3-
+grauw	adj	O4.3 O4.2- E4.1-
+graven	verb	A1.1.1 X2.4 E2+ S8+ X7+
+greep	noun	A9+ O2
+grens	noun	M7/G1.1 M6 O2 B5 L3/H3
+grenzen	verb	M7/G1.1 M6
+gretig	adj	X5.2+
+grijns	noun	E4.1+
+grijnzen	verb	E4.1+
+grijpen	verb	A9+
+grijs	adj	O4.3 O4.2- E4.1-
+grinniken	verb	E4.1+
+groei	noun	N3.2+/A2.1 A5.1+/A2.1 L3 B2-
+groeien	verb	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
+groen	adj	O4.3 M7 G1.1/W5mf K5.1/M7 W5 L3 X9.1-
+groente	noun	F1 X9.1-/S2mf
+groep	noun	S5+ A4.1 B3% S5+c A4.1c
+groet	noun	Q2.2/S1.2.4+ E1 X3
+groeten	verb	Q2.2/S1.2.4+ E1 X3
+grommen	verb	X3.2 Q2.2 L2/Q2.1
+grond	noun	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 M4 Q2.2 P1 A1.7+ A2.2 M6 W3 M7 O3 X2.1
+grondgebied	noun	M7 A4.1
+grondig	adj	N5.1+ A1.3+
+grondwet	noun	G1.1 B2 O1/A1.8+
+grootmoeder	noun	S4f
+groots	adj	N1 I1 O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+
+grootschalig	adj	N3.2+ N5+
+grootte	noun	N3.2 N3.1 N5 O4.1
+grootvader	noun	S4m
+grotendeels	adv	A13.2
+gruwelijk	adj	O4.2-
+gsm	noun	M1/N3.8+ A2.1+ O2 K6 Q1.3
+gulden	noun	I1
+gunnen	verb	A9- Q2.2
+gunst	noun	E2++ S8+
+gunstig	adj	A5.1+ S8+
+ha	interj	Z4
+haak	noun	A9+ X5.2+ O2 O4.4 K5.1
+haal	noun	M2
+haalbaar	adj	A7+
+haar	noun	B1
+haard	noun	H5
+haast	adv	A13.4
+haasten	verb	N3.8+
+haastig	adj	N3.8+ A1.3-
+haat	noun	E2-
+hak	noun	B1 B5 L2
+hal	noun	H2 H1 S9/H1c
+halen	verb	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-
+half	adj	N1 A13.4 N5 N5c
+hallo	interj	S1.1.1 Z4
+hals	noun	B1 O2 S3.2
+halt	noun	M3 T2- M8 H4 Q3 K2 S8- A1.1.1@
+halverwege	adv	M6 N5 T1.2
+hand	noun	A9- B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf
+handel	noun	I2.2 I2.1 I3.1 I2.2/N5
+handelaar	noun	I2.2/S2mf
+handelen	verb	A1.1.1 T1.1.2 A8 K4
+handeling	noun	A1.1.1 G3
+handhaven	verb	A9+ T2++ S8+ A1.1.1 Q2.2
+handicap	noun	B2- S8- K5.1
+handig	adj	A1.5.2+ N3.3- X9.1+
+handschoen	noun	B5 O2
+handschrift	noun	Q1.2
+handtas	noun	B5 E3-
+handtekening	noun	Q1.2
+handvol	noun	N5 A12-
+hangen	verb	M2 M1 M8 G2.1 S7.1-
+hanteren	verb	I3.1 A1.5.1
+hap	noun	B1 A12- F1 X3.1 N5+
+hard	adj	O4.1 X8+ X5.2+ N5+ A12- O4.5 S1.2.5+
+hardnekkig	adj	T2++
+hardop	adv	X3.2
+harmonie	noun	S1.2.1+ K2 A6.1+
+hart	noun	B1 M6 A11.1+ E1 X5.2+
+hartelijk	adj	O4.6+ E2+ O4.2+ S1.2.1+
+hartstikke	adv	A5.1- A13.3
+haten	verb	E2-
+haven	noun	A10- M4
+he	interj	Z4
+hebben	verb	A9+ Z5 A2.2 S4
+hechten	verb	A1.7+ A2.2
+hectare	noun	N3.6
+hedendaags	adj	T1.1.2/S2mf
+heel	adj	N5.1+
+heer	noun	S2.2m
+heerlijk	adj	O4.2+ S3.2
+heet	adj	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++
+heffen	verb	M2 A5.1+/A2.1 E4.1+/A2.1 G2.1
+heftig	adj	E3- N3.2+
+heilig	adj	S9
+hek	noun	G2.1- A1.1.1 H2 G2.1-/S2mf A6.1-
+hekel	noun	E2-
+hel	noun	S9 O4.2- E3- G2.2- Z4
+helaas	adv	A1.4- A5.1- E4.1-
+held	noun	Q4.1/S2.2m E5+/S2.2m E2+/S2.2m
+helder	adj	A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4
+helemaal	adv	A13.2
+helft	noun	N1 A13.4 N5 N5c
+helikopter	noun	M5
+helling	noun	O4.4 W3
+helm	noun	B5
+helpen	verb	S8+
+hem	pron	Z8m
+hemel	noun	W1
+hen	pron	Z8mfn
+herfst	noun	T1.3
+herhaaldelijk	adv	N6+
+herhalen	verb	N6+ Q2.1/N6+ F1/B1@
+herhaling	noun	N6+
+herinneren	verb	X2.2+
+herinnering	noun	X2 X2.2+ S7.2+ Y2
+herkenbaar	adj	X2.2+ A11.2+
+herkennen	verb	X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1
+herkomst	noun	T2+ N2
+hernemen	verb	T2+/N6+
+hersenen	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+hersens	noun	B1 X2 X9.1+ X9.1+/S2mf E3-
+herstel	noun	B2+ A5.1+/A2.1 A9+
+herstellen	verb	B2+ A5.1+/A2.1 A9+
+hervatten	verb	T2+/N6+
+hervorming	noun	A2.1+
+heten	verb	Q2.2 S1.1.1 Q1.3 S9%
+heup	noun	B1 O4.2+
+heus	adj	A13.3 A3+ A5.2+ A5.4+
+heuvel	noun	W3
+hier	adv	M6 T1.1.2 T1.2
+hierboven	adv	M6 A5.1++ Z5
+hieronder	adv	M6 Z5
+hierover	adv	A13.4 Z5 M6
+hij	pron	Z8m
+hijgen	verb	B1
+hijzelf	pron	Z8m
+hip	adj	E2+ X2.6+ X7+ X2.1 O4.2+
+historicus	noun	P1/T1.1.1/S2mf
+historie	noun	T1.1.1 P1/T1.1.1 Q2.1 B2
+historisch	adj	T1.1.1 T3+
+hit	noun	E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 X9.2+ K3
+hitte	noun	O4.6+ E1 A1.1.1 S7.3
+hm	interj	Z4
+ho	interj	M3 T2- M8 H4 Q3 K2 S8- A1.1.1@
+hobby	noun	K1
+hoe	adv	Z5 A13.3
+hoed	noun	B5 I3.1@
+hoede	noun	A1.1.1/A15+ X3.4/A15+ A15+/I3.2/S2mf O2/A15+
+hoek	noun	A1.7+ S7.1+ M3 O4.4 M6 K5.1
+hoer	noun	G2.2-/S3.2/S2.1f
+hoesten	verb	B2
+hoeveelheid	noun	N5
+hoeven	verb	S6+
+hoewel	conj	Z5
+hoezo	interj	A2.2
+hof	noun	G2.1 H3 M7/K5.2 S3.2 X7+
+hogeschool	noun	P1/H1c
+hoi	interj	Z4
+hok	noun	H1 M2 A9-
+hol	adj	O4.1 X9.2- W3
+hol	noun	A1.1.1 K5.2 A1.1.2/G3 O2 H4/L2 M7/O4.2- X2.1/A5.1- N5-
+hollen	verb	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
+homo	noun	S3.2/B1 O4.2+ E4.1+ S3.2/S2.2m
+hond	noun	E6- L2mfn
+honderd	num	N1
+honger	noun	F1-/B1 X7+
+hoofd	noun	B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3
+hoofddoek	noun	B5
+hoofdpijn	noun	B2- E6-
+hoofdstad	noun	I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1 M7/G1.1
+hoofdstuk	noun	Q4.1 T1.3 S9/S5c S5+c
+hoofdzakelijk	adv	A13.2
+hoog	adj	E4.1+ F3 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ I1.3+ O4.2- O4.6+ S9
+hoogleraar	noun	P1/S2mf
+hoogte	noun	N3.7 N5.1+ S7.1+
+hopelijk	adv	X2.6+ E4.1+ X9.2+ A5.1+ A13.3
+hopeloos	adj	X2.6- E4.1- X9.2- A5.1-
+hopen	verb	X2.6+ E4.1+ X9.2+ A5.1+
+horen	verb	X3.2 X2.3+ G2.1@
+horizon	noun	W3 X2.6+
+horloge	noun	T1/O2 M4 X3.4 S7.1 X2.4 A1.3+
+hotel	noun	H4/H1
+houden	verb	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+
+houding	noun	X2.1/E1
+hout	noun	O1.1 W3/L3
+houten	adj	O1.1 X5.2-
+hu	interj	Z4
+huid	noun	A1.1.1/L2 B1 O2
+huidig	adj	T1.1.2 W3/M4 W3/M5 O3 E1
+huilen	verb	E4.1- Q2.2
+huis	noun	H1 P1/S5+c G1.1c H4
+huishouden	noun	S4c B4
+huiswerk	noun	P1 X2.4
+huiveren	verb	B1 E1
+hullen	verb	A1.1.1
+hulp	noun	S8+ Z4
+hulpeloos	adj	S1.2.5- S7.1- X9.1-
+humor	noun	E4.1+ E1 E4.2+
+huren	verb	I2.2
+hut	noun	H1
+huur	noun	I2.2 I1
+huwelijk	noun	S4
+huwen	verb	S4 A2.2
+ideaal	adj	A5.1+++ X4.1
+ideaal	noun	A5.1+++ X4.1
+idee	noun	X4.1 X7+
+identiek	adj	A6.1+++
+identificeren	verb	X2.2+ A10+ X2.5+
+identiteit	noun	S2 A6.1+ Q1.2
+ideologie	noun	X4.1
+idioot	adj	X9.1-/S2mf S1.2.6-/S2mf
+ieder	pron	N5.1+ S1.1.2+
+iedereen	pron	Z8/N5.1+c
+iemand	pron	Z8mfc
+iets	pron	Z8
+ietwat	adv	A13.6
+ijs	noun	F1 O4.6- O1.1
+ijzer	noun	B4 O1.1 B4/O2 O2 S1.2.5+
+ijzeren	adj	B4 O1.1 B4/O2 O2 S1.2.5+
+ik	pron	Z8mf
+ikzelf	pron	Z8mf
+illegaal	adj	G2.1-
+illusie	noun	A5.2- A3-
+illustreren	verb	A4.1 C1
+imago	noun	A6.1+ A8 X3.4 X2.1 C1 O4.1
+immens	adj	N3.2++
+immers	adv	A13.3
+impact	noun	A1.1.1 A2.2
+impuls	noun	X7++ O3@
+in	prep	M6 O4.2+ Z5
+inbraak	noun	G2.1-
+inbreker	noun	G2.1-/S2mf
+incident	noun	A1.4 A3+/A5.1-
+inclusief	adv	A1.8+
+indeling	noun	A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c
+inderdaad	adv	A13.3
+indertijd	adv	N4
+indien	conj	Z7
+individu	noun	N5- S2mf
+individueel	adj	N5- S2mf
+indruk	noun	X2.1 A8 A5.4-/A8 O4.2 O4.4
+indrukwekkend	adj	O4.2+
+industrie	noun	I4c I2.1c
+industrieel	adj	I4
+ineens	adv	N3.8+
+info	noun	X2.2+
+informatie	noun	X2.2+
+informeren	verb	X2.2+ X2.4 Q2.1
+infrastructuur	noun	I2.1/S8+
+ingaan	verb	M1 S5+ Q1.2 T2+ A1.8+ Y2
+ingang	noun	M7 M1 T2+ O4.2+
+ingenieur	noun	S7.1+ A1.1.1 Y1/I3.2/S2mf
+ingewikkeld	adj	A12-
+ingrijpen	verb	S1.1.3+ N4
+ingrijpend	adj	G1.2/S2mf O1% N5+/A2.1 A11.1+
+inhalen	verb	M3 N3.8++
+inhoud	noun	E4.2+ Q2.1 A1.8+ N5 E4.1+%
+initiatief	noun	A1.1.1 X5.2+
+inkomen	noun	I1.1
+inleiding	noun	T2+ Q4 S1.1.1
+inlichting	noun	X2.2+
+inmiddels	adv	T1.1.2
+innen	verb	A9+
+innerlijk	adj	K5.1 O2/M6 M6
+inrichten	verb	H5 A9-
+inrichting	noun	C1 X7+ B5
+inschrijven	verb	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
+insect	noun	L2mfn
+inspanning	noun	X8+ O2
+inspecteur	noun	G2.1/S2mf G1.1/S2mf
+inspiratie	noun	S8+ B1
+inspireren	verb	S8+
+installatie	noun	X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c
+installeren	verb	A1.1.1 S1.1.1
+instantie	noun	A4.1 T1.2
+instellen	verb	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
+instemmen	verb	A6.1+ Q2.2
+instituut	noun	P1/S5+c X2.4/S5+c S5+c T2+
+instorten	verb	A1.1.2 B2- N3.2-/A2.1
+instrument	noun	O2 K2 X4.2 B3 Y1
+integraal	adj	A11.1+ N2
+integratie	noun	A1.8+ S5+ A2.2 N2%
+integreren	verb	A1.8+ S5+ A2.2 N2%
+intellectueel	adj	X2 X2.1 X2.1/S2mf
+intelligent	adj	X9.1+ S1.2.6+
+intens	adj	N5+
+intensief	adj	N5+ X8+
+interessant	adj	X5.2+
+interesse	noun	X5.2+ I1.1 S8+ S1.1.3+
+interesseren	verb	X5.2+
+interieur	noun	H2 M6
+intern	adj	M6 A10- G1.1
+internationaal	adj	M7 M7/S5+c K5.1 K5.1/S2mf
+interpretatie	noun	X2.5+ K2 Q3
+interpreteren	verb	X2.5+ Q3
+interview	noun	Q2.1
+interviewen	verb	Q2.1
+intiem	adj	Q2.1 S1.2.1+ S3.2 S5-
+introduceren	verb	S1.1.1 T2+
+introductie	noun	T2+ Q4 S1.1.1
+intussen	adv	T1.1.2
+inval	noun	G3 G2.1 A9+
+investeren	verb	I1.1
+investering	noun	I1.1
+invloed	noun	A2.2 A2.1+ S7.1+
+invoeren	verb	S1.1.1 T2+
+invoering	noun	T2+ Q4 S1.1.1
+inzake	prep	Z5
+inzet	noun	X8+ O2
+inzicht	noun	X2.5+
+inzien	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+ironisch	adj	Q2.2/S1.2.4- A6.1-/X2.6
+irritant	adj	E3- B2-
+irriteren	verb	E3- B2-
+islam	noun	S9
+isoleren	verb	A6.1- A1.8- S5- A10+
+ja	interj	Z4
+jaar	noun	T1.3 P1c
+jaarlijks	adj	N6+ Q4.1 L3
+jagen	verb	L2 K5.1 X2.4
+jaloers	adj	E4.1-/S3.2 E4.1-/A9
+janken	verb	X3.2 Q2.2/E2-
+januari	noun	T1.3
+jas	noun	A1.1.1/A10- B5 O2
+je	pron	Z8mf
+jeugd	noun	T3-/S2mf T3-
+jeugdig	adj	T3-
+jezelf	pron	Z8
+jij	pron	Z8mf
+job	noun	I3.1 A1.1.1 A12-
+jong	adj	T3-
+jongen	noun	S2.2m L2m@ Z4
+jood	noun	S9/S2mf
+jou	pron	Z8mf
+journaal	noun	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3
+journalist	noun	Q4.2/I3.2/S2mf
+jouw	pron	Z8
+juf	noun	P1/I3.2/S2mf
+juichen	verb	Q2.2 E4.1+
+juli	noun	T1.3
+jullie	pron	Z8mf
+juni	noun	T1.3 Z1f
+junior	noun	S7.1-- T3-- T3--/S2mf S7.1--/S2mf G2.1/S2mf
+juridisch	adj	G2.1
+jurk	noun	B5 F1 B3 O4.1 B5/A5.1+
+jury	noun	G2.1c X6+/S5+c
+justitie	noun	G2.1+ G2.2+
+juweel	noun	B5 O4.2+
+kaak	noun	B1 Q2.1
+kaal	adj	B1
+kaars	noun	O2/W2
+kaart	noun	Q1.2 A6@ Q1.2/W3
+kaas	noun	F1
+kabel	noun	O3 O2 Q1.3 Q4.3
+kabinet	noun	H5 G1.1
+kalender	noun	O2/T1.3 T1.1 Q1.2
+kalm	adj	E3+ E4.2+
+kalmeren	verb	E3+ E4.2+
+kamer	noun	H2 N3.6 H4
+kameraad	noun	S3.1/S2mf
+kamp	noun	H4 M7 S5+c S2.1/A8 O4.2-
+kampioen	noun	S8+ X9.2+/S7.3/S2mf S8+/S2mf
+kampioenschap	noun	K5/S7.3+ S7.1+/K5 S8+@
+kanaal	noun	M2 A2.1+ W3/M4 X4.2 Q4.3 Q1.3 O2 Z2
+kandidaat	noun	A7+ A1.2+ G1.2/S2mf I3.1/S2mf P1/S2mf
+kanker	noun	B2-
+kans	noun	A1.4 A7+
+kant	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+kantine	noun	F1/H1 F1/O2
+kantoor	noun	I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+
+kap	noun	B5 O2 G2.1-/S2%m
+kapel	noun	S9/H1c
+kapitaal	noun	I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1 M7/G1.1
+kapitein	noun	G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf S7.1+
+kapot	adj	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
+kappen	verb	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
+kapper	noun	B4/S2mf
+kar	noun	M2 M3 M3fn
+karakter	noun	O4.1 S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+
+kartel	noun	I2.1/S5+c
+kassa	noun	I1
+kast	noun	H5
+kasteel	noun	H1
+kat	noun	L2 M3
+kathedraal	noun	S9/H1
+kauwen	verb	F1/B1 X2.1
+keel	noun	B1 B5%
+keer	noun	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ X7+/T1 N3.1/T1
+kei	noun	W3
+keihard	adj	O4.1 X8+ X5.2+ N5+ A12- O4.5 S1.2.5+
+keizer	noun	S7.1+/S2mf
+kelder	noun	H2
+kenmerk	noun	A6.2+ A4.2+ O4.1 N2
+kenmerken	verb	A4.1 Q2.2
+kennelijk	adv	Z4 A11.2+
+kennen	verb	X2.2+ S3.2/B1%
+kerel	noun	S2.2m O2 Z1
+keren	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+kerk	noun	S9/H1c S9c
+kerkhof	noun	M7/L1-
+kermis	noun	A1.1.1 G2.2+ A5.1+ O4.2+ O4.3 W4 N5 K1/S1.1.1 I2.2/S1.1.1
+kern	noun	A11.1+ F1 O2 Y2%
+kerst	noun	S9/T1.3
+keten	noun	A1.7+ N4 S5+/I2.1c O2 B5 S7.1
+ketting	noun	A1.7+ N4 S5+/I2.1c O2 B5 S7.1
+keuken	noun	F1/H2
+keurig	adj	O4.2+ A2.1-
+keuze	noun	A5.1+ S1.2.4- X7+ A6.3+
+kier	noun	A1.1.2 X3.2 N3.3--- E4.1+ F3 X9.2+ B2-/X1 Q2.2/E4.1+ A5.1+
+kiezen	verb	X7+
+kiezer	noun	G1.2/X7/S2mf
+kijk	noun	A8 X3.4 X2.4 O4.1 X7+ Z4
+kijken	verb	A8 X3.4 X2.4 X7+ Z4
+kijker	noun	Q4.3/S2mf C1/S2mf O2
+kil	adj	O4.6-
+kilo	noun	N3.6
+kilometer	noun	N3.3 N3.7
+kin	noun	B1
+kind	noun	S2mf/T3- S4mf
+kinderlijk	adj	O4.2/T3-
+kip	noun	E5- L2mfn F1 E5-/S2mf
+kist	noun	B1 O2
+klaar	adj	A1.1.1 A1.5 I1 O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+
+klaarmaken	verb	A1.1.1 F1
+klacht	noun	Q2.2/E2- B2-@
+klagen	verb	Q2.2/E2-
+klank	noun	A13.2 O4.1 B2+ A5.1+ X3.2 Q2.2 A8 N3.1%
+klant	noun	I2.2/S2mf
+klap	noun	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+ S8- E3- E4.1-
+klappen	verb	X3.2+ M2
+klas	noun	A4.1 P1c S5+c O4.2+
+klasse	noun	A4.1 P1c S5+c O4.2+
+klassement	noun	A5.1 S7.1+
+klassiek	adj	A4.1 A5.1+ T3+ Q4.1 K2
+klassieker	noun	A4.1 A5.1+ T3+ Q4.1 K2
+kleden	verb	B5 F1 B3 O4.1
+kledij	noun	B5
+kleding	noun	B5
+klein	adj	A13.7 N3.2- T3- N3.7- N3.3- T1.3- A11.1- N5-
+kleinkind	noun	S4mf
+klem	noun	A1.7+ A9+ S3.2% M3@fn
+kleren	noun	B5
+kletsen	verb	Q2.1
+kleur	noun	O4.3 A2.1+
+kleuren	verb	O4.3 A2.1+
+kleuter	noun	T3--/S2mf
+kleven	verb	M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+%
+klikken	verb	X3.2 Y2 X2.5+ S1.2.1+
+klimaat	noun	W4 A1.1.1 E1
+klimmen	verb	M1 N5+/A2.1
+klinken	verb	X3.2 Q2.2 A8 N3.1%
+klok	noun	N3.1 Q2.1% O2/T1
+klooster	noun	S9/H1
+klus	noun	I3.1 A1.1.1 A12-
+knaap	noun	S2.2m L2m@ Z4
+knal	noun	A1.1.1 X3.2 S3.2/B1
+knappen	verb	A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+
+knie	noun	B1 E3-
+knielen	verb	O4.1/B1
+knijpen	verb	E3- N3.2- G2.1-/A9+
+knikken	verb	M1
+knippen	verb	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
+knipperen	verb	B1 O4.3/N6+
+knoop	noun	B5 O2
+knop	noun	B5 O2
+koe	noun	L2fn S2.1f/O4.2-
+koek	noun	F1 O4.3 G3
+koekje	noun	F1 O4.3 G3
+koel	adj	O4.6- S1.2.1- O4.2+ E6+ O4.6-/A2.1 X5.2-/A2.1
+koelkast	noun	O4.6-/O3
+koers	noun	A5.1 N3.8 N5 I1.3
+koesteren	verb	E2+
+koffer	noun	B5
+koffie	noun	F2
+kogel	noun	G3 O4.4
+kok	noun	F1 F1/S2mf
+koken	verb	F1
+kolonie	noun	M7/S7.1- M7/H4 S5+ L2 L3
+komedie	noun	E4.1+ K4 Q4.3
+komen	verb	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5
+komisch	adj	E4.1+ E4.1+/S2mf E4.1+/Q4.2
+komma	noun	Q3
+komst	noun	S9/T1.3 T2+
+konijn	noun	L2mfn F1 Q2.1
+koning	noun	S7.1+/S2.2m
+koningin	noun	S7.1+/S2.1f S3.2/S2.2m K5.2
+koninklijk	adj	S7.1+/S2mf
+koninkrijk	noun	G1.1 M7/S7.1+ A4.1/L2
+kont	noun	N4 M6 B1 A5.1---
+kooi	noun	A1.7+ H1/L2
+koop	noun	I2.2
+koor	noun	K2/S5c
+koorts	noun	B2- X5.2+
+kopen	verb	I2.2
+koperen	adj	I1.1 O4.3 O1.1 G2.1/S2mf
+kopie	noun	A5.4- Q4.1 Q4.2 Q1.2
+kopiëren	verb	A5.4-
+koppel	noun	N5+ S4c
+koppelen	verb	N5+
+koppig	adj	S1.2/A2.1-
+kort	adj	N5- T1.3- O3 Q4.3 F2 N3.7- N3.3- S1.2.4- N3.8+@ F1%
+korting	noun	A1.8- I1.3-
+kosten	noun	I1.3 I1.2
+kosten	verb	I1.3 I1.2
+kostuum	noun	A1.2+ B5 G2.1 K5.2
+kou	noun	B2- O4.6- S1.2.1- E1- A1.1.1
+koud	adj	B2- O4.6- S1.2.1- E1- A1.1.1
+kous	noun	A9+ B5
+kraag	noun	A9+ B5 G2.1@
+kraan	noun	M1 O2 L2@mfn
+krabben	verb	B2- A1.1.1 A1.1.2
+kracht	noun	A1.1.1 S7.1+ O3 S1.2.5+ N2@
+krachtig	adj	S7.1+ S1.2.5+ N3
+krankzinnig	adj	B2-/X1 S1.2.6-
+krant	noun	Q4.2
+krap	adj	A1.7+ B5 N3.2- N5+ O4.4 S5+ A12- F2+ S1.2.2+
+kreet	noun	E4.1- Q2.2
+kreunen	verb	X3.2 Q2.2
+krijgen	verb	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-
+krimpen	verb	N3.2-/A2.1 E2-@
+kring	noun	M1 O4.4 S5+c K4/H1@
+kritiek	noun	Q2.2/E2- X2.4
+kritisch	adj	Q2.2/E2- X2.4 A11.1+ A15-
+kroeg	noun	F2 F2/H1
+kroon	noun	B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4 S7.1+ M6 X9.2+
+kruid	noun	L3 F1
+kruipen	verb	M1 N3.8- S7.1-
+kruis	noun	E3- M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 S1.1.1 S9@ S9/O2 A2.1+mfn G2.1/O2%
+kruisen	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+kruispunt	noun	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+kruk	noun	H5 B1%
+krul	noun	O4.4 M2 M1
+kunst	noun	C1 X9.1+
+kunstenaar	noun	C1/S2mf K4/S2mf K2/S2mf
+kunstmatig	adj	A5.4-
+kus	noun	S3.2
+kussen	noun	H5
+kussen	verb	S3.2
+kust	noun	E6+ W3/M4
+kwaad	noun	G2.2-
+kwalificatie	noun	P1 X9.1 S6+ A1.7+
+kwaliteit	noun	A5.1 A5.1+ O4.1
+kwart	noun	N1 N5 T1.3 H4
+kwartaal	noun	N1 N5 T1.3 H4
+kwartfinale	noun	S7.3
+kwartier	noun	N1 N5 T1.3 H4
+kwestie	noun	Q2.2 X4.1
+kwetsbaar	adj	S1.2.5-
+kwetsen	verb	B2- E4.1- A1.1.2
+kwijt	adj	X9.2- A9- M6/A5.3- L1-
+kwijtraken	verb	X9.2- A9- M6/A5.3- L1-
+laag	adj	A5.1- L2/Q2.1 N3.7- N5- A11.1- E4.1- X3.2- G2.2- S7.1-
+laag	noun	O2 A4.1
+laars	noun	B5 M3 E3-
+laat	adj	T4- L1- T1.1
+laatst	adj	N4 O2 T2++ T1.3
+lach	noun	E4.1+/X3.2
+lachen	verb	E4.1+/X3.2
+ladder	noun	B5/A1.1.2 O2 S7.1 B5
+laden	verb	M2 G3
+lading	noun	M2 G3 N5+
+laken	noun	B5 O2 Q1.2 N5
+lamp	noun	O2/W2 O3
+lanceren	verb	M4 M5 T2+
+land	noun	G1.1c W3 F4/M7 K2
+landbouw	noun	F4
+landelijk	adj	M7/N5.1+ M7/S2mf
+landen	verb	M1 M2 M5 M4 A9+ A2.2
+landgenoot	noun	M7/S2mf
+landschap	noun	F4 W3 C1 M6
+lang	adj	N3.7+ T1.3+ N3.3+ N3.2+ X7+
+langdurig	adj	T1.3++
+langs	prep	M6 T1.1.1 Z5
+langzaam	adj	N3.8- T1.3+ X9.1- A5.3-/T1
+langzamerhand	adv	T2++
+lap	noun	E4.1+ O2 Q4.2
+last	noun	M2 G3 N5+
+lastig	adj	A12-
+lat	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 S7.4- A1.7+ Z5
+laten	verb	S7.4+ I2.2/H1 T2-
+lawaai	noun	X3.2
+leed	noun	E4.1-
+leeftijd	noun	T3 T1.3 T3++
+leeg	adj	N5--- M1/M4 S5--- A1.5.2- X5.2- O2/N5---
+leegte	noun	E4.1- N5.1- W3
+leerkracht	noun	P1/I3.2/S2mf
+leerling	noun	P1/S2mf G2.1/S2mf B1
+leeuw	noun	L2mfn
+legendarisch	adj	X2.2+++ S9/Q2.1
+leger	noun	G3c N5+
+leggen	verb	M2 Q2.1 Q2.2 A1.1.1
+leiden	verb	S7.1+ A2.2 M2 A1.1.1
+leider	noun	S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf
+leiding	noun	S7.1+
+lekken	verb	A1.7- A1.1.2 A10+/Q2.2
+lekker	adj	X3.1+ X7+/S3.2
+lelijk	adj	O4.2-
+lengte	noun	N3.7 T1.3 M4
+lening	noun	A9- I1.2
+lente	noun	M1 A2.2 Q2.1 G2.1-@ T1.3% O2 T1.3 W3/M4
+lepel	noun	A1.1.1 O2
+leraar	noun	P1/I3.2/S2mf
+leren	verb	X2.3+ P1
+les	noun	P1 S9/Q4.1
+lesgeven	verb	P1
+letter	noun	Q1.2 Q3
+letterlijk	adj	Q3 A5.3+
+leugen	noun	A5.2- M1 T2++ M6 A3+
+leuk	adj	O4.2+ S1.2.1+
+leunen	verb	M6 S5+
+leven	noun	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1
+leven	verb	H4 L1+ A3
+levendig	adj	X5.2+ L1+%
+levenslang	adj	T1.3+
+leverancier	noun	I2.2/S2mfc A9-/S2mfc
+leveren	verb	A9-
+lezen	verb	Q3 Q1.2 X3.2+ X2.5+ P1 A10+
+lezer	noun	Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1
+lezing	noun	Q2.2 P1
+liberaal	adj	A1.7- G1.2 N5+ G1.2/S2mf
+liberaal	noun	A1.7- G1.2 N5+ G1.2/S2mf
+lichaam	noun	B1 O2 S5+c O4.1 S2mf
+lichamelijk	adj	B1 A1.6 E3- Y1 B3
+licht	adj	N3.5- O4.3 W2 O3/W2 M3 O4.6+ X4.1 E1 N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+
+licht	noun	N3.5- O4.3 W2 O3/W2 M3 O4.6+ X4.1 E1 N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+
+lichten	verb	M2 A5.1+/A2.1 E4.1+/A2.1 G2.1
+lid	noun	S5+/S2mf B1
+lied	noun	K2
+lief	adj	O4.2+ S1.2.1+
+lief	noun	E2+
+liefde	noun	E2+ S3.2 E2+/S2mf
+liefhebber	noun	S3.2/S2mf E2+/S2mf
+liefst	adv	E2++
+liegen	verb	A5.2- M1 T2++ M6 A3+
+liever	adv	A13.5 Z4 E2++
+lift	noun	M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 O2/M2 M3
+liggen	verb	A5.2- M1 T2++ M6 A3+
+ligging	noun	M7
+lijden	verb	E4.1- B2- X3 A5.1-/A2.1 S7.4+
+lijf	noun	B1 O2 S5+c O4.1 S2mf
+lijk	noun	L1-/S2mf L1-
+lijken	verb	A8
+lijn	noun	A1.1.1 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@
+lijst	noun	Q1.2 N4 M4
+likken	verb	B1 S7.1+
+link	noun	A2.2 S5+ A1.1.1 M3 Q1.3 F1 K5.1/M7%
+lint	noun	B5 O2
+lip	noun	B1 O2 S1.2.4-
+liter	noun	N3.4
+literair	adj	Q4.1
+literatuur	noun	Q4.1 Q1.2
+live	adj	H4 L1+ A3 A3+ Q4.3 K2/K3 K1 O3 G3
+locatie	noun	M7
+loeren	verb	X3.4
+lof	noun	S7.2+/Q2.2
+logeren	verb	M8 T2++ H4
+logica	noun	X2.1 S1.2.6+ N2
+logisch	adj	X2.1 S1.2.6+ A1.6
+lokaal	adj	H3/S2mf F2/H1c M7
+lokaal	noun	P1/H2
+long	noun	B1
+loon	noun	A1.1.1 I1.1/I3.1
+loop	noun	M1 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 Z4
+loopbaan	noun	I3.1 N3.8+
+lopen	verb	M1 L2 X9.2+/A12+
+los	adj	A1.7- A9- N3.2+ A4.2- G2.2-@ B2-@
+lossen	verb	M2
+lot	noun	S9 A7+++/S7.1- A3+/S7.1-
+louter	adj	A11.1-
+lucht	noun	B4 Q2.1 O1.3 A8 W1 Q4.3 M1
+luchthaven	noun	M5/M7
+lui	adj	X5.2-/S1.2
+lui	noun	S2 S2mfc
+luid	adj	X3.2+ O4.3
+luidruchtig	adj	X3.2+
+luisteraar	noun	X3.2/S2mf
+luisteren	verb	X3.2
+lukken	verb	X9.2+ N4
+lul	noun	B1 G2.1/S2mf@
+lullig	adj	S1.2.6-
+lunch	noun	F1
+lusten	verb	E2+
+luxe	noun	O4.2+
+m'n	pron	Z8
+maag	noun	B1 E2+
+maaltijd	noun	F1
+maan	noun	W1 X5.2-/E4.1-
+maand	noun	T1.3
+maandag	noun	T1.3
+maandelijks	adj	N6+ Q4.2
+maar	conj	A13.6 Z5
+maart	noun	T1.3
+maatregel	noun	N3.1 F2 K2
+maatschappelijk	adj	S1.1.1 I1.1/G1.1
+maatschappij	noun	S5+c
+machine	noun	A1.1.1 O2 Y2
+macht	noun	A1.1.1 S7.1+ O3 S1.2.5+ N2@
+machteloos	adj	S7.1-
+machtig	adj	S7.1+ S1.2.5+ N3
+mager	adj	F1 M6 S5+ O4.2+ N5-
+mail	noun	Q1.2
+maker	noun	A1.1.1/S2mf A2.2/S2mf
+mama	noun	S4f L1-/S2mf O4.3
+man	noun	I3.1 S2.2m
+management	noun	S7.1+c
+manager	noun	S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf
+mand	noun	O2 K5.1
+mandaat	noun	S7.1+ M7@
+manier	noun	A13.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3
+manipuleren	verb	A2.1+/G2.2- S7.1+ A1.1.1
+mankeren	verb	X9.2- A5.1-/A2.1
+mannelijk	adj	S2.2 S2.2m
+mantel	noun	B5
+map	noun	O2/Q1.2 Y2
+marge	noun	N5 Q1.2 N5.2+ M7 A6.2-
+markt	noun	I2.2 I2.2/H1
+masker	noun	A10- O2 B5 B1/L2%
+massa	noun	N5+ N3.5 S9 S5+c B2-
+massaal	adj	N3.2+
+mat	noun	H5 O2
+match	noun	A6.1+ K5.1 O2
+materiaal	noun	A1.6 A11.1+ O1 B5 O2 X2.2 S1.2
+materie	noun	A11.1+ X4.1 O1
+matig	adj	A5.1
+matigen	verb	A1.7+ S7.1+ P1
+matras	noun	H5
+maximaal	adj	N5.1+
+maximum	noun	N5.1+
+me	pron	Z8mf
+medaille	noun	O2
+mede	adv	N5++
+mededeling	noun	Q2.2
+medelijden	noun	E1 E4.1- G2.2
+medewerker	noun	I3.1/S2mf
+medewerking	noun	S1.1.3+ S8+
+media	noun	Q4c
+medicijn	noun	B3 F3
+medisch	adj	B3
+medium	noun	N3.2 N3.1 Q4 X4.2 O1 S9/S2mf
+mee	adv	Z5
+meebrengen	verb	M2 A2.2
+meedelen	verb	Q2.2
+meedoen	verb	S1.1.3+
+meegeven	verb	A9- A1.1.1
+meemaken	verb	A2.1+/A3+ X3
+meenemen	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+meer	noun	W3/M4
+meer	num	A13.3 N6++ N5++
+meerder	num	A13.3 N6++ N5++
+meerderheid	noun	N5+++c
+meest	num	A13.2 N5+++
+meestal	adv	A13.2
+meester	noun	S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m X9.1+
+meewerken	verb	A9- A2.2 S1.1.3+
+mei	noun	T1.3 Z1f
+meid	noun	S2.1f L2f@
+meisje	noun	S2.1f L2f@
+melden	verb	Q2.2 S7.1-
+melding	noun	Q2.2 S7.1- X3.2
+melk	noun	F2 O1.2 F4 A9+
+melodie	noun	K2
+meneer	noun	S7.1+/S2.2m
+mengen	verb	A2.1+ S1.1.3+ K3
+menigte	noun	N5++ S5+c
+mening	noun	X2.1 X2.1/A5 X6+
+mens	noun	S2 S1.2.1+ S2mf
+menselijk	adj	S2 S1.2.1+ S2mf
+mentaal	adj	X2 B2/X2 S1.2.6-
+mentaliteit	noun	X2.1
+menu	noun	F1/Q1.2 Y2/Q1.2
+merk	noun	A4.1 Q1.1
+merken	verb	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
+merkwaardig	adj	X5.2+ A6.2-
+mes	noun	E3- O2
+met	prep	Z5
+metaal	noun	O1.1 K2
+metalen	adj	O1.1 K2
+meteen	adv	N3.8+ T1.1.2/A11.1+ N4 Z5/N3.8+
+meten	verb	N3.1
+meter	noun	N3.3 N3.7
+methode	noun	X4.2
+metro	noun	M3
+mevrouw	noun	S2.1f S3.2/S2.1f S1.2.3+/S2.1f
+mezelf	pron	Z8mf
+microfoon	noun	Q2.1/O3
+middag	noun	T1.3
+middel	noun	N2 X4.2 I1.1
+middeleeuws	adj	T1.1.1
+midden	adv	M6 N5 N4 T1.2
+midden	noun	M6 N5 N4 T1.2
+middenveld	noun	K5.1 K5.1/S2mf K5.1/M6
+middernacht	noun	T1.2
+mij	pron	Z8mf
+mijden	verb	A1.9 M1
+mijn	pron	Z8
+mijzelf	pron	Z8mf
+mikken	verb	X7+ M6
+mild	adj	F2 S1.2.5- O4.6+ O4.1 X3.1 N3.2- N5-
+milieu	noun	W5 W3 E1 Y2 O4.1
+militair	adj	G3
+militair	noun	A1.1.1 G3 G3/S2mf
+miljard	num	N1 I1
+miljoen	num	N1 I1
+min	adv	N2 A5.1- Z5
+minder	num	A13.6 N5-- Z5
+minderheid	noun	N5-
+minderjarig	adj	T3-
+minimaal	adj	N5---
+minimum	noun	N5---
+minister	noun	G1.1/S2mf S9/S2mf
+ministerie	noun	G1.1c S9
+minnaar	noun	S3.2/S2mf E2+/S2mf
+minst	num	A13.7 N5.1- A11.1---
+minuut	noun	N3.2- Q1.2 T1.3
+mis	adv	A5.3- A5.1- G2.2- B2-
+misbruik	noun	E3- Q2.2 G2.2- A1.5.1/A5.1-
+misbruiken	verb	E3- Q2.2 G2.2- A1.5.1/A5.1-
+misdaad	noun	G2.1-
+misdrijf	noun	G2.1-
+mislukken	verb	X9.2- A5.1-/A2.1
+misschien	adv	A7
+misselijk	adj	B2- O4.2- X5.2- E3-
+missie	noun	X7+ G3 S9 S9/H1
+mist	noun	W4
+misverstand	noun	X2.5-
+mix	noun	A2.1+ S1.1.3+ K3 O1.1 A6.3+
+mobiel	adj	M1/N3.8+ A2.1+ O2 K6 Q1.3
+mobiliteit	noun	M1 I1.1
+modder	noun	O1.1 E2-/Q2.2
+mode	noun	A1.1.1 B5 O4.2+ X4.2
+modern	adj	T3- T3---
+moe	adj	B1 B2- X5.2- O4.2-
+moed	noun	E5+/S1.2
+moeder	noun	S4 S4f A11.1+++
+moedig	adj	E5+ S2@m
+moeilijk	adj	A12-
+moeilijkheid	noun	A12-
+moeite	noun	A12-
+moeiteloos	adj	A12+
+moeizaam	adj	X8+/A12-
+mogelijk	adj	A7+
+mogelijkheid	noun	A7+
+molen	noun	A1.1.1 F1 M1 I4/H1c
+momenteel	adv	T1.1.2
+mompelen	verb	Q2.2/X3.2-
+mond	noun	B1 Q2.2 M7/W3 W3/M4 O2 Q2.1
+monument	noun	O2 A10+
+mooi	adj	O4.2+ S1.2.1+
+moord	noun	L1- A12-
+mopperen	verb	E2-/Q2.2
+moraal	noun	G2.2+ E1 X4.1
+moreel	adj	G2.2+ E1 X4.1
+morgen	noun	T1.3
+moskee	noun	S9/H1
+motief	noun	A2.2
+motivatie	noun	A2.2 X5.2+
+motiveren	verb	A2.2 X5.2+
+motorfiets	noun	M3 M3fn
+motto	noun	Q2.1
+mouw	noun	B5 O2
+muis	noun	L2mfn Y2 S1.2.3-/S2mf
+munt	noun	A1.1.1 I1
+museum	noun	T1.1.1/H1c A10+/H1c
+muts	noun	B5 I3.1@
+muur	noun	H2 O2 N5+ S8-
+muziek	noun	K2
+muzikaal	adj	K2 K4/K2
+muzikant	noun	K2/S2mf
+mysterieus	adj	A6.2-
+mythe	noun	S9/Q2.2 A5.2-/Q2.2
+na	prep	N4 Z5
+naaien	verb	C1 A1.1.1
+naakt	adj	B5-
+naald	noun	A1.1.1 O2 B3 L3
+naam	noun	Q2.2
+naar	adj	O4.2- S1.2.1-
+naarmate	conj	A13 Z5
+naast	prep	N4
+nabij	adj	M1/N3.3- N3.3- S3.1 A6.1+ A13.4 T1.3- Z5
+nabijheid	noun	N3.3-
+nacht	noun	T1.3
+nachtmerrie	noun	X4.1/A5.1- A5.1-
+nadat	conj	N4 Z5
+nadeel	noun	A5.1-
+nadenken	verb	X2.1
+nader	adj	N5++ N3.3++ T2++ N5+/A2.1
+naderen	verb	M1 A1.1.1 Q2.2
+nadruk	noun	A11.1+
+nadrukkelijk	adj	E6+
+nagaan	verb	X2.4/A5.3 A15 Q1.2 T2- M5
+nagel	noun	A1.1.1 O2 B1
+nagenoeg	adv	A13.4
+najaar	noun	T1.3
+namelijk	adv	Z5
+nat	adj	G1.2 O1.2 W4 X5.2-
+natie	noun	G1.1c S5+c
+nationaal	adj	M7/N5.1+ M7/S2mf
+nationaliteit	noun	G1.1c S5+c
+natuur	noun	W5 A4.1 S1.2 A6.2+
+natuurlijk	adj	A6.2+ A9+ A5.4+ W3 W5 B1 K2 X9.1+
+nauw	adj	A1.7+ B5 N3.2- N5+ O4.4 S5+ A12- F2+ S1.2.2+
+nauwelijks	adv	A13.7
+nauwkeurig	adj	A5.3+
+nazi	noun	G1.2 G1.2/S2mf
+naïef	adj	S1.2.6-
+nederlaag	noun	X9.2+/G3 X9.2+/S7.3 A12- X9.2-
+nee	interj	S8- Z4 Z6
+negatief	adj	C1 Z6 S8- A5.1-
+negentig	num	N1 T3
+negeren	verb	X5.1- A1.9
+neigen	verb	X7+ A8 O4.4
+neiging	noun	A6.2+ A8 S1.1.1
+nek	noun	B1 O2 S3.2
+nemen	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+nergens	adv	M6/Z6
+nerveus	adj	E6-
+nest	noun	L2 H4 M6
+net	adv	A14 T3--- T1.3- N3.3--- S1.2 G2.2+
+net	noun	A9+ I1.1 N5 O2 S5+ A1.3+
+netwerk	noun	Q4.3 Y2 S1.1.1 S5+c
+neuken	verb	A1.1.1 S3.2/B1 G2.2- X9.2- E6+
+neus	noun	B1 O2 X2.4/X7-
+neutraal	adj	S5- O4.1
+niemand	pron	A11.1-/S2mf Z8/Z6cmf
+niet	adv	Z6
+niets	pron	A11.1- Z6/Z8
+niettemin	adv	Z4
+nieuw	adj	T3-
+nieuweling	noun	M1/T3-/S2mf T2+/X9.1-/S2mf T3-
+nieuwkomer	noun	M1/T3-/S2mf T2+/X9.1-/S2mf T3-
+nieuws	noun	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3
+nieuwsgierig	adj	X5.2+ A6.2-
+nieuwsgierigheid	noun	X5.2+
+niks	pron	A11.1- Z6/Z8
+nimmer	adv	T1/Z6
+niveau	noun	A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
+noch	conj	Z6
+nochtans	adv	Z4
+nodig	adj	S6+ A11.1+
+noemen	verb	Q2.2
+nog	adv	C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T2++ Z4
+nogal	adv	A13.5 Z4 E2++
+nogmaals	adv	N6+ Z4
+non	noun	S9/S2.1f
+nood	noun	E6- E4.1- B2-
+noodzaak	noun	S6+
+noodzakelijk	adj	S6+ A11.1+
+nooit	adv	T1/Z6
+noordelijk	adj	M6
+noorden	noun	M6
+norm	noun	A6.2+
+normaal	adj	A6.2+
+noteren	verb	Q2.1 Q1.2
+november	noun	T1.3
+nu	adv	T1.1.2 Z4 Z5
+nul	num	N1 G3% N5---
+nummer	noun	N1 N5 Q1.3 K2 Q4.2
+nut	noun	A1.5.1 S7.1+
+nutteloos	adj	A1.5.2-
+nuttig	adj	A1.5.2+
+object	noun	A6.1- E2- O2 X7+
+objectief	adj	G2.2/S5- S1.2 X7+
+observeren	verb	X3.4 Q2.1/X2.4 X2.1 G2.1+
+oceaan	noun	W3/M4
+och	interj	Z4
+ochtend	noun	T1.3
+oefening	noun	K5.1 A1.5.1 P1 A1.1.1 G3@
+oei	interj	Z4
+oever	noun	I1.1 X2.6+ M1 I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6
+of	conj	Z5
+officieel	adj	G1.1 S7.4+ G1.1/S2mf S7.1+/S2mf
+officier	noun	G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf
+ofschoon	conj	Z5
+oftewel	conj	A4.1
+ofwel	conj	Z5
+ogen	verb	A8 X3.4 X2.4 X7+ Z4
+ogenblik	noun	T1.2 T1.1.2 N3
+oh	interj	Z4
+oktober	noun	T1.3
+olie	noun	A1.1.1 O1.2 C1 C1/O1
+olympisch	adj	Z3c
+oma	noun	S4f
+omdat	conj	Z5/A2.2
+omgaan	verb	A1.1.1 S7.1+ X9.2+
+omgang	noun	Q2.2 S1.1.1 S2mf O3
+omgeven	verb	M6 A1.8+ A10- G3
+omheen	adv	A13.4 M6 Z5
+omhelzen	verb	S3.2 S8+ A1.8+
+omhoog	adv	M6 N4 N5++ T2- X9.1+ A1.1.1 N5+/A2.1 Z5
+omkeren	verb	M6 A2.1+/A6.1- M1
+omkomen	verb	L1- T2-
+omlaag	adv	F1/B1 A1.1.1 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z5
+omringen	verb	M6 A1.8+ A10- G3
+omschrijven	verb	Q2.2
+omstandigheid	noun	O4.1
+omstreden	adj	A6.2-
+omstreeks	prep	A13.4 Z5 M6
+omtrent	prep	A13.4 Z5 M6
+omvang	noun	N3.2 N3.1 N5 O4.1
+omvatten	verb	A1.8+
+omzet	noun	I1.1 F1 A2.1+
+omzetten	verb	A2.1+ S9 K5.1
+onaangenaam	adj	O4.2-
+onafhankelijk	adj	S5-
+onafhankelijkheid	noun	S5-
+onbegrijpelijk	adj	X2.5-
+onbekend	adj	X2.2-
+onbelangrijk	adj	A11.1-
+onbewust	adj	B1 X2.2-
+ondanks	prep	A2.1- Z5
+onder	prep	A13.6 M6 S7.1- B1 Z5
+onderbreken	verb	Q2.2 X7- T2-
+onderbroek	noun	B5
+onderdeel	noun	A10+ B4 S3.1- N5.1- O2 M7 I3.1 S1.1.3+ K4
+onderdrukken	verb	S7.4- A10-
+ondergaan	verb	A1.1.1
+ondergronds	adj	M3c G2.1-/S5+c A10- M6 G2.1-
+onderhandelen	verb	Q2.2
+onderhandeling	noun	Q2.2
+onderhoud	noun	A1.1.1 I1.1 I1.1/S4 T2++
+onderhouden	verb	A9+ T2++ S8+ A1.1.1 Q2.2
+onderkant	noun	M6
+onderling	adj	S1.1.2+
+ondernemen	verb	A1.1.1 Q2.2
+ondernemer	noun	I2.1/S2mf
+onderneming	noun	I2.1 X8+
+onderschatten	verb	N5- A11.1- X2.1/A5.3-
+onderscheid	noun	A6.1- A5.1+ S7.2+
+onderscheiden	verb	A6.1- X3 A5.1+
+ondersteunen	verb	S8+ A1.1.1 K5.1 I1.1 A10+
+ondersteuning	noun	S8+ A1.1.1 K5.1 I1.1 A10+ O2 B5%
+onderstrepen	verb	A11.1+ Q1.2
+ondertekenen	verb	Q1.2 Q1.1 G2.1 I3.1 S9
+ondertussen	adv	T1.1.2
+ondervinden	verb	A2.1+/A3+ X3
+ondervragen	verb	Q2.2
+onderwerpen	verb	A1.1.1 S7.1+
+onderwijs	noun	P1 X2.3+
+onderwijzer	noun	P1/I3.2/S2mf
+onderzoek	noun	X2.4
+onderzoeken	verb	X2.4
+onderzoeker	noun	X2.4/S2mf
+onduidelijk	adj	A7- A10- O4.3 O4.1
+oneindig	adj	T2++
+ongeacht	adv	A11.1- E6+
+ongeduldig	adj	X5.2+/S1.2 E3-/S1.2
+ongelijk	adj	A6.1-
+ongelooflijk	adj	A6.2- A5.1+ A5.2-
+ongeluk	noun	A1.1.2 A1.4
+ongelukkig	adj	E4.1- E2- A1.4-
+ongemakkelijk	adj	O4.2- E1
+ongerust	adj	E6-
+ongetwijfeld	adv	A7+
+ongeval	noun	A1.1.2 A1.4
+ongeveer	adv	A13.4 Z5 M6
+ongewoon	adj	A6.2-
+onhandig	adj	A12- O4.2- E1
+onlangs	adv	T3---
+onmiddellijk	adj	N3.8+ T1.1.2/A11.1+ N4 Z5/N3.8+
+onmogelijk	adj	A7- A12-
+onnodig	adj	S6-
+onnozel	adj	S1.2.6-
+onrecht	noun	G2.1-
+onrust	noun	E3- E6-
+onrustig	adj	X5.2- M1
+onschuld	noun	G2.1+ G2.2+
+onschuldig	adj	G2.1+ X9.1- G2.2+ G2.1+/S2mf X9.1-/S2mf
+onszelf	pron	Z8
+ontbijt	noun	F1
+ontbreken	verb	A9-
+ontdekken	verb	A10+
+ontdekking	noun	A10+
+ontevreden	adj	E4.2-
+ontgaan	verb	A1.7- X2.2- Y2
+ontgoocheld	adj	E4.2-
+onthouden	verb	X2.2+
+onthullen	verb	A10+
+ontkennen	verb	Q2.2/Z6 S7.4-
+ontkomen	verb	A1.7- X2.2- Y2
+ontlenen	verb	A2.2 Q3
+ontmoeten	verb	S3.1 M6 A1.1.1 X9.2+ A6.1+
+ontmoeting	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
+ontnemen	verb	A9-
+ontploffen	verb	A1.1.1 N5+/A2.1 E3- G3
+ontroeren	verb	M2 M1 A2.1+ E1 H4/A2.1
+ontslag	noun	A9- Q2.2 S7.1- I3.1
+ontsnappen	verb	A1.7- X2.2- Y2
+ontspannen	verb	E3+ K1 A1.7-
+ontspanning	noun	E3+ K1 A1.7-
+ontstaan	verb	T2+ E5- E3-
+ontvangen	verb	A9+ S5+
+ontvangst	noun	H2 S1.1.1 Q4.3 S1.1.3+ T3-
+ontvoeren	verb	G2.1-
+ontwerp	noun	C1 X7+ B5
+ontwerpen	verb	C1 X7+
+ontwijken	verb	A1.9 M1
+ontwikkelen	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
+ontwikkeling	noun	A2.1+ A5.1+/A2.1 H1
+onveilig	adj	A15-
+onvermijdelijk	adj	A7+++
+onverschillig	adj	X5.2- A5.1
+onverwacht	adj	X2.6-
+onvoldoende	adj	N5-
+onvoorstelbaar	adj	X2.1-
+onwaarschijnlijk	adj	A7-
+onzeker	adj	A7-
+onzekerheid	noun	A7-
+onzichtbaar	adj	X3.4- A11.2-
+onzin	noun	A5.2- S1.2.6-
+oog	noun	B1 X3.4
+ook	adv	N5++
+oom	noun	S4m
+oor	noun	B1
+oordeel	noun	X2.1 X6 G2.1
+oordelen	verb	G2.1 X6
+oorlog	noun	G3 S7.3
+oorsprong	noun	T2+ N2
+oorspronkelijk	adj	A5.4+ T3- A6.2-
+oorzaak	noun	A2.2 X2.1 X4.1 Z5/A2.2
+oosten	noun	M6
+op	prep	A5.1+ G2.2+ A1.1.1 M6 Z5
+opa	noun	S4m
+opbergen	verb	A9+
+opblazen	verb	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+
+opbouw	noun	H1 A1.1.1 O2 X2.1
+opbouwen	verb	A1.1.1
+opbrengen	verb	S7.1- A2.1+ A1.1.1 A9-
+opbrengst	noun	I1.1
+opdoen	verb	A9+ N5+/A2.1
+opdracht	noun	S7.1+ Q2.2 X9.1+
+opdringen	verb	S6+ S7.1+/X7-
+opduiken	verb	M1 A10+ A1.1.1
+opeens	adv	N3.8+
+opeisen	verb	Q2.2 A9+
+open	adj	A10+ S1.2.1+ X6- X5.2+ A7+ T2+ K5.1
+openbaar	adj	A10+ S5+ S5+c
+opendoen	verb	A10+ T2+
+openen	verb	A10+ T2+
+opengaan	verb	A10+ T2+
+opening	noun	A1.1.1 T2+ O2 I3.1
+opera	noun	K2
+operatie	noun	A1.1.1 B3 G3
+opereren	verb	A1.1.1 B3
+opeten	verb	F1/B1 A1.5.1/N5+
+opgaan	verb	S5+ A2.1+
+opgave	noun	A1.1.1 P1
+opgelucht	adj	A1.7- A9- S8+ G3 B3% E4.1+
+opgewekt	adj	E4.1+
+ophangen	verb	M2 M1 M8 G2.1 S7.1-
+ophouden	verb	T2- S8- M8 H4 A1.1.1@
+opinie	noun	X2.1 X2.1/A5 X6+
+opkomst	noun	S1.1.3+
+opleggen	verb	S6+ S7.1+/X7-
+opleiden	verb	P1 K5.1
+opleiding	noun	P1 K5.1
+opleveren	verb	S7.1- A2.1+ A1.1.1 A9-
+oplopen	verb	N5+/A2.1
+oplossen	verb	X9.2+
+oplossing	noun	X4.2 O1.2
+opluchting	noun	E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1%
+opmaken	verb	X6+ T2-
+opmerken	verb	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
+opmerking	noun	Q2.2
+opnemen	verb	Q1.2 K3
+opnieuw	adv	N6+ Z4
+oppakken	verb	G2.1
+oppassen	verb	S8+/S4
+oppervlakte	noun	A10+ M6 O2
+oppositie	noun	S8-/E2- S7.3+ A6.1-
+oprecht	adj	A5.4+
+oprichter	noun	T2+/S2mf
+oproep	noun	Q2.2 S1.1.1 Q1.3 S9% X7+
+oproepen	verb	Q2.2 S1.1.1 Q1.3 S9%
+opslaan	verb	A9+
+opsluiten	verb	A1.7+
+opstand	noun	E3- G1.2/A6.1-
+opstelling	noun	K5.1/S5
+opstijgen	verb	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+opsturen	verb	M2 A2.2
+optie	noun	X7+ I2.1 P1
+optimaal	adj	A5.1+++
+optimistisch	adj	X2.6/A5.1+/S1.2
+optreden	verb	A8 A10+ A3+ G2.1 K4 Q4
+opvallend	adj	A11.2+ I3.1-/G1.2 E3- A1.1.1 A8 E2+ X3.2
+opvang	noun	E6- E2+ S8+ B3 X7+ G1.1/S8+ A1.3
+opvatten	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+opvoeden	verb	M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4
+opvoeding	noun	P1/S4
+opvolger	noun	N4/S2mf N4
+opwinding	noun	X5.2+
+opzettelijk	adj	X2.1 X2.4 X7+ A1.3+
+opzicht	noun	S7.2+ X2.1
+opzij	adv	M6 A10- A9+ Q2.1/A1.2-
+opzoeken	verb	S1.1.1 M1
+oranje	adj	F1 O4.3
+orde	noun	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
+order	noun	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
+orgaan	noun	B1 K2 Q4.2
+organisatie	noun	S5+c S7.1+
+organisator	noun	S7.1+/S2mf
+organiseren	verb	S7.1+ O4.1 S5+@
+origineel	adj	A5.4+ T3- A6.2-
+orkest	noun	K2/S5c K2/H2
+oud	adj	T3+ Z4
+ouder	noun	S4mf A9+
+ouderlijk	adj	S4
+ouderwets	adj	T3+
+oven	noun	O2/F1
+overal	adv	M6/N5.1+
+overbodig	adj	N5.2+
+overbrengen	verb	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
+overdreven	adj	N5.2+
+overdrijven	verb	N5.2+/Q2.2
+overeenkomst	noun	A6.1+ Q2.2
+overeenstemming	noun	A6.1+ Q2.2
+overeind	adv	M6 N4 N5++ T2- X9.1+ A1.1.1 N5+/A2.1 Z5
+overgang	noun	A2.1+
+overheersen	verb	S7.1+ A11.1+ A11.2+
+overheid	noun	G1.1c
+overhemd	noun	B5
+overig	adj	T2++ M8 N5.2+
+overigens	adv	Z5
+overlast	noun	E6-
+overlaten	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+overleg	noun	Q2.1 B3 X2.3
+overleggen	verb	Q2.1 Q1.1/S8+
+overleven	verb	A3+/T2++ L1+
+overlijden	verb	L1- T2-
+overname	noun	S7.1+
+overschot	noun	N5.2+
+oversteken	verb	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@
+overtreding	noun	G2.1- S1.2.4-
+overtreffen	verb	A5.1++ N5.2+
+overtuigen	verb	A7+/Q2.2
+overtuiging	noun	X2.1 X4.1 G2.1
+overval	noun	G3 G2.1 A9+
+overwegen	verb	X2.1 X2.4 X6
+overweging	noun	X2.1 X2.4 S1.2.3-
+overwinnen	verb	X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2-
+overwinning	noun	X9.2+
+overzicht	noun	X2.4
+overzien	verb	M6 X3.4- X3.4
+paal	noun	O2 W3 A6.1-
+paar	noun	N5+ S4c
+paard	noun	L2mfn
+paars	adj	O4.3
+pagina	noun	Q1.2 T1.3 S7.1-/S2.2m Q1.3
+pakken	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+pakket	noun	O2 I1.1++ A1.8+
+pakweg	adv	A13.4 E3- A4.2-
+pal	adv	M6 N3.8+ S1.1.1
+paleis	noun	H1/S7.1+
+pan	noun	O2 Q4.3/M1 Q2.2
+pand	noun	A9+ H1/H3 O4.1
+paniek	noun	E5-
+pap	noun	F1 G2.1@
+papa	noun	S4m
+papier	noun	H5 Q4.2c O1.1 Q1.2 P1/Q1.2
+paradijs	noun	S9 M7/A5.1+++
+parcours	noun	O2 X2.4 M7 M2 S7.1-
+pardon	noun	G2.1 Z4 S1.2.4+
+paren	verb	S3.2
+parfum	noun	B4 X3.5
+park	noun	M2 M7 M7/L3
+parkeren	verb	M2
+parking	noun	M8
+parlement	noun	G1.1
+parlementair	adj	G1.1
+part	noun	A10+ B4 S3.1- N5.1- O2 M7 I3.1 S1.1.3+ K4
+particulier	adj	A10- S5- G1.1- G3/S2mf B1
+partij	noun	K1/S1.1.3+ K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c
+partner	noun	S3.1 S3.1/S2mf S3.2/S2mf S4mf
+pas	adv	A14 Z5
+paspoort	noun	G1.1/Q1.2
+passage	noun	H2 Q3 M1 I1.2/M1@
+passagier	noun	M3/S2mf M4/S2mf M5/S2mf
+passen	verb	A1.2+
+passeren	verb	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8
+passie	noun	X5.2+ S3.2 S9@ E4.1-@
+pastoor	noun	S9/S2mf
+patiënt	noun	B2-/S2mf E3+
+patroon	noun	O4.3 X4.2 O4.1 B5/Q1.2
+paus	noun	S9/S7.1+/S2.2m
+pc	noun	Y2
+peil	noun	A6.1- N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 O4.4 A4.2+ Q2.2 M2
+peiling	noun	G1.2 Q1.1
+peinzen	verb	X2.1
+pen	noun	Q1.2 Q1.2/O2 F4/H1 G2.1/H1
+pensioen	noun	I1.1/T3+ H4/H1c
+pensioneren	verb	I3.1- M1
+per	prep	Z5
+percentage	noun	N5 N5
+perfect	adj	A5.1+++ A1.2+++ Q3
+periode	noun	T1.3 B1 Q3 P1/T1.3 T1.1.1
+permanent	adj	T2+++
+permitteren	verb	I1.1 A9+
+persen	verb	A1.1.1 X8+ S7.1+ E6-
+personeel	noun	I3.1 I3.1/S2mfc B3/S2mf G3/S2c L2mfn
+personeelslid	noun	I3.1/S2mf
+persoon	noun	S2mfc
+persoonlijk	adj	S5- S1.2.1+
+persoonlijkheid	noun	S1.2 S2mf
+perspectief	noun	X4.1 C1
+pest	noun	B2- N5+ X7-
+pesten	verb	E3-
+pff	interj	Z4
+piano	noun	K2
+piek	noun	N5.1+ A5.1+++ W3 B5
+piepen	verb	X3.2 Q2.1
+pijl	noun	G3 O4.4 A5.1+/O2
+pijn	noun	B2- E2- E4.1-
+pijnlijk	adj	B2- E4.1-
+pijp	noun	M2 K2 Q2.1 O2 F3
+pil	noun	B3
+piloot	noun	M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 M5
+pint	noun	N3.4 F2
+pistool	noun	G3
+pittig	adj	X3.1 X3.5 X5.2+
+plaats	noun	M2 X2.2+ I3.1 Q2.2 M7 H1 A1.2 P1
+plaatselijk	adj	H3/S2mf F2/H1c M7
+plaatsen	verb	M2 X2.2+ I3.1 Q2.2
+plafond	noun	H2 N5.1+
+plagen	verb	E3- A1.1.1
+plak	noun	A1.1.1 O2 N5.1-
+plakken	verb	M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+%
+plan	noun	X7+ C1/H1
+planeet	noun	W1
+plannen	verb	X7+
+plant	noun	F4 M2 L3 I4/H1c O2 A10-/S2mf
+planten	verb	F4 M2
+plas	noun	O2
+plastic	adj	O1.1 O4.5
+plat	adj	H1/H4 M3 W3 B5% O4.4% O4.4 N5- A6.1+ K2 O3 O4.1 A5.3+
+platteland	noun	W3 F4/M7
+plechtig	adj	O4.2 A5.2+
+plegen	verb	A1.1.1 S6+ A1.7+/G2.1
+pleidooi	noun	Q2.2
+plein	noun	O4.4 A6.1+ N2 S7.4 M3/H3 T3+/S2mf
+pleiten	verb	Q2.2 G2.1/Q2.2
+plek	noun	M2 X2.2+ I3.1 Q2.2 M7 H1 A1.2 P1
+plezant	adj	E4.1+
+plezier	noun	E4.2+ K1
+plezierig	adj	O4.2+
+plicht	noun	S6+ G1.1/I1.3 T1.3/I3.1
+ploeg	noun	S5+ S5+c K5.1/S5+c
+plooi	noun	B5
+plots	adj	N3.8+
+plotseling	adj	N3.8+
+plukken	verb	X7+ A1.1.1
+plus	adv	A5.1+ N2 Z5
+podium	noun	K4 A1.1.1 A5.4- T1.2 N5.1- H2/K4 A4.1
+poes	noun	L2 M3
+poetsen	verb	B4
+pogen	verb	X8+
+poging	noun	X8+
+politicus	noun	G1.2/S2mf
+politie	noun	G2.1 G2.2
+politieagent	noun	G2.1/I3.2/S2.2m
+politiek	adj	G1.2
+politiek	noun	G1.2c
+politieman	noun	G2.1/I3.2/S2.2m
+pols	noun	B1
+pompen	verb	M2 A1.1.1 A9- Q2.2 S8+ B3
+pond	noun	A1.1.1 P1 I1 N3.5 M7
+poort	noun	H2
+poos	noun	T1.3 Z5
+pop	noun	B5 K6
+populair	adj	E2+ S5+
+populariteit	noun	E2+
+portefeuille	noun	B5/I1
+portemonnee	noun	B5/I1
+portie	noun	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
+portret	noun	C1 Q2.1
+positie	noun	M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1%
+positief	adj	A5.1+ A7+ N2
+post	noun	Q1.2 M2 I3.1 O2 M6
+posten	verb	Q1.2 M2 I3.1
+poster	noun	Q1.2
+pot	noun	F4 K5.2 L1- O2 O1.1 I1.1 F3
+prachtig	adj	A5.1+
+praktijk	noun	A1.1.1 I3.1/S5+c
+praktisch	adj	A1.6 O4.1 Y1/P1
+praten	verb	Q2.1
+precies	adj	A5.3+ A9+
+premie	noun	I1.1 I1.3 A11.1+
+première	noun	N4
+prent	noun	Q1.2 C1
+presentatie	noun	O4.1 Q2.2 S1.1.1 K4
+presentator	noun	Q4.3/S2mf Q2.2/S2mf
+presenteren	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
+president	noun	G1.1/S7.1+/S2mf
+prestatie	noun	K4 X9.2 A1.1.1 A12-
+presteren	verb	A9+ X9.2+
+prettig	adj	O4.2+ S1.2.1+
+priester	noun	S9/S2mf
+prijken	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+prijs	noun	I1.3
+prikken	verb	A1.1.1
+prima	adj	A5.1+++
+principe	noun	X4.1 G2.2+
+prins	noun	S7.1+/S2.2m
+prinses	noun	S7.1+/S2.1f
+prioriteit	noun	A11.1+
+privacy	noun	A10-
+privé	adj	A10- S5- G1.1- G3/S2mf B1
+proberen	verb	X8+ X2.4 Q2.2 G2.1 A12-
+probleem	noun	A12- X4.1 N2 B2-
+procedure	noun	X4.2
+proces	noun	G2.1 X2.4 E6- A12- K5.1
+producent	noun	K4/S7.1+/S2mf A1.1.1/S2mf
+produceren	verb	A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4
+product	noun	O2 A1.1.1 A2.2 N2%
+productie	noun	A1.1.1 A10+ K4 K3 Q4.3
+proef	noun	P1 B3 X2.4 A12- K5.1@
+proeven	verb	X3.1 F1 X2.2
+profeet	noun	T1.1.3/S9/S2mf
+professioneel	adj	I3.2+ I3.1 X9.1+ A5.1+ I3.2+/S2mf X9.1+/S2mf
+professor	noun	P1/S2mf
+profiel	noun	B1 Q1.1
+profiteren	verb	S8+
+progressief	adj	G1.2 T3--- N3.8- Q3 G1.2/S2mf
+project	noun	A1.1.1 P1 A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1
+prominent	adj	A11.1+ A11.2+
+promoten	verb	S8+ I2.2/Q2.2 S7.1+/A2.1
+promotie	noun	S7.1+/A2.1 I2.2/Q2.2 S8+
+prompt	adj	N3.8+ T1.1.2/A11.1+ N4 N3.3- S4
+prooi	noun	L2 S7.1- S1.2.2+
+protest	noun	Q2.2 A10+ G1.2
+protesteren	verb	Q2.2 A10+ G1.2
+provincie	noun	M7 A4.1
+psychiater	noun	B3/S2mf
+psychiatrisch	adj	B3/X1
+psychisch	adj	X1
+psychologisch	adj	X1
+psycholoog	noun	Y1/S2mf
+puber	noun	T3-/S2mf
+publicatie	noun	Q4
+publiceren	verb	Q4
+publiciteit	noun	Q2.2
+publiek	adj	A10+ S5+ S5+c
+publiek	noun	A10+ S5+ S5+c
+put	noun	A10+ E1+ A5.1+ A13.3 A7+ B2+ Z4 W3/M4 W3
+puur	adj	A5.4+ O4.1 A14 A4.2+ G2.2+
+raad	noun	Q2.2/S8+
+raadplegen	verb	Q2.1 Q1.1/S8+
+raadsel	noun	X2.2- X2.5- A6.2-
+raam	noun	H2 T1.3
+raar	adj	A6.2-
+race	noun	K5.1 S7.3+ S5+c M1/N3.8+
+racisme	noun	S5+/Z2
+racistisch	adj	S5+/Z2 S5+/Z2/S2mf
+raden	verb	X2.1/A7-
+radicaal	adj	G1.2/S2mf O1% N5+/A2.1 A11.1+
+radio	noun	Q1.3 Q4.3
+ramp	noun	A5.1--- X9.2- A1.1.2/W4
+rand	noun	A1.1.1 M1 O2 M7 T1.2 S7.1+@
+rang	noun	A5.1 S7.1++ N5.2+ O4.2- N5++% S7.1+ S5+ M3
+rapport	noun	Q2.2 S7.1- X3.2
+rat	noun	L2mfn G2.2-/S2mf Q2.2 A1.9
+rauw	adj	F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@
+reactie	noun	A1.1.1 A6.1- B2- Y1
+reageren	verb	A1.1.1 A6.1- B2- Y1
+realiseren	verb	X2.5+ X9.2+
+realistisch	adj	A3+/A1.6 S1.2.6+
+realiteit	noun	A3+ A5.2+
+rebel	noun	G1.2/A6.1- S8- A6.1- G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf
+recent	adj	T3-
+recept	noun	F1 X4.2
+receptie	noun	H2 S1.1.1 Q4.3 S1.1.3+ T3-
+recht	adj	O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 M6 N3.8+ S3.2/S2mf M3
+recht	noun	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 S7.4+ G1.2 Z4
+rechtbank	noun	G2.1 H3 M7/K5.2 S3.2 X7+
+rechter	noun	G2.1 X6 G2.1/I3.2/S2mf X6/S2mf
+rechtop	adv	M6/O2 O4.4 G2.2+
+rechtstreeks	adj	M6 O4.4 N3.8+ S1.2 A10+ S1.1.1 Q2.2 S7.1+ K4
+rechtszaak	noun	G2.1 X2.4 E6- A12- K5.1
+rechtvaardigen	verb	G2.2+ A2.2 O4.1
+reclame	noun	I2.2/Q2.1 X2.2+ A10+
+record	noun	N5.2+ Q1.2 K3 T1.1.1 A5.1+++
+redacteur	noun	Q4/I3.2/S2mf Y2
+redden	verb	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
+redding	noun	S8+ S8+/S5+c
+rede	noun	Q2.1 Q3
+redelijk	adj	S1.2.6+ A5.1+ I1.3-
+reden	noun	A2.2 X2.1 Q2.2
+redeneren	verb	X2.1 Q2.2
+redenering	noun	X2.1 Q2.2
+reeds	adv	T1.1.1
+reeks	noun	N4c Q4.3c
+referendum	noun	G1.2
+regel	noun	G2.1 X4.2 A6.2+ S7.1+ Q3 Q1.2 X6+
+regeling	noun	G2.1 A1.7+/G1.1
+regelmaat	noun	N6+ A6.1+ A6.2+
+regelmatig	adj	A6.2+ N6+ O4.1 I3.1 T2++ A13.3 N6+/S2mf G3/S2mf
+regelrecht	adj	O4.4 A5.2+ N4 A7+ A6.2+ S3.2 F2 M6 N3.8+ S3.2/S2mf M3
+regen	noun	W4
+regenen	verb	W4
+regeren	verb	S7.1+
+regering	noun	G1.1c
+regie	noun	M6 Q2.2 Q2.2 S7.1+ X4.2 K4
+regime	noun	G1.1 S7.1+ B3
+regio	noun	M7 B1
+regionaal	adj	M7
+registreren	verb	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
+regulier	adj	A6.2+ N6+ O4.1 I3.1 T2++ A13.3 N6+/S2mf G3/S2mf
+reiken	verb	M1 N3.3 Q2.1 X9.2+
+reizen	verb	M1
+reiziger	noun	M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf
+rek	noun	E6- O2 G2.1/O2 F1
+rekenen	verb	N2 A11.1+
+rekening	noun	I1.3 G1.1 Q1.2 L2
+rekken	verb	N3.6 M1 N3.7+/A2.1 A4.2-/A2.1 T1.3 A12- A2.1+ X8+
+rel	noun	E3-
+relatie	noun	A2.2 S1.1.1 S4mf
+relatief	adj	A13 A6 S4mf Q3%
+relevant	adj	A1.2+ A1.5.2+
+religie	noun	S9
+religieus	adj	S9
+remmen	verb	M8
+rennen	verb	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
+rente	noun	X5.2+ I1.1 S8+ S1.1.3+
+reportage	noun	Q2.2 S7.1- X3.2
+republiek	noun	G1.2 S5+/M7
+reputatie	noun	I3.2 A5.1
+reserve	noun	A2.1+
+reserveren	verb	A9+
+resoluut	adj	A7+
+respect	noun	S7.2+
+respecteren	verb	S7.2+
+respectievelijk	adv	A6.1-
+rest	noun	E3+ K1 T2-/T1.3 O2 N5.1- M6 A3+ A2.2
+restaurant	noun	F1/H1
+restaureren	verb	A2.1+ C1 A9-
+resteren	verb	T2++ M8 N5.2+
+resultaat	noun	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2
+resulteren	verb	A2.2
+reusachtig	adj	N3.2+++
+revolutie	noun	G1.2 A2.1+ M1@
+revolutionair	adj	T3---
+reëel	adj	A13.3 A3+ A5.2+ A5.4+
+richten	verb	X5.1+ X3.4 A4.2+
+richting	noun	M6 Q2.2 Q2.2 S7.1+ X4.2 K4
+richtlijn	noun	S7.1+
+ridder	noun	S7.1+ S7.1+/G3/S2.2m K5.2
+rij	noun	E3- M4 N4 N5+ M7 M3/H3
+rijden	verb	M3 A1.1.1 X5.2+ M2 S7.1+
+rijk	adj	I1.1+ O4.1 N5+ X5.2+ E4.1+
+rijkdom	noun	I1.1+
+rijp	adj	O4.1/L3/F1 A1.2+
+rijst	noun	F1
+rillen	verb	B1 E1
+ring	noun	Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%
+rinkelen	verb	Q1.3 X3.2 A8 O4.4
+risico	noun	A15- A1.4
+riskeren	verb	A15- A1.4
+rit	noun	K5.1/L2 M1 K1
+ritme	noun	K2 Q3 T1.1
+ritueel	noun	S9 A6.2+
+rivier	noun	W3/M4 N5+
+roepen	verb	Q2.2 S1.1.1 Q1.3 S9%
+roeren	verb	A1.1.1 M1
+roerloos	adj	M8
+rok	noun	B5 O2@ S2.1@f M1 A1.9
+roken	verb	F3 O1.3 F1
+rol	noun	I3.1 K4 S1.1.1 A1.1.1
+rollen	verb	M1 M2 A1.1.1
+rolstoel	noun	M3
+roman	noun	A6.2- Q4.1
+romantisch	adj	S3.2 Q4/S5 S3.2mf
+rommel	noun	O2 O4.1
+rond	adj	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+rond	prep	A13.4 M6 Z5
+rond	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+ronde	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+rondje	noun	M1 M6 N5 K5.1 F2 B3 F1 K2% G3% O4.4 Z5
+rood	adj	O4.3 G1.2 G1.2/S2mf
+rook	noun	F3 O1.3 F1 F3@
+roos	noun	L3 F2 O4.3 M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1
+rots	noun	M1 M2 E5- K2 O2 O1.1 F1
+route	noun	M2 M6 X4.2
+roze	adj	B5 O4.3
+rug	noun	B1 M6 N6+ T1.1.1 S1.1.2+ T3+ S8+ K5.1/I1 M1 K2
+rugzak	noun	O2
+ruiken	verb	X3.5 X3 A8
+ruil	noun	A9/S1.1.2+ A2.1+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1
+ruilen	verb	A9/S1.1.2+ A2.1+
+ruim	adj	N3.2+/N3.6+
+ruimte	noun	N3.6 W1 T1.3 Q1.2 N6
+ruimtelijk	adj	N3.6
+ruit	noun	H2 T1.3
+ruk	noun	M2 M1 S1.2.6-/S2mf
+rust	noun	E3+ K1 T2-/T1.3 O2 N5.1- M6 A3+ A2.2
+rusten	verb	E3+ M6 A3+ A2.2
+rustig	adj	X3.2- E3+ A1.1.1/N5- A10-
+ruw	adj	M7/K5.1 A4.2- E3-/S2mf X3.3 O4.5 B2 E3- S1.2.4- O4.2- A12- W4 E3-/K5.2
+saai	adj	X5.2- A1.1.1@ S1.2
+salaris	noun	I1.1/I3.1
+samenleving	noun	S5+c
+samenstellen	verb	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+
+samenstelling	noun	N5.1+ A1.1.1 Q1.2/P1 K2 Q3 C1
+samenvatten	verb	Q2.2
+samenwerken	verb	S1.1.3+ S8+
+samenwerking	noun	S1.1.3+ S8+
+sanctie	noun	S7.4 G2.1
+saus	noun	F1 S1.2.4-
+scenario	noun	K4 Q1.2 X7+
+schaamte	noun	G2.2- G2.2
+schaap	noun	L2mfnc
+schaars	adj	N5--
+schade	noun	A1.1.2 I1.1+/G2.1
+schadelijk	adj	A1.1.2
+schadevergoeding	noun	S8+
+schaduw	noun	O4.3 S1.1.1 M1 S2mf
+schakelen	verb	A2.1+
+schandaal	noun	G2.2-
+schandalig	adj	G2.2-
+schatten	verb	X6/A7- N2/A7-
+schatting	noun	X6/A7- N2/A7- I2.1/Q1.2
+schedel	noun	B1 M4%
+scheiden	verb	A6.1- S3.1-
+scheidsrechter	noun	K5.1 K5.1/S2mf Q2.2/S2mf
+schelden	verb	Q2.2 A1.4-
+schelen	verb	E6- E2+ S8+ B3 X7+
+schema	noun	X7+ X4.2
+schenden	verb	A1.1.2
+schenken	verb	A9-
+scheren	verb	B4 A1.1.1 N5-/A2.1
+scherm	noun	A10- Q4.3 X2.4 B3 Y2 H5
+scherp	adj	N3.8+ T4 O4.4 A10+ X9.1+ X5.1+ B2- X3.1 E3- A5.3+ A5.1+ K2
+schetsen	verb	C1 Q2.1
+scheuren	verb	A1.1.1 A1.1.2
+schieten	verb	G3 K5.1 M1 M2 Q4.3 Q1.2
+schijn	noun	A10+ O4.1 A3+ G2.1 K5 Q4
+schijnen	verb	A8 A10+ A3+ G2.1 K4 Q4
+schikken	verb	S7.1+ A1.1.1
+schilder	noun	C1/S2mf
+schilderen	verb	C1 Q2.2
+schilderij	noun	C1 Q2.2
+schip	noun	M2 M4fn
+schitteren	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+schitterend	adj	A5.1+++ X9.1+++ O4.3
+schoen	noun	B5 B5/L2
+schok	noun	E5- B2- O3 S1.2.4-
+scholier	noun	P1/S2mf G2.1/S2mf B1
+school	noun	P1 P1/H1c S5+c L2%c
+schoon	adj	B4 O4.2+ G2.2+
+schoonheid	noun	O4.2+ B4
+schoonmaken	verb	B4
+schoot	noun	B1 K5.1 N3.3 B1/L2 M1 K5.1%
+schoppen	verb	E3- A1.1.1 T2-
+schorsen	verb	T4- M2 M1
+schorsing	noun	T2- I3.1- O2 O1.2
+schot	noun	G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ M1 M2 A1.1.2 Q1.2 S1.2.6-%
+schotel	noun	F1/A1.1.1 O2 F1 Q4.3 O4.2+%
+schouder	noun	B1 M3 M2 E3- A9+
+schrapen	verb	A1.1.1 S7.1-
+schreeuwen	verb	Q2.2/X3.2++
+schriftelijk	adj	Q1.2 I2.1
+schrijven	verb	Q1.2 I2.1
+schrijver	noun	Q4.1/S2mf Q1.2/S2mf
+schrik	noun	E5-
+schudden	verb	M2 M1 E4.1- E5- A2.1+ A6.1+
+schuifelen	verb	M1 A2.1+
+schuin	adj	M6 A10- O4.4
+schuldgevoel	noun	G2.2- G2.1-
+schuldig	adj	G2.1- E4.1-
+schuur	noun	H1
+score	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5% X9.2+ A1.1.1
+scoren	verb	K5 A5.1 N3.1 X9.2+ A1.1.1
+scène	noun	K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+
+seconde	noun	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+secretaresse	noun	I3.2/S2mf S7.1+/S2mf
+secretaris	noun	I3.2/S2mf S7.1+/S2mf
+sector	noun	A4.1 S5+ M7 N2@
+sedert	prep	N4 Z5
+seizoen	noun	F1 T1.3
+seks	noun	L2 S2 S3.2
+seksueel	adj	S3.2
+selecteren	verb	X7+
+selectie	noun	X7+
+senator	noun	G1.2/S2mf
+senior	noun	S7.1++ T3++ S7.1++/S2mf T3++/S2mf
+september	noun	T1.3
+serie	noun	N4c Q4.3c
+serieus	adj	A11.1+ A15- E4.1-
+serveren	verb	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
+service	noun	A1.1.1 S8+ S7.1- I2.2 S9 I3.1 F1 G3@ G1.1@ G2.1@
+set	noun	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 N5 N2 K4 O3 S5+c K5.1%
+sfeer	noun	W3 W1 E1 N3.5
+shit	noun	B1 O4.2- O4.2-/S2mf Z4
+show	noun	A10+ S1.1.1 A8 K4 I2.2/S1.1.1
+sigaar	noun	F3
+sigaret	noun	F3
+signaal	noun	A11.1+ Q1.1 X2.2 X4.1 O2 Y1 A10+
+simpel	adj	A12+ A6.2+ O4.1 X9.1-
+simpelweg	adv	A13.6 A14 A12+
+sinds	prep	N4 Z5
+sindsdien	adv	N4 Z5
+single	noun	A4.2+ K3 S3.2-/S2mf H4 Q1.2/M3 K5.2 N5--- S5- S3.2- M3
+sissen	verb	X3.2 Q2.2
+site	noun	M6 M7
+situatie	noun	A3+ O4.1 M6 I3.1@
+sjaal	noun	B5
+sla	noun	F1
+slaaf	noun	A1.1.1 S7.1-/S2mf
+slaan	verb	E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3
+slaap	noun	B1 H4/N5
+slaapkamer	noun	H2
+slachtoffer	noun	A1.1.2/G2.1/S2mf B2-/S2mf
+slag	noun	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+ S8- E3- E4.1-
+slagen	verb	X9.2+ N4
+slank	adj	N3.5- O4.2+ A7- N3.2- N3.5-/A2.1 N3.2-/A2.1
+slap	adj	S1.2.5- O4.1 S7.1- A5.1-
+slapen	verb	B1 H4/N5
+slecht	adj	A5.1- G2.2- O4.2- B2-
+slechts	adv	A14 Z5
+slepen	verb	M2 T1.3
+sleuren	verb	M2 T1.3
+sleutel	noun	A1.1.1 A11.1+ O2 X9.2+ Q1.2
+slijten	verb	B5 A1.1.1 B2- S7.4+
+slikken	verb	B1 X2.1/A7+ A10-/E1
+slingeren	verb	M1 M2 A2.1+ A2.2
+slogan	noun	Q2.1
+slok	noun	F2
+sloot	noun	A9- M7
+slopen	verb	A1.1.2 F1
+slot	noun	A1.7+ O2 M4 B1
+sluipen	verb	M1/A10- A9+/A10- M2
+sluiten	verb	A1.1.1 A10- T2-
+sluiting	noun	A1.1.1 A10- T2- Q3%
+smaak	noun	X3.1 F1 X2.2 O4.2 E2+
+smaken	verb	X3.1 F1 X2.2
+smal	adj	N3.7- A1.7+ N5- A13.6
+smeken	verb	Q2.2/E6-
+smelten	verb	A2.1+ O4.6+
+smerig	adj	O4.2- G2.2- S1.2.4-
+snappen	verb	X2.5+
+sneeuw	noun	W4 Q4.3%
+snel	adj	F1- N3.8+
+snelheid	noun	N3.8+ F3%
+snelweg	noun	M3
+snikken	verb	E4.1-
+snor	noun	B1
+snuiven	verb	B1 X3.5 Q2.2/E2- F3
+sociaal	adj	S1.1.1 I1.1/G1.1
+socialist	noun	G1.2 G1.2/S2mf
+socialistisch	adj	G1.2 G1.2/S2mf
+soep	noun	F1
+software	noun	Y2
+sok	noun	B5 E3-
+soldaat	noun	A1.1.1 G3 G3/S2mf
+solidariteit	noun	S5+
+solliciteren	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+som	noun	N2 N5 N5.1+
+somber	adj	O4.3 E4.1-
+sommige	pron	A13.5 N5 Z5
+soms	adv	N6
+song	noun	K2
+soortgelijk	adj	A6.1+
+sorry	interj	Z4 E4.1- O4.2-
+sowieso	adv	Z4 A13.7
+spannend	adj	X5.2+
+spanning	noun	E6- O4.1
+sparen	verb	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
+speciaal	adj	A4.2+ A6.2- G2.1/S2mf
+specialiseren	verb	A4.2+
+specialist	noun	X2.2+ X2.2+/S2mf B3/S2mf
+specifiek	adj	A4.2+
+spectaculair	adj	K4 O4.2+
+speelgoed	noun	X2.1 A1.1.1
+speels	adj	E4.1+
+spel	noun	K5.1 K5.2 X7+ A1.1.1 L2 F1 X5.2+
+spelen	verb	K1 K5.1 K5.2 K2 K3 A1.1.1 K6
+speler	noun	K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3
+spiegel	noun	A6.1+ O2 Z3c
+spier	noun	B1 S1.2.5+/S2mf E3-
+spijt	noun	E4.1-
+spijten	verb	E4.1-
+spijtig	adj	E4.1-
+spits	noun	I3.1-/G1.2/S2mf K5.1/S2mf
+splitsen	verb	A6.1- A1.1.2 S1.1.2-
+spoedig	adv	T1.1.3/N3.8+
+spoelen	verb	B4
+sponsor	noun	A9-/I1.1 S8+ A9-/I1.1/S2mf S8+/S2mf
+spontaan	adj	X7-
+sport	noun	A10+ K5.1
+sportief	adj	K5.1
+spraak	noun	Q2.1 Q3
+spreiden	verb	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
+spreken	verb	Q2.1
+spreker	noun	Q2.1/S2mf G1.1/S2mf O3
+springen	verb	M1 N5+/A2.1 A1.9
+sprong	noun	M1 N5+/A2.1 A1.9 A2.1+
+spuiten	verb	A1.1.1/O1.2 M2
+staal	noun	O1.1 O2 S1.2.5+ O4.3
+staan	verb	M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
+staart	noun	L2 O2 M6 B5 X2.4/S2mf X2.4
+staat	noun	G1.1c O4.1 Q2.1
+stabiel	adj	A2.1- S1.2 O4.1 L2/H1 L2/H4
+stadion	noun	K5.1/H1
+stadium	noun	K4 A1.1.1 A5.4- T1.2 N5.1- H2/K4 A4.1
+staking	noun	I3.1-/G1.2 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ G3 A10+ K5.1
+stal	noun	A2.1- S1.2 O4.1 L2/H1 L2/H4
+stam	noun	B5 L2 Q1.3
+stammen	verb	T3 S3.2
+stampen	verb	Q1.2 A1.1.1 A10+ A2.2
+standaard	noun	A5.1 G2.2 Q1.1 O2@ A6.2+
+standbeeld	noun	C1
+standpunt	noun	M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1%
+stap	noun	M1 S1.1.3+ T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@
+stapel	noun	N5+ O2 H1
+stappen	verb	M1 S1.1.3+
+staren	verb	X3.4
+start	noun	T2+ E5- E3-
+starten	verb	T2+ E5- E3-
+station	noun	G3/H4 M3/H1c G2.1/H1c Q4.3 M7c S7.1@
+statistiek	noun	N3.1c N2c
+status	noun	S7.1 A4.1 A11.1
+stedelijk	adj	M7
+steeds	adv	N6+++
+steek	noun	A1.1.1 B5 B2- B3
+steen	noun	F1 E3- O1.1 O2 B2- N3.5 B5
+steevast	adv	T2+++
+steil	adj	A1.1.1 X2.3+ O4.4 N5+ I1.3+
+stelen	verb	G2.1-/A9+ A9+
+stellen	verb	M2 Q2.1 Q2.2 A1.1.1
+stemmen	verb	G1.2/X7
+stempel	noun	Q1.2 A1.1.1 A10+ A2.2 O2 I1.2/G1.1 A4.2+
+ster	noun	A11.1+ Q1.2 K4/A11.1+ W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 Z3c
+sterk	adj	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+
+sterkte	noun	S1.2.5+ O4.1 S7.1+ X9.1+ N5
+sterven	verb	L1- T2-
+steun	noun	S8+ A1.1.1 K5.1 I1.1 A10+ O2 B5%
+steunen	verb	S8+ A1.1.1 K5.1 I1.1 A10+
+stevig	adj	A7+ I2.1/S5+c O4.5 A1.7+
+stiekem	adj	A10-
+stijf	adj	L1-/S2mf O4.1 O4.5 B2- S1.2.1- A12- E3-
+stijgen	verb	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+stijging	noun	N5+/A2.1
+stijl	noun	A1.1.1 Q2.2 X4.2 O4.1 O4.2+ A4.1 Q3
+stikken	verb	S8- A1.1.2 G2.1-
+stil	adj	X3.2- A10-
+stilaan	adv	T2++
+stilstaan	verb	T2- S8- M8 H4 A1.1.1@
+stilstand	noun	M8
+stilte	noun	X3.2- A10-
+stimuleren	verb	A2.2 X5.2+
+stinken	verb	X3.5 X3 A8
+stoel	noun	H5 S7.1+mf P1 S7.1+
+stoep	noun	M3/H3
+stoet	noun	S1.1.1/M1
+stof	noun	B4 A1.1.1 O1.1
+stok	noun	M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+% O2 B5 Q2.2
+stom	adj	S1.2.6- X9.1-
+stop	noun	M3 T2- M8 H4 Q3 K2 S8- A1.1.1@
+stoppen	verb	T2- S8- M8 H4 A1.1.1@
+storen	verb	X5.1- A2.1+
+storm	noun	E3- G3 W4 A12-
+storten	verb	M2 I1.1
+straal	noun	E4.1+ W2 Q4.3 Y1 H2 O2/K5.1
+straat	noun	M3/H3
+straf	adj	O4.1 X8+ X5.2+ N5+ A12- O4.5 S1.2.5+
+straf	noun	G2.1
+straffen	verb	G2.1
+strak	adj	A1.7+ B5 N3.2- N5+ O4.4 S5+ A12- F2+ S1.2.2+
+straks	adv	T4-- T1.1.3 N4
+stralen	verb	W2 O4.2+ E4.1+ X9.1+ B4 W4/A5.1+
+strand	noun	M4 W3/M4
+strategie	noun	X7+
+strategisch	adj	X7+ G3
+streep	noun	O4.3 S7.1+/O4.3
+strekken	verb	O4.4/A2.1
+streng	adj	A5.1- S1.2.5+ S1.2.1- O4.2-
+stress	noun	E6- A1.7+ Q3 A1.1.2 Q2.2
+strijd	noun	X8+ G3 E3- O2
+strijden	verb	S8- X8+ E3- G1.2
+strikt	adj	S1.2.5+ A1.7+
+strip	noun	Q4.3 C1
+stromen	verb	M4 M1
+strook	noun	B5- A1.1.1 A9- O2 N3.6 M7 C1 B5/K5.1
+structureel	adj	O4.1 S7.1
+structuur	noun	A1.1.1 O4.1 H1 S7.1 O2 A4.1 X4.2 B1
+struik	noun	L3 W3 N3.2+
+struikelen	verb	M1 A5.3-
+student	noun	P1/S2mf
+studeren	verb	P1 X2.4
+studie	noun	P1 X2.4 H2 Q1.2 C1
+studio	noun	C1/H2 Q4.3/H1c H1
+stuk	noun	N5.1- O2 Q4 K2 K4 G3@
+stunt	noun	A15-/A1.1.1 O2 S8-
+sturen	verb	M2 A2.2
+subsidie	noun	I1.1
+subtiel	adj	A11.2- X9.1+
+succes	noun	X9.2+
+succesvol	adj	X9.2+
+suggereren	verb	Q2.2 Q1.1
+suggestie	noun	Q2.2 Q1.1
+suiker	noun	F1
+super	adj	A5.1+ G2.1/S2mf
+supermarkt	noun	I2.2/H1c
+supporter	noun	S8+/S2mf K5.1/S2mf Q1.1%
+sussen	verb	E3+ S8+
+symbolisch	adj	A6.2+ Q1.1 X4.1 M2 A5.4- A5.1-
+symbool	noun	A6.2+ Q1.1 X4.1 M2
+sympathie	noun	X2.5+/E1 E4.1- A6.1+
+sympathiek	adj	X2.5+/E1 S8+ A6.1+
+systeem	noun	X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c
+systematisch	adj	X4.2
+taak	noun	A1.1.1 P1
+taal	noun	Q3 Y2
+taalgebruik	noun	Q3 Y2
+taart	noun	F1 I1.1 O4.1
+taboe	noun	S7.4-
+tachtig	num	N1 T3
+tafel	noun	H5 Q1.2 N2 Q2.2
+tafereel	noun	K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+
+tak	noun	N5+ A2.1+ S5+c L3 A4.1
+tal	noun	N1 N5 Q1.3 K2 Q4.2
+talent	noun	X9.1+
+talloos	adj	N5+
+talrijk	adj	N5+
+tamelijk	adv	A13.5 Z4 E2++
+tandarts	noun	B3/S2mf
+tante	noun	S4f
+tapijt	noun	H5 Q2.2
+tarief	noun	A5.1 N3.8 N5 I1.3
+tas	noun	A9+ K5.1 B5 O2 B1
+tasten	verb	X3.3 X2.4 X3.3/S3.2@
+taxi	noun	M3fn M5 M2
+team	noun	S5+ S5+c K5.1/S5+c
+techniek	noun	X4.2
+technisch	adj	Y1 I4 X9.1
+technologie	noun	Y1
+tegel	noun	H1 O2
+tegen	prep	A5.1- S8- Z5
+tegendeel	noun	A6.1- M6 Z5
+tegenhouden	verb	T2- S8- M8 H4 A1.1.1@
+tegenkomen	verb	S3.1 A1.1.1
+tegenovergesteld	adj	A6.1- M6 Z5
+tegenslag	noun	S8-
+tegenstander	noun	S7.3/S2mf
+tegenstelling	noun	A6.1-
+tegenvallen	verb	E4.2-
+teken	noun	Q1.1 A6.2+ X4.1 Q1.2 O4.1 S9 B2 M2 K2 G2.1 I3.1
+tekenen	verb	C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1
+tekening	noun	C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1
+tekort	noun	N5-
+tekst	noun	Q1.2 Q4.1
+telefoon	noun	Q1.3
+teleurstellen	verb	E4.2-
+teleurstelling	noun	E4.2-
+televisie	noun	Q4.3
+tellen	verb	N2 A11.1+
+tempel	noun	S9/H1 B1
+temperatuur	noun	O4.6
+tempo	noun	M1 N3.8 N3.3
+tent	noun	H1 K1
+tentoonstelling	noun	A10+/S1.1.3+ A10+ I1%
+tenzij	conj	Z5
+terechtkomen	verb	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+term	noun	Q2.2 Q3 T1.3 S6+
+termijn	noun	Q2.2 Q3 T1.3 S6+
+terras	noun	H1 F4 K5.1/H2
+terrein	noun	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 M4 Q2.2 P1 A1.7+ A2.2 M6 W3 M7 O3 X2.1
+terrorisme	noun	G2.1-
+terrorist	noun	G2.1-/S2mf
+terug	adv	B1 M6 N6+ T1.1.1 S1.1.2+ T3+ S8+ K5.1/I1 M1 K2
+terugbrengen	verb	M1 A9- N6
+teruggaan	verb	M1 A9- N6
+terugkeer	noun	M1 A9- N6 S1.1.2+ I1.1 G1.1/Q1.2 M3 K5.1 Y2% M6
+terugkeren	verb	M1 A9- N6
+terugkomen	verb	M1 A9- N6
+terugtrekken	verb	M2 M1 S1.1.3- A2.1+
+terwijl	conj	T1.3 Z5
+terzijde	adv	M6 A10- A9+ Q2.1/A1.2-
+test	noun	P1 B3 X2.4 A12- K5.1@
+testen	verb	P1 B3 X2.4 A12-
+tevens	adv	N5++
+tevoren	adv	N4 Z5
+tevreden	adj	E4.2+ A1.2+
+theater	noun	K4/H1 K4 B3/H2 M7
+thee	noun	F2 F1
+thema	noun	X4.1 K2 Q1.2 Q3
+theoretisch	adj	A1.6
+theorie	noun	X4.1
+ticket	noun	Q1.2 G2.1/Q1.2 G1.2
+tien	num	N1 T3
+tiener	noun	T3-/S2mf
+tiental	noun	N1 T3
+tijd	noun	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ X7+/T1 N3.1/T1
+tijdelijk	adj	T1.3
+tijdens	prep	Z5
+tijdig	adj	T1.2/A1.2+
+tijdperk	noun	T1.3
+tijdschrift	noun	Q4.2 Q4.3 G3 O2
+tik	noun	A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4% O2 K1@
+tikken	verb	A1.1.1 X3.2 A1.5.1 Q2.2 G1.1/Q1.3 F4%
+tillen	verb	M2 A5.1+/A2.1 E4.1+/A2.1 G2.1
+tip	noun	M2 I1 N5.1- M7/O4.2- Q2.2
+titel	noun	Q2.2 Q4 S7.1+ A9+
+tja	interj	Z4
+toch	adv	T1.1.2 Z5
+tocht	noun	M1
+toegang	noun	M1 A9+ A1.1.1
+toegankelijk	adj	S1.2.1+ A9+ A12+ M6
+toegeven	verb	Q2.2 B3 A1.8+ S7.4+/M1
+toekennen	verb	A9- A5.1+/A9- I1.3+/A9-
+toekijken	verb	X3.4 S7.1 X2.4 A1.3+
+toekomst	noun	T1.1.3
+toekomstig	adj	T1.1.3
+toelaten	verb	S7.4+ S8+ X2.1
+toen	adv	N4 Z5 T1.2 T1.1.1
+toen	conj	Z5
+toename	noun	N5+/A2.1
+toenemen	verb	N5+/A2.1
+toenmalig	adj	O2 T2- N4
+toepassen	verb	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
+toepassing	noun	Q1.2 A1.5.1 Y2 X5.1+ A1.1.1
+toer	noun	M1
+toeschouwer	noun	X3.4/S2mf
+toespraak	noun	Q2.1 Q3
+toestaan	verb	S7.4+ S8+ X2.1
+toestand	noun	G1.1c O4.1 Q2.1
+toestel	noun	O2
+toestemming	noun	S7.4+
+toets	noun	A1.1.1 A11.1+ O2 X9.2+ Q1.2
+toetsen	verb	P1 B3 X2.4 A12-
+toeval	noun	A1.4
+toevallig	adj	A1.4 K2
+toevoegen	verb	N5+/A2.1 N2 A1.8+
+toewijzen	verb	A9- S7.1+
+toezicht	noun	S7.1+ P1@
+tof	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 S7.2+/S2mf P1%
+toneel	noun	K4 A1.1.1 A5.4- T1.2 N5.1- H2/K4 A4.1
+toneelstuk	noun	K1 K5.1 K5.2 K2 K3 A1.1.1 K6 K4
+tonen	verb	A10+ S1.1.1
+tong	noun	Q2.1
+toon	noun	B4 O4.3 A2.1+ B1
+toonbank	noun	A6.1- H5/I2.2 H5 N2/O2
+top	noun	A11.1++ N5++ A5.1++ A1.1.1 L1-
+topman	noun	I2.1/S2mf G1.1c S7.1+/S5+c S7.1+
+toren	noun	N3.7+
+totaal	adj	N5
+totaal	noun	N5
+totdat	conj	Z5
+touw	noun	A1.7+ O2
+traag	adj	N3.8- T1.3+ X9.1- A5.3-/T1
+traan	noun	A1.1.1 A1.1.2 B1 O4.2- N3.8+%
+trachten	verb	X8+
+traditie	noun	S1.1.1 T1.1.1 A6.2+
+traditioneel	adj	S1.1.1 A6.2+ T3++
+tragisch	adj	E4.1-
+trainen	verb	P1 K5.1
+trainer	noun	P1/S2mf K5.1/S2mf B5
+traject	noun	M2 M6 X4.2
+trakteren	verb	S1.1.1 A9- X4.2 X2.1 B3 A1.1.1
+tram	noun	M3fn
+transfer	noun	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5 C1
+transport	noun	M2 M3 M4 M5
+trap	noun	H2
+treden	verb	M1 S1.1.3+
+treffer	noun	K5.1 X7+
+trein	noun	M3fn N4 B5@ P1 K5.1
+trek	noun	F1/B1 X7+
+trekken	verb	C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1
+trend	noun	A6.2+ A2.1+
+treurig	adj	E4.1- A5.1-
+tribune	noun	I2.2/H5 H5 H1 S8- M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
+triest	adj	E4.1- A5.1-
+trio	noun	S5+c K2
+triomfantelijk	adj	X9.2+
+troef	noun	A5.1+ K5.2 M5/S2mf
+troon	noun	H5/S7.1+ S7.1+
+troost	noun	S8+
+troosten	verb	S8+
+tropisch	adj	M7 W4
+trots	adj	E4.2+/S1.2 S1.2.3+
+trots	noun	E4.2+ S1.2.3+ E4.2+/S1.2 S7.2+ O4.2+
+trouw	adj	S6+ A5.2+ S9 S9/S2c
+trouwen	verb	S4 A2.2
+trouwens	adv	Z4 A13.7
+truc	noun	G2.2- A1.1.1 X4.2 A6.2+ K5.2
+trui	noun	B5
+tuin	noun	F4 L3/H3 M7/L3
+tunnel	noun	A1.1.1 O2 M7
+turen	verb	X3.4
+tussen	prep	M6 N4 Z5
+twee	num	N1 T3 T1.2
+tweede	num	N4 P1 F1 O2/T3+ S8+/S2mf S8+ T1.3 T1.2
+tweeling	noun	S4mf S5+
+tweemaal	adv	N6
+tweetal	noun	N1 T3 T1.2
+twijfel	noun	A7-
+twijfelen	verb	A7-
+type	noun	A4.1 A6.2+ S1.2 Q1.2
+typen	verb	Q1.2
+typisch	adj	A4.2+ A6.2+
+u	pron	Z8mf
+uh	interj	Z4
+ui	noun	F1
+uit	prep	Z5
+uitbater	noun	S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf
+uitbouwen	verb	N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9-
+uitbreiden	verb	N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1
+uitbreiding	noun	N3.2+/A2.1 A4.2-/A2.1
+uitbrengen	verb	Q2.2 S7.1-
+uitbundig	adj	X5.2+
+uitdaging	noun	A12- A6.1- S7.3+ E3- Q2.2
+uitdelen	verb	A9- I2.2 M2/N3.6
+uitdrukkelijk	adj	A4.2+
+uitdrukking	noun	Q3 E1/B1
+uiteindelijk	adj	K5.1 N4 T2-
+uiten	verb	Q1.1 B1%
+uiterlijk	adj	M6 G1.1/M7
+uiterlijk	noun	A10+ O4.1 A3+ G2.1 K5 Q4
+uitermate	adv	A13.3
+uiterst	adv	A13.3
+uitgang	noun	M1 T2- M7 L1-@
+uitgebreid	adj	N5+ N3.6+
+uitgeput	adj	B2- A1.5.1/N5.1+
+uitgeven	verb	I1.2 A1.5.1 T1.3
+uitgever	noun	Q4.1/S2mf
+uitgeverij	noun	Q4.1/S2mf
+uitgroeien	verb	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
+uiting	noun	Q3 E1/B1
+uitkiezen	verb	X7+ A1.1.1
+uitkijken	verb	X3.4 S7.1 X2.4 A1.3+
+uitkomst	noun	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2
+uitleg	noun	Q2.2/A7+ A2.2
+uitleggen	verb	Q2.2/A7+ A2.2
+uitnodigen	verb	Q2.2
+uitnodiging	noun	Q2.2
+uitoefenen	verb	K5.1 A1.5.1
+uitreiken	verb	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4
+uitrekenen	verb	N2 X7+
+uitroepen	verb	Q2.2
+uitschakelen	verb	A9- E3/L1-
+uitslag	noun	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2
+uitsluiten	verb	A1.8-
+uitsluitend	adv	A14
+uitspraak	noun	Q2.1 I1/Q1.2
+uitspreken	verb	Q3 Q2.2
+uitstap	noun	M1 F3% M2 S8-
+uitstapje	noun	M1 F3% M2 S8-
+uitstekend	adj	A5.1+++
+uitstel	noun	T4-
+uitstellen	verb	T4-
+uitstraling	noun	Y1
+uitvinden	verb	X2.1 A5.2-
+uitvoeren	verb	A1.1.1 K4 X9.2+
+uitvoerig	adj	A4.2+
+uitvoering	noun	A1.1.1 O2 S6+
+uitwerken	verb	Q2.2 A5.1+/A2.1
+uitwerking	noun	A2.2 A8
+uitwijzen	verb	A10+ S1.1.1
+uitzenden	verb	Q4.3
+uitzending	noun	Q4.3
+uitzicht	noun	X2.1 X3.4 X2.4 X4.1 A4.1 X7+
+uitzien	verb	A8 X3.4 X2.4 X7+ Z4
+uitzondering	noun	A6.1-
+uitzonderlijk	adj	A6.2-
+ultiem	adj	T2- S7.1+++ A11.1+ N5.1+ A5.1+++
+unie	noun	G1.2/I3.1/S5+c S5+c
+uniek	adj	N5---
+uniform	noun	A6.1+ B5
+universitair	adj	P1/H1c
+universiteit	noun	P1/H1c
+uur	noun	T1.3
+uw	pron	Z8
+vaag	adj	A4.2-
+vaak	adv	N6+
+vaardigheid	noun	X9.1+
+vaart	noun	N3.8+ F3%
+vaas	noun	O2
+vacature	noun	I3.1 H4
+vader	noun	S4/B1 S4m S9/S2.2m
+vakantie	noun	K1/T1.3
+val	noun	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 W3/M4 S9 K5 T1.3
+vallen	verb	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+vals	adj	A5.2- A5.4- G2.2-
+van	prep	Z5
+vanaf	prep	Z5
+vandaan	adv	Z5
+vandaar	adv	A2.2
+vangen	verb	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3
+vanop	prep	Z5
+vanuit	prep	Z5
+vanzelf	adv	O2/S5- X2.1- X7-
+vanzelfsprekend	adj	A11.2+
+varen	verb	M4
+variant	noun	A6.1-
+variatie	noun	A6.3+ K2@
+variëren	verb	A6.1- A6.3+ A2.1+
+varken	noun	L2mf O4.2-/S2mf A12-
+vasthouden	verb	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+
+vastleggen	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
+vaststellen	verb	A2.2 A7+ X6+
+vaststelling	noun	X6+ T2-
+vechten	verb	S8- X8+ E3- G1.2
+veel	num	A13.3 N6+ N5+ I1.3+
+veelal	adv	N6+
+veelvuldig	adj	M1/N6+ N6+
+veertien	num	N1 T3
+veertig	num	N1 T3
+vegen	verb	B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+
+veilig	adj	A15+ A7+ O2
+veiligheid	noun	A15+
+vel	noun	B5 O2 Q1.2 N5
+veld	noun	F4 W3 M7 K5.1/M7 G3@ A4.1 K5.1 A1.1.1
+venster	noun	H2 T1.3
+vensterbank	noun	H2
+ver	adj	A13.3 N3.3+ X9.2+
+veranderen	verb	A2.1+ I1 B5
+verandering	noun	A2.1+ I1 B1 B5
+verantwoordelijk	adj	A2.2 S6+ S7.1 S1.2.6+ X6+
+verantwoordelijkheid	noun	S6+ S7.1+ X6+
+verantwoorden	verb	G2.2+ A2.2 O4.1
+verantwoording	noun	S6+ S7.1+ X6+
+verbaasd	adj	X2.6-
+verbazen	verb	X2.6-
+verbazing	noun	X2.6-
+verbeelden	verb	X2.1 A5.2-
+verbeelding	noun	X2.1/A6.2- A5.2-
+verbergen	verb	A10-
+verbeteren	verb	A5.1+/A2.1
+verbetering	noun	A5.1+/A2.1
+verbieden	verb	S7.4-
+verbijsteren	verb	X2.5-
+verbinding	noun	A2.2 S5+ M3 O3 A1.1.1
+verblijf	noun	M8 T2++ H4 T4-
+verblijven	verb	M8 T2++ H4
+verdedigen	verb	S8+ G3 G2.1c Q2.2 K5.1 S7.3+
+verdediger	noun	S8+/S2mf G2.1/S2mf G3/S2mf O2
+verdediging	noun	S8+ G3 G2.1c Q2.2 K5.1 S7.3+
+verdelen	verb	A6.1- A9-/N5.1 N2
+verdenken	verb	X2.1/A5.1- A7
+verdenking	noun	X2.1/A5.1- A7 N5---
+verder	adj	N5++ N3.3++ T2++ N5+/A2.1
+verder	adv	N5++ N3.3++ T2++ N5+/A2.1
+verdienen	verb	A9+/I1 S1.1.4+
+verdienste	noun	A5.1+ S1.1.4+
+verdieping	noun	H2 S5+ X9.2- E3-
+verdomme	interj	A13.3 Q2.2/E2- Z4
+verdrag	noun	G3 G1.1 G2.1
+verdragen	verb	M2 E2+ A8 A9+ A1.1.1 M6 B1@
+verdriet	noun	E4.1-
+verdrietig	adj	E4.1- A5.1-
+verdrijven	verb	P1/G2.1 M2
+verdrinken	verb	L1- N5.2+ A10- X9.2-
+verdubbelen	verb	N5+/A2.1
+verduidelijken	verb	A7+/Q2.2
+verdwijnen	verb	A10- M1 A3-
+vereisen	verb	X7+ S6+
+verenigen	verb	S5+
+vereniging	noun	K1 E3- S5+ S5+c O2
+verf	noun	C1 Q2.2
+vergaan	verb	L1- T2- O4.2-
+vergaderen	verb	S3.1 M6 A1.1.1 X9.2+ A6.1+
+vergadering	noun	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+
+vergeefs	adj	X9.2- S1.2.3+
+vergelijkbaar	adj	A6.1+
+vergelijken	verb	A6.1 A5.1 Q3
+vergelijking	noun	A6.1
+vergen	verb	X7+ S6+
+vergeten	verb	X2.2-
+vergeven	verb	G2.2+
+vergezellen	verb	S3.1 K2 T1.1.2
+vergissing	noun	A5.3-
+vergoeden	verb	I1/A9-
+vergoeding	noun	S8+
+vergroten	verb	N3.2+/A2.1 A4.2+/Q2.1
+vergunning	noun	S7.4+
+verhaal	noun	Q2.1 X4.1 Q4
+verheffen	verb	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1
+verhinderen	verb	S8-
+verhogen	verb	N5+/A2.1
+verhoging	noun	N5+/A2.1
+verhoor	noun	B1/X3.2 G2.1 X3.2
+verhuizen	verb	M2 M1 A2.1+ E1 H4/A2.1
+verhuren	verb	S7.4+ I2.2/H1 T2-
+verjaardag	noun	T1.2/T3
+verkeer	noun	F3/G2.1- G2.1-/I2.2 M3 M4 M1 S1.1.2+
+verkeerd	adj	A5.3- A5.1- G2.2- B2-
+verkennen	verb	M1 X2.4
+verkeren	verb	A3+ Z5
+verkiezing	noun	G1.2/X7+
+verklaren	verb	Q2.2/A7+ A2.2
+verklaring	noun	Q2.1 I1/Q1.2
+verkoop	noun	I2.2 I2.2/I1.3-
+verkopen	verb	I2.2
+verkoper	noun	I2.2/S2mf I2.2/N5+
+verkrachten	verb	G2.1-/S3.2
+verkrijgbaar	adj	A3+ A9+ A1.2+/G1.2 S4
+verkrijgen	verb	A9+
+verlagen	verb	M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1
+verlammen	verb	B2- X5.2-
+verlangen	noun	X7+ S3.2
+verlangen	verb	X7+
+verlaten	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+verleden	noun	M6 T1.1.1 Z5
+verlegen	adj	E5- S1.2.1- S1.2.3-
+verleiden	verb	S3.2 A2.2
+verlenen	verb	A9- Q2.2
+verlengen	verb	N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9-
+verlies	noun	I1.2 A9- S8- L1-
+verliezen	verb	X9.2- A9- M6/A5.3- L1-
+verlof	noun	K1/T1.3 S7.4+ M1 M2 A1.1.1 A1.9 A9- T2-
+verloop	noun	M1 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 Z4
+verlopen	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+vermeend	adj	S6+ X7+
+vermelden	verb	Q2.1
+vermijden	verb	A1.9 M1
+verminderen	verb	N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1
+vermits	conj	N4 Z5
+vermoeden	noun	X2.1
+vermoeden	verb	X2.1 S1.2.3+
+vermoeid	adj	B1 B2- X5.2- O4.2-
+vermoeidheid	noun	B2- O4.1
+vermoorden	verb	L1-
+vernemen	verb	X2.3+ P1
+vernielen	verb	A1.1.2
+vernietigen	verb	A1.1.2
+vernieuwen	verb	T2+/A2.1
+vernieuwing	noun	T2+/A2.1
+vernoemen	verb	Q2.2
+veronderstellen	verb	X2.1 X7+
+veronderstelling	noun	X4.1 X2.1
+verontrusten	verb	E6-
+verontschuldigen	verb	Q2.2 S1.2.4+
+verontwaardigd	adj	E3-
+verontwaardiging	noun	E3-
+veroordelen	verb	Q2.2/E2- Q2.2/A1.1.2 G2.1
+veroordeling	noun	X2.1 X4.1 G2.1
+veroorloven	verb	S7.4+
+veroorzaken	verb	A2.2
+verouderen	verb	T3++ T3
+veroveren	verb	X9.2+/S7.3 X9.2+/G3 S7.1+
+verpakking	noun	A1.1.1 N5+ A1.8+ B3
+verplaatsen	verb	M2 M1 A2.1+ E1 H4/A2.1
+verplaatsing	noun	M1 S5+c K2 A2.1+
+verpleegster	noun	B3 A9+ S8+ B3/S2mf
+verplichten	verb	S6+ S8+
+verplichting	noun	S6+
+verraden	verb	G2.2- A10+
+verrassen	verb	X2.6-
+verrassing	noun	X2.6-
+verrichten	verb	A1.1.1 K4 X9.2+
+vers	adj	T3- O4.2+ B1 W4 S1.2.3+
+vers	noun	Q3
+verschaffen	verb	A9- S6+
+verscheiden	adj	N5
+verschijnen	verb	A8 A10+ A3+ G2.1 K4 Q4
+verschijning	noun	A10+ O4.1 A3+ G2.1 K5 Q4
+verschijnsel	noun	A3 X3.4 A1.1.1
+verschil	noun	A6.1-
+verschillen	verb	A6.1-
+verschillend	adj	A6.1-
+verschrikkelijk	adj	A5.1-
+verschuilen	verb	A10-
+verschuiven	verb	M2 M1 A2.1+ E1 H4/A2.1
+versie	noun	A4.1 Q2.1
+versieren	verb	O4.2+ C1/H1 S1.1.4+
+verslaafd	adj	F3 X5.2++
+verslaan	verb	X9.2+/G3 X9.2+/S7.3 A12-
+verslag	noun	Q2.2 S7.1- X3.2
+verslaggever	noun	Q4.2/S2mf
+versleten	adj	B5 A1.1.1 O4.1
+versnellen	verb	N3.8+/A2.1
+verspreiden	verb	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
+verspreiding	noun	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3 F1 N3.6 N3.3 A6.3+ Q4.2
+verstand	noun	B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3
+verstandig	adj	S1.2.6+ X9.1+
+versterken	verb	S1.2.5+/A2.1 O4.1/A2.1
+versterking	noun	S1.2.5+/A2.1 O4.1/A2.1
+verstoppen	verb	A10-
+verstoren	verb	X5.1- A2.1+
+verstrekken	verb	A9- S6+
+versturen	verb	M2 A2.2
+vertalen	verb	Q3 A2.1+
+vertaling	noun	Q3 A2.1+
+verte	noun	A1.9 N3.3+ S1.2.1-
+vertegenwoordigen	verb	Q1.1 A6.2+ S1.1.3 A5.4- K4
+vertegenwoordiger	noun	A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf
+vertellen	verb	Q2.2 Q2.1 X3 A10+
+verteren	verb	F1/B1 X2.3+
+vertonen	verb	A10+ S1.1.1
+vertraging	noun	T4-
+vertrekken	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+vertrouwd	adj	A6.2+ S1.2.1+ S9
+vertrouwen	noun	E6+ I1.1 S5+c B3/H1c X2.1 A9- X2.6
+vertrouwen	verb	X2.1 A9- E6+ X2.6
+vervallen	verb	A10- M1 A3-
+vervangen	verb	A2.1+ M2
+vervelend	adj	E3-
+verveling	noun	X5.2-
+verven	verb	C1 Q2.2
+vervoer	noun	M2 M3 M4 M5
+vervoeren	verb	M2
+vervolgens	adv	N4 Z5 T1.2 T1.1.1
+vervullen	verb	X9.2+
+verwaarlozen	verb	A1.9
+verwachten	verb	X2.6+ B1
+verwachting	noun	X2.6+
+verwant	adj	A2.2 S4
+verwarming	noun	O4.6+
+verwarren	verb	X2.5-
+verwarring	noun	X2.5-
+verwelkomen	verb	Q2.2 S1.1.1
+verwennen	verb	O4.2+
+verwerken	verb	A1.1.1 Y2 M1
+verwerpen	verb	X7-
+verwerven	verb	A9+
+verwijderen	verb	M2
+verwijt	noun	Q2.2/G2.2
+verwijten	verb	Q2.2/G2.2- G2.1
+verwijzen	verb	Q2.2 Q1.2
+verwijzing	noun	Q2.2 Q1.2
+verwittigen	verb	Q2.1
+verwoesten	verb	A1.1.2
+verwonderen	verb	X2.6-
+verwonding	noun	B2- A1.1.2 E1
+verwoorden	verb	Q2.2 Q2.1
+verzamelen	verb	A9+
+verzameling	noun	A9+ I1 B5
+verzekering	noun	I1/A15-
+verzet	noun	S8- S1.2.5+
+verzetten	verb	M2 M1 A2.1+ E1 H4/A2.1
+verzinken	verb	M1 M2 M4 N5-/A2.1 X3.2-/A2.1 A2.1+ E4.1- A1.1.1 F2 K5.1@
+verzinnen	verb	X2.1 A5.2-
+verzoek	noun	Q2.1 Q2.2
+verzoeken	verb	Q2.2 Q2.1
+verzoenen	verb	A6.1 S1.2.1+/E3+ X2.5+
+verzorging	noun	E6- E2+ S8+ B3 X7+ G1.1/S8+ A1.3
+vestigen	verb	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
+vestiging	noun	T2+ H1c G1.1c I3.1c
+vet	adj	N3.2+ N5+ O4.4 O4.2 O1
+vet	noun	N3.2+ N5+ O4.4 O4.2 O1
+via	prep	M6 Z5
+video	noun	Q4.3
+vier	num	N1 T3 T1.2
+vierde	num	N4
+vieren	verb	E4.1+ S9
+vierkant	adj	O4.4 A6.1+ N2 S7.4 M3/H3 T3+/S2mf
+vies	adj	O4.2- G2.2- S1.2.4-
+vijand	noun	S1.2.1-/S2mfc S8-
+vijf	num	N1 T3 T1.2
+vijfde	num	N1
+vijver	noun	W3/M4
+villa	noun	H1
+vinden	verb	A10+ X2.1 X6+
+vinger	noun	B1 O4.4 X3.3
+vingertop	noun	B1
+viool	noun	K2
+virus	noun	L2 Y2
+vis	noun	K5.1/L2 F4/M4 X2.4 L2mfnc F1
+visie	noun	X4.1 X3.4 X7+ S9@
+vissen	verb	K5.1/L2 F4/M4 X2.4
+vlag	noun	Q1.1 N5-/A2.1 B2-/A2.1 H1 O2/H1
+vlak	adv	A13.3 A13.2 A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 S7.4+ G1.2 Z4
+vlak	noun	A1.1.1/O4.5 M1 M5fn O4.4 O2 L3
+vlakbij	adv	A1.1.1 A10- T2- M3/H3 N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4
+vlakte	noun	A13.3 O4.1 A11.2+ A12+ A6.2+ W3
+vlam	noun	O4.6+ Q2.2% S3.2/S2mf
+vlees	noun	F1 A4.2+
+vlek	noun	O4.3 A1.1.2 G2.2- O4.2-
+vleugel	noun	E3- L2 M5 H2 S5+c K5.1/S2 M3 A10-
+vliegen	verb	M5 M1 N3.8+ E3-
+vliegtuig	noun	A1.1.1/O4.5 M1 M5fn O4.4 O2 L3
+vliegveld	noun	M5/M7
+vlinder	noun	L2mfn M4
+vloeien	verb	M4 M1
+vloer	noun	H2 S5+ X9.2- E3-
+vlot	adj	L1+ N3.8+ X9.1+ L1+%
+vluchteling	noun	M1/S2mf
+vluchten	verb	M1
+vlug	adj	L1+ N3.8+ X9.1+ L1+%
+vochtig	adj	O4.1/O1.2 W4
+voeden	verb	F1 A9- S8+ M2@
+voedsel	noun	F1
+voegen	verb	N5+/A2.1 N2 A1.8+
+voelen	verb	X2.1 E1 X3
+voertuig	noun	M3fn X4.2
+voet	noun	B1 O2 I1.2 N4 N3.7 N3.3
+voetbal	noun	K5.2
+voetstap	noun	X3.2/M1
+vogel	noun	L2mfn S2.1f
+vol	adj	N5.1+ I3.2+
+voldoende	adj	N5
+volgen	verb	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4
+volgend	adj	N4
+volgorde	noun	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
+volhouden	verb	A9+ T2++ S8+ A1.1.1 Q2.2
+volk	noun	S2 S2mfc
+volkomen	adv	A13.2
+volledig	adj	N5.1+ I3.2+
+volmaakt	adj	A5.1+++ A1.2+++ Q3
+volstaan	verb	N5
+volstrekt	adv	A13.2 Z4
+voltooien	verb	T2- Q1.2
+volume	noun	N3.4 N5 Q4.1 Q4.2 X3.2
+volwaardig	adj	N5.1+ I3.2+
+volwassen	adj	T3+/S2 T3+/S2mf
+volwassene	noun	T3+/S2 T3+/S2mf
+vondst	noun	A10+ X2.1 X6+
+vonnis	noun	X2.1 X6 G2.1
+vooraf	adv	N4
+voorafgaan	verb	N4
+vooral	adv	A14
+vooraleer	conj	N4 Z5
+voorbeeld	noun	A4.1
+voorbereiden	verb	A1.1.1 F1
+voorbereiding	noun	A1.1.1
+voorbij	adj	M6 T1.1.1 Z5
+voorbijgaan	verb	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8
+voorbijganger	noun	M1/S2mf
+voordat	conj	N4 Z5
+voordeel	noun	A5.1+ K5.2
+voordien	adv	N4 Z5
+voorganger	noun	N4/S2mf N4
+voorgoed	adv	T2+++
+voorheen	adv	N4 Z5
+voorhoofd	noun	B1
+voorjaar	noun	M1 A2.2 Q2.1 G2.1-@ T1.3% O2 T1.3 W3/M4
+voorkant	noun	M6 A11.1+ M7/W3 A4.1 A10- S1.2.3+ W4 S7.1+ Q4.3
+voorkeur	noun	E2++
+voorlopig	adj	T1.3-
+voormalig	adj	O2 T2- N4
+voornamelijk	adv	A13.2
+voornemen	noun	X7+ O4.1%
+voornemen	verb	X7+
+vooroordeel	noun	A2.2/X2.1 S8- A6.1-/E2- G2.2- S5+
+voorop	adv	M6 N4 T1.1.3
+voorraad	noun	A6.2+ A9+ F1 S4 O2 I1.1
+voorschrijven	verb	B3 S6+
+voorspellen	verb	Q2.2/T1.1.3 X2.6+
+voorsprong	noun	S7.1+ A2.2 M2 A1.1.1 O2/L2 O3 S8+ O1.1 K4/S2mf
+voorstander	noun	S8+/S2mf K5.1/S2mf Q1.1%
+voorstel	noun	Q2.2 X7+ S3.2/Q2.2
+voorstellen	verb	Q2.2/X7+ X4.1 G1.2 Q2.2/S4
+voorstelling	noun	K4 X9.2 A1.1.1 A12-
+voortaan	adv	T1.1.2/N4 T1.1.3
+voortdurend	adj	T2++
+voortkomen	verb	A2.2
+voorts	adv	Z5
+voortzetten	verb	T2++
+vooruit	adv	K5.1/S2mf M2 M6 A5.1+/A2.1 S1.2.3+ T4+ T1.1.3
+vooruitgang	noun	A5.1+/A2.1 T2++ A2.1+ M1 M1%
+vooruitzicht	noun	A7+ X2.6+ X3.4 X2.4
+voorval	noun	A1.4 A3+/A5.1-
+voorwaarde	noun	B4 P1 O4.1 S6+ B2- B2+ Z7
+voorwerp	noun	A6.1- E2- O2 X7+
+voorzichtig	adj	A1.3+ E6-
+voorzien	verb	A9- S6+
+voorziening	noun	H1 O2 S8+ X9.1+
+voorzitter	noun	S7.1+/S2mf
+voren	adv	K5.1/S2mf M2 M6 A5.1+/A2.1 S1.2.3+ T4+ T1.1.3
+vorig	adj	N4
+vork	noun	F4 O4.4 O2
+vorm	noun	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@ T2+ A2.1+ A1.8+ A3+ A1.1.1
+vormen	verb	T2+ A2.1+ A1.8+ A3+ A1.1.1
+vorming	noun	A2.1+ O4.4 S5+c
+vouwen	verb	A1.1.1 T2-
+vraag	noun	Q2.2 X4.1
+vrachtwagen	noun	M3 M3fn
+vragen	verb	Q2.2
+vrede	noun	E3+
+vreemd	adj	A6.2-
+vreemdeling	noun	A6.2-- X2.2-/S2mf
+vrees	noun	E5-
+vreselijk	adj	A5.1-
+vreten	verb	M2 A1.1.1 F1 S7.1+@ Z4@
+vreugde	noun	E4.1+ Z1f
+vrezen	verb	E5-
+vriend	noun	S3.1/S2mf
+vriendelijk	adj	K5.1 S1.2.1+ S7.3-/K5.2
+vriendschap	noun	S3.1
+vrij	adj	S6- A1.7- A1.5.1- I1.3-
+vrijdag	noun	T1.3
+vrijheid	noun	A1.7-
+vrijlaten	verb	A1.7- A9-
+vrijwel	adv	A13.4
+vrijwillig	adj	K2 X7+/S6- I3.1/I1.1-
+vrijwilliger	noun	A9-/X7+ Q2.2 I3.1/I1.1-/S2mf I3.1/X7+/S2mf G3/S2mf
+vroeg	adj	T4+ T1.1.1
+vrouw	noun	S2.1f
+vrouwelijk	adj	S2.1 S2.1f
+vrucht	noun	F1 X9.2+
+vuil	adj	O4.2- G2.2- O1.1
+vuist	noun	B1
+vullen	verb	N5.1+ I3.1 Q1.2@
+vurig	adj	O4.6+ O4.3 E1
+vuur	noun	I3.1- G3 M2 A2.2 Q2.2 O4.6+
+vuurwerk	noun	G3/K1
+waaien	verb	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+
+waanzinnig	adj	A13.3 B2-/X1 S1.2.6- X5.2+ E4.1+
+waar	adj	A5.2+ A5.4+
+waar	adv	M6
+waard	adj	I1.3 A1.5.2+ S1.1.4+ S1.1.4+ N5
+waarde	noun	A11.1+ I1.3 G2.2 A4.1 N1
+waarderen	verb	E2+ X2.5+ S1.1.1 I1.1++
+waardering	noun	E2+ X2.5+ S1.1.1 I1.1++
+waardevol	adj	I1.3+ A1.5.2+ I1.3+/A9+
+waardig	adj	S1.1.4+ G2.2+
+waarheid	noun	A5.2+
+waarin	adv	M6
+waarnemen	verb	X4.1 X3.4 X2.5+
+waarom	adv	A2.2
+waaronder	adv	A1.8+
+waarschijnlijk	adv	A7+
+waarschuwen	verb	X2.2+/A15- A1.3+
+waarschuwing	noun	X2.2+/A15- A1.3+
+waarvan	adv	Z8
+wachten	verb	T1.3 A3+ A11.1+ S1.1.1%
+wagen	noun	M3fn
+wagen	verb	A15- A1.4
+wagen	verb	A15- A1.4
+waken	verb	X3.4 S7.1 X2.4 A1.3+
+wakker	adj	B1 X2.5+
+wal	noun	M7/O1.2/W3
+wand	noun	H2 O2 N5+ S8-
+wandelen	verb	M1 L2 X9.2+/A12+
+wandeling	noun	M1 L2 X9.2+/A12+
+wang	noun	B1 S1.2.4-
+wanhoop	noun	E4.1-
+wanhopig	adj	E4.1- X5.2+
+wankelen	verb	M1 N4 E5- N4 A12-
+wanneer	conj	Z5
+want	conj	Z5/A2.2
+wantrouwen	noun	X2.1/A5.1-
+wapen	noun	G3 X4.1
+wapenen	verb	G3
+wapperen	verb	A1.1.1 X9.2- B1 W4 I1.2 A1.5.1/N5.1+ E5- O3 A2.1+
+warm	adj	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++
+warmte	noun	O4.6+ E1 A1.1.1 S7.3
+wassen	verb	B4
+wat	pron	Z8 Z5
+water	noun	F4 B1 O1.2 W3/M4 C1%
+we	pron	Z8
+website	noun	Y2
+wederom	adv	N6+ Z4
+wederzijds	adj	S1.1.2+
+wedstrijd	noun	A6.1+ K5.1 O2
+weduwe	noun	S4 S4f
+week	noun	T1.3
+weekeinde	noun	T1.3
+weekend	noun	T1.3
+weer	adv	N6+ Z4
+weer	noun	A1.1.1 W4
+weeral	adv	N6+ Z4
+weergeven	verb	Q1.1 A6.2+ S1.1.3 A5.4- K4
+weerhouden	verb	A10-
+weerstand	noun	S8- S1.2.5+
+weg	adv	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+weg	noun	M3 X4.2
+wegen	verb	N3.5 X2.1 E6- A2.1+
+weggaan	verb	M1 M2 A1.1.1 A1.9 A9- T2-
+weghalen	verb	M2
+weigeren	verb	Q2.2/Z6 S7.4- X7-
+weiland	noun	W3/L3
+weinig	num	A13.7 N3.2- T3- N3.7- N3.3- T1.3- A11.1- N5-
+wekelijks	adj	N6+ Q4.2
+weliswaar	adv	Z5
+welk	pron	Z5 Z8
+welkom	adj	Q2.2 S1.1.1 Z4
+welvaart	noun	I1.1+
+welzijn	noun	S8+ I1 G1.1c
+wenden	verb	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-
+wenkbrauw	noun	B1
+wenken	verb	Q1.1 X5.2+
+wens	noun	X7+
+wensen	verb	X7+
+wereld	noun	W1 S5+c A4.1 N5+
+wereldwijd	adj	W3 M7 A1.8+
+werk	noun	I3.1 A1.1.1 Q4 K2 C1 X9.2+ A2.1+ A2.2
+werkelijk	adj	A13.3 A3+ A5.2+ A5.4+
+werkelijkheid	noun	A5.2+ X2.2
+werken	verb	I3.1 A1.1.1 X9.2+ A2.1+ A2.2
+werkgelegenheid	noun	I3.1
+werkgever	noun	I3.1/S2mf
+werkloos	adj	I3.1-
+werkloosheid	noun	I3.1-
+werknemer	noun	I3.1/S2mf
+werkzaamheden	noun	A1.1.1
+werpen	verb	M2 A2.2 Q2.2 A1.1.1 X2.5-
+westen	noun	M6
+westers	adj	M6 T3-
+wet	noun	G2.1 S6+ Y1
+weten	verb	X2.2+ S3.2/B1%
+wetenschap	noun	Y1
+wetenschappelijk	adj	Y1
+wetenschapper	noun	Y1/S2mf
+wetgeving	noun	G2.1
+wetsvoorstel	noun	I1.3 G1.1 Q1.2 L2
+wettelijk	adj	G2.1 G2.1+
+wezen	noun	A3+ L1 Z5
+wezenlijk	adj	N3.2+ O4.1%
+whisky	noun	F2
+wie	pron	Z8
+wiel	noun	M2 O2 N4
+wielrenner	noun	M3/S2mf
+wij	pron	Z8
+wijd	adj	K5.1 N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@
+wijden	verb	A9-
+wijf	noun	S2.1f
+wijken	verb	A10- M1 A3-
+wijn	noun	F2
+wijs	adj	S1.2.6+ X9.1+
+wijsheid	noun	X2.2+ S1.2.6+ A6.2+
+wijten	verb	Q2.2/G2.2- G2.1
+wijze	noun	A13.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3
+wijzen	verb	A10+ M6 H1
+wijzigen	verb	A2.1+ I1 B5
+wijziging	noun	A2.1+ I1 B1 B5
+wikkelen	verb	A1.1.1
+wil	noun	T1.1.3 X7+ G2.1/Q1.2
+wild	adj	E3- X5.2+ A1.7- L1 O4.2- A6.2- A7- W3 L2
+willekeurig	adj	A1.4
+willen	verb	X7+ S6+ A7+ S3.2 A9-
+wind	noun	M2 M1 B1 O4.4 W4
+winkel	noun	I2.2 G2.1@ I2.2/H1c I4/H1c I3.1
+winkelen	verb	I2.2 G2.1@
+winnaar	noun	X9.2+/S7.3/S2mf X9.2+/G3/S2mf
+winnen	verb	X9.2+/S7.3 X9.2+/G3 A9+
+winst	noun	I1.1 A5.1+ S8+
+winter	noun	H4/T1.3 T1.3
+wippen	verb	M1
+wiskunde	noun	N2
+wisselen	verb	A9/S1.1.2+ A2.1+
+wit	adj	O4.3 G2.2+ O4.3/S2mf F2 F1 B1
+woede	noun	E3-
+woedend	adj	E3-
+woensdag	noun	T1.3
+woest	adj	E3-
+woestijn	noun	M1 S5- W3
+wolf	noun	F1/B1 L2mfn
+wolk	noun	O4.3 A12- W4 N5
+wond	noun	B2- E4.1- M2 M1 B1 O4.4
+wonder	noun	S9 X2.6- O4.2+
+wonderlijk	adj	A5.1+
+wonen	verb	H4 L1+ A3
+woning	noun	H1 P1/S5+c G1.1c H4
+woonplaats	noun	H1 H4
+woord	noun	Q3 Q2.1 S9@
+woordenboek	noun	Q4.1
+woordvoerder	noun	Q2.2/S2.2m
+woordvoerster	noun	Q2.2/S2mf
+worden	verb	A3+ Z5
+worst	noun	F1 O4.4
+worstelen	verb	X8+ A12- E3-
+wraak	noun	E3-
+wreed	adj	E3-
+wrijven	verb	A1.1.1
+wringen	verb	L2 B3
+wuiven	verb	Q1.1 M2 M1
+zaad	noun	F4 K5.1 L3 T2+ K5.1/S2mf
+z'n	pron	Z8m
+zaaien	verb	F4 A2.2
+zaal	noun	H2 H1 S9/H1c
+zacht	adj	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+
+zagen	verb	A1.1.1 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2
+zak	noun	A9+ K5.1 B5 O2 B1
+zakdoek	noun	B5
+zakelijk	adj	I2.1 A1.1.1 A5.1+++
+zakenman	noun	I2.1/S2.2m
+zand	noun	A1.1.1 O1.1 W3
+zanger	noun	K2/S2mf
+zat	adv	N5+ N5++
+zaterdag	noun	T1.3
+zee	noun	W3/M4
+zeep	noun	B4 Q4.3
+zeer	adv	A13.3 A4.2+ A5.2+%
+zege	noun	X9.2+
+zegen	noun	S8+ S9/Q2.2 S7.4+
+zeggen	verb	Q2.1 Z4%
+zeil	noun	M4
+zeilen	verb	M4
+zeker	adj	A4.2+ A7+
+zekerheid	noun	A7+
+zelden	adv	N6-
+zeldzaam	adj	N6- A6.2- A5.1+ F1
+zelf	pron	S5-
+zelfmoord	noun	L1-
+zelfs	adv	A13.1 A6.1+ O4.4 A1.4 N1 T1.3 Z5
+zelfstandig	adj	S5-
+zelfvertrouwen	noun	S1.2.3+
+zenden	verb	M2 A2.2
+zenuw	noun	B1 E5+ S1.2.3+
+zenuwachtig	adj	E6-
+zes	num	N1 T3 T1.2
+zestig	num	N1 T3
+zetel	noun	H5 B5 S1.1.3+ S7.1+ M7 M2 N3.2/H1
+zetelen	verb	H4
+zetten	verb	M2 Q2.1 Q2.2 A1.1.1
+zeven	num	N1 T3 T1.2
+zeventien	num	N1 T3 T1.2
+zeventig	num	N1 T3 T1.2
+zever	noun	A5.2- S1.2.6-
+zicht	noun	X2.1 X3.4 X2.4 X4.1 A4.1 X7+
+zichtbaar	adj	X3.4 A11.2+
+ziek	adj	A5.1- B2-
+ziekenhuis	noun	B3/H1c
+ziekte	noun	B2-
+ziel	noun	K2 S9 E1 S2mf
+zielig	adj	A5.1- E4.1-
+zien	verb	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2
+zij	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+zijde	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+zijkant	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 S5+
+zijn	verb	A3+ Z5
+zijn	pron	Z8m
+zilver	noun	O1.1 I1 O2 O4.3
+zilveren	adj	O1.1 I1 O2 O4.3
+zingen	verb	K2
+zinken	verb	M1 M2 M4 N5-/A2.1 X3.2-/A2.1 A2.1+ E4.1- A1.1.1 F2 K5.1@
+zinloos	adj	A11.1-/Q1.1 Q3 X9.2-
+zinvol	adj	A11.1+/Q1.1
+zitten	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
+zo	adv	A13.3 Z5
+zoals	conj	A13 Z5
+zodanig	pron	Z5 Z8
+zodoende	adv	A2.2
+zodra	conj	N6- T1.1.1 Z5
+zoeken	verb	X2.4
+zoektocht	noun	X2.4
+zoenen	verb	S3.2
+zoet	adj	F1 X3.1 O4.2+
+zogeheten	adj	A8
+zogenaamd	adj	A8
+zogezegd	adj	A8
+zoiets	pron	Z8
+zojuist	adv	A14 T3--- T1.3- N3.3--- S1.2 G2.2+
+zolder	noun	H2 L2/H1@ L2/H4
+zomaar	adv	A14 T3--- T1.3- N3.3--- S1.2 G2.2+
+zomer	noun	T1.3
+zon	noun	K1/W4 W1 W2 W4 Z3
+zondag	noun	T1.3
+zonde	noun	G2.2-/S9 G2.2-
+zonder	prep	M6 Z5
+zone	noun	M7 W3 T1.1 O4.4
+zonlicht	noun	W2
+zonnig	adj	W4 E4.1+
+zoon	noun	S4m
+zorgen	verb	A9- S6+
+zorgvuldig	adj	A1.3+ E6-
+zot	adj	S1.2.6- E4.1+
+zout	noun	F1 O1.1
+zowat	adv	A13.4 Z5 M6
+zowel	adv	N5 Z5
+zucht	noun	Q2.2/X3.2
+zuchten	verb	Q2.2/X3.2
+zuidelijk	adj	M6
+zuiden	noun	M6
+zuigen	verb	B1 M2 S1.1.3+/S6+
+zuinig	adj	A1.3+
+zuiver	adj	A5.4+ O4.1 A14 A4.2+ G2.2+
+zulk	pron	Z5 Z8
+zullen	verb	T1.1.3 X7+ G2.1/Q1.2
+zus	noun	S4f S9/S2.1f B3/S2.1f S2.1f A2.2
+zuster	noun	S4f S9/S2.1f B3/S2.1f S2.1f A2.2
+zuur	adj	O1 K2 F3%
+zwaaien	verb	Q1.1 M2 M1
+zwaar	adj	N3.5+ N5+ S1.2.5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ S1.2.5+/S2mf
+zwak	adj	S1.2.5- O4.1 S7.1- A5.1-
+zwanger	adj	B1 A11.1+%
+zwangerschap	noun	B1
+zwart	adj	O4.3 G2.2- A5.1- E4.1- S5+ S5+/S2mf F2%
+zweet	noun	B1 F1
+zwellen	verb	X3.2+/A2.1 O4.4/A2.1 N5+/A2.1
+zwemmen	verb	M4 M1 N5.2+
+zweren	verb	Q2.2/S1.2.4- Q2.2
+zwerven	verb	M1 X5.1-
+zweten	verb	B1 F1
+zweven	verb	M1 T2+ I2.2
+één	num	N1 T3 T1.2 Z8

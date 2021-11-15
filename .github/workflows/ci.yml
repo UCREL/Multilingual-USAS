@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+  
+jobs:
+  checks:
+    name: checks
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      
+      - name: Cache pip
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.pythonLocation }}
+          key: ${{ env.pythonLocation }}-pip-${{ hashFiles('**/requirements.txt') }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Convert text files to TSV and run TSV checks
+        run: |
+          echo "Push to branch ${{ github.ref_name }}"
+          python txt_to_tsv.py
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.ref_name }}; fi
+
+      - name: Create lexicon statistics table
+        run: |
+          python lexicon_statistics.py > ./lexicon_statistics.md
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref_name }}; fi
