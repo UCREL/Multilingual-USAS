@@ -4,7 +4,14 @@ Lexicons for the Multilingual UCREL Semantic Analysis System
 
 <hr/>
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p align="center">
+    <a href="https://github.com/UCREL/Multilingual-USAS/actions/workflows/ci.yml">
+        <img alt="CI" src="https://github.com/UCREL/Multilingual-USAS/actions/workflows/ci.yml/badge.svg?branch=main&event=push"/>
+    </a>
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img alt="License" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" />
+    </a>
+</p>
 
 ## Introduction
 
@@ -204,6 +211,7 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 ```
 
 ## Scripts
+Test
 
 ### Text to TSV
 
