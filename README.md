@@ -211,9 +211,9 @@ This is used within the [CI GitHub action](./.github/workflows/ci.yml):
 
 1. Converts all lexicon files (single and MWE) from text file format to TSV. The lexicon files are found through the meta data file (language_resources.json).
 2. Checks that the TSV files are formatted correctly:
-  1. The minimum header names exist, 
-  2. All fields/columns have a header name,
-  3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
+    1. The minimum header names exist, 
+    2. All fields/columns have a header name,
+    3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
 
 ### Test All File Formats
 
