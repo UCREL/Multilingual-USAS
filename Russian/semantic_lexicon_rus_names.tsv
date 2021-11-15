@@ -7639,6 +7639,6 @@ lemma	pos	feature	semantic_tags
 Яшка	S	m,persn,sg,nom,anim,	Z1m
 Яшкин	S	m,famn,sg,nom,anim,	Z1m
 Яшкинский	S	m,famn,sg,nom,anim,	Z1m
-﻿Абай	S	m,persn,sg,nom,anim,	Z1m
-﻿Абакара	S	f,persn,sg,nom,anim,	Z1f
-﻿Абдулхаликова	S	f,famn,sg,nom,anim,	Z1f
+Абай	S	m,persn,sg,nom,anim,	Z1m
+Абакара	S	f,persn,sg,nom,anim,	Z1f
+Абдулхаликова	S	f,famn,sg,nom,anim,	Z1f

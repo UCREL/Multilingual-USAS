@@ -280,7 +280,7 @@ carne_noun de_prep vaca_noun	F1 Q2.2
 carrinho_noun de_prep bebê_verb	M3
 carrinho_noun de_prep chá_noun	M3/O2
 carrinho_noun de_prep mão_noun	O2 I2.2
-carro_noun "_punc bichado_verb "_punc	F1 L3 F2 O4.3
+"carro_noun ""_punc bichado_verb ""_punc"	F1 L3 F2 O4.3
 carro_noun blindado_verb	M3 O2 G3/M3fn
 carro_noun de_prep guerra_noun	M3
 carta_noun branca_adj	A1.7-
@@ -866,7 +866,7 @@ grupo_noun político_adj local_noun	S5+ A11.1+
 grupo_noun social_adj	O3 S1.1.3+/S2mf F2 K3 A2.1+/S2mf S1.1.1 I1.1/G1.1
 gás_noun lacrimogêneo_adj	G3/O1.3
 habilidade_noun artística_adj	X9.1+ C1
-hacker_noun "_punc de_prep o_det mal_noun "_punc	O2 O4.2+/S2.1f A5.1+ F1
+"hacker_noun ""_punc de_prep o_det mal_noun ""_punc"	O2 O4.2+/S2.1f A5.1+ F1
 haste_noun ou_conj vara_noun flexível_adj	A2.1+ O3
 hino_noun nacional_adj	K2
 história_noun de_prep mistério_noun	G2.1/Q4.1
@@ -1168,8 +1168,8 @@ o_det mais_adv distante_adj	N3.3+
 o_det mais_adv próximo_adj	N3.3--- S3.1 A6.1+++ T1.3--- Z5
 o_det melhor_adj	A5.1++ G2.2++ O4.2++ A5.1+++ O4.5 A5.1++/S2mf
 o_det mesmo_adv	A6.1+++
-o_det mesmo_pron que_conj "_punc ascendant_noun "_punc	S9
-o_det mesmo_pron que_conj "_punc fagot_noun "_punc	F1 E2-/S3.2/S2mf
+"o_det mesmo_pron que_conj ""_punc ascendant_noun ""_punc"	S9
+"o_det mesmo_pron que_conj ""_punc fagot_noun ""_punc"	F1 E2-/S3.2/S2mf
 negócio_noun	I2
 o_det próprio_adj	S5-
 troço_noun	O2 N3.6-
@@ -1297,7 +1297,7 @@ pista_noun de_prep patinação_noun	M7/K5.1
 planilha_noun eletrônica_adj	Q1.2
 plano_noun de_prep pensão_noun	I1.1
 pleno_adj vigor_noun	L3 X9.2+
-plural_noun de_prep "_punc penny_noun "_punc	I1
+"plural_noun de_prep ""_punc penny_noun ""_punc"	I1
 pneu_noun recauchutado_verb	Q2.1 Q2.2
 policial_adj montado_verb	G3/S2mf G2.1/S2mf
 polícia_noun militar_adj	G2.1/G3
@@ -1395,7 +1395,7 @@ propaganda_noun musical_adj em_prep rimas_noun	X3.2+ K2
 propenso_adj a_prep acidentes_noun	A15-
 propriedade_noun arrendada_verb	I2.2
 propriedade_noun senhorial_adj	H1c H1/G2.1
-protegido_verb por_prep "_punc copyright_noun "_punc	G2.1/A9+
+"protegido_verb por_prep ""_punc copyright_noun ""_punc"	G2.1/A9+
 prova_noun de_prep impressão_noun	T4+/Q1.2
 proveniente_adj de_prep	M6
 provisão_noun de_prep reserva_noun	A9+ N5+
@@ -1692,11 +1692,11 @@ urna_noun eleitoral_adj	G1.2
 usina_noun siderúrgica_adj	A5.4- C1/M7
 uso_noun impróprio_adj	G2.2-/A1.5.1
 uísque_noun escocês_adj	F2
-v.pp._verb de_prep "_punc te_pron o_det wear_noun "_punc	B5 A1.1.1 O4.1
-v.pt._verb de_prep "_punc te_pron o_det go_noun "_punc	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
-v.pt._verb de_prep "_punc te_pron o_det steal_noun "_punc	G2.1-/A9+
-v.pt._verb de_prep "_punc te_pron o_det wear_noun "_punc	B5 A1.1.1
-v.pt._verb e_conj pp._verb de_prep "_punc te_pron o_det weep_noun "_punc	E4.1-
+"v.pp._verb de_prep ""_punc te_pron o_det wear_noun ""_punc"	B5 A1.1.1 O4.1
+"v.pt._verb de_prep ""_punc te_pron o_det go_noun ""_punc"	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+"v.pt._verb de_prep ""_punc te_pron o_det steal_noun ""_punc"	G2.1-/A9+
+"v.pt._verb de_prep ""_punc te_pron o_det wear_noun ""_punc"	B5 A1.1.1
+"v.pt._verb e_conj pp._verb de_prep ""_punc te_pron o_det weep_noun ""_punc"	E4.1-
 vale_verb estreito_noun	W3
 vale_verb postal_adj	I2.2/Q1.2
 valor_noun declarado_verb	A8
@@ -1725,13 +1725,13 @@ vias_noun aéreas_adj	M5 B3
 vias_noun respiratórias_adj	M5 B3
 vida_noun futura_adj	S9
 vida_noun pós-morte_adj	S9
-vide_noun "_punc confer_noun "_punc	Z5/A6
+"vide_noun ""_punc confer_noun ""_punc"	Z5/A6
 vigésima_adj primeira_noun	N4
 visto_verb que_conj	Z5/A2.2
 vitória_noun consagradora_adj	X9.2++ W3
 vitória_noun fácil_adj	S3.2
 vocais_adj de_prep acompanhamento_noun	K2
-vocal_adj "_punc de_prep fundo_noun "_punc	K2
+"vocal_adj ""_punc de_prep fundo_noun ""_punc"	K2
 você_pron mesmo_adv	Z8
 volume_noun complementar_adj	Q4.1
 volume_noun de_prep o_det som_noun	M2 K5.1 X7+ M1 X3.2 H1 M7/K5.1 N5 O1.2
@@ -1780,4 +1780,3 @@ zona_noun eleitoral_adj	I2.2/H1c M7/G2.1 H1 H3
 óleo_noun de_prep rícino_noun	O1.2
 órgãos_noun genitais_adj	M6
 ônibus_noun de_prep dois_num andares_noun	O2/M3
-

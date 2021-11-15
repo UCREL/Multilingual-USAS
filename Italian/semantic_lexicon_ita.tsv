@@ -8761,7 +8761,7 @@ chiunque	pron	Z8
 chiunque	pron	Z8 Z8mfc
 chiusa	noun	A10-
 chiusa	noun	O2 O1.2 B4
-chiusa"Un	adj	A10-
+"chiusa""Un"	adj	A10-
 chiusa.	noun	A10-
 chiuse.	noun	A10-
 chiuso	adj	A10-
@@ -10032,7 +10032,6 @@ contanti	verb	A1.1.1
 contare	verb	A5.1 A6.1- N2 A11.1+ X7+ Q2.2 Q2.1 X3 A10+
 contare	verb	N2
 contato	adj	N1
-
 contatore	noun	H5/I2.2 H5 N2/O2
 contatore	verb	A6.1-
 contattare	verb	Q2.2
@@ -11794,7 +11793,6 @@ deviatoio	noun	O3 A2.1+
 deviatoio	verb	A2.1+
 deviazione	noun	M1/A2.1
 deviazione	noun	M1/A2.1 M6/A2.1 K5.2
-
 deviazione	verb	M1/A2.1
 devo	verb	S6+ T1.1.3
 devoto	noun	S9/S2mf
@@ -15084,7 +15082,6 @@ foruncolo	adv	A14
 foruncolo	noun	B2- O4.6+@ O4.4 O2 M7 N5- Q4.3
 foruncolo	verb	O4.6+ E3- X3.4
 forza	noun	B1 L3 O2 S5+c O4.1 S2mf E3- S7.1+ G2.1c N3
-
 forza	noun	S1.2.5+
 forza	verb	S7.1+ A1.1.1 E3-
 forzare	verb	S7.1+ A1.1.1 E3-
@@ -15717,7 +15714,6 @@ generosità	noun	A11.1+ X5.2+
 generoso	adj	A5.1+ A5.1+ N3.2+ N5+ A11.1+
 generoso	adj	S1.2.3+
 genesi	noun	T2+
-
 gene|genio	noun	B1
 gengiva	noun	O1.1 F2 B1
 gengiva	verb	A1.7+
@@ -19117,7 +19113,7 @@ letta	noun	X2.4
 letta	verb	X2.4
 lettera	noun	Q1.2
 letterale	adj	A7+
-letterale"assaggio	noun	F1
+"letterale""assaggio"	noun	F1
 letteralmente	adv	A7+
 letterario	adj	Q4.1
 letterato	adj	X2.2
@@ -24064,7 +24060,6 @@ pericolare	verb	O4.1
 pericolo	noun	A15-
 pericolo	noun	A15- A7- E5- E6- E4.1- B2-
 pericolo	verb	E5- E6- E4.1- B2-
-
 pericoloso	adj	A15-
 pericoloso	adj	A15- S1.2 A12-
 periferia	noun	A11.1- M7
@@ -26895,7 +26890,6 @@ rimpinzare	verb	F1
 rimproverare	verb	A1.1.1 Q2.2 Q2.1 Q2.2/E2-
 rimproverare	verb	E3-
 rimprovero	noun	A5.1 Q2.2 Q2.1 Q2.2/E2-
-
 rimuginare	verb	X2.1
 rimunerazione	noun	I1.1
 rimuovere	verb	A1.8
@@ -29700,7 +29694,7 @@ spiaggetta	noun	W3
 spiaggette	noun	W3
 spiaggia	noun	W3
 spiaggia	noun	W3/M4
-spiaggia".	noun	W3
+"spiaggia""."	noun	W3
 spianare	verb	A1.1.1/O4.5 M1 A10+ X3.3 O4.5 O4.4 A2.1
 spianata	noun	F1
 spiare	verb	A10- G2.2-
@@ -32970,7 +32964,6 @@ wi-fi	noun	Y2
 wifi	noun	Y2
 wikipedia	noun	Y1
 windsurf	noun	K5.1
-
 windsurfista	noun	K5.1/S2mf
 wordpress	noun	Z3
 wow	noun	X5.2+
@@ -33097,4 +33090,3 @@ zuppo	adj	N5+
 àstero	noun	O3
 élite	adj	A5.1+++ A6.2 S5+ S7.1+
 élite	noun	A5.1+++/S5+c S7.1+/S5+c A6.2
-

@@ -2597,7 +2597,6 @@ mwe_template	semantic_tags
 使_verb 散乱_verb	M1 N3.6+/A2.1
 使_verb 散布_verb 如_verb 岛屿_noun	W3
 使_verb 散开_adv	N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9-
-
 使_verb 敬畏_verb	E1
 使_verb 整形_noun	Q2.2
 使_verb 整洁_verb	O4.2+
@@ -3671,7 +3670,6 @@ mwe_template	semantic_tags
 像_prep 吉普赛_noun 的_part 人_noun	Z2/S2mf
 像_prep 君王_noun	N3.2+ G2.2+ O4.2+
 像_prep 唧筒_noun 般_verb 活动_noun	M2 A1.1.1 A9- Q2.2 S8+ B3 O2 B5
-
 像_prep 塔_pnoun 一_num 样_msr 高_verb 的_part 东西_noun	H1 N3.7+
 像_prep 墙壁_noun 的_part 东西_noun	H2 O2 N5+ S8-
 像_prep 大_adj 教堂_noun	S9/H1
@@ -3869,7 +3867,6 @@ mwe_template	semantic_tags
 六_num 寸_msr 片_noun	H5 G1.1
 六_num 岁_msr	N1 T3 T1.2
 六_num 度_msr 音程_noun	N1
-
 六_num 的_part 记号_noun	N1 T3 T1.2
 六_num 脚_noun 器_noun	L2 M3
 六便士_pnoun 银币_noun	A1.1.1/S2mf I1
@@ -4646,7 +4643,6 @@ mwe_template	semantic_tags
 努力_adv 打开_verb 销路_noun	I2.2
 努力_adv 用功_verb	G2.1/S2mf M1/N3.8- N3.8-/A1.1.1
 努力_adv 用功_verb 的_part 人_noun	N3.8-/S2mf
-
 努力_verb 的_part 结果_noun	X8+ O2
 劳动_noun 时间_noun	T1.3
 劳动_noun 服务_noun	B2- O4.1
@@ -5926,7 +5922,6 @@ mwe_template	semantic_tags
 哲学_noun 体系_noun	P1 X2.1
 哲学_noun 态度_noun	P1 X2.1
 哺乳_adj 动物_noun	L2 L2mfn
-
 哼得荒腔_verb 走板_noun	L1- A12-
 哼著_noun 使_verb 缄口_noun	X3.2 Q2.2
 唇形科_noun 植物_noun	L3 F1
@@ -7944,7 +7939,6 @@ mwe_template	semantic_tags
 山木_noun 蓝_noun 类_noun	O1.2
 山梗莱属_verb 的_part 植物_noun	L3
 山梨_noun 之_part 一_num 种_msr	L3
-
 山脉_noun 下_loc 的_part 丘陵_noun 地带_noun	W3
 山腹_noun 的_part 洞穴_noun	W3
 山麓_noun 丘陵_noun	W3
@@ -11624,7 +11618,6 @@ mwe_template	semantic_tags
 极_adv 感_verb 满意_verb	E2+ E4.1+
 极_adv 敏感_verb	S1.2 E3-
 极_adv 疲劳_verb	E6- E4.1- B2-
-
 极_adv 短_verb	B1 A4.1
 极_adv 简单_adv 之事_verb	F1
 极_adv 细_verb 的_part 线_noun	B1 N3.7-
@@ -16048,7 +16041,6 @@ mwe_template	semantic_tags
 血气_adv 方刚_verb 的_part 男人_noun	B1
 血液_noun 学家_noun	B3/S2mf
 血管_noun 局部_noun 缩窄_verb	A9-/G2.1- G2.1 A1.1.2
-
 血缘_noun 关系_noun	S4c
 血迹_noun 斑斑地_noun	E3- B1 O4.3 Z4
 行_verb 得_part 通_verb	A7+
@@ -19046,4 +19038,3 @@ mwe_template	semantic_tags
 龙虾_noun 肉_noun	L2 F1
 龙骨_noun 瓣_noun	M1 M4
 龙骨_noun 突起_verb	M1 M4
-
