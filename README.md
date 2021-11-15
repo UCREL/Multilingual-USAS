@@ -205,9 +205,19 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 
 ## Scripts
 
+### Text to TSV
+
+This is used within the [CI GitHub action](./.github/workflows/ci.yml):
+
+1. Converts all lexicon files (single and MWE) from text file format to TSV. The lexicon files are found through the meta data file (language_resources.json).
+2. Checks that the TSV files are formatted correctly:
+  1. The minimum header names exist, 
+  2. All fields/columns have a header name,
+  3. All lines contain the minimum information e.g. no comment lines exist in the middle of the file.
+
 ### Test All File Formats
 
-The [test_all_collections.py script](test_all_collections.py) use the [test_collection.py script](./test_collection.py) that was explained in the [test file format section](#test-file-format) to test all of the single and multi word expression lexicon files within this repository to ensure that they conform to the file format specified in [the Lexicon File Format section](#lexicon-file-format). The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), which is explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
+The [test_all_collections.py script](test_all_collections.py) uses the [test_collection.py script](./test_collection.py) that was explained in the [test file format section](#test-file-format) to test all of the single and multi word expression lexicon files within this repository to ensure that they conform to the file format specified in [the Lexicon File Format section](#lexicon-file-format). The script takes no arguments as it uses the [./language_resources.json](./language_resources.json), which is explained in [USAS Lexicon Meta Data section](#usas-lexicon-meta-data).
 
 ``` bash
 python test_all_collections.py

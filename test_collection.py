@@ -1,4 +1,5 @@
 import argparse
+from os import error
 from pathlib import Path
 import csv
 from typing import Set, List, Union
@@ -25,7 +26,11 @@ def check_file(file_type: str, lexicon_collection_file: Path) -> None:
     # Raises
 
     ValueError
-        If the `lexicon_collection_file` is not formatted correctly.
+        If the `lexicon_collection_file` is not formatted correctly. The three main
+        sources of this error: 1. When the TSV field does not contain a header with
+        the minimum field names for the type of file, 2. When a row does not contain
+        enough tab seperated values, 3. When the field values in the row does
+        not contain a string value when it should.
     '''
 
     minimum_field_names = {'lemma', 'semantic_tags'}
@@ -44,38 +49,43 @@ def check_file(file_type: str, lexicon_collection_file: Path) -> None:
         if minimum_field_names.issubset(file_field_names):
             field_names_to_extract.extend(list(minimum_field_names))
         else:
-            error_msg = ("The TSV file given should contain a header that"
-                         " has at minimum the following fields "
-                         f"{minimum_field_names}. The field names found "
-                         f"were {file_field_names}")
-            raise ValueError(error_msg)
+            header_error_message = (f"The TSV file {str(lexicon_collection_file)} should "
+                                    "contain a header that has as minimum the following fields "
+                                    f"{minimum_field_names}. The field names found "
+                                    f"were {file_field_names}")
+            raise ValueError(header_error_message)
         
         for extra_field_name in extra_field_names:
             if extra_field_name in file_field_names:
                 field_names_to_extract.append(extra_field_name)
 
         for row_index, row in enumerate(csv_reader):
+            general_error_message = '\n' + ('-' * 50) + '\n\n'
+            general_error_message += (f'The Error occurred on row {row_index} '
+                                      f'within the lexicon File: {str(lexicon_collection_file)}\n '
+                                      f'Line contains: \n{row}\n\n')
             try:
                 if None in row.keys():
-                    error_message = ('This row contains an extra field that does'
-                                     ' not have a header name associated to it.'
-                                     ' This is represented by the `None` key in '
-                                     'the row data.\n\n')
-                    raise ValueError(error_message)
+                    row_header_error_message = ('This row contains an extra field that does'
+                                                ' not have a header name associated to it.'
+                                                ' This is represented by the `None` key in '
+                                                'the row data.\n\n')
+                    raise ValueError(general_error_message + row_header_error_message + '-' * 50)
                 row_data: typing.MutableMapping[str, Union[str, List[str]]] = {}
                 for field_name in field_names_to_extract:
+                    if not isinstance(row[field_name], str):
+                        field_value_error = (f'The value within the header {field_name}'
+                                             f' should be of type `str` and not {type(row[field_name])}'
+                                             f', the value is: {row[field_name]}.\n\n')
+                        raise ValueError(general_error_message + field_value_error + '-' * 50)
                     if field_name == 'semantic_tags':
                         row_data[field_name] = row[field_name].split()
                     else:
                         row_data[field_name] = row[field_name]
+            except ValueError as value_error:
+                raise value_error
             except:
-                print('-'*50)
-                print(f'Error on row {row_index} within the lexicon File:\n'
-                      f'{str(lexicon_collection_file)}\n\n'
-                      f'Line contains: \n{row}\n\n')
-                traceback.print_exc(file=sys.stdout)
-                print('-'*50)
-                break
+                raise Exception(general_error_message + '-' * 50)
                 
 
 if __name__ == '__main__':
