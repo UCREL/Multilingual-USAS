@@ -6,7 +6,7 @@ Lexicons for the Multilingual UCREL Semantic Analysis System
 
 <p align="center">
     <a href="https://github.com/UCREL/Multilingual-USAS/actions/workflows/ci.yml">
-        <img alt="CI" src="https://github.com/UCREL/Multilingual-USAS/actions/workflows/ci.yml/badge.svg?branch=main&event=push"/>
+        <img alt="CI" src="https://github.com/UCREL/Multilingual-USAS/actions/workflows/ci.yml/badge.svg?branch=master&event=push"/>
     </a>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img alt="License" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" />
