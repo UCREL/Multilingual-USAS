@@ -400,7 +400,7 @@ BibTeX Format:
 
 ## Contact Information
 
-If you are interested in getting involved in creating lexicons for new languages or updating the existing ones then please get in touch with: Paul Rayson (p.rayson@lancaster.ac.uk) and Scott Piao (s.piao@lancaster.ac.uk) at Lancaster University.
+If you are interested in getting involved in creating lexicons for new languages or updating the existing ones then please get in touch with: Paul Rayson (p.rayson@lancaster.ac.uk) and/or the UCREL Research Centre (ucrel@lancaster.ac.uk) at Lancaster University.
 
 ## License
 
