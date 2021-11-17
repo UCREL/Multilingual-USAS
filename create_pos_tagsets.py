@@ -5,10 +5,6 @@ import csv
 from collections import Counter
 import re
 
-from tabulate import tabulate
-
-from test_collection import check_file
-
 
 def read_tsv_file(file_path: str) -> Iterable[Dict[str, str]]:
     with Path(file_path).open('r', newline='') as lexicon_data:
