@@ -340,6 +340,33 @@ Number of unique values in lexicon file 2 7637
 Number of unique values in common between the two files:3169
 ```
 
+### Create Pos Tagsets
+
+The script creates a POS tagset per language stated within the [./language_resources.json](./language_resources.json) meta data file, which is explained in the [USAS Lexicon Meta Data section](#usas-lexicon-meta-data), and creates a POS tagset based on the POS tags used within the language's single and MWE semantic lexicon files. The POS tagset generated is then saved within each language's folder under the file name `generated_pos_tagset.tsv`. Each generated tagset has two fields `POS`, and `Count`, the `POS` field represents the POS tags, and the `Count` represents the number of times the associated tag has been used within the language's lexicon file(s). An example of this generated POS tagset is shown below, taken from the Welsh language folder:
+
+``` tsv
+POS	Count
+verb	130197
+adv	123
+art	7
+conj	87
+pron	67
+prep	293
+noun	4358
+pnoun	6572
+adj	1542
+fw	40
+num	36
+intj	6
+*	2
+```
+
+To run this script:
+
+``` bash
+python create_pos_tagsets.py
+```
+
 ### Python Requirements
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
