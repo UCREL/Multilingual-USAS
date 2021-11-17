@@ -23,4 +23,4 @@ Once your pull request has been submitted, GitHub actions will perform some vali
 
 ## Any problems, contact us
 
-If you have any problems let us know at: `ucrel@lancaster.ac.uk`
+If you have any problems let us know at: ucrel@lancaster.ac.uk
