@@ -165,6 +165,21 @@ Austin	Austin	Noun	Z1 Z2
 car	cars	Noun	Z0 Z3
 ```
 
+#### Special cases
+
+##### Implicit POS
+
+If you are writing a lexicon which contains POS information, but you come across a token/lemma that can be a member of any POS tagset, e.g. the POS information would not help in disambiguating it, then assign it the POS value `*` which represents the wildcard.
+
+Example of a single word lexicon with this implicit POS information:
+
+``` tsv
+lemma	token	pos	semantic_tags
+Austin	Austin	Noun	Z1 Z2
+car	cars	Noun	Z0 Z3
+computer	computer	*	Z1
+```
+
 ### Multi Word Expression (MWE) lexicon file format
 
 These lexicons on each line will contain only a value for the `mwe_template` and the `semantic_tags`. The `semantic_tags` will contain the same information as the `semantic_tags` header for the single word lexicon data. The `mwe_template`, which is best described in the [The UCREL Semantic Analysis System paper (see Fig 3, called multiword templates in the paper)](https://www.lancaster.ac.uk/staff/rayson/publications/usas_lrec04ws.pdf), is a simplified pattern matching code, like a regular expression, that is used to capture MWEs that have similar structure. For example, `*_* Ocean_N*1` will capture `Pacific Ocean`, `Atlantic Ocean`, etc. The templates not only match continuous MWEs, but also match discontinuous ones. MWE templates allow other words to be embedded within them. For example, the set phrase `turn on` may occur as `turn it on`, `turn the light on`, `turn the TV on` etc. Using the template ` turn*_* {N*/P*/R*} on_RP ` we can identify this set phrase in various contexts. 
