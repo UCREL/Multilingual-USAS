@@ -34,10 +34,11 @@ jobs:
       - name: Convert text files to TSV and run TSV checks
         run: |
           echo "Push to branch ${{ github.ref_name }}"
-          python txt_to_tsv.py
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
+          python txt_to_tsv.py
           if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.ref_name }}; fi
+          git status
 
       - name: Create lexicon statistics table
         run: |
