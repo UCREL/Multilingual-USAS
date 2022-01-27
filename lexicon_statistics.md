@@ -21,3 +21,4 @@
 | Urdu (ur)                | Urdu_Semantic_Lexicon.tsv      | 2,000                           | :heavy_check_mark:           | :x:                          |
 | Welsh (cy)               | semantic_lexicon_cy.tsv        | 143,287                         | :heavy_check_mark:           | :x:                          |
 | Welsh (cy)               | mwe-welsh.tsv                  | :x:                             | :x:                          | 14                           |
+| Indonesian (id)          | semantic_lexicon_id.tsv        | 284                             | :heavy_check_mark:           | :x:                          |
