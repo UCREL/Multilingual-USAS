@@ -233,5 +233,19 @@
             "script": "Latn"
         }
         
+    },
+    "id": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Indonesian/semantic_lexicon_id.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Indonesian",
+            "macrolanguage": "ms",
+            "script": "Latn"
+        }
+        
     }
 }
