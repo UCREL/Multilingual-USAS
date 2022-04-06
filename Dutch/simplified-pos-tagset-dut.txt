@@ -10,6 +10,5 @@ conj	conjuction
 art	article
 pron	pronoun
 punc	puctuation
-sent	sentence marker
 
 
