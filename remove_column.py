@@ -9,7 +9,7 @@ if __name__ == '__main__':
     from the lexicon file with the given header name and then write the rest of 
     the data to the given `lexicon_file_to_write_too` (2nd argument).
     '''
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=description)
     parser.add_argument('lexicon_file_path', type=Path, 
                         help='File path to the lexicon')
     parser.add_argument('lexicon_file_to_write_too', type=Path, 

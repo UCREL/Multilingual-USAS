@@ -340,6 +340,18 @@ Number of unique values in lexicon file 2 7637
 Number of unique values in common between the two files:3169
 ```
 
+### Mapping column values
+
+Given a column/header name, mapping file, and a lexicon file path it will map the values within the column name in the lexicon file using the mapping file. The resulting lexicon file will then be saved to the given output file path.
+
+Example:
+
+In this example we will map the values in `pos` column of `Finnish/semantic_lexicon_fin.tsv` using the mapper specified as a dictionary within `pos_mapper.json` and save the new lexicon file with these mapped values, all other columns and data will remain the same, to the new lexicon file named `Finnish/mapped_semantic_lexicon_fin.tsv`.
+
+``` bash
+python map_column_values.py Finnish/semantic_lexicon_fin.tsv pos pos_mappers/Finnish_pos_mapper.json Finnish/pos_mapped_semantic_lexicon_fin.tsv
+```
+
 ### Python Requirements
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
