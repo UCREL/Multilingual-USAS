@@ -14,5 +14,7 @@
     "proper": "pnoun",
     "Numeral": "num",
     "Pronoun": "pron",
-    "Adverb ": "adv"
+    "Adverb ": "adv",
+    "Aux": "verb",
+    "der": "der"
 }

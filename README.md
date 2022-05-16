@@ -352,6 +352,34 @@ In this example we will map the values in `pos` column of `Finnish/semantic_lexi
 python map_column_values.py Finnish/semantic_lexicon_fin.tsv pos pos_mappers/Finnish_pos_mapper.json Finnish/pos_mapped_semantic_lexicon_fin.tsv
 ```
 
+### Convert all tabs to spaces after a given column header name
+
+This script assumes that the semantic tags in the INPUT_FILE have been separated by tabs rather than spaces, this script will reverse this process and output the spaced version into a new OUTPUT_FILE. Both files are expected to be in TSV format. This is useful when data entered for USAS tags has been tab separated rather than space separated, e.g.:
+
+```
+lemma\tsemantic_tags
+test\tZ1\tZ2
+```
+
+After running this script it will be converted to:
+
+```
+lemma\tsemantic_tags
+test\tZ1 Z2
+```
+
+To run the script:
+
+``` bash
+python tabs_to_spaces.py INPUT_FILE_NAME OUTPUT_FILE_NAME
+```
+
+Example:
+
+``` bash
+python tabs_to_spaces.py Finnish/semantic_lexicon_fin.tsv Finnish/new_semantic_lexicon_fin.tsv
+```
+
 ### Python Requirements
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
