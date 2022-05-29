@@ -3,6 +3,42 @@
 This folder contains POS tagset mappers, whereby it maps a POS tag from one tagset to another tagset. All pos tagset mappers are either a one to one mapping, or many to one mapping. All files will be in JSON format and the mapping will be a dictionary like object. Below is a list of the POS tagset mappers in this folder and a brief description of what tagset they map from and to and what type of mapping it is:
 
 * [Finnish_pos_mapper.json](./Finnish_pos_mapper.json) - Maps from an unknown tagset to the USAS core POS tagset. It is a many to one mapping. The unknown tagset is used within the non-mapped Finnish semantic lexicon files; [semantic_lexicon_fin.tsv](../Finnish/semantic_lexicon_fin.tsv) and [semantic_lexicon_fin.txt](../Finnish/semantic_lexicon_fin.txt).
+* [c7_to_c5.json](./c7_to_c5.json) - Maps from the [CLAWS C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html) to the [CLAWS C5 tagset](https://ucrel.lancs.ac.uk/claws5tags.html). It is a many to one mapping. The tagset was generated using the [c7_to_c5_txt_to_json.py script.](./c7_to_c5_txt_to_json.py)
+* [c5_to_upos.json](./c5_to_upos.json) - Maps from the [CLAWS C5 tagset](https://ucrel.lancs.ac.uk/claws5tags.html) to the [Universal Part Of Speech (UPOS) tagset](https://universaldependencies.org/u/pos/). It is a many to one mapping. The tagset was generated using the [c5_to_upos.py script.](./c5_to_upos.py).
+* [c7_to_upos.json](./c7_to_upos.json) - Maps from the [CLAWS C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html) to the [UPOS tagset](https://universaldependencies.org/u/pos/). It is a many to one mapping. The tagset was generated using the [c7_to_upos.py script.](./c7_to_upos.py).
 
 
 **Note** these mappings are very similar to the POS mappers within the [PyMUSAS repository](https://github.com/UCREL/pymusas/blob/main/pymusas/pos_mapper.py), the main difference is that in this repository we do not allow one to many mappings.
+
+
+## Python Scripts
+
+### c7_to_c5_txt_to_json
+
+Converts the `mapC7toC5.txt` file, which can be found [here](https://ucrel.lancs.ac.uk/claws/mapC7toC5.txt), from a tab separated list of C7 to C5 CLAWS tags to a dictionary object that is saved in JSON format to the specified output file, in this example case the JSON file is called `c7_to_c5.json`.
+
+Example:
+
+``` bash
+python c7_to_c5_txt_to_json.py mapC7toC5.txt c7_to_c5.json
+```
+
+### c5_to_upos.py
+
+Creates a JSON formatted C5 to UPOS mapping. Whereby the mapping has come from the following [Python script](https://github.com/COST-ELTeC/Scripts/blob/fa8083e4ea47280e7c18e41536d3fbb4014a6e6d/posPipe/udpMap.py#L45), except for the tags "UNC" and "NULL". The example below creates the JSON formatted C5 to UPOS mapping to the file called `c5_to_upos.json`.
+
+Example:
+
+``` bash
+python c5_to_upos.py c5_to_upos.json
+```
+
+### c7_to_upos.py
+
+Based on the two pervious scripts listed, [c7_to_c5_txt_to_json](./c7_to_c5_txt_to_json.py) and [c5_to_upos.py](./c5_to_upos.py), this script creates a C7 to UPOS JSON formatted mapping. In the example below the script uses the two existing mappings, [c7_to_c5.json](./c7_to_c5.json) and [c5_to_upos.json](./c5_to_upos.json), to create the C7 to UPOS JSON formatted mapping file called `c7_to_upos.json`.
+
+Example:
+
+``` bash
+python c7_to_upos.py c7_to_c5.json c5_to_upos.json c7_to_upos.json
+```
