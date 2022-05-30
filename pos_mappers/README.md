@@ -35,6 +35,8 @@ python c5_to_upos.py c5_to_upos.json
 
 ### c7_to_upos.py
 
+**Note** a C7 tag that is not in the [C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html), but is in the English single word lexicon is the tag `PUNC`, this is manually added to the C7 to UPOS JSON mapping with the mapping of `PUNC` to the UPOS tag `PUNCT`.
+
 Based on the two pervious scripts listed, [c7_to_c5_txt_to_json](./c7_to_c5_txt_to_json.py) and [c5_to_upos.py](./c5_to_upos.py), this script creates a C7 to UPOS JSON formatted mapping. In the example below the script uses the two existing mappings, [c7_to_c5.json](./c7_to_c5.json) and [c5_to_upos.json](./c5_to_upos.json), to create the C7 to UPOS JSON formatted mapping file called `c7_to_upos.json`.
 
 Example:

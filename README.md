@@ -380,6 +380,49 @@ Example:
 python tabs_to_spaces.py Finnish/semantic_lexicon_fin.tsv Finnish/new_semantic_lexicon_fin.tsv
 ```
 
+### Spaces to tabs
+
+This script converts a file that contains only spaces to a file that separates fields/columns by tabs instead of spaces. For MWE files the optional POS tag argument is not used.
+
+For single word lexicon files we expect a POS field, further if you provide a JSON formatted POS tagset file where the object keys are the valid POS tags in the tagset then the POS field values will be checked against the given POS tagset.
+
+
+Example:
+
+This converts a MWE file that contains only spaces (`idioms_utf8.c7`) and converts it to tab separated by outputting it into the file `mwe-en.txt`.
+
+``` bash
+python spaces_to_tabs.py idioms_utf8.c7 mwe-en.txt mwe
+```
+
+This converts a single word lexicon file that contains only spaces (`lexicon_utf8.c7`) and converts it to tab separated by outputting it into the file `semantic_lexicon_en.txt` while also ensuring that all POS tags in the POS field conform to the POS tagset defined by the key values in the dictionary object within the `./pos_mappers/c7_to_upos.json` file.
+
+``` bash
+python spaces_to_tabs.py lexicon_utf8.c7 semantic_lexicon_en.txt single --pos-tagset-file ./pos_mappers/c7_to_upos.json
+```
+
+### Duplicate entries identification and statistics
+
+This script finds duplicate entries within either a single word and MWE lexicon file and displays how many duplicates there are.
+
+Single word lexicon example:
+
+``` bash
+python duplicate_entires.py English/semantic_lexicon_en.txt single
+```
+
+MWE lexicon example:
+
+``` bash
+python duplicate_entires.py English/mwe-en.txt mwe
+```
+
+If you want to output the stdout data into a TSV file you can provide an optional `output-file` argument to save the data to a given TSV file, in this example we save it to `duplicate_single_word_lexicon_english_upos.tsv` file:
+
+``` bash
+python duplicate_entires.py English/semantic_lexicon_en.txt single --output-file duplicate_single_word_lexicon_english_upos.tsv
+```
+
 ### Python Requirements
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:

@@ -33,6 +33,7 @@ if __name__ == '__main__':
     for c7_tag, c5_tag in c7_to_c5.items():
         c7_to_upos[c7_tag] = c5_to_upos[c5_tag]
     assert c7_to_upos
+    c7_to_upos['PUNC'] = 'PUNCT'
 
     with args.output_file_path.open('w', encoding='utf-8') as output_fp:
         json.dump(c7_to_upos, output_fp)

@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     description = '''
     This script assumes that the semantic tags in the input_file have been
-    seperated by tabs rather than spaces, this script will reverse this process
+    separated by tabs rather than spaces, this script will reverse this process
     and output the spaced version into a new output_file. Both files are expected
     to be in TSV format.
     '''
