@@ -11,8 +11,12 @@ def string_to_path(string_argument: str) -> Path:
 if __name__ == '__main__':
 
     description = '''
-    This script finds duplicate entries within either a single word and MWE 
+    This script finds duplicate entries within either a single word or MWE 
     lexicon file and displays how many duplicates there are.
+
+    Optionally you can have an `output-file` argument whereby it will save the
+    duplicate entires and the number of times they are duplicated to the
+    `output-file` in TSV format.
     '''
 
     file_type_help = ('single for single word lexicon file format or '
