@@ -6,6 +6,7 @@ This folder contains POS tagset mappers, whereby it maps a POS tag from one tags
 * [c7_to_c5.json](./c7_to_c5.json) - Maps from the [CLAWS C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html) to the [CLAWS C5 tagset](https://ucrel.lancs.ac.uk/claws5tags.html). It is a many to one mapping. The tagset was generated using the [c7_to_c5_txt_to_json.py script.](./c7_to_c5_txt_to_json.py)
 * [c5_to_upos.json](./c5_to_upos.json) - Maps from the [CLAWS C5 tagset](https://ucrel.lancs.ac.uk/claws5tags.html) to the [Universal Part Of Speech (UPOS) tagset](https://universaldependencies.org/u/pos/). It is a many to one mapping. The tagset was generated using the [c5_to_upos.py script.](./c5_to_upos.py).
 * [c7_to_upos.json](./c7_to_upos.json) - Maps from the [CLAWS C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html) to the [UPOS tagset](https://universaldependencies.org/u/pos/). It is a many to one mapping. The tagset was generated using the [c7_to_upos.py script.](./c7_to_upos.py).
+* [mwe_c7_to_upos.json](./mwe_c7_to_upos.json) - Maps from the [CLAWS C7 tagset](https://ucrel.lancs.ac.uk/claws7tags.html) to the [UPOS tagset](https://universaldependencies.org/u/pos/). **Compared too** [c7_to_upos.json](./c7_to_upos.json) this tagset contains a lot special syntax on the C7 tags that maps to the UPOS, e.g. `NP*`: `PROPN` and can be used to map all of the CLAWS C7 tags in the MWE file to UPOS.
 
 
 **Note** these mappings are very similar to the POS mappers within the [PyMUSAS repository](https://github.com/UCREL/pymusas/blob/main/pymusas/pos_mapper.py), the main difference is that in this repository we do not allow one to many mappings.
@@ -44,3 +45,47 @@ Example:
 ``` bash
 python c7_to_upos.py c7_to_c5.json c5_to_upos.json c7_to_upos.json
 ```
+
+### JSON to TSV
+
+Converts a JSON file into a TSV file. The JSON file is expected to be a simple dictionary object of key and value pairs whereby this will be converted into TSV format such that keys and values are in separated fields/columns.
+
+``` bash
+python json_to_tsv.py c7_to_upos.json c7_to_upos.tsv
+```
+
+The `c7_to_upos.tsv` file will look like the following:
+
+``` tsv
+!	PUNCT
+""""	PUNCT
+(	PUNCT
+)	PUNCT
+,	PUNCT
+-	PUNCT
+...
+```
+
+
+### TSV to JSON
+
+Converts a TSV file into a JSON file. The TSV file is expected to have only two fields/columns whereby the first and second fields represent the keys and values that will be added to the dictionary object that will be saved to the given JSON file. 
+
+``` bash
+python tsv_to_json.py c7_to_upos.tsv c7_to_upos.json
+```
+
+The `c7_to_upos.json` file will look like the following:
+
+``` json
+{
+    "!": "PUNCT",
+    "\"": "PUNCT",
+    "(": "PUNCT",
+    ")": "PUNCT",
+    ",": "PUNCT",
+    "-": "PUNCT",
+    ...
+}
+```
+

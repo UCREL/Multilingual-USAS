@@ -423,6 +423,55 @@ If you want to output the stdout data into a TSV file you can provide an optiona
 python duplicate_entires.py English/semantic_lexicon_en.txt single --output-file duplicate_single_word_lexicon_english_upos.tsv
 ```
 
+### Extract Unique POS Values from MWE File
+
+This script finds all of the unique POS values within a MWE lexicon file, including POS values that are part of a curly brace discontinues MWE expression. By default the unique POS values are output to stdout.
+
+If the optional `output-file` argument is passed the unique POS values are also saved to the `output-file` in TSV format. If another optional argument, `pos-mapper-file`, is given it will try to map the unique POS values given the JSON POS mapper file, any values it cannot map it will leave blank, and add a new column called `mapped` with all the POS values it could map.
+
+
+Example:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt
+# Output
+II22
+N*2
+NNO*
+MC1
+IF
+UH*
+NN1*
+CSN
+DA1
+BCL21
+DDQV
+...
+```
+
+This example shows how to use the optional `output-file` argument, whereby in this case the output will be print to stdout like before but also saved to the `output-file` in TSV format:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt --output-file unique_pos_values_mwe_en.tsv 
+```
+
+This example show how to use the optional `pos-mapper-file` argument:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt --output-file unique_pos_values_mwe_en.tsv --pos-mapper-file pos_mappers/c7_to_upos.json
+# Output
+Unique POS Values:
+VBZ     VERB
+VVD     VERB
+NN132
+RRT     ADV
+NP*
+RT      ADV
+V*
+...
+```
+
+
 ### Python Requirements
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
