@@ -1,5 +1,4 @@
 lemma	pos	semantic_tags
-#	NOUN	I1
 &	CCONJ	Z5
 &amp;	CCONJ	Z5
 &pound;	NOUN	I1
