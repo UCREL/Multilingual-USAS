@@ -17,6 +17,7 @@ lemma	pos	semantic_tags
 'im	PRON	Z8m
 'is	DET	Z8
 'll	AUX	T1.1.3
+wheeew	INTJ	Z4
 'm	VERB	A3+ Z5
 'n'	CCONJ	Z5
 'r'	VERB	A3+ Z5
