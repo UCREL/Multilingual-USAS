@@ -247,5 +247,23 @@
             "script": "Latn"
         }
         
+    },
+    "en": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./English/semantic_lexicon_en.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./English/mwe-en.tsv"
+            }
+        ],
+        "language data":{
+            "description": "English",
+            "macrolanguage": "en",
+            "script": "Latn"
+        }
+        
     }
 }
