@@ -54,9 +54,9 @@ if __name__ == '__main__':
             
             matches = re.finditer(r'\s\{([a-zA-Z*]+)(/[a-zA-Z*]+)*\}\s', mwe_template)
             for match in matches:
-                for group in match.groups():
-                    if group is not None:
-                        pos_tags.add(group.strip('/').strip())
+                curly_brace_start, curly_brace_end = match.span()
+                for pos_tag in mwe_template[curly_brace_start: curly_brace_end].strip().strip('{}').strip().split('/'):
+                    pos_tags.add(pos_tag.strip())
 
     print('Unique POS Values:')
     if output_file:

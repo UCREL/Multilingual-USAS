@@ -471,6 +471,14 @@ V*
 ...
 ```
 
+### POS Mapping for MWE files
+
+This maps POS values within a MWE lexicon file given a POS mapper, the mapped MWE lexicon file will be saved to the given output file.
+
+``` bash
+python mwe_pos_mapping.py English/mwe-en.txt pos_mappers/mwe_c7_to_upos.json English/mapped-mwe-en.txt
+```
+
 
 ### Python Requirements
 
