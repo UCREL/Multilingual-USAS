@@ -1,6 +1,4 @@
 mwe_template	semantic_tags
-#*_NOUN a_DET *_NOUN	N5/N6
-#_* *_NUM	I1
 'A'_* Level*_NOUN	P1
 'A'_* level*_NOUN	P1
 'd_AUX sooner_ADV	E2++
