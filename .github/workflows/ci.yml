@@ -39,7 +39,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git branch -r
           git remote -v
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.head_ref || github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push -u origin ${{ github.head_ref || github.ref_name }}; fi
 
       - name: Create lexicon statistics table
         run: |
