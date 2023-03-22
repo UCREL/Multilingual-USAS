@@ -42,4 +42,4 @@ jobs:
       - name: Create lexicon statistics table
         run: |
           python lexicon_statistics.py > ./lexicon_statistics.md
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push -u origin ${{ github.ref_name }}; fi
