@@ -37,6 +37,8 @@ jobs:
           python txt_to_tsv.py
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
+          git branch -r
+          git remote -v
           if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git push origin ${{ github.head_ref || github.ref_name }}; fi
 
       - name: Create lexicon statistics table
