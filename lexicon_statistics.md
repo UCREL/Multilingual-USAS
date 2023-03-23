@@ -19,8 +19,8 @@
 | Spanish, Castilian (es)  | mwe-es.tsv                     | :x:                             | :x:                          | 4,841                        |
 | Swedish (sv)             | semantic_lexicon_se.tsv        | 18,082                          | :heavy_check_mark:           | :x:                          |
 | Urdu (ur)                | Urdu_Semantic_Lexicon.tsv      | 2,000                           | :heavy_check_mark:           | :x:                          |
-| Welsh (cy)               | semantic_lexicon_cy.tsv        | 143,287                         | :heavy_check_mark:           | :x:                          |
-| Welsh (cy)               | mwe-welsh.tsv                  | :x:                             | :x:                          | 14                           |
+| Welsh (cy)               | semantic_lexicon_cy.tsv        | 143,292                         | :heavy_check_mark:           | :x:                          |
+| Welsh (cy)               | mwe-welsh.tsv                  | :x:                             | :x:                          | 240                          |
 | Indonesian (id)          | semantic_lexicon_id.tsv        | 284                             | :heavy_check_mark:           | :x:                          |
-| English (en)             | semantic_lexicon_en.tsv        | 55,662                          | :heavy_check_mark:           | :x:                          |
-| English (en)             | mwe-en.tsv                     | :x:                             | :x:                          | 18,958                       |
+| English (en)             | semantic_lexicon_en.tsv        | 55,705                          | :heavy_check_mark:           | :x:                          |
+| English (en)             | mwe-en.tsv                     | :x:                             | :x:                          | 19,141                       |

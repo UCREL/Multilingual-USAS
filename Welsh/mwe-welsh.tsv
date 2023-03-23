@@ -1,6 +1,233 @@
 mwe_template	semantic_tags
+Abaty_* Cymer_*	Z2
+Abaty_* Dinas_* Basing_*	Z2
+Abaty_* Glyn_* y_* Groes_*	Z2
+Abaty_* Llandudoch_*	Z2
+Abaty_* Nedd_*	Z2
+Abaty_* Talyllychau_*	Z2
+Abaty_* Tyndyrn_*	Z2
+Abaty_* Ystrad_* Fflur_*	Z2
+Abaty_* a_* Chartws_* Llandudoch_*	Z2
+Abaty_* a_* Phorthdy_* Nedd_*	Z2
+Adeiladau_* Mwynglawdd_* Plwm_* Bryntail_*	Z2
 Adran_noun Iechyd_noun	G1.1
+Amgueddfa'r_* Glannau_*	Z2
+Amgueddfa_* Cerrig_* Margam_*	Z2
+Amgueddfa_* Cymru_*	Z2
+Amgueddfa_* Cymru_* Genedlaethol_*	Z2
+Amgueddfa_* Genedlaethol_* Caerdydd_*	Z2
+Amgueddfa_* Genedlaethol_* Cymru_*	Z2
+Amgueddfa_* Genedlaethol_* y_* Glannau_*	Z2
+Amgueddfa_* Lechi_*	Z2
+Amgueddfa_* Lechi_* Cymru_*	Z2
+Amgueddfa_* Lleng_* Rufeinig_*	Z2
+Amgueddfa_* Lleng_* Rufeinig_* Cymru_*	Z2
+Amgueddfa_* Werin_*	Z2
+Amgueddfa_* Werin_* Cymru_*	Z2
+Amgueddfa_* Wlân_*	Z2
+Amgueddfa_* Wlân_* Cymru_*	Z2
+Arfordir_* De_* Gŵyr_*	Z2
+Bae_* Barafundle_*	Z2
+Bannau_* Brycheiniog_*	Z2
+Big_* Pit_*	Z2
+Big_* Pit_* Amgueddfa_* Lofaol_* Cymru_*	Z2
+Bryn_* Celli_* Ddu_*	Z2
+Bryngaer_* Coed_* Llanmelin_*	Z2
+Bwthyn_* Ogwen_*	Z2
+Bwthyn_* Treftadaeth_*	Z2
+Cae'r_* Gors_*	Z2
+Caer_* Lêb_*	Z2
+Caer_* Rufeinig_* Aberhonddu_*	Z2
+Caer_* Rufeinig_* Caerllion_*	Z2
+Caer_* Rufeinig_* Fach_* Caergybi_*	Z2
+Caer_* Rufeinig_* Segontium_*	Z2
+Caer_* a_* Baddonau_* Rhufeinig_* Caerllion_*	Z2
+Caer_* y_* Twr_*	Z2
+Caer_* y_* Tŵr_*	Z2
+Canolfan_* Casgliadau_* Cenedlaethol_*	Z2
+Canolfan_* Ymwelwyr_* a_* Siop_* Tyddewi_*	Z2
+Capel_* Garmon_*	Z2
+Capel_* Gwenffrewi_*	Z2
+Capel_* Gwydir_* Uchaf_*	Z2
+Capel_* Llugwy_*	Z2
+Capel_* Runston_*	Z2
+Capel_* Santes_* Non_*	Z2
+Capel_* St_* Hilari_*	Z2
+Capel_* a_* Ffynnon_* Sanctaidd_* Gwenffrewi_*	Z2
+Capel_* y_* Rug_*	Z2
+Carneddau_* a_* Glyderau_*	Z2
+Cartws_* Llandudoch_*	Z2
 Carwyn_pnoun Jones_pnoun	Z1
+Castell_* Abertawe_*	Z2
+Castell_* Biwmares_*	Z2
+Castell_* Bronllys_*	Z2
+Castell_* Bryn_* Gwyn_*	Z2
+Castell_* Caerffili_*	Z2
+Castell_* Caergwrle_*	Z2
+Castell_* Caernarfon_*	Z2
+Castell_* Carreg_* Cennen_*	Z2
+Castell_* Cas-gwent_*	Z2
+Castell_* Cas-wis_*	Z2
+Castell_* Casllwchwr_*	Z2
+Castell_* Casnewydd_*	Z2
+Castell_* Cilgerran_*	Z2
+Castell_* Coch_*	Z2
+Castell_* Coety_*	Z2
+Castell_* Conwy_*	Z2
+Castell_* Cricieth_*	Z2
+Castell_* Cydweli_*	Z2
+Castell_* Dinbych_*	Z2
+Castell_* Dinefwr_*	Z2
+Castell_* Dolbadarn_*	Z2
+Castell_* Dolforwyn_*	Z2
+Castell_* Dolwyddelan_*	Z2
+Castell_* Dryslwyn_*	Z2
+Castell_* Ewlo_*	Z2
+Castell_* Grysmwnt_*	Z2
+Castell_* Harlech_*	Z2
+Castell_* Llanhuadain_*	Z2
+Castell_* Llansteffan_*	Z2
+Castell_* Martin_*	Z2
+Castell_* Ogwr_*	Z2
+Castell_* Oxwich_*	Z2
+Castell_* Rhaglan_*	Z2
+Castell_* Rhuddlan_*	Z2
+Castell_* Sain_* Quentin_*	Z2
+Castell_* Talacharn_*	Z2
+Castell_* Trefaldwyn_*	Z2
+Castell_* Trefynwy_*	Z2
+Castell_* Tretwr_*	Z2
+Castell_* Tretŵr_*	Z2
+Castell_* Weble_*	Z2
+Castell_* Ynysgynwraidd_*	Z2
+Castell_* a_* Gardd_* Penrhyn_*	Z2
+Castell_* a_* Gardd_* Powis_*	Z2
+Castell_* y_* Bere_*	Z2
+Castell_* y_* Bewpyr_*	Z2
+Castell_* y_* Fflint_*	Z2
+Castell_* y_* Waun_*	Z2
+Colofn_* Eliseg_*	Z2
+Colomendy_* Penmon_*	Z2
+Cors_* Marloes_*	Z2
+Craflwyn_* a_* Beddgelert_*	Z2
+Croes_* Caeriw_*	Z2
+Croes_* Maen_* Achwyfan_*	Z2
+Croes_* Mynwent_* Derwen_*	Z2
+Croes_* Penmon_*	Z2
+Dolau_* Cothi_*	Z2
+Dre-Fach_* Felindre_*	Z2
+Dyffryn_* Ystwyth_*	Z2
+Eglwys_* Leicester_*	Z2
+Fferm_* Gupton_*	Z2
+Ffwrnais_* Dyfi_*	Z2
+Ffynnon_* Gwenffrewi_*	Z2
+Ffynnon_* Gybi_*	Z2
+Ffynnon_* Seiriol_*	Z2
+Freshwater_* West_* a_* Fferm_* Gupton_*	Z2
+Gardd_* Bodnant_*	Z2
+Gardd_* Goedwig_* Colby_*	Z2
+Gerddi_* Dyffryn_*	Z2
+Grwp_* Cytiau_* Din_* Llugwy_*	Z2
+Grwp_* Cytiau_* Mynydd_* Twr_*	Z2
+Grŵp_* Cytiau_* Din_* Llugwy_*	Z2
+Grŵp_* Cytiau_* Mynydd_* Tŵr_*	Z2
+Gwaith_* Haearn_* Blaenafon_*	Z2
+Gwersyll_* Bwlwarcau_* Cas-gwent_*	Z2
+Hafod_* y_* Llan_*	Z2
+Hen_* Eglwys_* Plwyf_* Llangar_*	Z2
+Hen_* Gastell_* y_* Bewpyr_*	Z2
+Hen_* dy_* Carswell_*	Z2
+Hen_* dŷ_* Carswell_*	Z2
+Llandeilo_* Ferwallt_*	Z2
+Llys_* Tretwr_*	Z2
+Llys_* Tretŵr_*	Z2
+Llys_* a_* Chastell_* Tretwr_*	Z2
+Llys_* a_* Chastell_* Tretŵr_*	Z2
+Llys_* yr_* Esgob_* Llandyfai_*	Z2
+Llys_* yr_* Esgob_* Llandyfâi_*	Z2
+Llys_* yr_* Esgob_* Tyddewi_*	Z2
+Maen_* Hir_* Tregwehelydd_*	Z2
+Maen_* Hir_* Ty_* Mawr_*	Z2
+Maen_* Hir_* Tŷ_* Mawr_*	Z2
+Meini_* Hirion_* Penrhos_* Feilw_*	Z2
+Mur_* Porthladd_* Cas-gwent_*	Z2
+Muriau_* Tref_* Caernarfon_*	Z2
+Muriau_* Tref_* Conwy_*	Z2
+Muriau_* Tref_* Dinbych_*	Z2
+Mwynglawdd_* Plwm_* Bryntail_*	Z2
+Mynydd_* Pen-y-Fâl_*	Z2
+Neuadd_* Bodysgallen_*	Z2
+Neuadd_* Ganoloesol_* Hafoty_*	Z2
+Pen-y-Fâl_* a_* Dyffryn_* Wysg_*	Z2
+Pen-y-bont_* ar_* Ogwr_*	Z2
+Pennard,_* Pwll_* Du_* a_* Dyffryn_* Llandeilo_* Ferwallt_*	Z2
+Penrhyn_* Llŷn_*	Z2
+Plas_* Mawr_*	Z2
+Plas_* Newydd_*	Z2
+Plas_* yn_* Rhiw_*	Z2
+Pont_* Grog_* Conwy_*	Z2
+Pont_* Minllyn_*	Z2
+Porth_* Ceiriad_*	Z2
+Porth_* Meudwy_*	Z2
+Porth_* Oer_*	Z2
+Porth_* y_* Swnt_*	Z2
+Porthdy_* Nedd_*	Z2
+Priordy_* Ewenni_*	Z2
+Priordy_* Hwlffordd_*	Z2
+Priordy_* Llanddewi_* Nant_* Hodni_*	Z2
+Priordy_* Penmon_*	Z2
+Priordy_* a_* Chroes_* Penmon_* a_* Ffynnon_* Seiriol_*	Z2
+Pwll_* Du_*	Z2
+Pwll_* Mawr_*	Z2
+Rhosili_* ac_* Arfordir_* De_* Gŵyr_*	Z2
+Safle_* Ffosedig_* Hen_* Gwrt_*	Z2
+Sain_* Ffagan_*	Z2
+Sain_* Ffagan_* Amgueddfa_* Werin_* Cymru_*	Z2
+Siambr_* Gladdu_* Barclodiad_* y_* Gawres_*	Z2
+Siambr_* Gladdu_* Bodowyr_*	Z2
+Siambr_* Gladdu_* Bryn_* Celli_* Ddu_*	Z2
+Siambr_* Gladdu_* Capel_* Garmon_*	Z2
+Siambr_* Gladdu_* Carreg_* Coetan_* Arthur_*	Z2
+Siambr_* Gladdu_* Din_* Dryfol_*	Z2
+Siambr_* Gladdu_* Dyffryn_* Ardudwy_*	Z2
+Siambr_* Gladdu_* Llugwy_*	Z2
+Siambr_* Gladdu_* Llwyneliddon_*	Z2
+Siambr_* Gladdu_* Parc_* le_* Breos_*	Z2
+Siambr_* Gladdu_* Pentre_* Ifan_*	Z2
+Siambr_* Gladdu_* Prysaeddfed_*	Z2
+Siambr_* Gladdu_* Tinkinswood_*	Z2
+Siambr_* Gladdu_* Trefignath_*	Z2
+Siambr_* Gladdu_* Ty_* Newydd_*	Z2
+Siambr_* Gladdu_* Tŷ_* Newydd_*	Z2
+Sir_* Gaerfyrddin_*	Z2
+Sir_* Gâr_*	Z2
+Sir_noun Drefaldwyn_pnoun	Z2
+Stad_* Dolmelynllyn_*	Z2
+Stad_* Southwood_*	Z2
+Traeth_* Llanbedrog_*	Z2
+Traeth_* a_* Chors_* Marloes_*	Z2
+Tref_* Rufeinig_* Caer-went_*	Z2
+Ty'r_* Brodyr_*	Z2
+Ty_* Canoloesol_* Penarth_* Fawr_*	Z2
+Tyddewi_*	Z2
+Tŵr_* Paxton_*	Z2
+Tŷ'r_* Brodyr_*	Z2
+Tŷ'r_* Masnachwr_* Tuduraidd_*	Z2
+Tŷ_* Aberconwy_* _*	Z2
+Tŷ_* Canoloesol_* Penarth_* Fawr_*	Z2
+Tŷ_* Mawr_* Wybrnant_*	Z2
+Tŷ_* Newton_*	Z2
+Tŷ_* Tredegar_*	Z2
+Tŷ_* a_* Gardd_* Plas_* Newydd_*	Z2
+Y_* Bannau_*	Z2
+Y_* Castell_* Gwyn_*	Z2
+Y_* Castell_* Newydd_*	Z2
+Y_* Cymin_*	Z2
+Y_* Ganolfan_* Casgliadau_* Cenedlaethol_*	Z2
+Y_* Stagbwll_*	Z2
+Y_* Waun_*	Z2
+Ystad_* Dolmelynllyn_*	Z2
+Ystrad_* Fflur_*	Z2
 cynllun*_noun {noun} bws_noun am_prep ddim_noun	M3/Q1.2
 cynllun*_noun {noun} bws_noun am_prep dim_noun	M3/Q1.2
 cynllun*_noun {noun} bws_noun {adj/conj} am_prep dim_noun	M3/Q1.2
@@ -10,6 +237,5 @@ pwyllgor*_noun addysg_noun	P1/G1.1 G1.2
 pwyllgor_noun addysg_noun	P1/G1.1 G1.2
 rhoi_verb 'r_art ffidil_noun yn_prep y_art to_noun	A9-
 rhoi_verb y_art ffidil_noun yn_prep y_art to_noun	A9-
-Sir_noun Drefaldwyn_pnoun	Z2
 tagiwr_* semantig_*	Y2
 talu_verb sylw_noun i_prep	X5.1+
