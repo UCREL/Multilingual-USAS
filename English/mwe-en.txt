@@ -1718,8 +1718,8 @@ Delhi_PROPN Belly_NOUN	B2-
 Delta_* Force_*	Z3c
 Democratic_ADJ People_NOUN 's_PART Republic_NOUN of_ADP Korea_PROPN	Z2
 Democratic_ADJ Republic_NOUN of_ADP the_DET Congo_PROPN	Z2
-Denbigh, Leicester_* 's_PART  Church_*	Z2
-Denbigh, St_* Hilary_* 's_PART  Chapel_*	Z2
+Denbigh,_* Leicester_* 's_PART  Church_*	Z2
+Denbigh,_* St_* Hilary_* 's_PART  Chapel_*	Z2
 Denbigh_* Castle_*	Z2
 Denbigh_* Friary_*	Z2
 Denbigh_* Town_* Walls_*	Z2
@@ -2857,7 +2857,7 @@ New_ADJ Year*_NOUN Eve*_NOUN	T1.3
 New_ADJ Year_NOUN 's_PART Day_NOUN	T1.3
 New_ADJ Zealander*_NOUN	Z2/S2mf
 New_PROPN Caledonia_PROPN	Z2
-Newcastle, Bridgend_*	Z2
+Newcastle,_* Bridgend_*	Z2
 Newcastle_PROPN Breweries_NOUN	Z3c
 Newport_* Castle_*	Z2
 News_* International_*	Z3c
@@ -3037,9 +3037,9 @@ Pedigree_NOUN Chum_NOUN	Z3
 Penarth_* Fawr_* Medieval_* House_*	Z2
 Pendelphin_PROPN Rabbit*_NOUN	Z3
 Penguin_NOUN Book*_NOUN Ltd_*	Z3
-Penmon_* Priory, Cross_* and_* St_* Seiriol_* 's_PART  Well_*	Z2
+Penmon_* Priory,_* Cross_* and_* St_* Seiriol_* 's_PART  Well_*	Z2
 Penmon_* Priory_*	Z2
-Pennard, Pwll_* Du_* and_* Bishopston_* Valley_*	Z2
+Pennard,_* Pwll_* Du_* and_* Bishopston_* Valley_*	Z2
 Penrhos_* Feilw_* Standing_* Stones_*	Z2
 Penrhyn_* Castle_* and_* Garden_*	Z2
 Pentecostal_ADJ Church*_NOUN	S9c
@@ -3582,7 +3582,7 @@ St_* Johns_PROPN Ambulance_NOUN	Z3c
 St_* Lythans_* Burial_* Chamber_*	Z2
 St_* Marys_NOUN	Z3c
 St_* Non_* 's_PART  Chapel_*	Z2
-St_* Quentin_* 's_PART  Castle, Llanblethian_*	Z2
+St_* Quentin_* 's_PART  Castle,_* Llanblethian_*	Z2
 St_* Seiriol_* 's_PART  Well_*	Z2
 St_* Winefride_* 's_PART  Chapel_*	Z2
 St_* Winefride_* 's_PART  Chapel_* and_* Holy_* Well_*	Z2
@@ -3872,7 +3872,7 @@ Turkish_ADJ grind_NOUN	F2/O4.5
 Turks_NOUN and_CCONJ Caicos_PROPN Islands_PROPN	Z2
 Twilight_* Zone_*	Z3
 Two_NUM Point_NOUN One_NUM Ghia_PROPN	Z3fn
-Twthill, Rhuddlan_*	Z2
+Twthill,_* Rhuddlan_*	Z2
 Ty_* Mawr_* Standing_* Stone_*	Z2
 Ty_* Newydd_* Burial_* Chamber_*	Z2
 Tyne_PROPN Tees_PROPN	Z3c Z2
@@ -4614,7 +4614,7 @@ angina_NOUN attack*_NOUN	B2-
 angora_ADJ goat*_NOUN	L2mfn
 angora_ADJ rabbit*_NOUN	L2mfn
 angstrom_* unit_NOUN	O3/N3.7
-animal_NOUN ,_PUNCT vegetable_NOUN and_CCONJ mineral_NOUN	K5.2
+animal_NOUN ,_*_PUNCT vegetable_NOUN and_CCONJ mineral_NOUN	K5.2
 animal_NOUN cruelty_NOUN	E3-/L2
 animal_NOUN fats_NOUN	B2
 animal_NOUN house*_NOUN	L2/H1c
@@ -4677,7 +4677,7 @@ any_DET day_NOUN	T1.3 T1.1.3
 any_DET number_NOUN of_ADP	N5+
 any_DET old_ADJ	N5.1+
 any_DET rate_NOUN	Z4
-any_DET {ADJ/INTJ} Tom_PROPN ,_PUNCT Dick_PROPN *_CCONJ Harry_PROPN	N5.1+/S2mf
+any_DET {ADJ/INTJ} Tom_PROPN ,_*_PUNCT Dick_PROPN *_CCONJ Harry_PROPN	N5.1+/S2mf
 any_DET {ADJ/INTJ} Tom_PROPN Dick_PROPN and_CCONJ Harry_PROPN	N5.1+/S2mf
 anybody_PRON 's_PART guess_NOUN	X2.2-
 anything_ADV but_ADV	Z6 Z5
@@ -6716,7 +6716,7 @@ careers_NOUN office*_NOUN	I3.1/H1c
 careers_NOUN officer*_NOUN	I3.1/S2mf
 careers_NOUN service_NOUN	I3.1/S8+
 careers_NOUN teacher*_NOUN	I3.1/P1/S2mf
-caretaker_NOUN manager*_NOUN	K5.1/S7.1+/S2,f
+caretaker_NOUN manager*_NOUN	K5.1/S7.1+/S2,_*f
 cargo_NOUN boat*_NOUN	M4
 cargo_NOUN plane*_NOUN	M5
 caring_NOUN profession*_NOUN	I3.1/S8+
@@ -8278,7 +8278,7 @@ deadly_ADJ nightshade_NOUN	L3
 deaf_ADJ aid*_NOUN	X3.2/B3
 deafening_ADJ silence_NOUN	A1.1.1- Q2.2-
 deanery_NOUN synod*_NOUN	S9c
-dear_* ,_PUNCT oh_INTJ dear_INTJ !_PUNCT	Z4
+dear_* ,_*_PUNCT oh_INTJ dear_INTJ !_PUNCT	Z4
 dear_* me_PRON	Z4
 dear_* oh_INTJ dear_INTJ !_PUNCT	Z4
 dearie_NOUN me_PRON	Z4
@@ -8842,8 +8842,8 @@ e-mail_NOUN address_NOUN	Y2/Q1.2
 each_DET *_NOUN	N6+
 each_DET to_ADP *_DET own_DET	S5-
 each_PRON other_PRON	Z8
-ear_NOUN ,_PUNCT nose_NOUN and_CCONJ throat_NOUN department_NOUN	B3/H2
-ear_NOUN ,_PUNCT nose_NOUN and_CCONJ throat_NOUN specialist_NOUN	B3/S2
+ear_NOUN ,_*_PUNCT nose_NOUN and_CCONJ throat_NOUN department_NOUN	B3/H2
+ear_NOUN ,_*_PUNCT nose_NOUN and_CCONJ throat_NOUN specialist_NOUN	B3/S2
 ear_NOUN bashing_NOUN	Q2.2
 ear_NOUN bursting_NOUN	Q2.2
 ear_NOUN lobe*_NOUN	B1
@@ -9682,7 +9682,7 @@ gallop*_* {ADV} off_ADV	M1/L2
 galloping_VERB consumption_NOUN	B2-
 galvanised_ADJ nail*_NOUN	O2
 galvanized_ADJ steel_NOUN	O1.1
-game_NOUN ,_PUNCT set_* and_CCONJ match_NOUN	S7.1+
+game_NOUN ,_*_PUNCT set_* and_CCONJ match_NOUN	S7.1+
 game_NOUN engine*_NOUN	Y2/K5.2
 game_NOUN plan*_NOUN	X7+
 game_NOUN reserve*_NOUN	L2/M7c
@@ -12339,12 +12339,12 @@ leaving_NOUN certificate*_NOUN	P1
 lecture_NOUN notes_NOUN	Q1.2/P1
 lecture_NOUN theatre*_NOUN	H2/P1
 led_VERB {PRON/ADV/Np} astray_ADV	G2.2-
-left_* ,_PUNCT right_* and_CCONJ centre_NOUN	M6 N5+
+left_* ,_*_PUNCT right_* and_CCONJ centre_NOUN	M6 N5+
 left_* handed_*	M6/B1
 left_* holding_VERB the_DET baby_NOUN	S6
 left_* overs_*	F1/N5.2+
 left_* right_* and_CCONJ centre_*	N5+ M6
-left_ADJ ,_PUNCT right_ADJ and_CCONJ centre_NOUN	N5+ M6
+left_ADJ ,_*_PUNCT right_ADJ and_CCONJ centre_NOUN	N5+ M6
 left_ADJ hand_NOUN	M6
 left_ADJ hand_NOUN side_NOUN	M6
 left_ADJ wing_NOUN	G1.2
@@ -13275,7 +13275,7 @@ molecular_ADJ structure*_NOUN	Y1
 moment*_NOUN in_ADP time_NOUN	T1.2
 momentum_NOUN energy_NOUN	Y1
 money_NOUN 's_PART worth_NOUN	I1.3
-money_NOUN ,_PUNCT banking_NOUN and_CCONJ finance_NOUN	I2.1
+money_NOUN ,_*_PUNCT banking_NOUN and_CCONJ finance_NOUN	I2.1
 money_NOUN grabber*_NOUN	S1.2.2+/S2mf
 money_NOUN incented_*	I1
 money_NOUN lender*_NOUN	I1/S2mf
@@ -13980,7 +13980,7 @@ one_* step_NOUN at_ADP a_DET time_NOUN	N3.8-
 one_* {PRON/ADJ/INTJ/Np} at_ADP a_DET {ADJ/INTJ} time_NOUN	N3.8-
 one_NUM bit_NOUN	A14
 one_NUM clean_ADJ sweep_NOUN	N5.1+
-one_NUM country_NOUN ,_PUNCT two_NUM systems_NOUN	X7/Z3
+one_NUM country_NOUN ,_*_PUNCT two_NUM systems_NOUN	X7/Z3
 one_NUM day_NOUN	T1.1.3 T1.1.1
 one_NUM horse_NOUN town*_NOUN	M7/N3.2-
 one_NUM man_NOUN band*_*	S5-
@@ -17734,7 +17734,7 @@ third_ADJ party_NOUN	S1.1.3-/S2mf
 third_ADJ rate_NOUN	A5.1-
 third_ADJ world_NOUN	M7
 this_* that_* and_CCONJ the_DET other_*	Z8
-this_DET ,_PUNCT that_DET and_CCONJ the_DET other_*	Z8
+this_DET ,_*_PUNCT that_DET and_CCONJ the_DET other_*	Z8
 this_DET and_CCONJ that_DET	Z8
 this_DET coming_ADJ *_PROPN	T1.1.3
 this_DET thats_* and_CCONJ the_DET others_NOUN	Z8
@@ -19112,7 +19112,7 @@ year_NOUN *_NUM	P1c
 yeast_NOUN infection*_NOUN	B2-
 yell*_* {PRON/ADV/Np} out_ADV	Q2.2
 yellow_ADJ line*_NOUN	M3
-yes_INTJ sir_NOUN ,_PUNCT no_DET sir_NOUN ,_PUNCT three_NUM bags_NOUN full_ADJ sir_NOUN	Z4
+yes_INTJ sir_NOUN ,_*_PUNCT no_DET sir_NOUN ,_*_PUNCT three_NUM bags_NOUN full_ADJ sir_NOUN	Z4
 yet_ADV again_ADV	N6+
 yoghurt_NOUN and_CCONJ mango_NOUN fool_NOUN	F1
 you_PRON know_VERB	Z4

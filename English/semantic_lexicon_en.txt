@@ -131,7 +131,7 @@ lemma	pos	semantic_tags
 28-year-old	ADJ	T3
 28th	ADJ	N4
 2D	ADJ	O4.4
-3,000-year-old	ADJ	T3
+3,_*000-year-old	ADJ	T3
 3-Com	PROPN	Z3c
 3-course	ADJ	F1
 3-month	ADJ	T1.3 T3
@@ -4697,7 +4697,7 @@ HIV	NOUN	B2-
 HIV-positive	ADJ	B2-
 HIV/AIDS	NOUN	B2-
 HK	PROPN	Z2
-HK$105,000	NOUN	I1
+HK$105,_*000	NOUN	I1
 HLG	PROPN	Z3c
 HLS	PROPN	Z3c
 HMI	NOUN	P1/S2mf
