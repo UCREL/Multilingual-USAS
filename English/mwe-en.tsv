@@ -1718,8 +1718,8 @@ Delhi_PROPN Belly_NOUN	B2-
 Delta_* Force_*	Z3c
 Democratic_ADJ People_NOUN 's_PART Republic_NOUN of_ADP Korea_PROPN	Z2
 Democratic_ADJ Republic_NOUN of_ADP the_DET Congo_PROPN	Z2
-Denbigh, Leicester_* 's_PART  Church_*	Z2
-Denbigh, St_* Hilary_* 's_PART  Chapel_*	Z2
+Denbigh,_* Leicester_* 's_PART  Church_*	Z2
+Denbigh,_* St_* Hilary_* 's_PART  Chapel_*	Z2
 Denbigh_* Castle_*	Z2
 Denbigh_* Friary_*	Z2
 Denbigh_* Town_* Walls_*	Z2
@@ -2857,7 +2857,7 @@ New_ADJ Year*_NOUN Eve*_NOUN	T1.3
 New_ADJ Year_NOUN 's_PART Day_NOUN	T1.3
 New_ADJ Zealander*_NOUN	Z2/S2mf
 New_PROPN Caledonia_PROPN	Z2
-Newcastle, Bridgend_*	Z2
+Newcastle,_* Bridgend_*	Z2
 Newcastle_PROPN Breweries_NOUN	Z3c
 Newport_* Castle_*	Z2
 News_* International_*	Z3c
@@ -3037,9 +3037,9 @@ Pedigree_NOUN Chum_NOUN	Z3
 Penarth_* Fawr_* Medieval_* House_*	Z2
 Pendelphin_PROPN Rabbit*_NOUN	Z3
 Penguin_NOUN Book*_NOUN Ltd_*	Z3
-Penmon_* Priory, Cross_* and_* St_* Seiriol_* 's_PART  Well_*	Z2
+Penmon_* Priory,_* Cross_* and_* St_* Seiriol_* 's_PART  Well_*	Z2
 Penmon_* Priory_*	Z2
-Pennard, Pwll_* Du_* and_* Bishopston_* Valley_*	Z2
+Pennard,_* Pwll_* Du_* and_* Bishopston_* Valley_*	Z2
 Penrhos_* Feilw_* Standing_* Stones_*	Z2
 Penrhyn_* Castle_* and_* Garden_*	Z2
 Pentecostal_ADJ Church*_NOUN	S9c
@@ -3582,7 +3582,7 @@ St_* Johns_PROPN Ambulance_NOUN	Z3c
 St_* Lythans_* Burial_* Chamber_*	Z2
 St_* Marys_NOUN	Z3c
 St_* Non_* 's_PART  Chapel_*	Z2
-St_* Quentin_* 's_PART  Castle, Llanblethian_*	Z2
+St_* Quentin_* 's_PART  Castle,_* Llanblethian_*	Z2
 St_* Seiriol_* 's_PART  Well_*	Z2
 St_* Winefride_* 's_PART  Chapel_*	Z2
 St_* Winefride_* 's_PART  Chapel_* and_* Holy_* Well_*	Z2
@@ -3872,7 +3872,7 @@ Turkish_ADJ grind_NOUN	F2/O4.5
 Turks_NOUN and_CCONJ Caicos_PROPN Islands_PROPN	Z2
 Twilight_* Zone_*	Z3
 Two_NUM Point_NOUN One_NUM Ghia_PROPN	Z3fn
-Twthill, Rhuddlan_*	Z2
+Twthill,_* Rhuddlan_*	Z2
 Ty_* Mawr_* Standing_* Stone_*	Z2
 Ty_* Newydd_* Burial_* Chamber_*	Z2
 Tyne_PROPN Tees_PROPN	Z3c Z2
