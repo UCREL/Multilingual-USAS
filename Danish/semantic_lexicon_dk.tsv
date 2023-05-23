@@ -1,0 +1,35 @@
+lemma	pos	semantic_tags
+før	ADP	Z5
+blandt	ADP	Z5
+efter	ADP	Z5
+imellem	ADP	Z5
+mod	ADP	Z5
+uden	ADP	Z5
+være	AUX	A3+ Z5
+være	AUX	A3+ Z5
+være	AUX	A3+ Z5
+tage	VERB	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
+komme	VERB	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2' 'M1 T1 N4 A1.1.1 N5 A3+ M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2
+gøre	VERB	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5
+give	VERB	A9- A1.1.1
+finde	VERB	A10+ X2.1 X6+
+sige	VERB	Q2.1
+fortælle	VERB	Q2.1 S7.1+/Q2.2 X3 A10+' 'Q2.1 S7.1+/Q2.2 X3 A10+
+år	NOUN	T1.3 P1c
+verden	NOUN	W1 S5+c A4.1 N5+
+liv	NOUN	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1
+hus	NOUN	H1 P1/S5+c G1.1c
+nummer	NOUN	N5 N1 Q1.3 K2 Q4.2
+system	NOUN	X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c
+mænd	NOUN	S2.2m
+vand	NOUN	O1.2 W3/M4 B1 C1%
+familie	NOUN	S4c A4.1c
+hånd	VERB	A9-
+ham	PRON	Z8m
+jeg	PRON	Z8mf
+han	PRON	Z8m
+de	PRON	Z8mfn
+hun	PRON	Z8f
+vi	PRON	Z8
+dem	PRON	Z8mfn
+såsom	ADJ	Z5
