@@ -47,6 +47,20 @@
         }
         
     },
+    "dk" : {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Danish/semantic_lexicon_cz.tsv"
+            }
+        ],
+        "language data": {
+            "description": "Danish",
+            "macrolanguage": "dk",
+            "script": "Latn"
+        }
+        
+    },
     "nl" : {
         "resources":[
             {
