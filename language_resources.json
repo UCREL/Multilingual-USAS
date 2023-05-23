@@ -51,7 +51,7 @@
         "resources":[
             {
                 "data type": "single", 
-                "file path": "./Danish/semantic_lexicon_cz.tsv"
+                "file path": "./Danish/semantic_lexicon_dk.tsv"
             }
         ],
         "language data": {
