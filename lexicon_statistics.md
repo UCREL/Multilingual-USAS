@@ -5,6 +5,7 @@
 | Mandarin Chinese (cmn)   | mwe-chi.tsv                    | :x:                             | :x:                          | 19,040                       |
 | Czech (cs)               | semantic_lexicon_cz.tsv        | 28,161                          | :heavy_check_mark:           | :x:                          |
 | Danish (dk)              | semantic_lexicon_dk.tsv        | 34                              | :heavy_check_mark:           | :x:                          |
+| Danish (dk)              | mwe-dk.tsv                     | :x:                             | :x:                          | 9                            |
 | Dutch, Flemish (nl)      | semantic_lexicon_dut.tsv       | 4,220                           | :heavy_check_mark:           | :x:                          |
 | Finnish (fi)             | semantic_lexicon_fin.tsv       | 46,226                          | :heavy_check_mark:           | :x:                          |
 | French (fr)              | semantic_lexicon_fr.tsv        | 2,724                           | :heavy_check_mark:           | :x:                          |
