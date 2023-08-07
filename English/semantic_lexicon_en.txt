@@ -21,7 +21,6 @@ lemma	pos	semantic_tags
 'r'	VERB	A3+ Z5
 're	VERB	A3+ Z5
 's	PART	Z5
-'s	VERB	A3+ Z5
 's	VERB	A9+ A2.2 Z5
 't	PRON	Z8
 'til	ADP	Z5
@@ -534,7 +533,6 @@ Algebra	NOUN	N2
 Algeria	PROPN	Z2
 Algerian	ADJ	Z2
 Algerian	NOUN	Z2/S2mf
-Algerian	NOUN	Z2/S2mf
 Algiers	PROPN	Z2
 Ali	PROPN	Z1mf
 Aliai	PROPN	Z3c
@@ -604,7 +602,6 @@ Amcom	PROPN	Z3c
 Ameco	PROPN	Z3c
 Amelia	PROPN	Z1f
 America	PROPN	Z2
-America	PROPN	Z2
 American	NOUN	Z2/S2mf
 American	ADJ	Z2
 American-style	ADJ	Z2/A4.1
@@ -668,7 +665,6 @@ AngelNet	PROPN	Z3c/Y2
 Angela	PROPN	Z1f
 Angeles	PROPN	Z2
 Angelica	PROPN	Z1f
-Angelo	PROPN	Z1m
 Angelo	PROPN	Z1m
 Angie	PROPN	Z1f
 Angiers	PROPN	Z2
@@ -753,7 +749,6 @@ Apache	NOUN	Z2/S2mf Z2/Q3
 Aparoma	NOUN	B2-
 Aparscorosis	NOUN	B2-
 Apax	PROPN	Z3c
-Apennines	PROPN	Z2
 Apennines	PROPN	Z2 M7
 Aphrodite	PROPN	S9/Z1f
 Apiit	PROPN	Z3c/P1
@@ -765,8 +760,7 @@ Apple1	PROPN	Z3/Y2
 Apple2	PROPN	Z3/Y2
 Appleby	PROPN	Z2 Z1mf
 Apr.	PROPN	T1.3
-April	PROPN	T1.3
-April	PROPN	Z1f
+April	PROPN	T1.3 Z1f Z3f
 Apsley	PROPN	Z3c
 Aqua	PROPN	Z3c
 Aquadry	PROPN	B5/Z3c
@@ -776,8 +770,8 @@ Aquarians	NOUN	S9/S2mf
 Aquarius	PROPN	S9
 Aquarius	NOUN	S9/S2mf
 Aquascutum	PROPN	Z3c
-Aquinas	PROPN	Z1m
-Aquitaine	PROPN	
+Aquinas	PROPN	Z1
+Aquitaine	PROPN	Z2
 Arab	ADJ	Z2 Z2/Q3
 Arab	NOUN	Z2/S2mf
 Arab-Malaysia	PROPN	Z2
@@ -950,8 +944,7 @@ Audrey	PROPN	Z1f
 Aug	PROPN	T1.3
 Aug.	PROPN	T1.3
 Augsburg	PROPN	Z2
-August	PROPN	Z1m
-August	PROPN	T1.3
+August	PROPN	T1.3 Z1f Z3f
 August/September/October	NOUN	T1.3
 Augustine	PROPN	Z1m
 Augustines	PROPN	Z1m
@@ -1045,8 +1038,7 @@ B2B	PROPN	I2.1
 B2C	X	Z3c
 B6	SYM	Z2
 BA	NOUN	P1
-BA	PROPN	Z3c
-BA	PROPN	P1
+BA	PROPN	Z3c P1
 BAC	NOUN	I1
 BAC	PROPN	Z3c
 BACC	PROPN	Z3c
@@ -1078,7 +1070,6 @@ BGCE	NOUN	P1
 BGCEs	NOUN	P1
 BGT	PROPN	Z3
 BGT3	X	Z3
-BGT3	X	Z3
 BHS	PROPN	Z3c
 BHTA	PROPN	Z3c
 BI	PROPN	Z3c
@@ -1093,7 +1084,6 @@ BMRB	PROPN	Z3c
 BMW	NOUN	Z3/M3
 BMW	PROPN	Z3c
 BMW-Rover	PROPN	Z3c/M3
-BMWs	NOUN	Z3
 BMWs	NOUN	Z3/M3
 BMX	PROPN	M3
 BNFL	PROPN	Z3c
@@ -1111,8 +1101,6 @@ BR&amp;B	PROPN	Z3c
 BRAVE	PROPN	Z3c
 BS	PROPN	Z3
 BS5750	X	Z3
-BS5750	X	Z3
-BS750	X	Z3
 BS750	X	Z3
 BSA	PROPN	Z3
 BSE	NOUN	B2-
@@ -1132,7 +1120,6 @@ BTWC72	PROPN	Z3
 BToto	PROPN	Z3c
 BUCKTA	PROPN	Z3c
 BUPA	PROPN	Z3c
-BX60040	X	Z3
 BX60040	X	Z3
 BZW	PROPN	Z3
 Babangida	PROPN	Z1
@@ -1264,7 +1251,6 @@ Baronet	PROPN	S7.1+/S2.2m
 Baroque	NOUN	T1.1.1
 Barr	PROPN	Z1mf
 Barratt	PROPN	Z1mfc
-Barratts	PROPN	Z3c Z1mf
 Barratts	PROPN	Z3c Z1mf
 Barrie	PROPN	Z1mf
 Barristers	NOUN	G2.1/S2mf
@@ -1498,7 +1484,6 @@ Bev	PROPN	Z1f
 Bevan	NOUN	Z3
 Beverage	PROPN	Z1mf
 Beverley	PROPN	Z2 Z1mf
-Beverley	PROPN	Z2 Z1mf
 Beverly	PROPN	Z1f Z2
 Bevis	PROPN	Z1mf
 Bexhill	PROPN	Z2
@@ -1685,8 +1670,7 @@ Boreham	PROPN	Z1mf
 Borge	PROPN	Z1mf
 Borlays	PROPN	Z3c
 Borneo	PROPN	Z2
-Boroughs	PROPN	Z1mf
-Boroughs	PROPN	Z3c
+Boroughs	PROPN	Z3c Z1mf
 Borrowdale	PROPN	Z2
 Borsch	PROPN	Z3c F1 Z1mf
 Borstal	NOUN	G2.1/H1c
@@ -2188,7 +2172,6 @@ Cambridgeshire	PROPN	Z2 Z3c
 Camden	PROPN	Z2c
 Camel	PROPN	Z3c
 Camellia	NOUN	L3
-Camelot	PROPN	Z2
 Camelot	PROPN	Z2/S9
 Camembert	NOUN	F1
 Camemberts	NOUN	F1
@@ -2237,7 +2220,6 @@ Canton	PROPN	Z2
 Cantona	PROPN	Z1mf
 Cantonas	PROPN	Z1mf
 Cantonese	PROPN	Z2
-Cantonese	NOUN	Z2/Q3
 Cantonese	ADJ	Z2 Z2/Q3 Z2/S2mfnc
 Cantonese	NOUN	Z2/S2c Z2/Q3
 Cantonia	PROPN	Z2
@@ -2568,7 +2550,6 @@ Citadel	PROPN	Z2
 Citadel	NOUN	G3/H1
 Citibank	PROPN	Z3c
 Citicorp	PROPN	Z3c
-Citigroup	PROPN	Z3c
 Citigroup	PROPN	Z3c
 Citiscape	PROPN	Z3c/Y2
 Citro	PROPN	Z3c
@@ -2981,9 +2962,7 @@ Cwynbryn	PROPN	Z2
 CyberJaya	PROPN	Z3/Y2
 Cyberia	PROPN	Z3c
 Cyclades	PROPN	Z2
-Cyclops	PROPN	Z3c
-Cyclops	PROPN	Z1/S9
-Cynthia	PROPN	Z1f
+Cyclops	PROPN	Z1/S9 Z3c
 Cypress	PROPN	Z2
 Cypriot	ADJ	Z2
 Cypriot	NOUN	Z2/S2mf
@@ -3039,7 +3018,6 @@ DKNY	PROPN	Z3c
 DL	PROPN	Z3c
 DM	NOUN	B5
 DMM	PROPN	Z3
-DMs	NOUN	B5
 DMs	NOUN	B5
 DNA	NOUN	B1
 DNT	NOUN	B3
@@ -3767,7 +3745,6 @@ Escorted	ADJ	S3.1
 Esher	PROPN	Z2 Z3c
 Eskdale	PROPN	Z2
 Eskimo	NOUN	Z2/S2mfc
-Eskimo	NOUN	Z2/S2mfc
 Eskimos	NOUN	Z2/S2mfc
 Eslem	PROPN	Z3
 Espace	PROPN	Z3
@@ -3814,8 +3791,7 @@ Eurocheque	NOUN	I1
 Eurocrat	NOUN	G1.1/S2mf
 Eurodisney	PROPN	Z3c
 Eurojargon	NOUN	Q3/Z2
-Euromoney	PROPN	Z3
-Euromoney	PROPN	I1/Z2
+Euromoney	PROPN	I1/Z2 Z3
 Europa	PROPN	Z3
 Europak	PROPN	Z3c
 Europe	PROPN	Z2
@@ -4614,7 +4590,6 @@ Grenock	PROPN	Z2
 Gresham	PROPN	Z1mf
 Greshams	PROPN	Z3c
 Gretna	PROPN	Z2
-Gretna	PROPN	Z2
 Grey	PROPN	Z1mf
 Greyfriars	PROPN	Z3c
 Griffeths	PROPN	Z1mf
@@ -4800,7 +4775,6 @@ Hanglet	PROPN	Z3c
 Hank	PROPN	Z1m
 Hanks	PROPN	Z1mf
 Hanley	PROPN	Z1mf
-Hanley	PROPN	Z1mf
 Hanna	PROPN	Z1mf
 Hannah	PROPN	Z1mf
 Hanoi	PROPN	Z2
@@ -4820,7 +4794,6 @@ Harden	PROPN	Z1mf
 Harding	PROPN	Z1mf
 Hardy	PROPN	Z1mf
 Harefield	PROPN	Z2 Z3c
-Harewood	PROPN	Z2
 Harewood	PROPN	Z2
 Haringey	PROPN	Z2
 Harlequin	PROPN	Z1m/K4 E4.1+/S2.2m
@@ -4967,7 +4940,6 @@ Hermeskiele	PROPN	Z2
 Hermetic	ADJ	S5-
 Hermitage	PROPN	Z3c Z2
 Herne	PROPN	Z2
-Herne	PROPN	Z2
 Heroine	NOUN	Q4.1/S2f E5+/S2f S2/E2+f
 Heron	PROPN	Z3c Z1mf
 Herring	PROPN	Z1mf
@@ -5096,7 +5068,6 @@ Hollywood	PROPN	Z2
 Hollywood-style	ADJ	Z2/A4.1
 Holme	PROPN	Z1
 Holmer	PROPN	Z2
-Holmer	PROPN	Z2
 Holmes	PROPN	Z1mf
 Holsters	NOUN	O2/G3
 Holston	PROPN	Z2
@@ -5130,7 +5101,6 @@ Hopper	PROPN	Z3c Z1mf
 Horatio	PROPN	Z1m
 Horizon	PROPN	Z3c
 Horlicks	PROPN	Z3
-Hormer	PROPN	Z2
 Hormer	PROPN	Z2
 Hornby	PROPN	Z1mf Z2 Z3c
 Horne	PROPN	Z1mf
@@ -5551,8 +5521,7 @@ Jamar	PROPN	Z3c
 James	PROPN	Z1m
 Jameson	PROPN	Z1mf
 Jamie	PROPN	Z1mf
-Jan	PROPN	Z1mf
-Jan	PROPN	T1.3
+Jan	PROPN	T1.3 Z1mf
 Jane	PROPN	Z1f
 Janet	PROPN	Z1f
 Janice	PROPN	Z1f
@@ -5690,8 +5659,7 @@ Juliet	PROPN	Z1f
 Julio	PROPN	Z1m
 Julius	PROPN	Z1m
 July	PROPN	T1.3
-June	PROPN	T1.3
-June	PROPN	Z1f
+June	PROPN	T1.3 Z1f
 June-ish	ADJ	T1.3
 Jung	PROPN	Z1mf
 Jungian	PROPN	Z3
@@ -5798,7 +5766,6 @@ Karuizawa	PROPN	Z2
 Kash	PROPN	Z3
 Kashmir	PROPN	Z2
 Kashmiri	PROPN	Z2/S2mf
-Kashmiris	PROPN	Z2/S2mf
 Kashmiris	PROPN	Z2/S2mf
 Kasi	PROPN	Z1
 Kassion	PROPN	Z2
@@ -6204,7 +6171,6 @@ Leaky	PROPN	Z1mf
 Leamington	PROPN	Z2
 Leanne	PROPN	Z1f
 Lear	PROPN	Z1m Z3
-Learjet	PROPN	Z3c/M5
 Learjet	PROPN	Z3c/M5
 Leas	PROPN	Z3c
 Leatherhead	PROPN	Z2 Z3c
@@ -6725,7 +6691,6 @@ Malayan	PROPN	Z3c
 Malayawata	PROPN	Z3c
 Malaysia	PROPN	Z2 Z3c
 Malaysia-Thailand	PROPN	Z2
-Malaysia-Thailand	PROPN	Z2
 MalaysiaStreet	PROPN	Z3c
 MalaysiaStreet.com	PROPN	Z3c/Y2
 Malaysian	NOUN	Z2/S2mf
@@ -6783,7 +6748,6 @@ Mansfield	PROPN	Z2 Z1mf
 Mantis	NOUN	L2mfn
 Mantoon	PROPN	Z2
 Mao	PROPN	Z1m
-Maoris	PROPN	Z2/S2mf
 Maoris	PROPN	Z2/S2mf
 Maples	PROPN	Z3c Z1mf
 Mappin	PROPN	Z3c Z1mf
@@ -6871,7 +6835,6 @@ Maryland	PROPN	Z2 Z3c
 Maryport	PROPN	Z2
 Masaaki	PROPN	Z1m
 Masai	PROPN	Z2/S2mf
-Masai	PROPN	Z2/S2c
 Maserati	PROPN	Z3c/M3
 Maslow	VERB	Z1
 Masonic	ADJ	S5+
@@ -6911,8 +6874,7 @@ Maxell	PROPN	Z3c
 Maxine	PROPN	Z1f
 Maxis-Time	PROPN	Z3c
 Maxwell	PROPN	Z1mf
-May	PROPN	Z1f
-May	PROPN	T1.3
+May	PROPN	T1.3 Z1f
 Maya	PROPN	Z3
 Maybank	PROPN	Z3c
 Mayer	PROPN	Z1mf
@@ -7232,8 +7194,7 @@ Molian	PROPN	Z1
 Molly	PROPN	Z1f
 Mombassa	PROPN	Z2
 Momentum	PROPN	Z3c
-Mon	PROPN	T1.3
-Mon	PROPN	Z2/S2mf
+Mon	PROPN	T1.3 Z2/S2mf
 Mona	PROPN	Z1f
 Monaco	PROPN	Z2
 Monasons	PROPN	Z3c
@@ -7244,8 +7205,7 @@ Monegasques	PROPN	Z2/S2mf
 Monet	PROPN	Z1mf
 Moneypenny	PROPN	Z3c Z1mf
 Mongolian	ADJ	Z2
-Mongolian	NOUN	Z2/S2mf
-Mongolian	NOUN	Z2/Q3
+Mongolian	NOUN	Z2/S2mf Z2/Q3
 Mongolians	NOUN	Z2/S2mf
 Monica	PROPN	Z1f
 Monisha	PROPN	Z1f
@@ -7754,7 +7714,6 @@ OCU	NOUN	G2.1c
 OCUs	NOUN	G2.1c
 OD	VERB	F3
 OD	NOUN	F3 F3/S2mf
-OD	VERB	F3
 ODP	NOUN	S7.4+/M1
 OECD	PROPN	Z3
 OHB	PROPN	Z3c
@@ -8004,7 +7963,6 @@ Paechter	PROPN	Z1
 Paganini	PROPN	Z1mf
 Page	PROPN	Z1mf
 Pagemaker	PROPN	Z3
-Pages	PROPN	Z3c
 Pages	PROPN	Z3c
 Pahang	PROPN	Z2
 Pahang-Selangor	PROPN	Z2
@@ -8397,7 +8355,7 @@ Portuguese	NOUN	Z2/Q3 Z2/S2mfnc
 Portuguese	ADJ	Z2 Z2/Q3 Z2/S2mfnc
 Positano	PROPN	Z2
 Post-It	PROPN	Q1.2
-Post-disaster	ADJ	A1.1.2/N4 A5/1-/N4
+Post-disaster	ADJ	A1.1.2/N4 A5.1-/N4
 Potentates	NOUN	S7.1+/S2mf
 Pottertons	PROPN	Z3c
 Pottock	PROPN	Z1mf
@@ -8573,7 +8531,6 @@ RIBA	PROPN	Z3c
 RICS	PROPN	Z3c
 RM	PROPN	Z3
 RMC	PROPN	Z3c
-RMC	PROPN	Z3c
 RMP	PROPN	Z3
 RMl	PROPN	I1.3
 RN	PROPN	Z3c
@@ -8582,8 +8539,7 @@ RNLI	PROPN	Z3c
 ROC	PROPN	Z3c
 ROHAS-EUCO	PROPN	Z3
 ROP	NOUN	Q4.2
-RPM	NOUN	I2.1
-RPM	NOUN	N3.8
+RPM	NOUN	N3.8 I2.1
 RSA	PROPN	Z3c
 RSA4	X	P1
 RSEA	PROPN	Z3c
@@ -9019,7 +8975,6 @@ SD	NOUN	S9/S2mf
 SDLP	PROPN	Z3c
 SDSC	PROPN	Z3
 SE5	X	Z2
-SE5	X	Z2
 SED	PROPN	Z3c
 SEMS	PROPN	Z3c
 SEN	PROPN	B3/S2mf
@@ -9062,7 +9017,6 @@ SSP2	PROPN	I2.1
 SSP2-S2	PROPN	I2.1
 SSP2-Stage	PROPN	I2.1
 SSP3	PROPN	I2.1
-SSVC	PROPN	Z3c
 SSVC	PROPN	Z3c
 STB	PROPN	Z3
 STV	PROPN	Z3c
@@ -9579,7 +9533,6 @@ Smiley	PROPN	Z1mf
 Smileys	PROPN	Z3c
 Smith	PROPN	Z1mf
 Smithfield	PROPN	Z2
-Smiths	PROPN	Z3c
 Smiths	PROPN	Z1 Z3
 Smithy	PROPN	Z1mf
 Smokey	PROPN	Z3mfn
@@ -9611,7 +9564,6 @@ Solway	PROPN	Z2
 Somali	PROPN	Z2/S2mf Z2
 Somalia	PROPN	Z2
 Somalian	ADJ	Z2
-Somalis	PROPN	Z2/S2mf
 Somalis	PROPN	Z2/S2mf
 Somdue	PROPN	Z2
 Somdues	PROPN	Z2
@@ -9661,8 +9613,7 @@ Spangle	PROPN	Z3
 Spaniard	NOUN	Z2/S2mf
 Spaniards	NOUN	Z2/S2mf
 Spanish	ADJ	Z2 Z2/Q3 Z2/S2mfnc
-Spanish	NOUN	Z2/S2c F1%
-Spanish	NOUN	Z2/Q3 F1%
+Spanish	NOUN	Z2/S2c Z2/Q3 F1%
 Spanish-language	ADJ	Z2/Q3
 Spar	PROPN	Z3c
 Sparkbrook	PROPN	Z2
@@ -9693,14 +9644,11 @@ Sprite	PROPN	Z3
 Spurs	PROPN	Z3c
 Sr	X	S9
 Sr	PROPN	S9
-Sr	PROPN	S9
 Srinagar	PROPN	Z2
-St	PROPN	S9
-St	PROPN	M3/H3
+St	PROPN	M3/H3 S9
 St	NOUN	M3/H3
 St.	NOUN	M3/H3
-St.	PROPN	S9
-St.	PROPN	M3/H3
+St.	PROPN	M3/H3 S9
 Stackpole	PROPN	Z2
 Stacks	PROPN	Z3c
 Staff	PROPN	Z1mf
@@ -9734,7 +9682,6 @@ Starchefs	PROPN	Z3c
 Stardust	PROPN	Z1mf
 Starnon	PROPN	Z1mf
 Starr	PROPN	Z1mf
-States	PROPN	Z2
 States	PROPN	Z2
 Statesman	PROPN	Z3c
 Statton	PROPN	Z2
@@ -9781,7 +9728,6 @@ Stonehouse	PROPN	Z2 Z1mf
 Stoneleigh	PROPN	Z2
 Stones	NOUN	O2
 Stones	PROPN	Z3c
-Stones	PROPN	Z3
 Stonewall	PROPN	Z1m
 Stop	PROPN	Z3
 Stoppard	PROPN	Z1mf
@@ -10045,7 +9991,7 @@ Taylor	PROPN	Z1mf
 Tch	INTJ	Z4
 Tchaicovsky	PROPN	Z1mf
 Tchaikovsky	PROPN	Z1mf
-Teagus	PROPN	3c
+Teagus	PROPN	Z3c
 Tebbitt	PROPN	Z1mf
 Technicoloured	ADJ	O4.3
 Ted	PROPN	Z1m
@@ -10640,7 +10586,6 @@ Victoplas	PROPN	Z3c
 Victor	PROPN	Z1m
 Victoria	PROPN	Z1f Z2
 Victoriana	NOUN	T1.1.1/O2
-Victoriana	NOUN	T1.1.1/O2
 Victorians	NOUN	T1.1.1/S2mf
 Victory	NOUN	S7.1+ X9.2+
 Vielife	PROPN	Z3c
@@ -11232,7 +11177,6 @@ abash	VERB	E1
 abashed	ADJ	E1
 abashment	NOUN	E1
 abate	VERB	N5-
-abatement	NOUN	N5-
 abatement	NOUN	N5-/S1.2.5 N5-/S7.1 N5-/A2.1
 abattoir	NOUN	L1-/H1
 abbess	NOUN	S9/S7.1+/S2.1f
@@ -11259,18 +11203,14 @@ abduction	NOUN	M2/G2.1- M2
 abductor	NOUN	G2.1-/S2mf
 aberrant	ADJ	A6.2- E2-
 aberration	NOUN	A6.2- E2-
-abet	VERB	S8+
 abet	VERB	S8+ A5.1-
 abettor	NOUN	S8+/S2mf
-abettors	NOUN	S8+/S2mf
 abettors	NOUN	S8+/S2mf
 abeyance	NOUN	A1.9
 abhor	VERB	E2-
 abhorred	VERB	E2-
-abhorred	VERB	E2-
 abhorrence	NOUN	O4.2-
 abhorrent	ADJ	O4.2-
-abide	VERB	M8 T2++@ H4@ S7.1-@
 abide	VERB	M8 T2++@ H4@ S7.1-@
 abides	VERB	M8 T2++@ H4@ S7.1-@
 abiding	NOUN	T2++@ H4@ S7.1-@
@@ -11300,8 +11240,6 @@ aboard	ADP	Z5
 aboard	ADV	M6
 abode	NOUN	H1
 abolish	VERB	T2- A1.1.2 G2.1/T2-
-abolish	VERB	T2- A1.1.2 G2.1/T2-
-abolished	VERB	T2-
 abolished	VERB	T2-
 abolition	NOUN	T2-
 abolitionist	NOUN	G2.1/T2-/S2mf
@@ -11322,9 +11260,8 @@ abortion	NOUN	B3 T2- X9.2-
 abortionist	NOUN	B3/S2mf
 abortive	ADJ	X9.2-
 abound	VERB	N5.2+
-about	ADV	A13.4
+about	ADV	A13.4 Z5 M6
 about	ADP	Z5
-about	ADV	Z5 M6
 about-face	VERB	A6.1- G3
 about-turn	VERB	A6.1- G3
 aboutside	ADV	M6
@@ -11431,14 +11368,12 @@ abysmal	ADJ	A5.1-
 abysmally	ADV	A5.1-
 abyss	NOUN	W3 E5- A6.1-
 academia	NOUN	P1
-academia	NOUN	P1
 academic	NOUN	P1/S2mf
 academic	ADJ	P1 A1.6
 academical	ADJ	P1
 academically	ADV	P1
 academicians	NOUN	P1/S2mf
 academics	NOUN	P1/S2mf
-academy	NOUN	S5+c P1
 academy	NOUN	P1/H1 S5+c
 accede	VERB	S7.4+ S7.1+
 accelerate	VERB	N3.8+/A2.1
@@ -11497,7 +11432,6 @@ accommodations	NOUN	H4 S8+ A1.2+
 accommodative	ADJ	A1.2+
 accompanied	ADJ	S3.1 K2
 accompanied	VERB	S3.1 K2 T1.1.2
-accompanied	VERB	S3.1 K2 T1.1.2
 accompaniment	NOUN	K2 F1 S3.1
 accompanist	NOUN	K2/S2mf
 accompany	VERB	S3.1 K2 T1.1.2
@@ -11540,14 +11474,12 @@ accredit	VERB	P1/A5.1+ I3.2
 accreditation	NOUN	P1/A5.1+ I3.2
 accredited	ADJ	P1/A5.1+ I3.2
 accredited	VERB	P1/A5.1+ I3.2
-accredited	VERB	P1/A5.1+ I3.2
 accrediting	VERB	P1/A5.1+ I3.2
 accrediting	NOUN	P1/A5.1+ I3.2
 accretion	NOUN	N5+ N5+/T3
 accrual	NOUN	A9+ N5+
 accrue	VERB	N5+/A2.1
 accrued	ADJ	A9+
-accrued	VERB	A9+
 accrued	VERB	A9+
 accumulate	VERB	A9+ N5+/A2.1
 accumulated	ADJ	A9+ N5+/A2.1
@@ -11566,7 +11498,6 @@ accusation	NOUN	Q2.2 G2.1
 accusations	NOUN	Q2.2 G2.1
 accusatory	ADJ	E2-
 accuse	VERB	Q2.2 G2.1
-accused	VERB	Q2.2 G2.1
 accused	VERB	Q2.2 G2.1
 accused	NOUN	G2.1/S2mf
 accuser	NOUN	G2.1/S2mf
@@ -11589,13 +11520,11 @@ acetylene	NOUN	O1.3
 ache	VERB	B2- E4.2- X7+
 ache	NOUN	B2- E4.2- X7+
 ached	VERB	B2- E4.2- X7+
-ached	VERB	B2- E4.2- X7+
 aches	VERB	B2- E4.2- X7+
 aches	NOUN	B2- E4.2- X7+
 achievable	ADJ	A7+
 achieve	VERB	A9+ X9.2+
 achieved	ADJ	A9+ X9.2+
-achieved	VERB	A9+ X9.2+
 achieved	VERB	A9+ X9.2+
 achievement	NOUN	X9.2+ A9+
 achievements	NOUN	X9.2+
@@ -11659,7 +11588,6 @@ acrimony	NOUN	E3- Q2.2
 acrobat	NOUN	K1/S2mf
 acrobatic	ADJ	K5.1 A2.1+
 acrobatics	NOUN	K5.1 A2.1+
-acrobatics	NOUN	K5.1 A2.1+
 acronym	NOUN	Q3
 acronyms	NOUN	Q3
 acrophobia	NOUN	E5-/N3.7
@@ -11670,9 +11598,7 @@ acrylic	ADJ	O1
 acrylic	NOUN	O1 C1
 act	NOUN	A1.1.1 K4 A5.4- G2.1 P1%
 act	VERB	A1.1.1 T1.1.2 A8 K4
-act	VERB	A1.1.1 T1.1.2 A8 K4
 acted	ADJ	K4 A8
-acted	VERB	A1.1.1 T1.1.2 A8 K4
 acted	VERB	A1.1.1 T1.1.2 A8 K4
 acting	ADJ	T1.2
 acting	NOUN	A1.1.1 T1.1.2 A8 K4
@@ -11689,7 +11615,6 @@ active	ADJ	X5.2+ A1.1.1
 active	NOUN	A1.1.1
 actively	ADV	X5.2+ A1.1.1
 activism	NOUN	G1.2/X7/A2.1
-activism	NOUN	G1.2
 activist	NOUN	G1.2/S2mf
 activists	NOUN	G1.2/S2mf
 activities	NOUN	A1.1.1
@@ -11804,8 +11729,6 @@ adjoined	ADJ	M6
 adjoining	ADJ	M6
 adjoining	NOUN	M6 A1.8+
 adjourn	VERB	T2-/G2.1
-adjourn	VERB	T2-/G2.1
-adjourned	VERB	T2-/G2.1
 adjourned	VERB	T2-/G2.1
 adjourning	NOUN	T2-
 adjourning	VERB	T2-/G2.1
@@ -11828,7 +11751,6 @@ adman	NOUN	I2.2/Q2.2/S2.2m
 admin	NOUN	S7.1+
 administer	VERB	A9- S7.1+
 administered	VERB	A9- S7.1+
-administered	VERB	A9- S7.1+
 administered	ADJ	A9- S7.1+
 administering	ADJ	A9- S7.1+
 administering	NOUN	A9- S7.1+
@@ -11847,7 +11769,6 @@ admirably	ADV	S7.2+ A5.1+
 admiral	NOUN	G3/S7.1+/S2mf
 admiration	NOUN	S7.2+ E2+
 admire	VERB	S7.2+ E2+
-admire	VERB	S7.2+ E2+
 admired	ADJ	S7.2+ E2+
 admired	VERB	S7.2+ E2+
 admirer	NOUN	S7.2+/S2mf E2+/S2mf
@@ -11858,8 +11779,7 @@ admissibility	NOUN	S7.4 G2.1
 admissible	ADJ	S7.4+ G2.1
 admission	NOUN	S7.4+/M1 P1 I1.3 Q2.2
 admit	VERB	Q2.2 B3 A1.8+ S7.4+/M1
-admittance	NOUN	A1.8+ S7.4+/M1
-admittance	NOUN	S7.4+/M1 P1
+admittance	NOUN	S7.4+/M1 A1.8+ P1
 admitted	ADJ	Q2.2 B3 A1.8+ S7.4+/M1
 admittedly	ADV	Z4
 admitting	NOUN	Q2.2 B3 A1.8+ S7.4+/M1
@@ -11915,7 +11835,6 @@ adultery	NOUN	G2.2-/S3.2
 adulthood	NOUN	T3+/S2
 adults	NOUN	T3+/S2mf
 adv	NOUN	Q3
-advance	VERB	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1
 advance	VERB	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1
 advance	ADJ	T4+ N4
 advance	NOUN	I1.1 M1/G3 S3.2 A5.1+/A2.1+
@@ -12025,10 +11944,8 @@ affiliate	NOUN	S5+mfn
 affiliate	VERB	S5+
 affiliated	ADJ	S5+
 affiliated	VERB	S5+
-affiliated	VERB	S5+
 affiliation	NOUN	S5+
 affinity	NOUN	E2+ A6.1+
-affirm	VERB	Q2.2 S1.2.3+ A7+
 affirm	VERB	Q2.2 S1.2.3+ A7+
 affirmation	NOUN	Q2.2
 affirmative	ADJ	A7+ Q3
@@ -12107,7 +12024,6 @@ age-specific	ADJ	T3
 age-wise	ADV	T3 T1.3
 aged	ADJ	T3++ T3
 aged	VERB	T3++ T3
-aged	VERB	T3++ T3
 aged	ADP	T3
 ageing	ADJ	T3++
 ageing	VERB	T3++ T3
@@ -12163,7 +12079,6 @@ ago	ADV	T1.1.1
 agog	ADJ	X5.2+
 agonise	VERB	E6-
 agonising	VERB	E6- B2-
-agonize	VERB	E6-
 agonize	VERB	E6-
 agonized	ADJ	B2-
 agonized	VERB	E6-
@@ -12358,7 +12273,6 @@ alfalfa	NOUN	L3 F1/L2
 alfresco	ADV	M6
 alfresco	ADJ	M6
 algae	NOUN	L3
-algae	NOUN	L3
 algebra	NOUN	N2
 algebraic	ADJ	N2
 algorithm	NOUN	N2
@@ -12371,7 +12285,6 @@ alien	NOUN	M7/S2mf W1/S2mf
 alienate	VERB	A6.1- A1.8- A2.2/E2-
 alienated	VERB	A6.1- A1.8- A2.2/E2-
 alienated	ADJ	A6.1- A1.8- A2.2/E2-
-alienated	VERB	A6.1- A1.8- A2.2/E2-
 alienating	VERB	A6.1- A1.8- A2.2/E2-
 alienating	NOUN	A6.1- A1.8- A2.2/E2-
 alienation	NOUN	A6.1- A1.8- A2.2/E2-
@@ -12452,7 +12365,6 @@ alliance	NOUN	S5+c
 alliances	NOUN	S5+c
 allied	ADJ	S5+
 allied	VERB	S5+
-allied	VERB	S5+
 alligator	NOUN	L2mfn O1.1
 alligators	NOUN	L2
 alliteration	NOUN	Q3
@@ -12466,13 +12378,11 @@ allots	VERB	A9-
 allotted	VERB	A9-
 allotted	ADJ	A9-
 allow	VERB	S7.4+ S8+ X2.1
-allow	VERB	S7.4+ S8+ X2.1
 allowable	ADJ	S7.4+
 allowance	NOUN	I1.1 S7.4+ X4.1
 allowances	NOUN	I1.1 S7.4+ X4.1
 allowed	VERB	S7.4+ S8+ X2.1
 allowed	ADJ	S7.4+ S8+ X2.1
-allowed	VERB	S7.4+ S8+ X2.1
 allowing	NOUN	S7.4+ S8+ X2.1
 allowing	VERB	S7.4+ S8+ X2.1
 allowing	ADJ	S7.4+ S8+ X2.1
@@ -12539,7 +12449,6 @@ alteration	NOUN	A2.1+
 altercation	NOUN	E3-
 altered	ADJ	A2.1+
 altered	VERB	A2.1+
-altered	VERB	A2.1+
 altering	ADJ	A2.1+
 altering	NOUN	A2.1+
 altering	VERB	A2.1+
@@ -12588,7 +12497,6 @@ amateurishly	ADV	I3.2-
 amateurism	NOUN	I3.2- A5.1-
 amaze	VERB	X2.6-
 amazed	VERB	X2.6-
-amazed	VERB	X2.6-
 amazed	ADJ	X2.6-
 amazement	NOUN	X2.6-
 amazes	VERB	X2.6-
@@ -12636,7 +12544,7 @@ amelogenesis	NOUN	A1.1.1/B1
 amen	INTJ	Z4
 amenability	NOUN	O4.2+
 amenable	ADJ	X7+ A6.1+
-amenable	X	Z99 JJ O4.2+
+amenable	X	O4.2+
 amend	VERB	A2.1+
 amended	ADJ	A2.1+
 amendment	NOUN	A2.1+
@@ -12703,12 +12611,10 @@ ample	ADJ	N5+
 amplification	NOUN	X3.2 A4.2+/A2.1 N3.2+/A2.1
 amplifier	NOUN	K3
 amplify	VERB	X3.2 A4.2+/A2.1 N3.2+/A2.1
-amplify	VERB	X3.2 A4.2+/A2.1 N3.2+/A2.1
 amplitude	NOUN	N3
 amply	ADV	A13.3
 ampule	VERB	M3/O2
 ampulla	NOUN	B1
-amputate	VERB	B3
 amputate	VERB	B3
 amputated	VERB	B3
 amputation	NOUN	B3
@@ -12850,7 +12756,6 @@ angle	NOUN	O4.4 X4.1
 angle	VERB	O4.4 K5.1 X4.1
 angled	ADJ	O4.4 X4.1
 angled	VERB	O4.4 X4.1 K5.1
-angled	VERB	O4.4 X4.1 K5.1
 angler	NOUN	F4/S2mf K5.1/S2mf
 anglerfish	NOUN	L2mfn
 anglers	NOUN	K5.1/S2mf
@@ -12888,7 +12793,6 @@ animal	ADJ	L2
 animal-friendly	ADJ	L2/S8+
 animals	NOUN	L2mfn S5+c O2c
 animate	VERB	X5.2+ Q4.3
-animate	VERB	X5.2+ Q4.3
 animated	VERB	X5.2+
 animated	ADJ	X5.2+ Q4.3
 animatic	ADJ	Q4.3
@@ -12919,11 +12823,8 @@ annexation	NOUN	A9+ G1.2 G3
 annexe	NOUN	H2 Q1.2 H1
 annexing	VERB	A9+ G1.2 G3
 annihilate	VERB	A1.1.2
-annihilate	VERB	A1.1.2
-annihilated	VERB	A1.1.2
 annihilated	VERB	A1.1.2
 annihilates	VERB	A1.1.2
-annihilation	NOUN	A1.1.2
 annihilation	NOUN	A1.1.2
 anniversary	NOUN	T1.2
 annotate	VERB	Q1.2/A4.2+ Q1.2/X4.2 Y2
@@ -12956,10 +12857,8 @@ anodise	VERB	O4.1 A10-
 anodize	VERB	O4.1 A10-
 anodyne	NOUN	B3 S8+
 anoint	VERB	S9
-anoint	VERB	S9
 anointed	VERB	S9
 anointed	ADJ	S9
-anointed	VERB	S9
 anole	NOUN	L2mfn
 anoles	NOUN	L2mfn
 anomalies	NOUN	A6.2-
@@ -12982,7 +12881,6 @@ answer	NOUN	Q2.2 X4.1 X9.2+
 answerability	NOUN	S7.1-
 answerable	ADJ	S7.1-
 answerably	ADV	S7.1- S7.1+ A2.2
-answered	VERB	Q2.2 S1.1.1
 answered	VERB	Q2.2 S1.1.1
 answered	ADJ	Q2.2
 answering	NOUN	Q2.2 S1.1.1
@@ -13131,7 +13029,6 @@ antichristian	ADJ	S9/E2- G1.2 G2.1 G2.2
 anticipate	VERB	X2.6+
 anticipate	ADJ	X2.1
 anticipated	VERB	X2.6+
-anticipated	VERB	X2.6+
 anticipated	ADJ	X2.6+
 anticipating	VERB	X2.6+
 anticipation	NOUN	X2.6+
@@ -13141,8 +13038,7 @@ anticlericalism	NOUN	G1.2/S9/E2-
 anticlimax	NOUN	X9.2-
 anticlockwise	ADJ	M6
 anticoagulant	NOUN	B3
-antics	NOUN	A1.1.1
-antics	NOUN	E4.1+ S1.2.6-
+antics	NOUN	E4.1+ S1.2.6- A1.1.1
 anticyclone	NOUN	W4
 antidepressant	ADJ	B3
 antidepressant	NOUN	B3
@@ -13171,7 +13067,6 @@ antiquary	NOUN	T3/X2.4/S2mf T3/A9+/S2mf
 antiquated	ADJ	T3+
 antique	NOUN	T3+++/O2
 antique	ADJ	T3+++
-antiqued	VERB	O4.2
 antiqued	VERB	O4.2
 antiques	NOUN	T3+++/O2
 antiquey	ADJ	T3+
@@ -13263,13 +13158,11 @@ apologising	NOUN	Q2.2/S1.2.4+
 apologist	NOUN	S8+/Q2.1/S2mf
 apologists	NOUN	S8+/Q2.1/S2mf
 apologize	VERB	Q2.2/S1.2.4+
-apologize	VERB	Q2.2/S1.2.4+
 apologized	VERB	Q2.2/S1.2.4+
 apology	NOUN	Q2.2 S1.2.4+
 apophysis	NOUN	B2-/L2 B2-/L3
 apoplectic	ADJ	E3---
 apoplexy	NOUN	B2-
-apostasy	NOUN	S9 X2.1
 apostasy	NOUN	A1.7-/S9 A1.7-/X2.1
 apostate	NOUN	S9/S2mf X2.1/S2mf
 apostle	NOUN	S9/S2.2m S8+/S2mf
@@ -13277,7 +13170,6 @@ apostolate	NOUN	S9
 apostolic	ADJ	S9
 apostrophe	NOUN	Q3
 apotheosis	NOUN	A5.1+++/A4.1
-appal	VERB	E2-
 appal	VERB	E2-
 appall	VERB	E2-
 appalled	VERB	E2-
@@ -13295,7 +13187,6 @@ apparently	ADV	A8
 apparition	NOUN	S9 A8 S2mf/L1-
 appeal	NOUN	Q2.1 O4.2+ G2.1
 appeal	VERB	O4.2+ Q2.2 G2.1 E2+
-appeal	VERB	O4.2+ Q2.2 G2.1 E2+
 appealability	NOUN	O4.2+
 appealable	ADJ	O4.2+
 appealed	VERB	O4.2+ Q2.2
@@ -13310,10 +13201,8 @@ appeared	VERB	A8 A10+ A3+ G2.1 K4 Q4
 appearing	NOUN	A8 A10+ A3+ G2.1 K4 Q4
 appearing	ADJ	A8 A10+ A3+ G2.1 K4 Q4
 appears	VERB	A8 A10+ A3+ G2.1 K4 Q4
-appears	VERB	A8 A10+ A3+ G2.1 K4 Q4
 appease	VERB	E3+
-appeasement	NOUN	E3+
-appeasement	NOUN	S7.3-
+appeasement	NOUN	S7.3- E3+
 appeaser	NOUN	E3+/S2mf
 appeasers	NOUN	E3+/S2mf
 appeasing	VERB	E3+
@@ -13351,7 +13240,6 @@ applet	NOUN	Y2
 appley	ADJ	F1
 appliance	NOUN	O2
 applicability	NOUN	A1.5.2+
-applicability	NOUN	A1.5.2+
 applicable	ADJ	A1.5.2+
 applicant	NOUN	Q2.2/S2mf
 applicant	ADJ	Q2.2
@@ -13360,7 +13248,6 @@ application-independent	ADJ	Y2
 applicator	NOUN	O2
 applicators	NOUN	O2
 applied	ADJ	A1.5.2+
-applied	VERB	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
 applied	VERB	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
 applies	VERB	Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+
 appliqué	NOUN	C1
@@ -13423,7 +13310,6 @@ approve	VERB	S7.4+ E2+ G1.1
 approved	ADJ	S7.4+ E2+ G1.1
 approving	ADJ	E2+
 approvingly	ADV	E2+
-approx	ADV	A13.4
 approx	ADV	A13.4
 approx.	ADV	A13.4
 approximate	ADJ	A13.4 A5.3-
@@ -13636,8 +13522,7 @@ aromatherapist	NOUN	B3/S2mf
 aromatherapy	NOUN	B3
 aromatic	ADJ	X3.5 A5.1+
 arose	VERB	A1.1.1 M1
-around	ADV	A13.4
-around	ADV	M6
+around	ADV	A13.4 M6
 around	ADP	Z5
 arousal	NOUN	S3.2+ X5.2+
 arouse	VERB	X5.2+ T2+ S3.2+ E3-
@@ -13651,7 +13536,6 @@ arraigned	VERB	G2.1
 arraigning	VERB	G2.1
 arraignment	NOUN	G2.1
 arrange	VERB	S7.1+ A1.1.1
-arranged	VERB	S7.1+ A1.1.1
 arranged	VERB	S7.1+ A1.1.1
 arranged	ADJ	S7.1+ O4.1
 arrangement	NOUN	Q2.2 S7.1+ O4.1
@@ -13770,7 +13654,6 @@ as	SCONJ	Z5
 asbestos	NOUN	O1.1
 asbestosis	NOUN	B2-
 ascend	VERB	M1 M6/N3.7+ X9.2+/A2.1
-ascend	VERB	M1 M6/N3.7+ X9.2+/A2.1
 ascendancy	NOUN	S7.1+ M1
 ascendant	NOUN	S9
 ascendants	NOUN	S9
@@ -13808,7 +13691,7 @@ askew	ADJ	O4.1
 asking	ADJ	I1.3
 asking	VERB	Q2.2 I1.3
 asking	NOUN	Q2.2 I1.3
-aslant	ADJ	o4.1
+aslant	ADJ	O4.1
 aslant	ADV	O4.1
 asleep	ADJ	B1
 asocial	ADJ	S1.1.3-
@@ -13846,7 +13729,6 @@ assassination	NOUN	L1- G2.1-
 assault	NOUN	E3- X8+
 assault	VERB	E3- G3
 assaulted	ADJ	E3-
-assaulted	VERB	E3-
 assaulted	VERB	E3-
 assaulter	NOUN	E3-/S2mf A1.1.2/S2mf
 assaulting	NOUN	E3-
@@ -13908,7 +13790,6 @@ associate	VERB	A6.1+/X2.1 S3.1
 associate	NOUN	S5+/S2mf S3.1mf
 associated	ADJ	S5+ A2.2
 associated	VERB	A6.1+/X2.1 S3.1
-associated	VERB	A6.1+/X2.1 S3.1
 associates	NOUN	S3.1/S2mf
 associates	VERB	A6.1+/X2.1 S3.1
 associating	NOUN	A6.1+/X2.1 S3.1
@@ -13946,10 +13827,8 @@ astir	ADJ	M1 B1
 astonish	VERB	X2.6-
 astonished	VERB	X2.6-
 astonished	ADJ	X2.6-
-astonished	VERB	X2.6-
 astonishing	ADJ	X2.6- A6.2-
 astonishingly	ADV	X2.6- A6.2-
-astonishment	NOUN	X2.6-
 astonishment	NOUN	X2.6-
 astound	VERB	X2.6-
 astounded	VERB	X2.6-
@@ -14008,7 +13887,6 @@ athlete	NOUN	K5.1/S2mf
 athletic	ADJ	K5.1
 athletic-shoe	NOUN	B5
 athletic-style	ADJ	K5.1
-athletics	NOUN	K5.1
 athletics	NOUN	K5.1
 atlas	NOUN	Q4.1/W3
 atlases	NOUN	Q4.1/W3
@@ -14075,7 +13953,6 @@ attendant	ADJ	S5+ A2.2
 attendants	NOUN	S2mf
 attended	ADJ	S1.1.3+
 attended	VERB	S1.1.3+ X5.1+
-attended	VERB	S1.1.3+ X5.1+
 attendee	NOUN	S1.1.3+/S2mf
 attender	NOUN	S1.1.3+/S2mf
 attenders	NOUN	S1.1.3+/S2mf
@@ -14086,7 +13963,6 @@ attentive	ADJ	X5.1+ S8+
 attentively	ADV	X5.1+
 attentiveness	NOUN	X5.1+ S8+
 attenuate	VERB	N5-/A2.1 S1.2.5-/A2.1
-attenuated	VERB	N5-/A2.1 S1.2.5-/A2.1
 attenuated	VERB	N5-/A2.1 S1.2.5-/A2.1
 attenuation	NOUN	A2.1 X5.2- Y1
 attenuator	NOUN	O2/Y1
@@ -14101,7 +13977,6 @@ attitudinal	ADJ	X2.1
 attorney	NOUN	G2.1/S2mf
 attorney-general	NOUN	S7.1+/S2mf
 attorneys	NOUN	G2.1/S2mf
-attract	VERB	O4.2+ S3.2 O3
 attract	VERB	O4.2+ S3.2 O3
 attracted	ADJ	O4.2+ S3.2 O3
 attracting	ADJ	O4.2+ S3.2 O3
@@ -14176,12 +14051,10 @@ augment	VERB	N5+/A2.1
 augment	NOUN	Q3
 augmentation	NOUN	N5+/A2.1
 augmented	VERB	N5+/A2.1
-augmented	VERB	N5+/A2.1
 augmenting	VERB	N5+/A2.1
 augur	VERB	X2.6+
-august	PROPN	Z3
 august	ADJ	S7.2+
-august	PROPN	T1.3
+august	PROPN	T1.3 Z1m Z3
 auk	NOUN	L2
 aunt	NOUN	S4f
 auntie	NOUN	S4f
@@ -14304,7 +14177,6 @@ avaricious	ADJ	S1.2.2+
 ave	VERB	A9+ A2.2 S4 Z5
 avec	X	Z5
 avenge	VERB	S7.3+/E3-
-avenge	VERB	S7.3+/E3-
 avenger	NOUN	S7.3+/E3-/S2mf
 avens	NOUN	L3
 avenue	NOUN	M3/H3 X4.2
@@ -14322,7 +14194,7 @@ averse	ADJ	E2-
 aversion	NOUN	E2-
 avert	VERB	A1.9 M6/X3.4
 averting	VERB	A1.9 M6/X3.4
-avertly	ADV	BLAH
+avertly	ADV	A1.9 M6/X3.4
 aviary	NOUN	L2/H1
 aviation	NOUN	M5
 aviator	NOUN	M5/S2mf
@@ -14354,7 +14226,6 @@ awake	VERB	B1 X2.5+
 awake	ADJ	B1
 awaken	VERB	X2.2+ X5.2+
 awakening	NOUN	B1 X5.2+
-awaking	NOUN	B1 X2.5+
 awaking	NOUN	B1 X2.5+
 awaking	VERB	B1 X2.5+
 award	NOUN	A5.1+/A9- I1.3+/A9-
@@ -14406,7 +14277,7 @@ axes	VERB	T2-
 axial	ADJ	A4.2+
 axiom	NOUN	X2.1 N2
 axiomatic	ADJ	A5.2+ N2
-axiomatic	X	Z99 JJ X2.1 N2
+axiomatic	X	X2.1 N2
 axis	NOUN	M1 W3
 axle	NOUN	O2
 axles	NOUN	O2
@@ -14533,7 +14404,6 @@ backlog	NOUN	N5+
 backpack	NOUN	O2
 backpacker	NOUN	M1/S2mf
 backpacking	NOUN	M1
-backpedal	VERB	A2.1+
 backpedal	VERB	A2.1+
 backrest	NOUN	O2
 backroom	NOUN	H2
@@ -14664,7 +14534,7 @@ bald	ADJ	B1
 balderdash	NOUN	A5.2- S1.2.6-
 baldheaded	ADJ	B1 O4.1
 balding	ADJ	B1
-baldness	NOUN	B1 04.1 O4.2-
+baldness	NOUN	B1 O4.1 O4.2-
 baldy	ADJ	B1
 baldy	NOUN	B1/S2mf
 bale	VERB	A1.1.1
@@ -14740,7 +14610,6 @@ banded	VERB	S5+
 banded	ADJ	O4.3
 bandied	VERB	Q2.2
 bandied	ADJ	Q2.2
-bandied	VERB	Q2.2
 banding	VERB	S5+ O4.1
 banding	NOUN	P1/A4.1
 bandit	NOUN	G2.1-/S2mf
@@ -14794,7 +14663,6 @@ bankruptcy	NOUN	I1.2+ A5.1-
 banks	VERB	I1.1 X2.6+ M1
 banned	VERB	S7.4-
 banned	ADJ	S7.4-
-banned	VERB	S7.4-
 banner	NOUN	O2
 banning	NOUN	S7.4-
 bannister	NOUN	H2
@@ -14853,7 +14721,6 @@ barcadi	PROPN	F2
 barclays	PROPN	Z3
 barcode	NOUN	Q1.1
 bare	VERB	A10+
-bare	VERB	A10+
 bare	ADJ	O4.1 B5- A13.2
 bare-faced	ADJ	A11.2+ A10+
 bare-facedly	ADV	S1.2.3+ A10+
@@ -14881,7 +14748,6 @@ baritone	NOUN	K2/S2.2m X3.2
 barium	NOUN	O1.1
 bark	VERB	L2/X3.2
 bark	NOUN	L2/X3.2 L3/O1
-bark	VERB	L2/X3.2
 barkeeper	NOUN	F2/S2mf
 barker	PROPN	Z1mf
 barking	ADJ	L2/X3.2 B2-/X1
@@ -15013,14 +14879,12 @@ bathroom	NOUN	B4/H2
 baths	NOUN	H5/B4
 bathtub	NOUN	O2/B4
 bathwater	NOUN	O1.2/B4
-batik	NOUN	A1.1.1/C1
-batik	NOUN	O1.1
+batik	NOUN	C1 O1.1 A1.1.1/C1
 bating	NOUN	K5.1/L2
 bating	VERB	K5.1/L2
 batman	NOUN	G3/S7.1-/S2.2m
 baton	NOUN	O2
 baton-charge	NOUN	G3
-bats	NOUN	K5.1/O2 L2mfn S2.1/T3+f
 bats	NOUN	K5.1/O2 L2mfn S2.1f/T3+
 batsman	NOUN	K5.1/S2mf
 battalion	NOUN	G3/S5+c
@@ -15140,7 +15004,6 @@ beastly	ADJ	A5.1- L2
 beastly	ADV	E3-
 beat	NOUN	X3.2 K2 M6 M7
 beat	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1
-beat	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1
 beat-up	ADJ	E3- O4.2-
 beatbox	NOUN	K2/O3
 beaten	ADJ	X9.2-/S7.3 X9.2-/G3 S7.1- E3- O4.1
@@ -15181,7 +15044,6 @@ becauses	NOUN	A2.2
 beck	NOUN	Q1.1/X5.1+ M1/X5.1+
 beckon	VERB	Q1.1 X5.2+
 beckons	VERB	Q1.1 X5.2+
-become	VERB	A2.1+ O4.2+
 become	VERB	A2.1+ O4.2+
 becoming	ADJ	O4.2+
 becos	SCONJ	Z5
@@ -15225,7 +15087,6 @@ bedspread	NOUN	H5
 bedspring	NOUN	O2
 bedstead	NOUN	H5
 bedtime	NOUN	T1.2
-bedtime	NOUN	T1.2
 bedwetting	NOUN	B2-
 bee	NOUN	L2mfn K1/S1.1.3+
 bee-keeping	NOUN	F4/L2
@@ -15265,7 +15126,6 @@ beets	NOUN	L3
 befall	VERB	A1.1.1 A1.4
 befit	VERB	A1.2+
 befitting	ADJ	A1.2+
-before	ADV	N4
 before	ADV	N4
 before	ADP	Z5
 before	SCONJ	Z5
@@ -15345,7 +15205,7 @@ belch	NOUN	X3.2
 belch	VERB	B1/X3.2 A2.2 A1.1.1
 belches	VERB	B1/X3.2 A2.2 A1.1.1
 belching	VERB	B1/X3.2 A2.2 A1.1.1
-belchum	NOUN	Z99
+belchum	NOUN	Z1
 beleaguered	ADJ	E3- G3
 belfry	NOUN	S9/H2
 belie	VERB	A5.2-
@@ -15354,7 +15214,6 @@ belies	VERB	A10- A5.2-
 believable	ADJ	A5.2+/A8
 believe	VERB	X2.1 S9%
 believed	ADJ	X2.1 S9%
-believed	VERB	X2.1 S9%
 believed	VERB	X2.1 S9%
 believer	NOUN	X2.1/S2mf S9/S2mf
 believes	VERB	X2.1 S9%
@@ -15436,7 +15295,6 @@ beneficiary	NOUN	A9+/S2mf
 benefit	NOUN	S8+ I1.1/G1.1
 benefit	VERB	S8+
 benefited	VERB	S8+
-benefited	VERB	S8+
 benefited	ADJ	S8+
 benefiting	ADJ	S8+
 benefiting	NOUN	S8+
@@ -15455,7 +15313,6 @@ benighted	ADJ	A1.4- X2.2-
 benign	ADJ	S1.2.1+ B2+ E3+
 benignly	ADV	S1.2.1+ E3+
 benn	PROPN	Z1
-bent	VERB	A2.1+ O4.4
 bent	VERB	A2.1+ O4.4
 bent	NOUN	X9.1+
 bent	ADJ	G2.1- O4.4 S3.2/B1
@@ -15481,7 +15338,6 @@ berthed	VERB	M8/M5
 beseech	VERB	Q2.2 X7+
 beseeching	VERB	Q2.2 X7+
 beseechingly	ADV	Q2.2 X7+
-beset	VERB	A12- E3-
 beset	VERB	A12- E3-
 besetting	VERB	A12- E3-
 besetting	ADJ	A12- E3-
@@ -15518,7 +15374,6 @@ bestow	VERB	A9-
 bestowed	VERB	A9-
 bestridden	VERB	S7.1+ A11.1+ S1.2.5++
 bestride	VERB	S7.1+ A11.1+ S1.2.5++
-bestride	VERB	S7.1+ A11.1+ S1.2.5++
 bestrides	VERB	S7.1+ A11.1+ S1.2.5++
 bestriding	VERB	S7.1+ A11.1+ S1.2.5++
 bestrode	VERB	S7.1+ A11.1+ S1.2.5++
@@ -15530,9 +15385,7 @@ beta	NOUN	Q3
 betide	VERB	A2.1+
 betoken	VERB	Q1.1
 betray	VERB	G2.2- A10+
-betray	VERB	G2.2- A10+
 betrayal	NOUN	G2.2-
-betrayed	VERB	G2.2- A10+
 betrayed	VERB	G2.2- A10+
 betrayer	NOUN	G2.2-/S2mf
 betraying	VERB	G2.2- A10+
@@ -15547,7 +15400,6 @@ better-off	ADJ	I1.1++ A5.1++
 better-quality	ADJ	A5.1++
 bettered	VERB	A5.1++
 bettered	ADJ	A5.1++
-bettered	VERB	A5.1++
 bettering	VERB	A5.1++
 betterment	NOUN	A5.1+/A2.1
 betters	NOUN	A5.1++/S2mf
@@ -15573,7 +15425,6 @@ bewilderingly	ADV	X2.5-
 bewilderment	NOUN	X2.5-
 bewitch	VERB	O4.2+ S3.2 X5.2+
 bewitched	VERB	O4.2+ S3.2 X5.2+
-bewitched	VERB	O4.2+ S3.2 X5.2+
 bewitches	VERB	O4.2+ S3.2 X5.2+
 bewitching	ADJ	O4.2+
 beyond	ADV	M6 N4
@@ -15594,7 +15445,6 @@ bias	NOUN	E2++ G2.2- B5
 bias	VERB	A2.2/E2++
 bias-cut	ADJ	B5
 biased	ADJ	E2++ G2.2-
-biased	VERB	A2.2/E2++
 biased	VERB	A2.2/E2++
 biases	NOUN	E2++ G2.2-
 biases	VERB	A2.2/E2++
@@ -15698,7 +15548,6 @@ bilingualism	NOUN	Q3
 bilinguality	NOUN	Q3
 bilious	ADJ	O4.2- B2- E3-
 bilk	VERB	G2.2-/A5.2-
-bilk	VERB	G2.2-/A5.2-
 bilked	VERB	G2.2-/A5.2-
 bilking	VERB	G2.2-/A5.2-
 bilks	VERB	G2.2-/A5.2-
@@ -15706,8 +15555,7 @@ bill	VERB	I1.3
 bill	NOUN	I1.3 G1.1 Q1.2 L2
 billboard	NOUN	Q1.2
 billboard-like	ADJ	Q1.2
-billed	VERB	I1.3
-billed	VERB	I2.2/Q2.2
+billed	VERB	I2.2/Q2.2 I1.3
 billericay	PROPN	Z2
 billet	NOUN	G3/H4
 billet	VERB	G3/H4
@@ -15929,7 +15777,6 @@ blackcurrent	NOUN	F1 L3
 blackcurrents	NOUN	F1 L3
 blacked	ADJ	O4.3 G2.2-
 blacken	VERB	O4.3 Q2.2/G2.2-
-blacken	VERB	O4.3 Q2.2/G2.2-
 blackened	ADJ	O4.3 O4.2-
 blackest	ADJ	O4.3 E4.1---
 blackguard	NOUN	G2.1-/S2mf
@@ -16101,9 +15948,7 @@ blitzed	VERB	F2++
 blitzkrieg	NOUN	G3/N3.8+ Q4.2
 blizzard	NOUN	W4
 bloat	VERB	X3.2+/A2.1 O4.4/A2.1 N5+/A2.1
-bloat	VERB	X3.2+/A2.1 O4.4/A2.1 N5+/A2.1
 bloated	ADJ	N3.2++
-bloated	VERB	N3.2++
 bloated	VERB	N3.2++
 bloating	NOUN	B2- O4.4/A2.1
 blob	NOUN	O2
@@ -16173,7 +16018,6 @@ blossom	NOUN	L3
 blossomed	VERB	L3 X9.2+
 blossoming	VERB	L3 X9.2+
 blot	NOUN	O2 O4.2- G2.2-
-blot	VERB	A1.1.2 A1.1.1
 blot	VERB	A1.1.2 A1.1.1
 blotch	NOUN	O4.1
 blotched	ADJ	O4.1
@@ -16246,7 +16090,6 @@ blur	NOUN	A10-
 blur	VERB	A10-
 blurb	NOUN	Q2.1
 blurred	ADJ	O4.1
-blurred	VERB	O4.1 A10-
 blurred	VERB	O4.1 A10-
 blurring	VERB	O4.1 A10-
 blurry	ADJ	O4.1 A10-
@@ -16365,14 +16208,12 @@ bollard	NOUN	O2
 bollards	NOUN	O2
 bollock	VERB	Q2.2
 bollocked	VERB	Q2.2
-bollocked	VERB	Q2.2
 bollocking	NOUN	Q2.2
 bollocks	NOUN	Z4 B1%
 bolshy	ADJ	A12- G1.2
 bolster	NOUN	H5
 bolster	VERB	S8+
 bolstered	ADJ	S8+
-bolstered	VERB	S8+
 bolstered	VERB	S8+
 bolstering	NOUN	S8+
 bolstering	VERB	S8+
@@ -16491,7 +16332,6 @@ booming	ADJ	X9.2+
 booming	VERB	Q2.2 X3.2
 booming	NOUN	Q2.2 X3.2
 boon	NOUN	S8+
-boon	NOUN	S8+
 boooooo	INTJ	Z4
 boor	NOUN	S1.2.4-/S2mf
 boorish	ADJ	S1.2.4-
@@ -16593,7 +16433,6 @@ bother	NOUN	E6- E3- G2.2- A12-
 bother	VERB	E6- A1.1.1 E3-
 bothered	VERB	E6- A1.1.1 E3- X5.2+
 bothered	ADJ	E6- E3- X5.2+
-bothered	VERB	E6- A1.1.1 E3-
 bothering	VERB	E6- A1.1.1 E3-
 bothersome	ADJ	E3-
 bottle	VERB	A1.1.1 E5- A10-
@@ -16624,7 +16463,6 @@ bougainvillaea	NOUN	L3
 bougainvillea	NOUN	L3
 bough	NOUN	L3
 bought	VERB	I2.2
-bought	VERB	I2.2
 bought-in	ADJ	I2.2
 bouillabaisse	NOUN	F1
 bouillon	NOUN	F1
@@ -16641,10 +16479,8 @@ bouncing	NOUN	M1 M2 I1.2
 bouncing	ADJ	M1 I1.2
 bouncy	ADJ	O4.5 A1.1.1
 bound	ADJ	A1.7+ S6+ M6
-bound	VERB	M1 M6
 bound	NOUN	A1.7+ M1
-bound	VERB	A1.7+ S6+ A7+++
-bound	VERB	A1.7+ S6+ A7+++
+bound	VERB	A1.7+ S6+ A7+++ M1 M6
 boundaried	ADJ	A1.7+
 boundaries	NOUN	M7 A1.7+
 boundary	NOUN	M7 A1.7+
@@ -16741,7 +16577,6 @@ brag	VERB	S1.2.3+/Q2.2
 brags	VERB	S1.2.3+/Q2.2
 braid	VERB	A1.1.1
 braid	NOUN	B5 B4 O4.4
-braid	VERB	A1.1.1
 braided	ADJ	O4.1
 braided	VERB	A1.1.1
 brailing	NOUN	H5/O2
@@ -16756,7 +16591,6 @@ brainchild	NOUN	A9+/X2.1
 brainless	ADJ	X9.1-
 brainpower	NOUN	X9.1+
 brains	NOUN	B1 X2 X9.1+ X9.1+/S2mf
-brainstorm	VERB	X2.4
 brainstorm	VERB	X2.4
 brainstorming	NOUN	X2.4
 brainstorming	VERB	X2.4
@@ -16777,7 +16611,6 @@ bran	NOUN	F1
 branch	NOUN	S5+c L3 A4.1
 branch	VERB	N5+ A2.1+
 branched	VERB	N5+ A2.1+
-branched	VERB	N5+ A2.1+
 branching	ADJ	O4.4 M6
 branchless	ADJ	O4.1
 brand	VERB	Q1.1
@@ -16790,7 +16623,6 @@ brand-name	ADJ	Q1.1/I2.2
 brand-new	ADJ	T3---
 brand-recognition	ADJ	Q1.1
 branded	ADJ	A4.1
-branded	VERB	Q1.1
 branded	VERB	Q1.1
 branded-goods	ADJ	O2/I2.2
 branding	VERB	Q1.1
@@ -16859,7 +16691,6 @@ breadsticks	NOUN	F1
 breadth	NOUN	N3.3 A6.3+
 breadwinner	NOUN	I3.1/S2mf
 break	NOUN	K1/T1.3 T2- O2 A1.4 A1.1.2
-break	VERB	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
 break	VERB	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
 break-away	ADJ	S5-
 break-down	NOUN	X9.2- A1.1.2 Q2.2 T2- B2-/X1
@@ -17014,7 +16845,6 @@ bright-eyed	ADJ	O4.1 O4.2+
 brighten	VERB	O4.3 A5.1+/A2.1
 brightened	VERB	O4.3 A5.1+/A2.1
 brightened	ADJ	O4.3
-brightened	VERB	O4.3 A5.1+/A2.1
 brightening	NOUN	O4.3 A5.1+/A2.1
 brightening	VERB	O4.3 A5.1+/A2.1
 brighter	ADJ	O4.3 X9.1++
@@ -17049,7 +16879,6 @@ briskness	NOUN	N3.8+
 brisky	ADJ	N3.8+
 bristle	NOUN	L2 O2
 bristle	VERB	E3- E5- A2.1/O4.5
-bristle	VERB	E3- E5- A2.1/O4.5
 bristled	VERB	E3-
 bristled	ADJ	O4.5
 bristles	NOUN	L2 O2
@@ -17070,10 +16899,8 @@ broad-minded	ADJ	S7.4+/A1.7-
 broad-ranging	ADJ	A6.3+
 broadband	ADJ	Q1.3/Y2
 broadcast	VERB	Q4.3
-broadcast	VERB	Q4.3
 broadcast	NOUN	Q4.3
 broadcast	ADJ	Q4.3
-broadcast	VERB	Q4.3
 broadcast-related	ADJ	Q4.3
 broadcastable	ADJ	Q4.3
 broadcaster	NOUN	Q4.3/S2mf
@@ -17098,7 +16925,6 @@ broil	VERB	F1
 broiler	NOUN	F1/O2
 broiling	VERB	F1
 broke	ADJ	I1.1-
-broke	VERB	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
 broke	VERB	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
 broken	VERB	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
 broken	ADJ	A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@
@@ -17141,7 +16967,6 @@ brotherly	ADJ	S4
 brothers	NOUN	S4m S2.2m S9/S2.2m
 brothers-in-law	NOUN	S4m
 brought	VERB	M2 A2.2
-brought	VERB	M2 A2.2
 brouhaha	NOUN	Q2.2/E3-
 brow	NOUN	B1
 browbeat	VERB	S7.1+ E5
@@ -17171,14 +16996,12 @@ brrr	X	Z4
 bruise	NOUN	B2- A1.1.2
 bruise	VERB	B2- A1.1.2
 bruised	VERB	B2- A1.1.2
-bruised	VERB	B2- A1.1.2
 bruiser	NOUN	S1.2.5+/S2mf
 bruises	NOUN	B2-
 bruising	ADJ	A1.1.2
 brunch	NOUN	F1
 brunette	NOUN	O4.3/S2.1f
 brunettes	NOUN	S2.1/O4.3f
-brung	VERB	M2 A2.2
 brung	VERB	M2 A2.2
 brunt	NOUN	N5+
 bruschetta	NOUN	F1
@@ -17283,7 +17106,6 @@ builders	NOUN	H1/S2mf A1.1.1/S2mf
 building	NOUN	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
 buildings	NOUN	H1
 built	VERB	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
-built	VERB	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
 built-in	ADJ	O4.1 A6.2+
 built-in	VERB	O4.1
 built-up	ADJ	H1
@@ -17384,7 +17206,6 @@ bungie	NOUN	K5.2
 bunging	NOUN	M2 A1.1.1
 bunging	VERB	M2 A1.1.1
 bungle	VERB	X9.2-
-bungle	VERB	X9.2-
 bungled	VERB	X9.2-
 bungler	NOUN	X9.2-/S2mf
 bungling	VERB	X9.2-
@@ -17444,18 +17265,15 @@ burial	NOUN	L1-
 burials	NOUN	L1-
 buried	ADJ	A10- L1-
 buried	VERB	A10- L1-
-buried	VERB	A10- L1-
 burlap	NOUN	O1.1
 burlesque	NOUN	S7.2-/Q1.2 S7.2-/K4
 burley	ADJ	N3.2+
 burly	ADJ	O4.1/S1.2.5+
 burn	NOUN	B2-/O4.6+
 burn	VERB	O4.6+ E1 A1.5.1
-burn	VERB	O4.6+ E1 A1.5.1
 burn-out	NOUN	B2-
 burned	ADJ	O4.6+
 burned	VERB	O4.6+ E1 A1.5.1
-burned	VERB	O4.6+ A1.5.1
 burned-out	ADJ	A1.1.2
 burner	NOUN	O2/O4.6+
 burners	NOUN	O4.6+
@@ -17466,7 +17284,6 @@ burnish	VERB	A5.1+/A2.1
 burnished	ADJ	O4.1 O4.2+
 burnout	NOUN	B2- O3/A1.1.2
 burnt	ADJ	O4.6
-burnt	VERB	O4.6+ E1
 burnt	VERB	O4.6+ E1
 burnt-out	ADJ	A1.1.2
 burnt-sienna	ADJ	O4.3
@@ -17486,16 +17303,13 @@ bursary	NOUN	I1.1
 burst	ADJ	A1.1.2 A1.1.1
 burst	NOUN	N5 A1.1.2
 burst	VERB	A1.1.2 A1.1.1
-burst	VERB	A1.1.2 A1.1.1
 bursting	VERB	A1.1.2 A1.1.1
 bursts	NOUN	N5 A1.1.2
-bury	VERB	A10- L1-
 bury	VERB	A10- L1-
 bus	NOUN	M3fn
 bus	VERB	M3
 bus-stop	NOUN	M3/M7
 bus-stops	NOUN	M3/M7
-buses	NOUN	M3fn
 buses	NOUN	M3fn
 buses	VERB	M3
 bush	VERB	N3.2+
@@ -17816,7 +17630,6 @@ canceled	VERB	T2-
 cancellation	NOUN	T2-
 cancelled	ADJ	T2-
 cancelled	VERB	T2-
-cancelled	VERB	T2-
 cancelling	VERB	T2-
 cancelling	NOUN	T2-
 cancer	NOUN	B2-
@@ -17910,7 +17723,6 @@ capital	ADJ	I1.1 G1.1 A5.1+ N3.2+ Q1.2 G2.1
 capital-intensive	ADJ	I1.1
 capitalisation	NOUN	I2.2/I1.1+ Q3
 capitalise	VERB	A5.1+ I2.2/I1.1+ Q3
-capitalise	VERB	A5.1+ I2.2/I1.1+ Q3
 capitalised	VERB	A5.1+ I2.2/I1.1+ Q3
 capitalised	ADJ	A5.1+ I2.2/I1.1+ Q3
 capitalising	VERB	A5.1+ I2.2/I1.1+ Q3
@@ -17918,7 +17730,6 @@ capitalism	NOUN	G1.2/I2.1
 capitalist	ADJ	I1.1/G1.2
 capitalistic	ADJ	I1.1
 capitalization	NOUN	I2.2/I1.1+ Q3
-capitalize	VERB	A5.1+ I2.2/I1.1+ Q3
 capitalize	VERB	A5.1+ I2.2/I1.1+ Q3
 capitulate	VERB	G3/S7.1- A9-
 capitulation	NOUN	S7.1-
@@ -17937,9 +17748,6 @@ captain	VERB	S7.1+
 captainship	NOUN	S7.1+ G3
 caption	NOUN	Q1.2
 captivate	VERB	X5.1+
-captivate	VERB	X5.1+
-captivate	VERB	X5.1+
-captivated	VERB	X5.1+
 captivated	VERB	X5.1+
 captivates	VERB	X5.1+
 captive	NOUN	A1.7+/S2mf
@@ -18029,8 +17837,7 @@ cargramme	NOUN	Q1.3
 caricature	NOUN	C1
 caries	NOUN	B2-
 caring	ADJ	E2+ S8+
-caring	NOUN	E2+
-caring	NOUN	E6- S1.2.2- B3
+caring	NOUN	E6- S1.2.2- B3 E2+
 caring	VERB	E6- S1.2.2- B3
 caringly	ADV	E6- S1.2.2-
 carious	ADJ	B2-
@@ -18060,14 +17867,12 @@ carpentry	NOUN	H1 H2 H5
 carpet	NOUN	H5
 carpet	VERB	H5 Q2.2
 carpeted	VERB	H5 Q2.2
-carpeted	VERB	H5 Q2.2
 carpeted	ADJ	H5 Q2.2
 carpeting	NOUN	H5 Q2.2
 carping	ADJ	E2-
 carputale	ADJ	B1
 carriage	NOUN	M2 M3fn
 carriageway	NOUN	M3
-carried	VERB	M2 A9+ Q4 S7.4+ B1% B2-%
 carried	VERB	M2 A9+ Q4 S7.4+ B1% B2-%
 carried	ADJ	M2 S7.4+
 carrier	NOUN	M3 M5/G3fn B2-/S2mf
@@ -18083,7 +17888,6 @@ carry-on	NOUN	E6- T2++
 carrying	NOUN	M2 A9+ Q4 S7.4+ B1% B2-%
 cars	NOUN	M3fn
 cart	NOUN	M3fn
-cart	VERB	M2 M3
 cart	VERB	M2 M3
 cart-load	NOUN	N5+
 cart-loads	NOUN	N5+
@@ -18102,7 +17906,6 @@ cartoonist	NOUN	C1/S2mf
 cartoonlike	ADJ	Q4.3 C1
 cartoony	NOUN	C1 Q4.3
 cartridge	NOUN	O2
-carve	VERB	A1.1.1
 carve	VERB	A1.1.1 F1
 carved	VERB	A1.1.1 F1
 carved	ADJ	O4.1 F1
@@ -18232,7 +18035,6 @@ catechising	VERB	Q2.2/S9
 catechism	NOUN	Q2.2/S9
 catechist	NOUN	S9/S2mf
 catechize	VERB	Q2.2/S9
-catechize	VERB	Q2.2/S9
 catechumens	NOUN	S9/S2mf
 categoric	ADJ	A7+
 categorical	ADJ	A7+
@@ -18269,7 +18071,6 @@ cattery	NOUN	L2/H1c
 cattle	NOUN	L2mfn
 catty	ADJ	S1.2.1- S1.2.4- L2%
 catwalk	NOUN	M7/B5
-caught	VERB	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3
 caught	VERB	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3
 cauldron	NOUN	O2
 cauli	NOUN	L3
@@ -18465,7 +18266,6 @@ chalices	NOUN	F2/O2 S9/O2
 chalk	NOUN	O1.1
 chalk	VERB	Q1.2 A9+ I1.3
 chalked	VERB	Q1.2 A9+ I1.3
-chalkiness	NOUN	O4.5
 chalkiness	NOUN	O4.3 O4.5
 chalking	VERB	Q1.2 A9+ I1.3
 chalky	ADJ	O4.3 O4.5
@@ -18512,7 +18312,6 @@ change-positive	ADJ	A2.1+
 changeability	NOUN	A2.1+
 changeable	ADJ	W4 A2.1+
 changed	VERB	A2.1+ I1 B5
-changed	VERB	A2.1+ I1 B5
 changed	ADJ	A2.1+
 changeover	NOUN	A2.1+
 changing	ADJ	A2.1+
@@ -18521,7 +18320,6 @@ changing	VERB	A2.1+ I1 B5
 channel	VERB	M2 A2.1+
 channel	NOUN	W3/M4 X4.2 Q4.3 Q1.3 O2
 channel	PROPN	Z2
-channelled	VERB	M2 A2.1+
 channelled	VERB	M2 A2.1+
 channelled	ADJ	M2
 channelling	VERB	M2 A2.1+
@@ -18561,7 +18359,6 @@ characteristic	ADJ	A6.2+ A4.2+
 characteristically	ADV	A6.2+ A4.2+
 characterization	NOUN	A4.1 Q2.2 K4
 characterize	VERB	A4.1 Q2.2
-characterized	VERB	A4.1 Q2.2
 characterized	VERB	A4.1 Q2.2
 characterizes	VERB	A4.1 Q2.2
 characterless	ADJ	O4.2-
@@ -18605,7 +18402,6 @@ chart	VERB	Q1.2 Q2.2
 charter	VERB	I2.2 I3.2%
 charter	NOUN	Q1.2
 chartered	VERB	I2.2 I3.2%
-chartered	VERB	I2.2 I3.2%
 chartered	ADJ	I3.2+ I2.2
 chartering	NOUN	I2.2/M4 I2.2/M5 I2.2/M3
 charts	NOUN	Q1.2/N2 Q1.2/W1 Q1.2/K3
@@ -18634,7 +18430,6 @@ chattel	NOUN	A9+
 chattels	NOUN	A9+
 chatter	NOUN	Q2.1
 chatter	VERB	Q2.1
-chatter	VERB	Q2.1
 chatting	ADJ	Q2.1
 chatting	NOUN	Q2.1
 chatting	VERB	Q2.1
@@ -18651,7 +18446,6 @@ chauvinistic	ADJ	S5+/Z2
 chauvinists	NOUN	S5+/Z2/S2mf
 cheap	ADJ	I1.3- O4.2-
 cheap	NOUN	I1.3-
-cheapen	VERB	S7.2-/A2.1
 cheapen	VERB	S7.2-/A2.1
 cheapened	VERB	S7.2-/A2.1
 cheapening	VERB	S7.2-/A2.1
@@ -18671,8 +18465,6 @@ cheapskate	NOUN	I1.3-/S2mf
 cheapy	ADJ	I1.3-
 cheat	VERB	G2.2-/A5.2-
 cheat	NOUN	G2.2-/S2mf
-cheat	VERB	G2.2-/A5.2-
-cheated	VERB	G2.2-/A5.2-
 cheated	VERB	G2.2-/A5.2-
 cheated	ADJ	G2.2-/A5.2-
 cheater	NOUN	G2.2-/S2mf
@@ -18768,7 +18560,6 @@ chickened	VERB	E5-
 chicks	NOUN	L2mfn S2.1f
 chidden	VERB	Q2.2/E2-
 chide	VERB	Q2.2/E2-
-chide	VERB	Q2.2/E2-
 chided	VERB	Q2.2/E2-
 chides	VERB	Q2.2/E2-
 chiding	VERB	Q2.2/E2-
@@ -18809,7 +18600,6 @@ chill	NOUN	O4.6- B2-
 chill	VERB	O4.6-
 chill	ADJ	O4.6-
 chilled	ADJ	O4.6-
-chilled	VERB	O4.6-
 chilled	VERB	O4.6-
 chiller	NOUN	O4.6-
 chilli	NOUN	F1 L3
@@ -18894,13 +18684,11 @@ choked	VERB	S8- A1.1.2 G2.1-
 choker	NOUN	N5+ B5
 chokers	NOUN	B5
 choking	NOUN	B2- E3- N5+
-choking	VERB	B2- E3- N5+
-choking	VERB	S8- A1.1.2 G2.1-
+choking	VERB	B2- E3- N5+ S8- A1.1.2 G2.1-
 cholera	NOUN	B2-
 choleric	ADJ	B2-
 cholesterol	NOUN	O1
 cholostomy	NOUN	B3
-chomp	VERB	B1/F1
 chomp	VERB	F1/B1 A1.1.2 X3.2
 chomper	NOUN	B1
 chompy	ADJ	B1
@@ -18952,7 +18740,6 @@ chromosomes	NOUN	B1
 chronic	ADJ	T1.3+
 chronically	ADV	T2++ B2
 chronicle	VERB	Q1.2
-chronicle	VERB	Q1.2
 chronicled	VERB	Q1.2
 chronological	ADJ	T1/N4
 chronologically	ADV	T1/N4
@@ -18990,11 +18777,9 @@ churlish	ADJ	S1.2.1-
 churlishly	ADV	S1.2.1-
 churlishness	NOUN	S1.2.4-
 churn	VERB	F1 A1.1.1 B2-
-churn	VERB	F1 A1.1.1 B2-
 churn	NOUN	O2
 churned	VERB	A1.1.1
 churned	ADJ	A1.1.1
-churned	VERB	A1.1.1
 chute	NOUN	O2
 cider	NOUN	F2
 cigar	NOUN	F3
@@ -19008,7 +18793,6 @@ cinemas	NOUN	Q4.3/H1
 cinnamon	NOUN	F1
 cinquochento	NOUN	Z3 N1@
 cipher	NOUN	A10-/Q1.2 N2 X3.2/N6+ A11.1- S7.1-/S2mf
-cipher	VERB	A10-/Q1.2 N2
 cipher	VERB	A10-/Q1.2 N2
 ciphered	VERB	A10-/Q1.2 N2
 ciphers	VERB	A10-/Q1.2 N2
@@ -19034,12 +18818,10 @@ circumference	NOUN	M7 A1.7+ N2
 circumflexion	NOUN	M2 M1
 circumscribe	VERB	A1.7+
 circumscribed	VERB	A1.7+
-circumscribed	VERB	A1.7+
 circumscription	NOUN	A1.7+
 circumspect	ADJ	A1.3+
 circumstance	NOUN	O4.1
 circumstantial	ADJ	O4.1 G2.1 A4.1
-circumvent	VERB	A1.9 S8- A1.7+
 circumvent	VERB	A1.9 S8- A1.7+
 circumvention	NOUN	A1.9 S8- A1.7+
 circus	NOUN	K1
@@ -19050,7 +18832,6 @@ cistern	NOUN	O2
 cisterns	NOUN	O2
 citation	NOUN	S7.2+/Q2.2 Q1.2 G2.1
 cite	VERB	Q2.2 Q1.2 G2.1
-cited	VERB	Q2.2 Q1.2 G2.1
 cited	VERB	Q2.2 Q1.2 G2.1
 cites	VERB	Q2.2 Q1.2 G2.1
 cities	PROPN	M7
@@ -19072,11 +18853,9 @@ civilisation	NOUN	S1.1.1 A5.1+++ O4.2+++
 civilise	VERB	P1 A5.1+ O4.2+ S1.2.4+
 civilised	ADJ	A5.1+/A2.1 G2.1+ S1.2.4+
 civilised	VERB	P1 A5.1+ O4.2+ S1.2.4+
-civilised	VERB	P1 A5.1+ O4.2+ S1.2.4+
 civility	NOUN	S1.2.4+
 civilization	NOUN	S1.1.1 A5.1+++ O4.2+++
 civilize	VERB	P1 A5.1+ O4.2+ S1.2.4+
-civilized	VERB	P1 A5.1+ O4.2+ S1.2.4+
 civilized	VERB	P1 A5.1+ O4.2+ S1.2.4+
 civilized	ADJ	A5.1+/A2.1 G2.1+ S1.2.4+
 civilly	ADV	S1.2.4+
@@ -19140,7 +18919,6 @@ claret	ADJ	O4.3
 clarification	NOUN	A7+/Q2.2
 clarified	VERB	A7+/Q2.2
 clarified	ADJ	O4.1 A7+/Q2.2
-clarified	VERB	A7+/Q2.2
 clarifies	VERB	A7+/Q2.2
 clarify	VERB	A7+/Q2.2
 clarifying	ADJ	A7+/Q2.2
@@ -19152,7 +18930,6 @@ clash	VERB	E3- A6.1- X3.2- A1.1.1
 clashes	NOUN	E3- A6.1- T1.1.2 X3.2
 clashes	VERB	E3- A6.1- T1.1.2 X3.2
 clashing	VERB	E3- A6.1- X3.2- A1.1.1
-clasp	VERB	A1.7+
 clasp	VERB	A1.7+
 clasp	NOUN	O2
 clasped	VERB	A1.7+
@@ -19175,7 +18952,6 @@ classier	ADJ	O4.2++
 classification	NOUN	A4.1
 classified	VERB	A4.1 A10-
 classified	NOUN	Q4.2
-classified	VERB	A4.1
 classified	ADJ	A10- A4.1 Q4.2
 classifieds	NOUN	Q4.2
 classify	VERB	A4.1
@@ -19219,7 +18995,6 @@ cleansing	ADJ	B4 G2.2+/A2.1
 clear	VERB	M2 A7+ A10+ I1.1 B4 O4.1
 clear	ADJ	A7+ A10+ O4.3 O4.1 N5.1+ W4
 clear	NOUN	K5.1/X9.2+
-clear	VERB	M2 A7+ A10+ I1.1 B4 O4.1
 clear-cut	ADJ	A4.2+
 clear-up	ADJ	G2.1
 clearance	NOUN	A9- S7.4+ N3.7 I2.2 I1 K5.2
@@ -19296,11 +19071,9 @@ clinician	NOUN	B3/S2mf
 clinicians	NOUN	B3/S2mf
 clinics	NOUN	B3 S1.1.1
 clink	VERB	X3.2 A1.1.1
-clink	VERB	X3.2 A1.1.1
 clink	NOUN	G2.1/H1
 clinker	NOUN	B5 O2
 clinking	NOUN	X3.2
-clip	VERB	A1.1.1 A1.7+ E3-@
 clip	VERB	A1.1.1 A1.7+ E3-@
 clip	NOUN	O2 Q4.3 E3-@
 clip-board	NOUN	O2
@@ -19335,7 +19108,6 @@ cloister	VERB	S5-
 cloister	NOUN	H3/S9 S9/S5- S9/H1
 cloistered	VERB	S5-
 cloistered	ADJ	S5-
-cloistered	VERB	S5-
 clone	NOUN	A6.1+mfn
 clonk	INTJ	Z4
 clonk	VERB	E3- X3.2
@@ -19375,7 +19147,6 @@ clotification	NOUN	S5+
 clotted	ADJ	O4.5
 clotting	VERB	B1 O4.5
 clotting	NOUN	B1 O4.5
-cloud	VERB	O4.3 A12- W4
 cloud	VERB	O4.3 A12- W4
 cloud	NOUN	W4 N5
 cloudburst	NOUN	W4
@@ -19421,7 +19192,6 @@ cluster	NOUN	S5+ N5+ W1 Q3 N2 K2 G3 Y2
 cluster	VERB	S5+ N5+
 clustered	ADJ	S5+ N5+
 clustered	VERB	S5+ N5+
-clustered	VERB	S5+ N5+
 clustering	ADJ	S5+ N5+
 clutch	NOUN	A1.7+ O2/M3 N5/L2
 clutch	VERB	A1.7+
@@ -19429,7 +19199,6 @@ clutching	NOUN	A1.7+
 clutching	VERB	A1.7+
 clutter	VERB	O4.1
 clutter	NOUN	O2
-cluttered	VERB	O4.1
 cluttered	VERB	O4.1
 cluttered	ADJ	O4.1
 co	NOUN	I2.1/S5c
@@ -19490,7 +19259,6 @@ co-teaching	NOUN	P1
 coach	NOUN	K5.1/I3.2/S2mf P1/I3.2/S2mf M3fn
 coach	VERB	K5.1 P1 M2
 coach-load	NOUN	M3/N5+
-coaches	NOUN	M3 K5.1/S2mf P1/S2mf
 coaches	NOUN	K5.1/I3.2/S2mf P1/I3.2/S2mf M3fn
 coaching	NOUN	P1
 coaching	VERB	P1
@@ -19586,7 +19354,6 @@ codeable	ADJ	A10-/Q1.1 A4.1 Y2@
 coded	ADJ	A10-/Q1.1 A4.1 Y2@
 codename	VERB	Q2.2
 codenamed	VERB	Q2.2
-codenamed	VERB	Q2.2
 coder	NOUN	A4.1/S2mf Y2/S2mf@
 coders	NOUN	A4.1/S2mf Y2/S2mf@
 codeword	NOUN	Q3/A10-
@@ -19612,7 +19379,6 @@ coffee-related	ADJ	F1
 coffers	NOUN	I1.1
 coffin	NOUN	O2/L1-
 coffined	VERB	A1.7+/L1- A10-
-coffined	VERB	A1.7+/L1- A10-
 coffining	VERB	A1.7+/L1- A10-
 cofounder	NOUN	T2+/S2mf
 cog	NOUN	O2
@@ -19630,7 +19396,6 @@ cohabitee	NOUN	S3.2/S2
 cohabitees	NOUN	S3.2/S2
 cohabiting	NOUN	S3.2
 cohabiting	VERB	S3.2
-cohere	VERB	S5+ A6.1+
 cohere	VERB	S5+ A6.1+
 cohered	VERB	S5+ A6.1+
 coherence	NOUN	A7+ S1.2.6+ X2.5+ N5.1+ Q3
@@ -19791,9 +19556,7 @@ combining	ADJ	A2.1+ S5+
 combining	NOUN	A2.1+ S5+
 combustible	ADJ	E6- A12- O4/A15-
 combustion	NOUN	O4.6+
-come	VERB	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2
-come	VERB	M1 T1 N4 A1.1.1 N5 A3+
-come	VERB	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2
+come	VERB	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 T1 A1.1.1 N5 A3+
 come-on	NOUN	X5.2+/S3.2
 comeback	NOUN	S1.1.2+
 comedian	NOUN	E4.1+/S2mf K4/S2mf Q4.3/S2mf
@@ -19810,14 +19573,13 @@ comfortably	ADV	O4.2+
 comforter	NOUN	S8+/S2mf S8+/O2 S9 L2
 comforting	ADJ	E3+
 comfortingly	ADV	E3+
-comfortless	ADJ	S8- 04.2-
+comfortless	ADJ	S8- O4.2-
 comforts	NOUN	S8+
 comfy	ADJ	O4.2+
 comic	ADJ	E4.1+
 comic	NOUN	E4.1+/S2mf E4.1+/Q4.2
 comical	ADJ	E4.1+
 coming	VERB	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2
-coming	ADJ	T1.1.3
 coming	ADJ	T1.1.3
 coming	NOUN	M1 T1.1.3 S9
 comma	NOUN	Q3
@@ -19840,7 +19602,6 @@ commemorate	VERB	S1.1.1
 commemoration	NOUN	S1.1.1
 commemorations	NOUN	S1.1.1
 commemorative	NOUN	S1.1.1
-commence	VERB	T2+
 commence	VERB	T2+
 commencement	NOUN	T2+
 commencing	VERB	T2+
@@ -19911,7 +19672,6 @@ comms	NOUN	Q1.3/Y2
 communal	ADJ	S1.1.2+
 communally	ADV	S5+
 commune	NOUN	S5+c
-commune	VERB	S5+
 commune	VERB	S5+c
 communes	NOUN	S5+
 communes	VERB	S5+
@@ -19986,7 +19746,6 @@ compatriots	NOUN	M7/S2mf
 compeer	NOUN	S3.1/S2mf A6.1+/S2mf
 compeers	NOUN	S3.1/S2mf A6.1+/S2mf
 compel	VERB	S6+
-compelled	VERB	S7.1+ A1.1.1 E3-
 compelled	VERB	S7.1+ A1.1.1 E3-
 compelling	ADJ	A5.2+/A8
 compelling	NOUN	S6+
@@ -20063,7 +19822,6 @@ componetary	NOUN	N5.1- O2 A9+
 compose	VERB	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+
 composed	VERB	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+
 composed	ADJ	E3+
-composed	VERB	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+
 composer	NOUN	K2/S2mf
 composers	NOUN	K2/S2mf
 composing	VERB	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+
@@ -20075,7 +19833,6 @@ compost	VERB	F4
 composting	NOUN	A1.5.1/F4
 composure	NOUN	O4.1
 compound	NOUN	H3 H4 O1 A6.3+ G2.1/M6 Q3%
-compound	VERB	A2.1+ A5.1-/A2.1
 compound	VERB	A2.1+ A5.1-/A2.1
 compounding	NOUN	A2.1+ A5.1-/A2.1
 compounding	VERB	A2.1+ A5.1-/A2.1
@@ -20112,7 +19869,6 @@ compute	VERB	Y2 N2
 compute-intensive	ADJ	Y2
 computed	ADJ	Y2 N2
 computed	VERB	Y2 N2
-computed	VERB	Y2 N2
 computer	NOUN	Y2
 computer-accessed	ADJ	Y2
 computer-aided	ADJ	Y2
@@ -20128,11 +19884,9 @@ computerisation	NOUN	Y2
 computerise	VERB	Y2
 computerised	ADJ	Y2
 computerised	VERB	Y2
-computerised	VERB	Y2
 computerization	NOUN	Y2
 computerize	VERB	Y2
 computerized	ADJ	Y2
-computerized	VERB	Y2
 computerized	VERB	Y2
 computing	ADJ	Y2 N2
 computing	NOUN	Y2 N2
@@ -20200,7 +19954,6 @@ conciliatory	ADJ	E3+/A1.1.1
 concise	ADJ	N5-
 conclave	NOUN	S1.1.3+/A10- S9
 conclude	VERB	X6+ T2-
-conclude	VERB	X6+ T2-
 concluded	VERB	X6+ T2-
 concluding	ADJ	X6+ T2-
 conclusion	NOUN	X6+ T2-
@@ -20230,7 +19983,6 @@ condemnation	NOUN	Q2.2/E2-
 condemned	ADJ	G2.1 H1/A15-
 condemned	NOUN	G2.1/L1-
 condemned	VERB	Q2.2/E2- Q2.2/A1.1.2 G2.1
-condemned	VERB	Q2.2/E2- Q2.2/A1.1.2 G2.1
 condemning	VERB	Q2.2/E2- Q2.2/A1.1.2 G2.1
 condemns	VERB	Q2.2/E2- Q2.2/A1.1.2 G2.1
 condensation	NOUN	O1.2
@@ -20239,7 +19991,6 @@ condensed	ADJ	N5-/A2.1 O4.6-/A2.1
 condensed	VERB	N5-/A2.1 O4.6-/A2.1
 condensing	NOUN	N5-/A2.1 O4.6-/A2.1
 condensing	VERB	N5-/A2.1 O4.6-/A2.1
-condescend	VERB	S1.2.3+ S7.1++
 condescend	VERB	S1.2.3+ S7.1++
 condescending	ADJ	S1.2.3+ S7.1++
 condescension	NOUN	E2-
@@ -20280,12 +20031,10 @@ confederacy	NOUN	S5+c
 confederate	NOUN	S8+/S2mf A10-
 confederation	NOUN	S5+c
 confer	VERB	Q2.2 A9-
-confer	VERB	Q2.2 A9-
 conference	NOUN	S1.1.3+
 conferencing	NOUN	S1.1.3+
 conferring	NOUN	Q2.2 A9-
 conferring	VERB	Q2.2 A9-
-confess	VERB	Q2.2/A10+
 confess	VERB	Q2.2/A10+
 confessed	VERB	Q2.2/A10+
 confesses	VERB	Q2.2/A10+
@@ -20309,7 +20058,6 @@ configure	VERB	O4.1
 configured	VERB	O4.1
 confine	VERB	A1.7+
 confined	ADJ	A1.7-
-confined	VERB	A1.7+
 confined	VERB	A1.7+
 confinement	NOUN	A1.7+ G2.1
 confines	NOUN	M7 A1.7+
@@ -20342,9 +20090,7 @@ conformism	NOUN	A6.1+
 conformist	NOUN	A6.1+/S2mf
 conformity	NOUN	A6.1+
 confound	VERB	X2.5-
-confound	VERB	X2.5-
 confounded	ADJ	X2.5-
-confounded	VERB	X2.5-
 confounded	VERB	X2.5-
 confounding	ADJ	X2.5-
 confounding	VERB	X2.5-
@@ -20372,7 +20118,6 @@ congenial	ADJ	O4.2+ S1.2.1+
 congenital	ADJ	S4
 conger	NOUN	L2
 congest	VERB	B2- N5+
-congest	VERB	B2- N5+
 congested	VERB	B2- N5+
 congestion	NOUN	B2- N5+
 conglomerate	VERB	S5+ N5+
@@ -20399,8 +20144,6 @@ conjecture	NOUN	X2.1/A7-
 conjecture	VERB	X2.1/A7-
 conjectures	NOUN	X2.1/A7-
 conjoin	VERB	S5+ A1.8+ A1.1.1
-conjoin	VERB	S5+ A1.8+ A1.1.1
-conjoined	VERB	S5+ A1.8+ A1.1.1
 conjoined	VERB	S5+ A1.8+ A1.1.1
 conjumation	NOUN	B2-
 conjunct	ADJ	S5+ A1.8+ A2.2
@@ -20411,12 +20154,10 @@ conjuration	NOUN	Q2.2/S9
 conjurations	NOUN	Q2.2/S9
 conjure	VERB	A10+ S9
 conjurer	NOUN	K4/S2mf S9/S2mf
-conjurer	NOUN	K4/S2mf S9/S2mf
 conk	VERB	A1.1.2
 conked	VERB	A1.1.2
 conker	NOUN	L3
 conkers	NOUN	L3 K6
-conn	VERB	G2.2-/A5.2-
 conn	VERB	G2.2-/A5.2-
 connect	VERB	A2.2 S5+ M3 A1.1.1
 connected	ADJ	A2.2 S5+ M3 A1.1.1
@@ -20430,7 +20171,6 @@ connector	NOUN	O3
 connectors	NOUN	O3
 conned	ADJ	G2.1/A5.2-
 conned	VERB	G2.1/A5.2-
-conned	VERB	G2.1/A5.2-
 connivance	NOUN	S8+/G2.2-
 connive	VERB	G2.2-
 conniving	VERB	G2.2-
@@ -20440,7 +20180,6 @@ connotations	NOUN	A2.2
 connote	VERB	A2.2
 connotes	VERB	A2.2
 conquer	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+
-conquered	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+
 conquered	VERB	X9.2+/S7.3 X9.2+/G3 S7.1+
 conquering	ADJ	X9.2+/S7.3 X9.2+/G3 S7.1+
 conqueror	NOUN	X9.2+/S7.3/S2mf X9.2+/G3/S2mf S7.1+/S2mf
@@ -20457,7 +20196,6 @@ consciously	ADV	X2.2+
 consciousness	NOUN	B1 X1
 conscript	NOUN	G3/S2mf
 conscription	NOUN	G3
-consecrate	VERB	S9 A9-
 consecrate	VERB	S9 A9-
 consecrated	ADJ	S9
 consecrated	VERB	S9 A9-
@@ -20500,7 +20238,6 @@ consideration	NOUN	X2.1 X2.4 S1.2.3-
 considerations	NOUN	X4.1
 considered	ADJ	A1.4 X2.1 X2.4
 considered	VERB	X2.1 X2.4 X6
-considered	VERB	X2.1 X2.4 X6
 considering	SCONJ	Z5
 considering	ADP	Z5
 considering	VERB	X2.1 X2.4 X6
@@ -20526,9 +20263,6 @@ consolidation	NOUN	A7+/A2.1 S5+
 consonant	ADJ	A6.1+ A6.1+/X3.2 Q3
 consort	VERB	S3.1 A6.1+
 consort	NOUN	S5+/S2mf S4mf
-consort	VERB	S3.1 A6.1+
-consorted	VERB	S3.1 A6.1+
-consorted	VERB	S3.1
 consorted	VERB	S3.1 A6.1+
 consorted	ADJ	S3.1 A6.1+
 consortia	NOUN	S5+
@@ -20540,7 +20274,6 @@ conspiracy	NOUN	G2.1- G2.2-
 conspirator	NOUN	G2.1-/S2mf G2.2-/S2mf
 conspiratorial	ADJ	A10- G2.1-
 conspirators	NOUN	G2.1-/S2mf G2.2-/S2mf
-conspire	VERB	G2.1- S8+
 conspire	VERB	G2.1- S8+
 conspired	VERB	G2.1- S8+
 conspirer	NOUN	G2.1-/S2mf G2.2-/S2mf
@@ -20599,7 +20332,6 @@ consultants	NOUN	B3/S2mf Q2.1/S8+/S2mf
 consultation	NOUN	Q2.1 B3 X2.3
 consultative	ADJ	Q2.1/S8+
 consulted	VERB	Q2.1 Q1.1/S8+
-consulted	VERB	Q2.1 Q1.1/S8+
 consulted	ADJ	Q2.1 Q1.1/S8+
 consulting	ADJ	Q2.1 Q1.1/S8+
 consulting	NOUN	Q2.1 Q1.1/S8+
@@ -20620,7 +20352,6 @@ consumerist	NOUN	I2.2/S2mf
 consumerist	ADJ	I2.2
 consuming	VERB	A1.5.1 F1
 consuming	ADJ	A1.5.1 F1
-consummate	VERB	T2- Q1.2 S3.2
 consummate	VERB	T2- Q1.2 S3.2
 consummate	ADJ	X9.1+
 consummately	ADV	A5.1++
@@ -20643,7 +20374,6 @@ containing	VERB	A1.8+ A1.7+
 containment	NOUN	A1.7+
 contaminate	VERB	B2- Y1
 contaminated	ADJ	B2- Y1
-contaminated	VERB	B2- Y1
 contaminated	VERB	B2- Y1
 contaminating	NOUN	A1.1.2
 contaminating	VERB	A1.1.2
@@ -20760,10 +20490,8 @@ contrite	ADJ	E4.1-
 contrition	NOUN	E4.1-
 contrivance	NOUN	A5.2- X2.1
 contrive	VERB	X7+
-contrive	VERB	X7+
 contrived	VERB	X7+ X9.2+
 contrived	ADJ	A5.4-
-contrived	VERB	X9.2+
 contriver	NOUN	X7+/S2mf
 contrivers	NOUN	X7+/S2mf
 contrives	VERB	X7+
@@ -20772,7 +20500,6 @@ control	NOUN	S7.1+ A1.7+ O2
 control	VERB	S7.1+ A1.7+
 controllable	ADJ	S7.1+ A1.7+
 controlled	ADJ	S7.1+ A1.7+
-controlled	VERB	S7.1+ A1.7+
 controlled	VERB	S7.1+ A1.7+
 controller	NOUN	S7.1+/S2mf O2
 controllers	NOUN	S7.1+/S2mf
@@ -20789,7 +20516,6 @@ convalescent	ADJ	B2+/A2.1
 convalescent	NOUN	B2-/S2mf
 convection	NOUN	O4.6/A1.1.1
 convene	VERB	S7.1+ A1.1.1
-convened	VERB	S7.1+ A1.1.1
 convened	VERB	S7.1+ A1.1.1
 convenience	NOUN	A1.2+ A1.5.2 O2
 conveniences	NOUN	A1.2+ A1.5.2 O2 H1
@@ -20837,7 +20563,6 @@ conveyors	NOUN	M2 M2/S2mf
 convict	NOUN	G2.1-/S2mf
 convict	VERB	G2.1
 convicted	VERB	G2.1
-convicted	VERB	G2.1
 conviction	NOUN	X2.1 X4.1 G2.1
 convictions	NOUN	X2.1 X4.1 G2.1
 convicts	NOUN	G2.1-/S2mf
@@ -20877,7 +20602,6 @@ cooks	VERB	F1
 cool	ADJ	O4.6- S1.2.1- O4.2+ E6+
 cool	NOUN	O4.6-
 cool	VERB	O4.6-/A2.1 X5.2-/A2.1
-cool	VERB	O4.6-/A2.1 X5.2-/A2.1
 cooler	ADJ	O4.6-- S1.2.1-- O4.2++ E6++
 cooler	NOUN	O4.6-/O2
 cooling	NOUN	O4.6-/A2.1 X5.2-/A2.1
@@ -20914,7 +20638,6 @@ cope	VERB	X9.2
 coped	ADJ	B5
 coper	NOUN	X9.2+/S2mf
 copied	ADJ	A6.1+ N5+
-copied	VERB	A6.1+ N5+
 copied	VERB	A6.1+ N5+
 copier	NOUN	O2
 copies	VERB	A5.4-
@@ -21035,7 +20758,6 @@ corries	NOUN	W3
 corrigible	ADJ	A5.1+/A2.1 S7.2+
 corroborate	VERB	A10+ A7+ Q2.2
 corroborated	VERB	A10+ A7+ Q2.2
-corroborated	VERB	A10+ A7+ Q2.2
 corroboration	NOUN	A10+
 corrode	VERB	A1.1.2
 corrosion	NOUN	A1.1.2
@@ -21044,10 +20766,8 @@ corrosive	ADJ	A1.1.2
 corrugated	ADJ	O4.4
 corrupt	VERB	G2.2- A1.1.2 A5.1-
 corrupt	ADJ	G2.2- G2.1-
-corrupt	VERB	G2.2- A1.1.2 A5.1-
 corrupted	VERB	G2.2- A1.1.2 A5.1-
 corrupted	ADJ	G2.2- A1.1.2 A5.1-
-corrupted	VERB	G2.2- A1.1.2 A5.1-
 corrupter	NOUN	G2.2-/S2mf
 corrupters	NOUN	G2.2-/S2mf
 corrupting	ADJ	G2.2- A1.1.2 A5.1-
@@ -21072,8 +20792,6 @@ cosmology	NOUN	Y1
 cosmopolitan	ADJ	A6.3+/S5
 cosseted	VERB	O4.2+ A10-/N5.2+
 cost	NOUN	I1.3
-cost	VERB	I1.3 I1.2
-cost	VERB	I1.3 I1.2
 cost	VERB	I1.3 I1.2
 cost-cutters	NOUN	I1.3-
 cost-cutting	ADJ	I1.3-
@@ -21127,7 +20845,6 @@ countable	ADJ	N1 Q3
 countdown	NOUN	N1
 countenance	NOUN	A6.1+ B1
 countenance	VERB	E2++ S8+
-countenance	VERB	E2++ S8+
 countenanced	VERB	A6.1+
 counter	VERB	A6.1-
 counter	ADJ	A6.1-
@@ -21156,9 +20873,7 @@ counterbalance	VERB	A6.1-
 countered	VERB	S8-
 counterfeit	NOUN	A5.4-
 counterfeit	VERB	A5.4-/A1.1.1
-counterfeit	VERB	A5.4-/A1.1.1
 counterfeited	ADJ	A5.4-
-counterfeited	VERB	A5.4-/A1.1.1
 counterfeited	VERB	A5.4-/A1.1.1
 counterfeiting	VERB	A5.4-/A1.1.1
 counterfeits	NOUN	A5.4-
@@ -21166,13 +20881,11 @@ counterfeits	VERB	A5.4-/A1.1.1
 counterfoil	NOUN	Q1.2
 countermand	NOUN	T2-/S7.1+
 countermand	VERB	T2-/S7.1+
-countermand	VERB	T2-/S7.1+
 countermands	VERB	T2-/S7.1+
 counterpart	NOUN	A6.1+/S2mf
 counterparts	NOUN	A6.1+
 counterparty	NOUN	A6.1+/S8+
 counterpoise	NOUN	A6.1+/N3.5
-counterpoise	VERB	A6.1+/N3.5
 counterpoise	VERB	A6.1+/N3.5
 counterpoised	VERB	A6.1+/N3.5
 counterproductive	ADJ	S8-
@@ -21260,7 +20973,6 @@ cover	VERB	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 cover-up	NOUN	A10-
 coverage	NOUN	Q4/N5 A1.8+ N5
 covered	VERB	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
-covered	VERB	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 covered	ADJ	A10- M1 N3.6 I1.1 A1.8+ N5 Q2.1
 covering	VERB	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 covering	NOUN	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
@@ -21335,7 +21047,6 @@ crammed	ADJ	N5++
 cramp	VERB	A1.7- S8-
 cramp	NOUN	B2-
 cramped	VERB	A1.7- S8-
-cramped	VERB	A1.7- S8-
 crampon	NOUN	O2/B5
 crampons	NOUN	O2/B5
 cramps	NOUN	B2-
@@ -21370,7 +21081,6 @@ crated	VERB	A1.1.1
 crater	NOUN	W3
 crates	NOUN	O2 M4% M5% M3%
 cravat	NOUN	B5 W3
-crave	VERB	X7+
 crave	VERB	X7+
 craved	VERB	X7+
 craves	VERB	X7+
@@ -21409,11 +21119,9 @@ crease	VERB	O4.4
 crease-resistant	ADJ	O4.1
 creased	ADJ	O4.1
 creased	VERB	O4.1
-creased	VERB	O4.1
 creases	VERB	O4.1
 creases	NOUN	O4.1
 create	VERB	A1.1.1 A2.2 E1
-created	VERB	A1.1.1 A2.2 E1
 created	VERB	A1.1.1 A2.2 E1
 creating	NOUN	A1.1.1 A2.2 E1
 creating	VERB	A1.1.1 A2.2 E1
@@ -21549,7 +21257,6 @@ critics	NOUN	Q2.2/S2mf
 critique	NOUN	X2.4/Q1.2
 crn	PROPN	Z0
 croak	VERB	X3.2 Q2.2
-croak	VERB	X3.2 Q2.2
 croaking	ADJ	X3.2
 croaks	VERB	X3.2 Q2.2
 crochet	VERB	C1
@@ -21633,7 +21340,6 @@ crotch	NOUN	B1
 crouch	VERB	O4.1/B1
 crouched	ADJ	O4.1/B1
 crouched	VERB	O4.1/B1
-crouched	VERB	O4.1/B1
 crouching	VERB	O4.1/B1
 croup	NOUN	B2
 crow	NOUN	L2 Q2.2
@@ -21648,7 +21354,6 @@ crowing	NOUN	L2/X3.2 Q2.1
 crown	NOUN	B5/S7.1+ G1.1 B1 W4 I1 B3 O4.4
 crown	VERB	S7.1+ M6 B3 X9.2+
 crowned	VERB	S7.1+ M6 B3 X9.2+
-crowned	VERB	S7.1+ X9.2+
 crowned	ADJ	S7.1+ X9.2+
 crowning	VERB	X9.2+ S7.1+
 crowns	VERB	S7.1+ M6 B3 X9.2+
@@ -21763,7 +21468,6 @@ cuisine	NOUN	F1
 cul-de-sac	NOUN	M3/H3
 culinary	ADJ	F1
 cull	VERB	L1-
-cull	VERB	L1-
 culling	VERB	L1-
 culminate	VERB	T2-
 culminated	VERB	T2-
@@ -21801,7 +21505,6 @@ curator	NOUN	S7.1+/C1/S2mf
 curatorial	ADJ	S7.1+/C1
 curb	NOUN	A1.7+
 curb	VERB	A1.7+
-curb	VERB	A1.7+
 curbed	VERB	A1.7+
 curbing	VERB	A1.7+
 curbs	NOUN	A1.7+
@@ -21825,7 +21528,6 @@ curiously	ADV	A6.2- X5.2+
 curl	NOUN	O4.4
 curl	VERB	O4.4 M2 M1
 curled	ADJ	O4.4
-curled	VERB	O4.4 M2 M1
 curled	VERB	O4.4 M2 M1
 curler	NOUN	B4
 curlies	NOUN	O4.4
@@ -21856,7 +21558,6 @@ curse	NOUN	S1.2.4-/Q2.2 S9
 curse	VERB	Q2.2 A1.4-
 cursed	VERB	Q2.2 A1.4-
 cursed	ADJ	E3- S9
-cursed	VERB	Q2.2 A1.4-
 curses	NOUN	A1.2.4-/Q2.2 S9
 cursing	VERB	Q2.2 A1.4-
 cursory	ADJ	N3.8-
@@ -21912,13 +21613,10 @@ customisation	NOUN	A6.2-/A2.1
 customise	VERB	A6.2-/A2.1
 customised	ADJ	A6.2-/A2.1
 customised	VERB	A6.2-/A2.1
-customised	VERB	A6.2-/A2.1
 customising	VERB	A6.2-/A2.1
 customized	ADJ	A6.2-/A2.1
 customizing	VERB	A6.2-/A2.1
 customs	NOUN	A6.2+ G2.1/I2.2
-cut	VERB	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
-cut	VERB	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
 cut	VERB	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
 cut	ADJ	O4.1 N5-/A2.1 T2-
 cut	NOUN	A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3
@@ -22071,14 +21769,12 @@ dampness	NOUN	O1.2
 damson	NOUN	F1 L3
 dance	NOUN	K1
 dance	VERB	K1
-dance	VERB	K1
 danced	VERB	K1
 dancer	NOUN	K1/S2mf
 dancers	NOUN	K1/S2mf
 dances	VERB	K1
 dances	NOUN	K1
 dancey	NOUN	K1
-dancing	ADJ	K1
 dancing	ADJ	K1
 dancing	NOUN	K1
 dancing	VERB	K1
@@ -22108,7 +21804,6 @@ dark	NOUN	W2-
 dark-blue	ADJ	O4.3
 dark-brown	ADJ	O4.3
 darken	VERB	O4.3 E4.1- E3-
-darkened	VERB	O4.3 E4.1- E3-
 darkened	VERB	O4.3 E4.1- E3-
 darkened	ADJ	O4.3 E4.1- E3-
 darkening	NOUN	O4.3 E4.1- E3-
@@ -22178,7 +21873,6 @@ day-release	NOUN	P1/I3.2
 day-to-day	ADJ	T1.1.2 A6.2+
 daybreak	NOUN	T1.2
 daydream	VERB	X5.1- X7+/A5.2-
-daydream	VERB	X5.1- X7+/A5.2-
 daydreamer	NOUN	X5.1-/S2mf X7+/A5.2-/S2mf
 daydreaming	NOUN	X5.1- X7+/A5.2-
 daydreaming	VERB	X5.1- X7+/A5.2-
@@ -22188,7 +21882,6 @@ daytime	NOUN	T1.3
 daze	VERB	E5- B2-
 daze	NOUN	X5.1-
 dazed	ADJ	X2.5- O4.1
-dazzle	VERB	O4.2+ X3.4-
 dazzle	VERB	O4.2+ X3.4-
 dazzled	VERB	O4.2+ X3.4-
 dazzling	ADJ	A5.1+
@@ -22218,7 +21911,6 @@ de-motivating	ADJ	X5.2-
 de-motive	NOUN	X5.2-
 de-oxygenated	VERB	O4.1/O1.3 B1
 de-privatisation	NOUN	G1.1
-de-rail	VERB	S8- M3/A1.1.2
 de-rail	VERB	S8- M3/A1.1.2
 de-register	VERB	G1.1.1/A1.8- Y2
 de-regulate	VERB	A1.7-/G1.1
@@ -22257,7 +21949,6 @@ dealmakers	NOUN	I2.1/S2mf
 dealmaking	NOUN	I2.1
 deals	NOUN	N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2
 deals	VERB	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2
-dealt	VERB	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2
 dealt	VERB	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2
 dean	NOUN	P1/S7.1+/S2mf S9/S7.1+/S2.2m S7.2+/S2.2m
 deanery	NOUN	S9c S9/H1c
@@ -22321,7 +22012,6 @@ decanter	NOUN	F1/O2
 decay	NOUN	O4.2-/A2.1 B2-
 decay	VERB	O4.2-/A2.1 B2-
 decayed	VERB	O4.2-/A2.1 B2-
-decayed	VERB	O4.2-/A2.1 B2-
 decaying	ADJ	O4.2-/A2.1 B2-
 decease	NOUN	L1-
 decease	VERB	L1-
@@ -22331,9 +22021,7 @@ deceit	NOUN	G2.2-
 deceitful	ADJ	G2.2- A5.2-
 deceitfulness	NOUN	G2.2- A5.2-
 deceive	VERB	A5.2-
-deceive	VERB	A5.2-
 deceived	ADJ	A5.2-
-deceived	VERB	A5.2-
 deceived	VERB	A5.2-
 deceiver	NOUN	A5.2-/S2mf
 deceivers	NOUN	A5.2-/S2mf
@@ -22384,7 +22072,6 @@ deck	VERB	O4.1
 deck	NOUN	M3 M4 K3 K5.2
 deckchair	NOUN	H5
 decked	VERB	O4.1
-decked	VERB	O4.1
 decking	NOUN	O2
 declaim	VERB	Q2.2
 declaimed	VERB	Q2.2
@@ -22427,7 +22114,6 @@ decoy	VERB	S8-
 decrease	VERB	N5-/A2.1
 decrease	NOUN	N5-/A2.1
 decreased	VERB	N5-/A2.1
-decreased	VERB	N5-/A2.1
 decreased	ADJ	N5-/A2.1
 decreasing	NOUN	N5-/A2.1
 decreasing	ADJ	N5-/A2.1
@@ -22439,7 +22125,6 @@ decry	VERB	Q2.2
 dedicate	VERB	Q2.2 A9-
 dedicated	VERB	Q2.2 A9-
 dedicated	ADJ	X5.2+ A4.2+
-dedicated	VERB	Q2.2 A9-
 dedication	NOUN	X5.2+ Q2.2
 dedications	NOUN	Q2.2 A9-
 deduce	VERB	X2.5+
@@ -22472,7 +22157,6 @@ deer's-wax	NOUN	O1.1
 deers	NOUN	L2
 deface	VERB	A1.1.2
 defaced	VERB	A1.1.2
-defaced	VERB	A1.1.2
 defamation	NOUN	G2.1-/Q2.2
 defamatory	ADJ	Q2.2/G2.1-
 defame	VERB	Q2.2/A5.2- Q2.2/A5.1- G2.2-
@@ -22481,7 +22165,6 @@ default	VERB	A1.9
 default-free	ADJ	I1
 defaults	VERB	A1.9
 defaults	NOUN	A1.9 A6.2+
-defeat	VERB	X9.2+/G3 X9.2+/S7.3 A12-
 defeat	VERB	X9.2+/G3 X9.2+/S7.3 A12-
 defeat	NOUN	X9.2-
 defeated	ADJ	X9.2-
@@ -22508,7 +22191,6 @@ deference	NOUN	S7.2+
 deferential	ADJ	S7.2+
 deferentially	ADV	S7.2+ S1.2.4+
 deferred	VERB	T1.1.3
-deferred	VERB	T1.1.3
 deferred	ADJ	T1.1.3
 defiance	NOUN	S8-
 defiant	ADJ	S8-
@@ -22522,7 +22204,6 @@ deficit	NOUN	N5- B2-
 defied	VERB	A1.9 Q2.2 S8-
 defies	VERB	S8-
 defile	VERB	G2.2- A1.1.2
-defiled	VERB	G2.2- A1.1.2
 defiled	VERB	G2.2- A1.1.2
 defiler	NOUN	G2.2-/S2mf
 defiles	VERB	G2.2- A1.1.2
@@ -22546,7 +22227,6 @@ deflection	NOUN	M6/A2.1 K5.2
 deflower	VERB	S3.2/T2+
 deflowered	ADJ	S3.2/T2+
 deflowered	VERB	S3.2/T2+
-deflowered	VERB	S3.2/T2+
 deforestation	NOUN	W5
 deform	VERB	A1.1.2/O4.4
 deformed	ADJ	O4.4 O4.2-
@@ -22567,7 +22247,6 @@ deftly	ADV	X9.1+ N3.8+
 deftness	NOUN	X9.1+ N3.8+
 defunct	ADJ	T2-
 defuse	VERB	G3 A5.1+/A2.1 M1
-defuse	VERB	G3 A5.1+/A2.1 M1
 defy	VERB	A1.9 Q2.2 S8-
 defying	NOUN	A1.9 Q2.2 S8-
 defying	VERB	A1.9 Q2.2 S8-
@@ -22585,7 +22264,6 @@ degree-level	ADJ	P1
 degregation	NOUN	Y1
 dehumidify	VERB	O1.2-
 dehydrate	VERB	O1.2- O4.5
-dehydrate	VERB	O1.2- O4.5
 dehydrated	ADJ	O1.2- B2- O4.5
 dehydrating	VERB	O1.2- O4.5
 dehydrating	NOUN	O1.2- O4.5
@@ -22594,7 +22272,6 @@ deice	VERB	O4.6
 deiced	VERB	O4.6
 deifies	VERB	S7.2+ S9
 deify	VERB	S7.2+ S9
-deign	VERB	S1.2.3+
 deign	VERB	S1.2.3+
 deigned	VERB	S1.2.3+
 deigns	VERB	S1.2.3+
@@ -22653,7 +22330,6 @@ deliver	VERB	M2 Q2.1 X9.2+ B3 S9%
 deliverance	NOUN	S8+ S9
 delivered	ADJ	M2 Q2.1 X9.2+ B3 S9%
 delivered	VERB	M2 Q2.1 X9.2+ B3 S9%
-delivered	VERB	M2 Q2.1 X9.2+ B3 S9%
 deliveries	NOUN	M2 Q2.1 X9.2+ B3 S9%
 delivering	NOUN	M2 Q2.1 X9.2+ B3 S9%
 delivering	ADJ	M2 Q2.1 X9.2+ B3 S9%
@@ -22668,7 +22344,6 @@ deluge	NOUN	W4 N5+
 delusion	NOUN	A5.2-
 delusions	NOUN	A5.2-/X4.1
 deluxe	ADJ	O4.2++
-delve	VERB	X2.4 A1.1.1
 delve	VERB	X2.4 A1.1.1
 delving	NOUN	X2.4
 delving	VERB	X2.4
@@ -22712,7 +22387,6 @@ democrats	NOUN	G1.2/S2mf
 demographic	ADJ	S5+
 demographical	ADJ	S5+
 demographics	NOUN	S5+
-demographics	NOUN	S5+
 demography	NOUN	S5+
 demolish	VERB	A1.1.2 F1
 demolished	VERB	A1.1.2 F1
@@ -22749,7 +22423,6 @@ denationalisation	NOUN	G1.1
 dene	NOUN	W3
 denial	NOUN	Q2.2/Z6 S7.4-
 denials	NOUN	Q2.2/Z6 S7.4-
-denied	VERB	Q2.2/Z6 S7.4-
 denied	VERB	Q2.2/Z6 S7.4-
 denied	ADJ	Q2.2/Z6 S7.4-
 denier	NOUN	N3.5
@@ -22825,7 +22498,6 @@ deplore	VERB	E2-
 deplored	VERB	E2-
 deploring	ADJ	E2-
 deploy	VERB	M2
-deploy	VERB	M2
 deployed	VERB	M2
 deployment	NOUN	M2
 depo-injection	NOUN	B3
@@ -22836,7 +22508,6 @@ deportation	NOUN	M2/G1.1
 deported	VERB	M2/G1.1
 deportment	NOUN	S1.1.1
 depose	VERB	A9- M2/G1.1- A11.1-
-depose	VERB	A9- M2/G1.1- A11.1-
 deposed	ADJ	A9- M2/G1.1- A11.1-
 deposed	VERB	A9- M2/G1.1- A11.1-
 deposing	VERB	A9- M2/G1.1- A11.1-
@@ -22844,7 +22515,6 @@ deposit	VERB	M2 I1.1
 deposit	NOUN	O1.1 I1.1
 deposit-account	NOUN	I1.1
 deposit-book	NOUN	I1/Q1.2
-deposited	VERB	M2 I1.1
 deposited	VERB	M2 I1.1
 deposited	ADJ	M2 I1.1
 depositors	NOUN	I1.1/S2mf
@@ -22901,7 +22571,6 @@ derivative	ADJ	A2.2 Q3
 derivative	NOUN	A2.2 Q3
 derive	VERB	A2.2 Q3
 derived	ADJ	A2.2 Q3
-derived	VERB	A2.2 Q3
 derived	VERB	A2.2 Q3
 derives	VERB	A2.2 Q3
 deriving	NOUN	A2.2 Q3
@@ -22970,13 +22639,11 @@ desirable	ADJ	O4.2+ X7+
 desire	VERB	X7+ S3.2
 desire	NOUN	X7+ S3.2
 desired	VERB	X7+ S3.2
-desired	VERB	X7+ S3.2
 desires	NOUN	X7+ S3.2
 desires	VERB	X7+ S3.2
 desiring	ADJ	X7+
 desiring	VERB	X7+ S3.2
 desirous	ADJ	X7+
-desist	VERB	T2- A1.1.1-
 desist	VERB	T2- A1.1.1-
 desk	NOUN	H5
 desk-top	NOUN	H5
@@ -22998,14 +22665,11 @@ despairs	VERB	E4.1-
 despatch	NOUN	Q1.2
 despatch	VERB	M2
 despatched	VERB	M2
-despatched	VERB	M2
 desperate	ADJ	E4.1- X5.2+
 desperately	ADV	A13.3 X5.2+
 desperation	NOUN	E6-
 despicable	ADJ	O4.2- G2.2-
 despise	VERB	E2-
-despise	VERB	E2-
-despised	VERB	E2-
 despised	VERB	E2-
 despised	ADJ	E2-
 despises	VERB	E2-
@@ -23035,7 +22699,6 @@ desultory	ADJ	X7-
 detach	VERB	M2/A6.1- E6
 detachable	ADJ	M2
 detached	VERB	M2/A6.1- E6
-detached	VERB	M2/A6.1- E6
 detached	ADJ	X5.2- E1- H1
 detaches	VERB	M2/A6.1- E6
 detachment	NOUN	X5.2- E1- G3/S5+c
@@ -23053,7 +22716,6 @@ detaining	VERB	G2.1 A1.7+
 detect	VERB	A10+
 detectable	ADJ	A10+
 detected	ADJ	A10+
-detected	VERB	A10+
 detected	VERB	A10+
 detection	NOUN	A10+
 detective	NOUN	G2.1/S2mf
@@ -23073,7 +22735,6 @@ determinate	ADJ	A7+
 determination	NOUN	X6+ A2.2 A7+
 determine	VERB	A2.2 A7+ X6+
 determined	ADJ	X6+
-determined	VERB	A2.2 A7+ X6+
 determined	VERB	A2.2 A7+ X6+
 determinedly	ADV	X6+
 determining	VERB	A2.2 A7+ X6+
@@ -23114,7 +22775,6 @@ devastation	NOUN	A1.1.2 E4.1-
 develop	VERB	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
 developed	ADJ	A5.1+/A2.1
 developed	VERB	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
-developed	VERB	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
 developer	NOUN	H1/S2mf C1/O1.2@@
 developers	NOUN	H1/S2mf C1/O1.2
 developing	ADJ	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
@@ -23149,14 +22809,11 @@ devolved	VERB	A9-
 devolving	NOUN	A9-
 devolving	VERB	A9-
 devote	VERB	A9-
-devote	VERB	A9-
 devoted	ADJ	S7.1- A9-
-devoted	VERB	A9-
 devoted	VERB	A9-
 devotees	NOUN	A9-/S2mf
 devotion	NOUN	E2+ S6+ S9
 devotions	NOUN	E2+ S6+ S9
-devour	VERB	F1 X5.2+ A1.1.2
 devour	VERB	F1 X5.2+ A1.1.2
 devoured	VERB	F1 X5.2+ A1.1.2
 devouring	VERB	F1 X5.2+ A1.1.2
@@ -23194,7 +22851,6 @@ dialing	NOUN	Q1.3
 dialing	ADJ	Q1.3
 dialled	VERB	Q1.3
 dialled	ADJ	Q1.3
-dialled	VERB	Q1.3
 dialling	NOUN	Q1.3
 dialling	ADJ	Q1.3
 dialog	NOUN	Q2.1
@@ -23254,7 +22910,6 @@ die	VERB	L1- T2-
 die-hard	NOUN	X5.2+/S2mf
 die-hards	NOUN	X5.2+/S2mf
 died	VERB	L1- T2-
-died	VERB	L1- T2-
 diesel	NOUN	O1.2 M3
 diet	NOUN	F1 T1.2%
 diet	VERB	F1
@@ -23288,7 +22943,6 @@ diffidence	NOUN	S1.2.3-
 diffident	ADJ	S1.2.3-
 diffuse	ADJ	N3.6+
 diffuse	VERB	M1 M2
-diffused	VERB	M1 M2
 diffused	VERB	M1 M2
 diffusing	VERB	M1 M2
 diffusing	NOUN	M1 M2
@@ -23441,7 +23095,6 @@ disabilities	NOUN	B2- X9.1-
 disability	NOUN	X9.1- B2- I1.1/B2-
 disable	VERB	A1.1.2
 disabled	VERB	A1.1.2
-disabled	VERB	A1.1.2
 disabled	ADJ	B2- A1.1.2 B2-/S2c
 disablement	NOUN	B2- A1.1.2
 disabling	VERB	A1.1.2
@@ -23477,7 +23130,6 @@ disapproving	ADJ	E2-
 disarm	VERB	A1.1.2/A9- G3 S1.2.1+
 disarmament	NOUN	G3-
 disarmed	VERB	A1.1.1/A9- G3 S1.2.1+
-disarmed	VERB	A1.1.1/A9- G3 S1.2.1+
 disarms	VERB	A1.1.2/A9- G3 S1.2.1+
 disarranged	VERB	A2.1+ A1.1.2
 disarray	NOUN	O4.2-
@@ -23489,7 +23141,6 @@ disastrous	ADJ	A5.1--- X9.2-
 disastrously	ADV	A5.1--- X9.2-
 disatisfcation	NOUN	E4.2-
 disatisified	VERB	E4.2-
-disavow	VERB	A6.1- E2-
 disavow	VERB	A6.1- E2-
 disband	VERB	T2-
 disbanded	VERB	T2-
@@ -23537,7 +23188,6 @@ disco	NOUN	K1/H1 K1
 discoing	NOUN	K1
 discoing	VERB	K1
 discolour	VERB	O4.3/A2.1
-discolour	VERB	O4.3/A2.1
 discoloured	ADJ	O4.3/A2.1
 discolours	VERB	O4.3/A2.1
 discomfort	NOUN	B2- O4.2- S8-
@@ -23579,7 +23229,6 @@ discourse	NOUN	Q2.1 Q1.2
 discourtesy	NOUN	S1.2.4-
 discover	VERB	A10+
 discovered	VERB	A10+
-discovered	VERB	A10+
 discovered	ADJ	A10+
 discoverer	NOUN	A10+/S2mf
 discoverers	NOUN	A10+/S2mf
@@ -23617,7 +23266,6 @@ discussion	NOUN	Q2.1 Q2.2
 discussion-based	ADJ	Q2.1/P1
 disdain	NOUN	S7.2-
 disdain	VERB	S7.2-
-disdain	VERB	S7.2-
 disdained	VERB	S7.2-
 disdainful	ADJ	S1.2.3+ S7.2-
 disdainfully	ADV	S1.2.3+ S7.2-
@@ -23636,14 +23284,12 @@ disenabling	VERB	A1.1.2
 disenchant	VERB	E4.2-
 disenchanted	VERB	E4.2-
 disenchanted	ADJ	E4.2-
-disenchanted	VERB	E4.2-
 disenfranchise	VERB	G2.1
 disenfranchises	VERB	G2.1
 disengage	VERB	A1.7- G3@
 disestablish	VERB	G1.1-
 disestablished	VERB	G1.1-
 disfavour	NOUN	E2-
-disfigure	VERB	A1.1.2
 disfigure	VERB	A1.1.2
 disfigured	VERB	A1.1.2
 disgrace	VERB	G2.2-
@@ -23669,7 +23315,6 @@ disharmony	NOUN	S1.2.1- K2 A6.1-
 dishcloth	NOUN	O2
 dishearted	VERB	E4.2-/A2.1
 dishearten	VERB	E4.2-/A2.1
-dishearten	VERB	E4.2-/A2.1
 disheartened	ADJ	E4.1-
 disheartening	ADJ	E6-
 disheartens	VERB	E4.2-/A2.1
@@ -23689,7 +23334,6 @@ dishwashing	VERB	B4
 dishy	ADJ	O4.2+
 disillusion	NOUN	E4.2-
 disillusion	VERB	E4.2-
-disillusioned	VERB	E4.2-
 disillusioned	VERB	E4.2-
 disillusioned	ADJ	E4.2-
 disillusioning	VERB	E4.2-
@@ -23713,7 +23357,6 @@ disinvestments	NOUN	I1
 disjoint	VERB	A1.7-
 disjointed	VERB	A1.7-
 disjointed	ADJ	O4.1
-disjointed	VERB	A1.7-
 disjointing	NOUN	A1.7-
 disjointing	VERB	A1.7-
 disk	NOUN	O2 B1 Y2 K3 O4.4
@@ -23726,7 +23369,6 @@ dislocated	VERB	B2-
 dislocating	ADJ	E6-
 dislocating	NOUN	B2- A2.1+ M2
 dislocation	NOUN	B2- A2.1+ M2
-dislodge	VERB	M2
 dislodge	VERB	A2.1+ M2
 dislodged	VERB	M2
 disloyal	ADJ	S6-
@@ -23747,15 +23389,12 @@ dismembered	ADJ	A1.1.2
 dismiss	VERB	A11.1- X2.1- I3.1- S7.4+/M1 G2.1
 dismissal	NOUN	A11.1- X2.1- I3.1- S7.4+/M1 G2.1
 dismissed	VERB	A11.1- X2.1- I3.1- S7.4+/M1 G2.1
-dismissed	VERB	A11.1- X2.1- I3.1- S7.4+/M1 G2.1
 dismissing	VERB	A11.1- X2.1- I3.1- S7.4+/M1 G2.1
 dismissive	ADJ	E6+
-dismount	VERB	M1 M2
 dismount	VERB	M1 M2
 dismounted	VERB	M1 M2
 disobedience	NOUN	S8-
 disobedient	ADJ	S8-
-disobey	VERB	S8-
 disobey	VERB	S8-
 disobeys	VERB	S8-
 disorder	NOUN	B2- E3- O4.2-
@@ -23765,10 +23404,8 @@ disorders	NOUN	B2-
 disorganise	VERB	O4.2-
 disorganised	ADJ	O4.2- I3.2-
 disorganised	VERB	O4.2-
-disorganised	VERB	O4.2-
 disorganize	VERB	O4.2-
 disorganized	ADJ	O4.2- I3.2-
-disorganized	VERB	O4.2-
 disorganized	VERB	O4.2-
 disorientate	VERB	M6 X2.5-
 disorientated	ADJ	M6 X2.5-
@@ -23777,7 +23414,6 @@ disorientation	NOUN	M6 X2.5-
 disoriented	ADJ	M6 X2.5-
 disown	VERB	X7-
 disowned	VERB	X7-
-disparage	VERB	A11.1-/Q2.2
 disparage	VERB	A11.1-/Q2.2
 disparaged	VERB	Q2.2
 disparagement	NOUN	A11.1-/Q2.2
@@ -23809,14 +23445,12 @@ dispersion	NOUN	M1 N3.6+/A2.1
 dispirited	ADJ	E4.1-
 dispiriting	ADJ	E4.1-
 displace	VERB	A2.1+ M2
-displace	VERB	A2.1+ M2
 displaced	ADJ	M1
 displacement	NOUN	M2
 display	VERB	A10+
 display	NOUN	A10+ Y2
 displayed	VERB	A10+
 displayed	ADJ	A10+
-displayed	VERB	A10+
 displaying	NOUN	A10+
 displaying	ADJ	A10+
 displease	VERB	E4.2-
@@ -23829,8 +23463,7 @@ disposal	NOUN	X7- M2
 dispose	VERB	X7-
 disposed	ADJ	X5.2+
 disposed	VERB	X7-
-disposition	NOUN	S1.2 A9-
-disposition	NOUN	X7+ M6
+disposition	NOUN	S1.2 A9- X7+ M6
 dispositions	NOUN	S1.2 A9-
 dispossess	VERB	A9- S7.1-
 dispossessed	VERB	A9- S7.1-
@@ -23838,7 +23471,6 @@ dispossessing	VERB	A9- S7.1-
 disproportion	NOUN	A6.1- N5.2+
 disproportionate	ADJ	N5.2+
 disproportionately	ADV	N5.2+
-disprove	VERB	A5.2-
 disprove	VERB	A5.2-
 disproved	VERB	A5.2-
 disputable	ADJ	A7-
@@ -23858,16 +23490,13 @@ disrespect	NOUN	S7.2-
 disrespect	VERB	S7.2-
 disrespectful	ADJ	S7.2-
 disrobe	VERB	B5- A1.1.1 A9-
-disrobe	VERB	B5- A1.1.1 A9-
 disrupt	VERB	S8-
-disrupted	VERB	S8-
 disrupted	VERB	S8-
 disrupted	ADJ	S8-
 disruption	NOUN	E3-
 disruptions	NOUN	E3-
 disruptive	ADJ	E3-
 dissatisfaction	NOUN	E4.2-
-dissatisfied	VERB	E4.2-
 dissatisfied	VERB	E4.2-
 dissatisfied	ADJ	E4.2-
 dissatisfy	VERB	E4.2-
@@ -23896,13 +23525,9 @@ dissolute	ADJ	G2.2-
 dissolutely	ADV	G2.2-
 dissolution	NOUN	T2-
 dissolve	VERB	A1.1.1 T2-
-dissolve	VERB	A1.1.1 T2-
-dissolved	VERB	A1.1.1 T2-
 dissolved	VERB	A1.1.1 T2-
 dissolves	VERB	A1.1.1 T2-
 dissuade	VERB	Q2.2
-dissuade	VERB	Q2.2
-dissuaded	VERB	Q2.2
 dissuaded	VERB	Q2.2
 dissuading	NOUN	Q2.2
 dissuading	VERB	Q2.2
@@ -23913,7 +23538,6 @@ distant	ADJ	N3.3+ S1.2.1- X5.1-
 distaste	NOUN	E2-
 distasteful	ADJ	O4.2- G2.2-
 distemper	NOUN	B2-/L2 C1
-distil	VERB	F2/A1.1.1 A1.1.1/O1.2 X2.1
 distil	VERB	F2/A1.1.1 A1.1.1/O1.2 X2.1
 distillation	NOUN	F2/A1.1.1 A1.1.1/O1.2 X2.1
 distilled	ADJ	O4.1/F2
@@ -23948,7 +23572,6 @@ distraught	ADJ	E6- E4.1-
 distress	VERB	E6- E4.1- B2-
 distress	NOUN	E6- E4.1- B2-
 distressed	VERB	E6- E4.1- B2-
-distressed	VERB	E6- E4.1- B2-
 distressed	ADJ	E6- E4.1- B2-
 distressful	ADJ	E6- E4.1- B2-
 distressing	ADJ	E6- E4.1- B2-
@@ -23966,7 +23589,6 @@ districts	PROPN	M7
 distrust	VERB	X2.1/A5.1-
 distrustful	ADJ	X2.1/A5.1-
 disturb	VERB	X5.1- A2.1+
-disturb	VERB	X5.1- A2.1+
 disturbance	NOUN	E3- B2-
 disturbances	NOUN	E3- X7- B2-
 disturbed	ADJ	E6- B2-/X1
@@ -23977,7 +23599,6 @@ disturbing	VERB	X5.1- A2.1+
 disturbing	NOUN	X5.1- A2.1+
 disturbing	ADJ	E6-
 disunite	VERB	S5- S8-
-disunite	VERB	S5-
 disunity	NOUN	S5- A6.1-
 disuse	NOUN	A1.5.1-
 disused	ADJ	A1.5.1-
@@ -23994,7 +23615,6 @@ diuretic	ADJ	B1
 diuretic	NOUN	B1/O1
 diuretics	NOUN	B1/O1
 divan	NOUN	H5
-dive	VERB	M4 M1 N5-/A2.1
 dive	VERB	M4 M1 N5-/A2.1
 dive	NOUN	M4 M1 N5-/A2.1 H1/O4.2-
 diver	NOUN	M4/S2mf
@@ -24013,20 +23633,16 @@ diversionary	ADJ	X5.1-
 diversions	NOUN	X5.1- M6/A2.1 K1%
 diversity	NOUN	A6.3+
 divert	VERB	M2 X5.1-
-divert	VERB	M2 X5.1-
-diverted	VERB	M2 X5.1-
 diverted	VERB	M2 X5.1-
 diverted	ADJ	M2 X5.1-
 diverts	VERB	M2 X5.1-
 dives	VERB	M4 M1 N5-/A2.1
-divest	VERB	A9-
 divest	VERB	A9-
 dividable	ADJ	N2
 divide	NOUN	A6.1-/E3- T1.2/A2.1+ W3
 divide	VERB	A6.1- A9-/N5.1 N2
 divided	VERB	A6.1- A9-/N5.1 N2
 divided	ADJ	A6.1- A9-/N5.1 N2
-divided	VERB	A6.1- A9-/N5.1 N2
 dividend	NOUN	I1.1 S8+
 dividends	NOUN	I1.1
 divider	NOUN	O2/A6.1- O2/N3.1
@@ -24265,7 +23881,6 @@ doting	NOUN	E2+
 doting	ADJ	E2+
 doting	VERB	E2+
 dotted	ADJ	Q1.2
-dotted	VERB	M2 Q1.2
 dotted	VERB	M6 M2 Q1.2
 double	ADJ	N5+
 double	NOUN	F2 A6.1+/S2mf
@@ -24347,7 +23962,6 @@ downpour	NOUN	W4
 downright	ADJ	A13.2
 downright	ADV	A13.2
 downs	NOUN	W3
-downs	PROPN	W3
 downs	PROPN	Z1mf
 downshift	VERB	M3 N3.8-/A2.1 N3.2-/A2.1 A12+/A2.1
 downshifting	VERB	M3 N3.8-/A2.1 N3.2-/A2.1 A12+/A2.1
@@ -24563,7 +24177,6 @@ dropsy	NOUN	B2-
 dross	NOUN	O4.2- A1.5.2-
 drought	NOUN	W4
 drove	VERB	M3 A1.1.1 X5.2+ M2 S7.1+
-drove	VERB	M3 A1.1.1 X5.2+ M2 S7.1+
 drown	VERB	L1- N5.2+ A10- X9.2-
 drowned	VERB	L1- N5.2+ A10- X9.2-
 drowned	ADJ	L1- N5.2+ A10- X9.2-
@@ -24633,7 +24246,6 @@ duff	ADJ	O4.2-
 duff	VERB	E3-
 duff	NOUN	F1
 duffer	NOUN	X9.1-/S2mf
-dug	VERB	A1.1.1 E2+%
 dug	VERB	A1.1.1 X2.4 E2+
 dugout	NOUN	M4 H1
 duke	NOUN	S7.1+/S2.2m
@@ -24784,7 +24396,6 @@ e-tailing	ADJ	I2.2/Y2
 e-technology	ADJ	Y2
 e-ventures	NOUN	I2.1/Y2
 e-village	PROPN	M7/Y2
-eBay	PROPN	Z3c
 eBay	PROPN	Z3c
 eBook	NOUN	Q4.1/Y2
 eBroker	NOUN	I2.2/Y2/S2mf
@@ -25084,7 +24695,6 @@ electricals	NOUN	O3
 electrician	NOUN	O3/S2mf
 electricity	NOUN	O3
 electrics	NOUN	O3
-electrics	NOUN	O3
 electrification	NOUN	O3
 electrified	ADJ	O3 X5.2+
 electrify	VERB	O3 X5.2+
@@ -25137,7 +24747,6 @@ eloquence	NOUN	Q3/X9.1+
 eloquent	ADJ	Q3/X9.1+
 eloquently	ADV	Q3/X9.1+
 else	ADV	A6.1- Z4
-else	ADV	A6.1- Z4
 elses	DET	A9+/Z8
 elsewhere	ADV	M6/A6.1-
 elucidate	VERB	Q2.2/A7+
@@ -25173,7 +24782,6 @@ embarking	NOUN	M1 T2+
 embarking	VERB	M1 T2+
 embarrass	VERB	E4.1- E5-
 embarrassed	VERB	E4.1- E5-
-embarrassed	VERB	E4.1- E5-
 embarrassed	ADJ	E4.1- E5-
 embarrassing	ADJ	E4.1- E5-
 embarrassing	NOUN	E4.1- E5-
@@ -25204,7 +24812,6 @@ embodiment	NOUN	Q1.1/A1.6
 embody	VERB	Q1.1/A1.6 A1.8+
 embodying	VERB	Q1.1/A1.6 A1.8+
 embolden	VERB	S8+ X5.2+
-emboldened	VERB	S8+ X5.2+
 emboldened	VERB	S8+ X5.2+
 emboss	VERB	A1.1.1
 embossed	ADJ	O4.1
@@ -25260,7 +24867,6 @@ emphasis	NOUN	A11.1+
 emphasise	VERB	A11.1+
 emphasised	VERB	A11.1+
 emphasised	ADJ	A11.1+
-emphasised	VERB	A11.1+
 emphasises	VERB	A11.1+
 emphasising	VERB	A11.1+
 emphasising	NOUN	A11.1+
@@ -25277,7 +24883,6 @@ employ	NOUN	I3.1 A1.5.1
 employability	NOUN	I3.1
 employable	ADJ	I3.1
 employed	ADJ	I3.1 A1.5.1
-employed	VERB	I3.1 A1.5.1
 employed	VERB	I3.1 A1.5.1
 employee	NOUN	I3.1/S2mf
 employee/employer	NOUN	I3.1/S2mf
@@ -25359,7 +24964,6 @@ encounter	VERB	S3.1 A1.1.1
 encounter	NOUN	S3.1 A1.1.1
 encountered	ADJ	S3.1 A1.1.1
 encountered	VERB	S3.1 A1.1.1
-encountered	VERB	S3.1 A1.1.1
 encountering	ADJ	S3.1 A1.1.1
 encountering	NOUN	S3.1 A1.1.1
 encountering	VERB	S3.1 A1.1.1
@@ -25369,7 +24973,6 @@ encouraged	VERB	S8+
 encouragement	NOUN	S8+
 encouraging	ADJ	S8+
 encouraging	NOUN	S8+
-encroach	VERB	N5.2+/X7-
 encroach	VERB	N5.2+/X7-
 encroached	VERB	N5.2+/X7-
 encroachment	NOUN	N5.2+/X7-
@@ -25405,7 +25008,6 @@ endeavouring	ADJ	X8+
 endeavouring	NOUN	X8+
 endeavours	NOUN	X8+
 endeavours	VERB	X8+
-ended	VERB	T2-
 ended	VERB	T2-
 endemic	ADJ	B2 A6.2+
 endgame	NOUN	K5.1 K5.2
@@ -25494,7 +25096,6 @@ enhancing	NOUN	A5.1+/A2.1
 enigma	NOUN	X2.2- X2.5-
 enigmatic	ADJ	X2.5-
 enjoin	VERB	S7.1+/Q2.2
-enjoin	VERB	S7.1+/Q2.2
 enjoined	VERB	S7.1+/Q2.2
 enjoy	VERB	E2+ A9+ E4.1+
 enjoyable	ADJ	E4.1+
@@ -25519,9 +25120,8 @@ enmity	NOUN	E3-
 enormity	NOUN	N3.2+++
 enormous	ADJ	N3.2+++
 enormously	ADV	A13.3
-enough	ADV	A13.3
 enough	DET	N5+ N6+
-enough	ADV	N5+ N6+
+enough	ADV	N5+ N6+ A13.3
 enquire	VERB	Q2.2 X2.4
 enquired	ADJ	Q2.2 X2.4
 enquirer	NOUN	Q2.2/S2mf
@@ -25533,11 +25133,9 @@ enquiry	NOUN	Q2.2 X2.4
 enrage	VERB	E3-
 enraged	ADJ	E3-
 enraged	VERB	E3-
-enraged	VERB	E3-
 enrich	VERB	A5.1+/A2.1 I1.1+/A2.1
 enriching	ADJ	A5.1+/A2.1 I1.1+/A2.1
 enrichment	NOUN	A5.1+/A2.1 I1.1+/A2.1
-enrol	VERB	S5+
 enrol	VERB	S5+
 enrole	VERB	S5+/Q2.2
 enroled	VERB	S5+/Q2.2
@@ -25557,11 +25155,9 @@ enslave	VERB	S7.1- A1.7+
 enslaved	VERB	S7.1- A1.7+
 enslaved	ADJ	S7.1- A1.7+
 enslavement	NOUN	S7.1- A1.7+
-ensnare	VERB	S7.1+/G2.2- A1.7+
 ensnare	VERB	S7.1+/G2.2- A1.7+ A9+
 ensnared	VERB	S7.1+/G2.2- A1.7+ A9+
 ensue	VERB	N4/A2.2
-ensue	VERB	N6/A2.2
 ensues	VERB	N4/A2.2
 ensuing	ADJ	N4
 ensuing	NOUN	N4
@@ -25579,7 +25175,6 @@ entangle	VERB	S1.1.3+ A9+ A1.7+
 entangled	VERB	S1.1.3+ A9+ A1.7+
 enter	VERB	M1 S5+ Q1.2 T2+ A1.8+ Y2
 entered	ADJ	M1 S5+ Q1.2
-entered	VERB	M1 S5+ Q1.2 T2+ A1.8+
 entered	VERB	M1 S5+ Q1.2 T2+ A1.8+
 entering	VERB	M1 S5+ Q1.2 T2+ A1.8+
 entering	NOUN	M1 S5+ Q1.2 T2+ A1.8+
@@ -25633,7 +25228,6 @@ entrant	NOUN	S1.1.3+/S2mf T2+/S2mf
 entrap	VERB	G2.2- A5.2-
 entrapped	VERB	G2.2- A5.2-
 entreat	VERB	Q2.2
-entreat	VERB	Q2.2
 entreated	VERB	Q2.2
 entreaty	NOUN	A2.2/S1.2.4+
 entrench	VERB	A2.1- G3
@@ -25649,7 +25243,6 @@ entrepreneurs	NOUN	I2.1/S2mf
 entrepreneurship	NOUN	I2.1
 entries	NOUN	M7 Q1.2 S7.3 M1 T2+
 entrust	VERB	A9- S7.1+ S7.4+
-entrusted	VERB	A9- S7.1+ S7.4+
 entrusted	VERB	A9- S7.1+ S7.4+
 entry	NOUN	M7 Q1.2 S7.3 M1 T2+
 ents	NOUN	I2.1/S2mf
@@ -25711,7 +25304,6 @@ equaliser	NOUN	K3
 equality	NOUN	A6.1+
 equally	ADV	A6.1+
 equanimity	NOUN	E3+ E4.2+
-equanimity	NOUN	E3+
 equate	VERB	A6.1+
 equation	NOUN	N2
 equator	NOUN	W3
@@ -25723,7 +25315,6 @@ equinox	NOUN	W1
 equip	VERB	A9 X9.1+
 equipment	NOUN	O2
 equipped	ADJ	A9+ X9.1+
-equipped	VERB	A9 X9.1+
 equipped	VERB	A9 X9.1+
 equitable	ADJ	G2.2+
 equitably	ADV	G2.2+
@@ -25805,10 +25396,8 @@ especially	ADV	A14
 espionage	NOUN	G3 G1.1
 esplanade	NOUN	M7
 espouse	VERB	A9+ S8+ X2.1
-espouse	VERB	A9+ S8+
 espoused	VERB	A9+ S8+ X2.1
 essay	VERB	X8+
-essay	NOUN	P1/Q1.2 Q1.2
 essay	NOUN	Q1.2/P1 Q1.2 X8+
 essay-based	ADJ	Q1.2/P1
 essay-style	ADJ	Q1.2/P1 Q1.2
@@ -25819,7 +25408,6 @@ essential	NOUN	S6+ A4.2+
 essential	ADJ	S6+ A4.2+
 essentially	ADV	S6+ A13.2 Z4
 essentials	NOUN	S6+ A4.2+
-establish	VERB	T2+ X6+
 establish	VERB	T2+ X6+
 established	ADJ	T3+
 establishing	ADJ	T2+
@@ -25833,7 +25421,6 @@ esteem	VERB	S7.2+
 esteem	NOUN	S7.2+
 esteemed	VERB	S7.2+
 esteemed	ADJ	S7.2+
-esteemed	VERB	S7.2+
 estimable	ADJ	S7.2+
 estimate	NOUN	X6/A7- N2/A7- I2.1/Q1.2
 estimate	VERB	X6/A7- N2/A7-
@@ -25891,7 +25478,6 @@ evading	NOUN	A1.9
 evaluate	VERB	A5.1 N2
 evaluated	ADJ	A5.1 N2
 evaluated	VERB	A5.1 N2
-evaluated	VERB	A5.1 N2
 evaluating	NOUN	A5.1 N2
 evaluating	VERB	A5.1 N2
 evaluation	NOUN	A5.1 N2
@@ -25914,7 +25500,6 @@ evasive	ADJ	A1.9
 evasively	ADV	A1.9
 eve	PROPN	Z1
 eve	NOUN	T1.3-/N4
-even	ADV	Z5
 even	ADJ	A6.1+ O4.4 A1.4 N1
 even	NOUN	T1.3
 even	ADV	A13.1
@@ -25960,7 +25545,7 @@ evidently	ADV	A11.2+
 evil	NOUN	G2.2-
 evil	ADJ	G2.2-
 evil-doer	NOUN	G2.2-/S2mf
-evil-smelling	ADJ	A5/1-/X3.5 E2-/X3.5
+evil-smelling	ADJ	A5.1-/X3.5 E2-/X3.5
 evocation	NOUN	A2.2 C1
 evocative	ADJ	A6.1+
 evoke	VERB	A2.2
@@ -26058,7 +25643,6 @@ excavating	VERB	A1.1.1
 excavation	NOUN	A1.1.1
 exceed	VERB	N5.2+
 exceeded	VERB	N5.2+
-exceeded	VERB	N5.2+
 exceedingly	ADV	A13.3
 exceeds	VERB	N5.2+
 excel	VERB	A5.1+
@@ -26096,7 +25680,6 @@ excitedly	ADV	X5.2+
 excitement	NOUN	X5.2+
 exciting	NOUN	X5.2+
 exciting	ADJ	X5.2+
-exclaim	VERB	Q2.2
 exclaim	VERB	Q2.2
 exclaimed	VERB	Q2.2
 exclaims	VERB	Q2.2
@@ -26158,7 +25741,6 @@ exhausting	ADJ	B2-
 exhaustion	NOUN	B2- A1.5.1/N5.1+
 exhaustive	ADJ	N5.1+
 exhibit	NOUN	O2/A10+
-exhibit	VERB	A10+
 exhibit	VERB	A10+
 exhibited	VERB	A10+
 exhibition	NOUN	A10+/S1.1.3+ A10+ I1%
@@ -26224,7 +25806,6 @@ expedited	VERB	N3.8+
 expedition	NOUN	M1
 expeditionary	ADJ	M1
 expel	VERB	P1/G2.1 M2
-expelled	VERB	P1/G2.1 M2
 expelled	VERB	P1/G2.1 M2
 expend	VERB	I1.2 A1.5.1
 expendable	ADJ	A11.1-
@@ -26305,8 +25886,7 @@ exposing	ADJ	A10+ A15- G2.2-/S3.2
 exposing	NOUN	A10+ A15- G2.2-/S3.2
 exposition	NOUN	A10+ X4.1
 exposure	NOUN	A15- A10+ Q4 C1
-expound	VERB	Q2.2 A2.2
-expound	VERB	A12+/Q2.2
+expound	VERB	A12+/Q2.2 A2.2
 express	VERB	Q1.1 B1%
 express	ADJ	A4.2+ N3.8+++
 express	NOUN	M3/N3.8+fn
@@ -26370,7 +25950,6 @@ extract	NOUN	N5- O1 Q4.2
 extract	VERB	M2 A9+
 extracted	ADJ	A1.1.1
 extracted	VERB	M2 A9+
-extracted	VERB	M2 A9+
 extracting	ADJ	A1.1.1
 extraction	NOUN	B3 A9+
 extractions	NOUN	B3 A9+
@@ -26378,7 +25957,6 @@ extractor	NOUN	O2
 extraditable	ADJ	G2.1/M2
 extraditable	NOUN	G2.1-/S2mf
 extraditables	NOUN	G2.1-/S5+
-extradite	VERB	G2.1/M2
 extradite	VERB	G2.1/M2
 extraditing	VERB	G2.1/M2
 extradition	NOUN	G2.1/M2
@@ -26570,8 +26148,7 @@ fake	NOUN	A5.4-
 fake	VERB	A5.4-
 falcon	NOUN	L2mfn
 falcons	NOUN	L2mfn
-fall	NOUN	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5
-fall	NOUN	T1.3
+fall	NOUN	M1 N5-/A2.1 S7.1- L1- T1.3 A1.8+ G2.2- X9.2- W3/M4 S9 K5
 fall	VERB	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
 fall-back	ADJ	A6.1-/A15+ G3
 fall-off	NOUN	N5-/A2.1
@@ -26593,7 +26170,6 @@ false	ADJ	A5.2- A5.4- G2.2-
 false	ADV	A5.2-
 false-bottomed	ADJ	O4.1
 false-hearted	ADJ	A5.2-/E1
-falsehood	NOUN	A5.2-
 falsehood	NOUN	A5.2-
 falsely	ADV	A5.2-
 falseness	NOUN	A5.2-
@@ -26627,7 +26203,6 @@ fanatic	NOUN	X5.2+++/S2mf
 fanatical	ADJ	X5.2++
 fanaticism	NOUN	X5.2++
 fancied	ADJ	E2+ X2.6
-fancied	VERB	E2+ X2.6 X7+
 fancied	VERB	E2+ X2.6 X7+
 fancies	NOUN	E2+ F1
 fancies	VERB	E2+ X2.6 X7+
@@ -26843,17 +26418,15 @@ feel	NOUN	E1 O4.5 X3
 feel	VERB	X2.1 E1 X3
 feeling	NOUN	X2.1 E1 X3
 feeling	ADJ	E1 X3
-feet	NOUN	B1 O2
-feet	NOUN	N3.3
+feet	NOUN	B1 O2 N3.3
 feign	VERB	A5.4-
 feigned	VERB	A5.4-
 feint	ADJ	O4.1
 feisty	ADJ	X5.2++/E3-
 feline	ADJ	L2 O4.2
-fell	VERB	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2
+fell	VERB	M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 A1.1.1
 fell	ADJ	W3
 fell	NOUN	W3
-fell	VERB	A1.1.1
 fella	NOUN	S2.2m S4m
 fellah	NOUN	S2.2m S4m
 feller	NOUN	S2.2m
@@ -26868,7 +26441,6 @@ felonies	NOUN	G2.1-
 felony	NOUN	G2.1-
 felpsy	PROPN	Z3c
 felt	NOUN	O1.1
-felt	VERB	X2.1 E1 X3
 felt	VERB	X2.1 E1 X3
 felted	ADJ	O1.1
 fem	ADJ	S2.1
@@ -26895,7 +26467,6 @@ fend	VERB	A1.1.1
 fender	NOUN	O2
 fenestration	NOUN	G2.1
 feng	NOUN	S9
-fennel	NOUN	L3
 fennel	NOUN	F1 L3
 fennels	NOUN	F1 L3
 feral	ADJ	L1
@@ -27027,7 +26598,6 @@ figure	VERB	X2.1 X2.5+
 figure-hugging	ADJ	B5
 figured	ADJ	O4.1
 figured	VERB	X2.1 X2.5+
-figured	VERB	X2.1 X2.5+
 figurehead	NOUN	S7.2+/S2mf M4fn
 figurine	NOUN	C1
 file	NOUN	O2/Q1.2 O2 Y2 S5+/N4
@@ -27065,7 +26635,6 @@ filofax	NOUN	Q1.2
 filter	NOUN	O2
 filter	VERB	A1.1.1
 filtered	VERB	A1.1.1
-filtered	VERB	A1.1.1
 filtered	ADJ	A1.1.1
 filtering	VERB	A1.1.1
 filtering	NOUN	A1.1.1
@@ -27080,7 +26649,6 @@ final	NOUN	K5.1
 final-year	ADJ	T1.3
 finale	NOUN	K4/T2- T2-
 finalisation	NOUN	X6+
-finalise	VERB	X6+
 finalise	VERB	X6+
 finalised	VERB	X6+
 finalising	VERB	X6+
@@ -27121,7 +26689,7 @@ finest	ADJ	A5.1+++ O4.5
 finest-quality	ADJ	A5.1+++
 finger	VERB	X3.3
 finger	NOUN	B1 O4.4
-finger-pointing	ADJ	Q2.2/G2.2- B1/ A10+ B1/M6
+finger-pointing	ADJ	Q2.2/G2.2- B1/A10+ B1/M6
 fingered	VERB	X3.3
 fingermark	NOUN	O2
 fingermarks	NOUN	O2
@@ -27389,7 +26957,6 @@ fledge	VERB	T3+/A2.1
 fledgeling	NOUN	T3-
 fledgling	NOUN	T3--
 flee	VERB	M1
-flee	VERB	M1
 fleece	NOUN	B5/O1.1
 fleecy	ADJ	O4.5
 fleeing	NOUN	M1
@@ -27457,7 +27024,6 @@ flit	VERB	M1/N3.8+ A2.1+
 float	VERB	M1 T2+ I2.2
 float	NOUN	O2 I1 M3 F2 M4
 floated	VERB	M1 T2+ I2.2
-floated	VERB	M1 T2+ I2.2
 floating	NOUN	M1 T2+ I2.2
 floating	ADJ	M1 T2+ I2.2
 floating	VERB	M1 T2+ I2.2
@@ -27483,7 +27049,6 @@ floodlight	VERB	O3/W2
 floodlights	NOUN	O3/W2
 floodlights	VERB	O3/W2
 floodlit	ADJ	O3/W2
-floodlit	VERB	O3/W2
 floodlit	VERB	O3/W2
 floor	NOUN	H2 S5+
 floor	VERB	X9.2- E3-
@@ -27525,7 +27090,6 @@ flowchart	NOUN	Q1.2
 flowcharts	NOUN	Q1.2
 flower	VERB	L3 X9.2+
 flower	NOUN	L3
-flowered	VERB	L3 X9.2+
 flowered	VERB	L3 X9.2+
 flowering	VERB	L3 X9.2+
 flowers	NOUN	L3
@@ -27595,7 +27159,6 @@ focus	NOUN	X5.1+ X3.4 A4.2+ A11.1+
 focus	VERB	X5.1+ X3.4 A4.2+
 focused	ADJ	X5.1+ X3.4 A4.2+
 focused	VERB	X5.1+ X3.4 A4.2+
-focused	VERB	X5.1+ X3.4 A4.2+
 focuses	VERB	X5.1+ X3.4 A4.2+
 focuses	NOUN	X5.1+ X3.4 A4.2+ A11.1+
 focusing	NOUN	X5.1+ X3.4 A4.2+
@@ -27632,13 +27195,11 @@ folks	NOUN	S2mf S4mf
 folksy	ADJ	S5
 folky	ADJ	K2
 follow	VERB	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4
-follow	VERB	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4
 follow-on	NOUN	N4/K5.1
 follow-through	NOUN	A1.1.1 M1/K5 X2.4
 follow-up	ADJ	N4
 follow-up	NOUN	N4
 followable	ADJ	X2.5+
-followed	VERB	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1
 followed	VERB	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1
 follower	NOUN	S7.1-/S2mf
 followers	NOUN	S7.1-/S2mf
@@ -27681,8 +27242,7 @@ foolishness	NOUN	S1.2.6-
 foolproof	ADJ	A15+
 foolscap	NOUN	Q1.2
 foot	VERB	I1.2 N4
-foot	NOUN	N3.7 N3.3
-foot	NOUN	B1 O2
+foot	NOUN	B1 O2 N3.7 N3.3
 foot-and-mouth	NOUN	B2-/L2
 foot-licker	NOUN	S7.2+/N5.2+/S2mf
 footage	NOUN	Q4.3 N3.6
@@ -27750,8 +27310,6 @@ foreboding	NOUN	E5-
 forecast	ADJ	Q2.2/T1.1.3 X2.6+
 forecast	NOUN	Q2.2/T1.1.3 X2.6+
 forecast	VERB	Q2.2/T1.1.3 X2.6+
-forecast	VERB	Q2.2/T1.1.3 X2.6+
-forecast	VERB	Q2.2/T1.1.3 X2.6+
 forecastable	ADJ	Q2.2/T1.1.3 X2.6+
 forecasting	NOUN	Q2.2/T1.1.3 X2.6+
 foreclose	VERB	A10-/I1.2 T2-/I1.2
@@ -27787,8 +27345,7 @@ foreseeable	ADJ	X2.6+
 foreshadow	VERB	X2.6+
 foreshore	NOUN	W3/M4
 foresight	NOUN	X2.6+
-forest	PROPN	Z3
-forest	PROPN	W3/L3
+forest	PROPN	W3/L3 Z3c
 forest	NOUN	W3/L3
 forestall	VERB	T2- S8-
 forester	NOUN	F4/S2mf
@@ -27798,12 +27355,10 @@ foretelling	NOUN	Q2.2/T1.1.3/S9 X2.6+
 foretelling	VERB	Q2.2/T1.1.3/S9 X2.6+
 foretells	VERB	Q2.2/T1.1.3/S9 X2.6+
 foretold	VERB	Q2.2/T1.1.3/S9 X2.6+
-foretold	VERB	Q2.2/T1.1.3/S9 X2.6+
 forever	ADV	T2+++ N6+++
 forewarn	VERB	X2.2+/A15-
 foreword	NOUN	Q4.1
 forfeit	VERB	A9-
-forfeited	VERB	A9-
 forfeited	VERB	A9-
 forfeiting	VERB	A9-
 forfeiture	NOUN	A9-/G2.1
@@ -27839,7 +27394,6 @@ forking	NOUN	A1.1.1
 forklift	NOUN	M3fn
 forlorn	ADJ	E4.1-
 form	VERB	T2+ A2.1+ A1.8+ A3+ A1.1.1
-form	NOUN	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@
 form	NOUN	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@
 formal	ADJ	S1.2.1- G1.1 A6.2+ O4.2
 formaldehyde	NOUN	O1
@@ -27887,12 +27441,10 @@ forth	ADV	M6
 forthcoming	ADJ	T1.1.3 S1.2.3+
 forthright	ADJ	A5.2+
 forthwith	ADV	T1.1.2
-forthwith	ADV	T1.1.2
 forties	NUM	N1 T3 T1.3
 fortification	NOUN	H1/G3
 fortifications	NOUN	H1/G3
 fortified	ADJ	O4.1
-fortify	VERB	S1.2.5+/A2.1
 fortify	VERB	S1.2.5+/A2.1
 fortifying	NOUN	S1.2.5+/A2.1
 fortitude	NOUN	S1.2.5+
@@ -27933,9 +27485,7 @@ foul	VERB	O4.2- K5.1/G2.2-
 foul-mouthed	ADJ	Q2.2/A5.1-
 foully	ADV	A5.1-
 foulness	NOUN	O4.2- S1.2.4-
-found	VERB	T2+ A2.2 A1.1.1
-found	VERB	A10+ X2.1 X6+
-found	VERB	A10+ X2.1 X6+.1
+found	VERB	A10+ X2.1 X6+.1 T2+ A2.2 A1.1.1
 foundation	NOUN	T2+ H2 S5+c A5.2+ B4
 founded	VERB	T2+ A2.2 A1.1.1
 founder	NOUN	T2+/S2mf
@@ -28125,7 +27675,6 @@ friday	PROPN	T1.3
 fridge	NOUN	O4.6-/O3
 fried	ADJ	F1
 fried	VERB	F1
-fried	VERB	F1
 friend	NOUN	S3.1/S2mf
 friendliest	ADJ	S1.2.1+++
 friendliness	NOUN	S1.2.1+
@@ -28141,7 +27690,6 @@ fright	NOUN	E5-
 frighten	VERB	E5-
 frightened	ADJ	E5-
 frightened	VERB	E5-
-frightened	VERB	E5-
 frightener	NOUN	E5-
 frightening	NOUN	E5-
 frightening	ADJ	E5-
@@ -28153,7 +27701,6 @@ frigid	ADJ	O4.6- S3.2 S1.2.1-
 frill	NOUN	B5 O4.1
 frill	VERB	O4.1
 frilled	ADJ	O4.1
-frilled	VERB	O4.1
 frilled	VERB	O4.1
 frilly	ADJ	O4.1
 fringe	NOUN	B1 O2 M7 S5+c A11.1-
@@ -28170,7 +27717,6 @@ frog	NOUN	L2mfn Z2/S2mf B5
 frogman	NOUN	M4/I3.2/S2.2m
 frogs	NOUN	L2mfn Z2/S2mf
 frolic	NOUN	E4.1+
-frolic	VERB	M1/E4.1+
 frolic	VERB	M1/E4.1+
 frolics	NOUN	E4.1+
 frolics	VERB	M1/E4.1+
@@ -28201,7 +27747,6 @@ frown	NOUN	B1
 frown	VERB	B1 E2-
 frowned	ADJ	B1/E2-
 frowned	VERB	B1/E2-
-frowned	VERB	B1/E2-
 frowns	NOUN	B1
 frowns	VERB	B1 E2-
 froze	VERB	O4.6- M8 T2- E5-
@@ -28224,7 +27769,6 @@ frustrating	NOUN	S8-
 frustrating	ADJ	E4.2-
 frustratingly	ADV	E4.2-
 frustration	NOUN	E4.2- S8-
-fry	NOUN	F1
 fry	NOUN	L2mfn F1
 fry	VERB	F1
 fryer	NOUN	F1/O3 F1/S2mf
@@ -28355,7 +27899,6 @@ furnace	NOUN	O4.6+
 furnish	VERB	H5 A9-
 furnished	ADJ	H5
 furnished	VERB	H5 A9-
-furnished	VERB	H5 A9-
 furnishing	ADJ	H5 A9-
 furnishing	VERB	H5 A9-
 furnishing	NOUN	H5 A9-
@@ -28461,7 +28004,6 @@ galley	NOUN	F1/H2 M4fn
 galleys	NOUN	F1/H2
 galling	ADJ	E3-
 gallivant	VERB	M1 E4.1+
-gallivant	VERB	M1 E4.1+
 gallivanting	NOUN	E4.1+
 gallivanting	VERB	M1 E4.1+
 gallon	NOUN	N3.4
@@ -28475,7 +28017,6 @@ gallstones	NOUN	B2-
 galore	ADJ	N5+
 galvanise	VERB	X5.2+ A2.2
 galvanised	VERB	X5.2+ A2.2
-galvanize	VERB	X5.2+ A2.2
 galvanize	VERB	X5.2+ A2.2
 galvanized	ADJ	O4.1 X5.2+
 gambit	NOUN	X4.2 Q2.2
@@ -28568,7 +28109,6 @@ garrisoned	VERB	G3
 garrisons	NOUN	G3c
 garrotte	VERB	L1-
 garrotte	NOUN	L1-/O2
-garrotte	VERB	L1-
 garrotted	VERB	L1-
 garrulous	ADJ	Q2.1++
 garter	NOUN	B5
@@ -28612,7 +28152,6 @@ gate	NOUN	H2
 gateau	NOUN	F1
 gateaux	NOUN	F1
 gatecrash	VERB	X7-/S1.1.3+
-gatecrash	VERB	X7-/S1.1.3+
 gatecrasher	NOUN	X7-/S1.1.3+/S2mf
 gatecrashers	NOUN	X7-/S1.1.3+/S2mf
 gatehouse	PROPN	H1 G2.1/H1
@@ -28623,7 +28162,6 @@ gates	VERB	G2.1/P1%
 gates	NOUN	H5 N5/S2
 gateway	NOUN	H2
 gather	VERB	S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%
-gathered	VERB	S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%
 gathered	VERB	S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%
 gatherer	NOUN	A9+/S2mf
 gathering	NOUN	S5+c A9+ N5+/A2.1 X2.5+ A1.1.1%
@@ -28642,10 +28180,8 @@ gauze	NOUN	O1.1 O1.1/B3
 gauzy	ADJ	O4.1
 gave	VERB	A9- A1.1.1
 gawk	VERB	X3.4
-gawk	VERB	X3.4
 gawking	VERB	X3.4
 gawky	ADJ	O4.2- O4.1
-gawp	VERB	X3.4
 gawp	VERB	X3.4
 gawping	VERB	X3.4
 gay	ADJ	S3.2/B1 O4.2+ E4.1+
@@ -28660,7 +28196,6 @@ gazette	NOUN	Q4.2
 gazetteer	NOUN	Q4.1
 gazump	VERB	I2.2/H4
 gazumped	ADJ	I2.2/H4
-gazumped	VERB	I2.2/H4
 gazumped	VERB	I2.2/H4
 gazumping	ADJ	I2.2/H4
 gazumping	NOUN	I2.2/H4
@@ -28689,7 +28224,6 @@ gelding	VERB	L2/B3
 gelignite	NOUN	G3
 gell	VERB	O4.5 X9.2+
 gelled	ADJ	S3.1 A7+
-gelled	VERB	S3.1 A7+
 gelled	VERB	S3.1 A7+
 gem	NOUN	O1.1 O4.2+ O4.2+/S2mf X4.1
 gems	NOUN	O2 O4.2+
@@ -28755,8 +28289,7 @@ geno	NOUN	B1
 genocidal	ADJ	L1-/S5+
 genocide	NOUN	L1-/S5+
 genome	NOUN	B1
-genomes	NOUN	B1
-genomes	NOUN	Y1/N1
+genomes	NOUN	B1 Y1/N1
 genomic	ADJ	B1
 genomics	NOUN	Y1/B1
 genre	NOUN	Q4/A4.1
@@ -28774,7 +28307,6 @@ gentleness	NOUN	E3+
 gently	ADV	E3+
 gentry	NOUN	S5+c
 gents	NOUN	S2.2m B4/H1
-genuflect	VERB	O4.1/B1 S7.2+
 genuflect	VERB	O4.1/B1 S7.2+
 genuflected	VERB	O4.1/B1 S7.2+
 genuflecting	VERB	O4.1/B1 S7.2+
@@ -28802,7 +28334,6 @@ geometry	NOUN	O4.4 N2
 geophysical	ADJ	Y1/W1
 geophysicist	NOUN	Y1/W1/S2mf
 geophysics	NOUN	W3/Y1
-geophysics	NOUN	Y1/W1
 geopolitical	ADJ	W1/G1.2
 geopolitics	NOUN	G1.2/W3
 geordie	NOUN	Z2/S2mf
@@ -28811,12 +28342,10 @@ geraniums	NOUN	L3
 gerbil	NOUN	L2mfn
 geriatric	ADJ	T3++
 geriatric	NOUN	S2/T3++mf
-geriatrics	NOUN	S2/T3++mf
-geriatrics	NOUN	B3
+geriatrics	NOUN	S2/T3++mf B3
 germ	NOUN	B2- L3
 german	NOUN	Z2/S2mf Z2/Q3
 german	ADJ	Z2 Z2/Q3
-german	NOUN	Z2/S2mf Z2/Q3
 germane	ADJ	A1.2+ A1.5.2+
 germinate	VERB	F4 N3.2+/A2.1 T2+
 germinated	VERB	F4 N3.2+/A2.1 T2+
@@ -28882,13 +28411,11 @@ gibberish	NOUN	S1.2.6-
 gibbon	NOUN	L2
 gibe	VERB	S7.2- S1.2.4-
 gibe	NOUN	S7.2- S1.2.4-
-gibe	VERB	S7.2- S1.2.4-
 gibes	NOUN	S7.2-/Q2.1
 gibing	VERB	S7.2- S1.2.4-
 gibing	ADJ	S7.2- S1.2.4-
 giblet	NOUN	F1/L2
 giblets	NOUN	F1/L2
-giddiness	NOUN	B2- S1.2.6-
 giddiness	NOUN	B2- S1.2.6-
 giddy	ADJ	B2- S1.2.6-
 giddy-brained	ADJ	S1.2
@@ -28932,7 +28459,6 @@ ginormous	ADJ	N3.2+++
 ginseng	NOUN	L3 F1
 gip	NOUN	B2-
 giraffe	NOUN	L2mfn
-gird	VERB	A1.1.1 A1.8+ A10-
 gird	VERB	A1.1.1 A1.8+ A10-
 girded	ADJ	A1.1.1 A1.8+ A10-
 girded	VERB	A1.1.1 A1.8+ A10-
@@ -28984,7 +28510,6 @@ glamorous	ADJ	O4.2+
 glamour	NOUN	O4.2+
 glamourous	ADJ	O4.2+
 glance	NOUN	X3.4
-glance	VERB	X3.4 O4.3%
 glance	VERB	X3.4 O4.3%
 glanced	VERB	X3.4 O4.3
 glancing	ADJ	M6
@@ -29248,7 +28773,6 @@ gossiping	NOUN	Q2.1
 gossipy	NOUN	Q2.1
 gossipy	ADJ	Q2.1
 got	VERB	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-
-got	VERB	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-
 gothic	NOUN	H1 Q1.2 Z2/Q3 K2
 gothic	ADJ	H1 Q1.2 Z2 Z2/Q3 K2
 gotta	VERB	S6+
@@ -29293,7 +28817,6 @@ grabbing	VERB	A9+
 grabby	ADJ	S1.2.2+
 grace	NOUN	O4.2+ S1.2.4+ T1.3 S7.4+ S9
 grace	VERB	O4.2+/A2.1
-grace	VERB	O4.2+/A2.1
 graceful	ADJ	O4.2+
 gracefully	ADV	O4.2+ S1.2.4+
 graceless	ADJ	O4.2- S1.2.4- G2.2- S9
@@ -29323,8 +28846,6 @@ graffiti	NOUN	Q1.2c
 graffiti-style	ADJ	Q1.2
 graft	NOUN	B3 A1.1.1
 graft	VERB	A1.1.1 B3 L3/B1
-graft	VERB	A1.1.1 B3 L3/B1
-grafted	VERB	A1.1.1 B3 L3/B1
 grafted	VERB	A1.1.1 B3 L3/B1
 grafter	NOUN	X5.1+/S2mf A1.1.1/S2mf
 grafters	NOUN	A1.1.1/S2mf
@@ -29404,7 +28925,6 @@ graph	NOUN	Q1.2/N2
 graphic	ADJ	C1 Q2.1 S1.2.4-
 graphical	ADJ	C1
 graphically	ADV	A10+ C1 S1.2.4-
-graphics	NOUN	C1
 graphics	NOUN	C1
 graphite	NOUN	O1.1
 graphs	NOUN	Q1.2/N2
@@ -29521,7 +29041,6 @@ greenstuff	NOUN	L3
 greeny	ADJ	O4.3
 greet	VERB	Q2.2/S1.2.4+ E1 X3
 greeted	VERB	Q2.2/S1.2.4+ E1 X3
-greeted	VERB	Q2.2/S1.2.4+ E1 X3
 greeting	NOUN	Q2.2/S1.2.4+
 greeting	VERB	Q2.2/S1.2.4+ E1 X3
 greetings	NOUN	Q2.2/S1.2.4+
@@ -29607,7 +29126,6 @@ groom	VERB	B4 P1
 groom	NOUN	L2/S2mf S4/S2.2m
 groomed	ADJ	O4.1
 groomed	VERB	O4.1
-groomed	VERB	O4.1
 grooming	NOUN	B4
 grooming	VERB	B4
 groomsman	NOUN	S4/S2.2m
@@ -29626,10 +29144,8 @@ grotesquely	ADV	A6.2- O4.2-
 grotto	NOUN	M7
 grotty	ADJ	O4.2-
 grouchy	ADJ	E3-
-ground	VERB	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1
+ground	VERB	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 M4 Q2.2 P1 A1.7+ A2.2
 ground	NOUN	M6 W3 M7 O3 X2.1
-ground	VERB	M4 Q2.2 P1 A1.7+ A2.2
-ground	VERB	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1
 ground-breaking	ADJ	A11.1+
 groundbreaking	ADJ	A11.1+
 grounded	ADJ	A5.2+
@@ -29640,7 +29156,6 @@ groundsheet	NOUN	O2
 groundsman	NOUN	F4/S2mf
 groundswell	NOUN	N5+ W4
 groundwork	NOUN	X2.4
-group	NOUN	S5+c A4.1c B3%
 group	NOUN	S5+c A4.1c B3%
 group	VERB	S5+ A4.1 B3%
 group-based	ADJ	S5+
@@ -29669,7 +29184,6 @@ grower	NOUN	F4/S2mf
 growers	NOUN	F4/S2mf
 growing	NOUN	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
 growing	ADJ	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
-growl	VERB	X3.2 Q2.2 L2/Q2.1
 growl	VERB	X3.2 Q2.2 L2/Q2.1
 grown	ADJ	T3+
 grown	VERB	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4
@@ -29859,7 +29373,6 @@ hacking	NOUN	A1.1.1 Y2
 hackneyed	ADJ	A6.2+++
 hacksaw	NOUN	O2
 had	VERB	A9+ Z5 A2.2 S4
-had	VERB	A9+ Z5 A2.2 S4
 haddock	NOUN	F1c L2mfnc
 haematologist	NOUN	B3/S2mf
 haematologists	NOUN	B3/S2mf
@@ -29987,7 +29500,6 @@ hamley	PROPN	Z1
 hammer	NOUN	O2
 hammer	VERB	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++
 hammered	VERB	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++
-hammered	VERB	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++
 hammered	ADJ	O4.4 S7.1-
 hammering	ADJ	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++
 hammering	NOUN	A1.1.1 Q2.2 S7.1+ A1.5.1/N5++
@@ -30039,7 +29551,6 @@ handholdy	ADJ	S8+
 handicap	NOUN	B2- S8- K5.1
 handicap	VERB	B2- S8-
 handicapped	ADJ	B2- S8- B2-/S2c
-handicapped	VERB	B2- S8-
 handicapped	VERB	B2- S8-
 handicraft	NOUN	C1
 handiest	ADJ	A1.5.2+ N3.3- X9.1+
@@ -30102,7 +29613,6 @@ haphazard	ADJ	N6
 hapless	ADJ	A1.4-
 happen	VERB	A2.1+ A3+ X7-
 happened	VERB	A2.1+ A3+ X7-
-happened	VERB	A2.1+ A3+ X7-
 happening	VERB	A2.1+ A3+ X7-
 happening	NOUN	A2.1+ A3+/X2.6-
 happens	VERB	A2.1+ A3+ X7-
@@ -30115,7 +29625,6 @@ harangue	VERB	E6+/Q2.2 S1.2.5+/Q2.2
 harangued	VERB	E6+/Q2.2 S1.2.5+/Q2.2
 harass	VERB	E3-
 harassed	ADJ	E6-
-harassed	VERB	E6-
 harassed	VERB	E6-
 harasses	VERB	E3-
 harassing	VERB	X7-
@@ -30149,7 +29658,6 @@ hardball	NOUN	S1.2.5+ K5.2
 hardcore	NOUN	S5+c/X5.2+ S3.2 K2 M3
 harden	VERB	O4.5/A2.1
 hardened	ADJ	O4.5/A2.1 S1.2.5+
-hardened	VERB	O4.5/A2.1 S1.2.5+
 hardened	VERB	O4.5/A2.1 S1.2.5+
 hardener	NOUN	O1
 hardening	NOUN	O4.5/A2.1
@@ -30234,7 +29742,6 @@ hat-trick	NOUN	N6/X9.2+
 hatch	VERB	L2 X2.1
 hatch	NOUN	H5 O2
 hatched	VERB	L2 X2.1
-hatched	VERB	L2 X2.1
 hatches	VERB	L2 X2.1
 hatches	NOUN	O2
 hatchet	NOUN	O2
@@ -30260,11 +29767,10 @@ hauled	ADJ	M2
 haunch	NOUN	B1/L2
 haunches	NOUN	L2/B1
 haunt	NOUN	M7
-haunt	VERB	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
-haunt	VERB	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+haunt	VERB	S9 E6- M1/N6+ S9 E6- M1/N6+
 haunted	VERB	S9 E6-
 haunting	NOUN	M7 S9 E6- M1/N6+
-haunting	VERB	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+haunting	VERB	S9 E6- M1/N6+ S9 E6- M1/N6+
 haunts	NOUN	M7
 haunts	VERB	S9 E6- M1/N6+
 have	VERB	A9+ Z5 A2.2 S4
@@ -30331,7 +29837,6 @@ headphone	NOUN	K3
 headphones	NOUN	K3
 headquartered	VERB	M6/S7.1+/H1
 headquarters	NOUN	S7.1+/H1c
-headquarters	NOUN	S7.1+/H1c
 headrest	NOUN	H5
 headrests	NOUN	H5
 heads	VERB	S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3
@@ -30369,7 +29874,6 @@ healthy-looking	ADJ	B2+ X9.2+ A5.1+
 heap	VERB	A1.1.1/N5+
 heap	NOUN	N5+
 hear	VERB	X3.2 X2.3+ G2.1@
-heard	VERB	X3.2 X2.3+ G2.1@
 heard	VERB	X3.2 X2.3+ G2.1@
 hearer	NOUN	X3.2/S2mf Q2.1/S2mf
 hearing	NOUN	B1/X3.2 G2.1
@@ -30445,13 +29949,11 @@ heckling	NOUN	Q2.2
 heckling	VERB	Q2.2
 hectarage	NOUN	N3.6
 hectare	NOUN	N3.6
-hectare	NOUN	N3.6
 hectares	NOUN	N3.6
 hectic	ADJ	A1.1.1
 hedge	NOUN	L3 Q2.2
 hedge	VERB	Q2.2 L3
 hedged	ADJ	L3 A10- A7-/Q2.2
-hedged	VERB	A10- A7-/Q2.2
 hedged	VERB	A10- A7-/Q2.2
 hedgehog	NOUN	L2mfn
 hedgerow	NOUN	L3
@@ -30487,7 +29989,6 @@ heir-apparent	NOUN	N4/S7.1+/S4
 heiress	NOUN	S4mf
 heirloom	NOUN	O2/S4
 heirs	NOUN	S4mf
-held	VERB	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+
 held	VERB	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+
 heli-admin	NOUN	M5/S7.1+c
 heliball	NOUN	L3
@@ -30528,7 +30029,7 @@ helter-skelter	ADJ	A1.3-
 hem	NOUN	B5
 hem	VERB	B5
 hemisphere	NOUN	W3 B1
-hemline	NOUN	B5/02
+hemline	NOUN	B5/O2
 hemming	NOUN	B5
 hemming	VERB	B5
 hemorrhage	VERB	B2-
@@ -30539,8 +30040,7 @@ hemorrhoids	NOUN	B2-
 hemp	NOUN	L3
 hen	NOUN	L2fn
 hence	ADV	A2.2
-henceforth	ADV	T1.1.3
-henceforth	ADV	T1.1.2/N4
+henceforth	ADV	T1.1.2/N4 T1.1.3
 henchman	NOUN	G2.2-/S2.2m
 henchmen	NOUN	G2.2-/S2.2m
 henna	NOUN	L3 O4.3
@@ -30750,7 +30250,6 @@ himself	PRON	Z8m
 hind	NOUN	L2fn
 hind	ADJ	M6
 hinder	VERB	S8-
-hinder	VERB	S8-
 hinderance	NOUN	S8-
 hindered	VERB	S8-
 hinderer	NOUN	S8-/S2mf S8-
@@ -30803,8 +30302,6 @@ historical	ADJ	T1.1.1 T3+
 historically	ADV	T1.1.1
 history	NOUN	T1.1.1 P1/T1.1.1 Q2.1 B2
 hit	NOUN	E3- X9.2+ K3 G3
-hit	VERB	E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3
-hit	VERB	E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3
 hit	VERB	E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3
 hit-and-run	ADJ	G2.1-
 hit-or-miss	ADJ	A7- A1.4
@@ -30983,7 +30480,6 @@ honourable	ADJ	G2.2+
 honourably	ADV	G2.2+
 honoured	ADJ	S7.2+
 honoured	VERB	S7.2+
-honoured	VERB	S7.2+
 honours	NOUN	G2.2+ P1
 honours	VERB	S7.2+
 hoo	INTJ	Z4
@@ -30998,7 +30494,6 @@ hook	NOUN	O2 O4.4 K5.1
 hook	VERB	A9+ X5.2+
 hook-up	NOUN	A2.2
 hooked	ADJ	O4.4 X5.2+
-hooked	VERB	A1.7+ A9+ X5.2+
 hooked	VERB	A1.7+ A9+ X5.2+
 hooker	NOUN	S3.2/S2.1f K5.1/S2mf
 hoola	NOUN	K1
@@ -31178,9 +30673,6 @@ hovering	ADJ	M1
 hovering	NOUN	M1
 hovering	VERB	M1
 how	ADV	Z5 A13.3
-how	ADV	Z5 A13.3
-however	ADV	Z4
-however	ADV	A13.1
 however	ADV	Z4
 howl	NOUN	E4.1- Q2.2 X3.2
 howl	VERB	E4.1- Q2.2 X3.2
@@ -31189,7 +30681,6 @@ howling	NOUN	E4.1- Q2.2 X3.2
 howling	VERB	E4.1- Q2.2 X3.2
 howls	NOUN	X3.2 Q2.2
 howls	VERB	X3.2 Q2.2
-howsoever	ADV	A13.1
 howsoever	ADV	Z4
 hp	NOUN	I2.2
 hu	INTJ	Z4
@@ -31219,7 +30710,6 @@ hulk	NOUN	M4 N3.2+/S2mf
 hulking	ADJ	N3.2+
 hull	VERB	F4/A1.1.1
 hullabaloo	NOUN	E3-
-hulled	VERB	F4/A1.1.1
 hulled	VERB	F4/A1.1.1
 hum	INTJ	Z4
 hum	VERB	K2 X3.2
@@ -31286,7 +30776,6 @@ hundreds	NUM	N5+
 hundredweight	NOUN	N3.5
 hung	ADJ	M1 A7-
 hung	VERB	M2 M1 M8 G2.1 S7.1-
-hung	VERB	M2 M1 M8 G2.1 S7.1-
 hunger	NOUN	F1-/B1 X7+
 hunger-related	ADJ	F1-/B1
 hungry	ADJ	F1-/B1 S1.2.2+ A1.5.1/N5+
@@ -31309,13 +30798,10 @@ hurricane	NOUN	W4
 hurricane	PROPN	Z3
 hurried	ADJ	N3.8+
 hurried	VERB	N3.8+
-hurried	VERB	N3.8+
 hurriedly	ADV	N3.8+
 hurry	VERB	N3.8+
 hurry	NOUN	N3.8+
 hurt	NOUN	B2- E4.1- A1.1.2
-hurt	VERB	B2- E4.1- A1.1.2
-hurt	VERB	B2- E4.1- A1.1.2
 hurt	VERB	B2- E4.1- A1.1.2
 hurt	ADJ	B2- E4.1- A1.1.2
 hurtful	ADJ	E4.1-
@@ -31459,7 +30945,6 @@ identifiable	ADJ	X2.2+
 identification	NOUN	X2.2+ A6.1+
 identified	ADJ	X2.2+
 identified	VERB	X2.2+ A10+ X2.5+
-identified	VERB	X2.2+ A10+ X2.5+
 identify	VERB	X2.2+ A10+ X2.5+
 identifying	ADJ	X2.2+ A10+ X2.5+
 identity	NOUN	S2 A6.1+ Q1.2
@@ -31488,7 +30973,6 @@ idols	NOUN	S7.2+/S2mf S9/O2
 idyll	NOUN	O4.2+/M7 Q3
 idyllic	ADJ	O4.2+++
 ie	ADV	Z5
-if	SCONJ	Z7
 if	SCONJ	Z7
 iffy	ADJ	A7- G2.2- A5.1-
 ifs	NOUN	Z7
@@ -31697,7 +31181,6 @@ impertinent	ADJ	S1.2.4-
 impetuous	ADJ	A1.3-
 impetus	NOUN	A2.2
 impinge	VERB	X7-
-impinge	VERB	X7-
 impinges	VERB	X7-
 impinging	VERB	X7-
 impious	ADJ	S9/S7.2-
@@ -31714,7 +31197,6 @@ implication	NOUN	A2.2
 implicit	ADJ	A10-
 implicitly	ADV	A10-
 implied	ADJ	Q1.1
-implied	VERB	Q1.1
 implied	VERB	Q1.1
 implies	VERB	Q1.1
 implode	VERB	A1.1.2
@@ -31917,7 +31399,6 @@ incline	NOUN	O4.4
 incline	VERB	X7+ A8 O4.4
 inclined	VERB	X7+ A8 O4.4
 inclined	ADJ	X7+ A8 O4.4
-inclined	VERB	X7+ A8 O4.4
 include	VERB	A1.8+
 included	ADJ	A1.8+
 including	ADP	A1.8+
@@ -32013,7 +31494,6 @@ indecipherable	ADJ	X2.5-/Q1.1
 indecision	NOUN	A7-
 indecisive	ADJ	A7-
 indecisiveness	NOUN	X6-
-indeed	ADV	A13.3
 indeed	ADV	A13.3
 indefatigable	ADJ	X5.2+
 indefensible	ADJ	A5.1- A1.2-
@@ -32122,7 +31602,6 @@ industrial	ADJ	I4
 industrial-related	ADJ	I4
 industrialisation	NOUN	I4
 industrialise	VERB	I4
-industrialise	VERB	I4
 industrialised	ADJ	I4
 industrialist	NOUN	I4/S2mf
 industrialization	NOUN	I4
@@ -32189,7 +31668,6 @@ infatuated	ADJ	X5.2+/N5.2+
 infatuation	NOUN	X5.2+/N5.2+
 infect	VERB	B2-
 infected	ADJ	B2-
-infected	VERB	B2
 infected	VERB	B2
 infection	NOUN	B2-
 infectious	ADJ	B2- X5.2+
@@ -32260,7 +31738,6 @@ info	NOUN	X2.2+
 infographic	NOUN	Q1.1
 infographic	ADJ	Q1.1
 infographics	NOUN	Q1.1
-infographics	NOUN	Q1.1
 inform	VERB	X2.2+ X2.4 Q2.1
 informal	ADJ	S1.2.1+ O4.2
 informality	NOUN	S1.2.1+
@@ -32313,10 +31790,8 @@ ingrowth	NOUN	B2-
 inhabit	VERB	H4
 inhabitant	NOUN	H4/S2mf
 inhabitants	NOUN	H4/S2mf
-inhabitants	NOUN	H4/S2mf
 inhabited	ADJ	H4
 inhalation	NOUN	B1 B3
-inhale	VERB	B1
 inhale	VERB	B1
 inhaler	NOUN	B3 B1/S2mf
 inhalers	NOUN	B3
@@ -32329,10 +31804,8 @@ inherit	VERB	A9+/S4 A9+/N4
 inheritance	NOUN	A9+/S4 A9+/N4
 inherited	VERB	A9+/S4 A9+/N4
 inherited	ADJ	A9+/S4 A9+/N4
-inherited	VERB	A9+/S4 A9+/N4
 inhibit	VERB	S8- A1.7+
 inhibited	ADJ	E5- A1.7+
-inhibited	VERB	S8- A1.7+
 inhibited	VERB	S8- A1.7+
 inhibition	NOUN	E5- A1.7+
 inhibitions	NOUN	E5- A1.7+
@@ -32352,7 +31825,6 @@ initiate	VERB	T2+
 initiate	NOUN	T2+/S2mf
 initiated	VERB	T2+
 initiated	ADJ	T2+
-initiated	VERB	T2+
 initiation	NOUN	S1.1.1 T2+
 initiative	NOUN	A1.1.1 X5.2+
 initiatives	NOUN	A1.1.1
@@ -32420,7 +31892,6 @@ inns	NOUN	F2/H1 G2.1/S5+
 innuendo	NOUN	S1.2.4-
 innumerable	ADJ	N5+
 inoculate	VERB	B3
-inoculate	VERB	B3
 inoculated	VERB	B3
 inoculation	NOUN	B3
 inoculations	NOUN	B3
@@ -32476,7 +31947,6 @@ insider	NOUN	A1.8+/X2.2+/S2mf
 insidious	ADJ	A11.2-
 insight	NOUN	X2.5+
 insightful	ADJ	X2.5+
-insignia	NOUN	C1 Q1.1
 insignia	NOUN	C1 Q1.1
 insignificance	NOUN	A11.1--
 insignificant	ADJ	A11.1--
@@ -32559,11 +32029,9 @@ institution	NOUN	S5+c S7.1+ H1c S1.1.1 T2+
 institutional	ADJ	S5+ H1c S1.1.1
 institutionalise	VERB	S5+ H1c S1.1.1
 institutionalised	VERB	S5+ H1c S1.1.1
-institutionalised	VERB	S5+ H1c S1.1.1
 institutionalised	ADJ	S5+ H1c S1.1.1
 institutionalize	VERB	S5+ H1c S1.1.1
 institutionalized	ADJ	S5+ H1c S1.1.1
-institutionalized	VERB	S5+ H1c S1.1.1
 institutionalized	VERB	S5+ H1c S1.1.1
 instruct	VERB	Q2.2 P1
 instructed	ADJ	Q2.2 P1
@@ -32731,7 +32199,6 @@ interline	NOUN	B5
 interlining	NOUN	B5
 interlink	VERB	A2.2
 interlinked	VERB	A2.2
-interlinked	VERB	A2.2
 interlock	VERB	A1.1.1
 interlocking	VERB	A1.1.1
 interlocking	NOUN	A1.1.1
@@ -32770,8 +32237,7 @@ internment	NOUN	A1.7+ G2.1
 interpersonal	ADJ	S1.1.1
 interplay	NOUN	A2.2
 interpose	VERB	Q2.2
-interposed	VERB	Q2.2
-interposed	VERB	A1.1.1
+interposed	VERB	A1.1.1 Q2.2
 interpret	VERB	X2.5+ Q3
 interpretation	NOUN	X2.5+ K2 Q3
 interpreted	VERB	X2.5+ Q3
@@ -32839,7 +32305,6 @@ intolerance	NOUN	S7.4-
 intolerant	ADJ	S7.4-
 intonation	NOUN	Q3
 intoxicate	VERB	F2++ X5.2+++
-intoxicated	VERB	F2++ X5.2+++
 intoxicated	VERB	F2++ X5.2+++
 intoxicating	ADJ	F2++ X5.2+++
 intoxicating	NOUN	F2++ X5.2+++
@@ -32926,7 +32391,6 @@ inversion	NOUN	A6.1-
 invert	VERB	A1.1.1
 invertebrate	ADJ	L2
 inverted	ADJ	A6.1-
-inverted	VERB	A1.1.1
 inverted	VERB	A1.1.1
 invest	VERB	I1.1
 investable	ADJ	I2.1
@@ -33057,7 +32521,6 @@ irreversibly	ADV	A2.1-
 irrevocable	ADJ	A2.1-
 irrevocably	ADV	A2.1-
 irrigate	VERB	A9-/O1.2
-irrigate	VERB	A9-/O1.2
 irrigated	VERB	A9-/O1.2
 irrigation	NOUN	A9-/O1.2
 irritability	NOUN	E3- B2-
@@ -33065,7 +32528,6 @@ irritable	ADJ	E3- B2-
 irritant	NOUN	E3- S8-
 irritate	VERB	E3- B2-
 irritated	ADJ	E3- B2-
-irritated	VERB	E3- B2-
 irritated	VERB	E3- B2-
 irritates	VERB	E3- B2-
 irritating	ADJ	E3- B2-
@@ -33085,7 +32547,6 @@ islet	NOUN	W3
 islets	NOUN	W3
 isolate	VERB	A6.1- A1.8- S5- A10+
 isolated	ADJ	N3.3+ A1.8- S5- A10+
-isolated	VERB	A6.1- A1.8- S5- A10+
 isolated	VERB	A6.1- A1.8- S5- A10+
 isolating	ADJ	A6.1- A1.8- S5- A10+ Q3
 isolating	VERB	A6.1- A1.8- S5- A10+
@@ -33338,7 +32799,6 @@ jokingly	ADV	E4.1+
 joky	ADJ	E4.1+
 jollified	ADJ	E4.1+
 jollified	VERB	E4.1+
-jollified	VERB	E4.1+
 jollify	VERB	E4.1+
 jollity	NOUN	E4.1+
 jolly	ADJ	E4.1+
@@ -33456,7 +32916,6 @@ justifiably	ADV	G2.2+
 justification	NOUN	G2.2+ A2.2 O4.1
 justified	ADJ	G2.2+ A2.2 O4.1
 justified	VERB	G2.2+ A2.2 O4.1
-justified	VERB	G2.2+ A2.2 O4.1
 justifies	VERB	G2.2+ A2.2 O4.1
 justify	VERB	G2.2+ A2.2 O4.1
 justifying	NOUN	G2.2+ A2.2 O4.1
@@ -33515,7 +32974,6 @@ kennel	NOUN	L2/H1
 kennels	NOUN	L2/H1
 kept	VERB	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4
 kept	ADJ	A9+
-kept	VERB	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4
 keratome	NOUN	B1
 kerb	NOUN	M3/H3
 kernel	NOUN	L3 A11.1+++
@@ -33559,7 +33017,6 @@ kiddo	NOUN	S2mf/T3-
 kiddos	NOUN	S2mf/T3-
 kiddy	NOUN	S2mf/T3- S4mf
 kidnap	VERB	G2.1-
-kidnapped	VERB	G2.1-
 kidnapped	VERB	G2.1-
 kidnapping	NOUN	G2.1-
 kidnapping	VERB	G2.1-
@@ -33640,8 +33097,7 @@ kitchen-diner	NOUN	H2
 kitchen-stuff	NOUN	O2/F1
 kitchenette	NOUN	F1/H2
 kitchens	NOUN	F1/H2
-kitchens	PROPN	Z3
-kitchens	PROPN	F1/H2
+kitchens	PROPN	F1/H2 Z3c
 kitchenware	NOUN	O2/F1
 kite	NOUN	K6 L2mfn
 kitsch	NOUN	C1/O4.2-
@@ -33654,7 +33110,6 @@ kms	NOUN	N3.3 N3.7
 knack	NOUN	X9.1+
 knacker	VERB	B2- A1.1.2
 knackered	ADJ	B2- A1.1.2
-knackered	VERB	B2- A1.1.2
 knackered	VERB	B2- A1.1.2
 knackering	ADJ	B2- A1.1.2
 knackers	NOUN	L1-/S2mf
@@ -33672,7 +33127,6 @@ knee-high	ADJ	N3.7
 knee-length	ADJ	N3.7
 kneecap	VERB	A1.1.2
 kneecap	NOUN	B1
-kneel	VERB	O4.1/B1
 kneel	VERB	O4.1/B1
 kneeling	VERB	O4.1/B1
 kneels	VERB	O4.1/B1
@@ -33830,7 +33284,6 @@ laggards	NOUN	A5.1- X9.2- N3.8-
 lagoon	NOUN	W3/M4
 laid	ADJ	M2 M1 L2 T2+ A1.1.1
 laid	VERB	M2 M1 L2 T2+ A1.1.1
-laid	VERB	M2 M1 L2 T2+ A1.1.1
 laid-back	ADJ	E3+ A1.7-
 laid-off	ADJ	I3.1-
 laissez-faire	ADJ	S1.1.3- S7.4+
@@ -33856,7 +33309,6 @@ lamented	VERB	E4.1-
 lamenting	VERB	Q2.2/E2-
 laminate	VERB	A1.1.1
 laminated	ADJ	O4.1
-laminated	VERB	O4.1
 laminated	VERB	O4.1
 lamination	NOUN	A1.1.1
 lamp	NOUN	O2/W2 O3
@@ -34051,7 +33503,6 @@ laxity	NOUN	A1.7-
 lay	ADJ	I3.2-
 lay	NOUN	S3.2/B1 K2 B5%
 lay	VERB	M2 M1 L2 T2+ A1.1.1
-lay	VERB	M2 M1 L2 T2+ A1.1.1
 lay-by	NOUN	M3
 lay-bys	NOUN	M3/M7
 lay-off	NOUN	I3.1-
@@ -34138,7 +33589,6 @@ learning	ADJ	X2.3+
 learning	NOUN	X2.3+ P1
 learnt	VERB	X2.3+ P1
 learnt	ADJ	X2.3+
-learnt	VERB	X2.3+ P1
 lease	VERB	I2.2
 lease	NOUN	I2.2
 lease-price	ADJ	I2.2
@@ -34152,15 +33602,13 @@ leasing	VERB	I2.2
 leasing	NOUN	I2.2
 least	ADV	A13.7
 least	DET	N5.1- A11.1---
-least	ADV	A13.7
 least-recognized	ADJ	X2.2-
 leastwise	ADV	Z4
 leather	NOUN	O1.1 O2
 leather-made	ADJ	O1.1
 leather-upholstered	ADJ	O1.1
 leathern	ADJ	O1.1
-leathers	NOUN	O1.1 O2 B5
-leathers	NOUN	B5 B4 O1.1
+leathers	NOUN	B5 B4 O1.1 O2
 leave	NOUN	K1/T1.3 S7.4+
 leave	VERB	M1 M2 A1.1.1 A1.9 A9- T2-
 leaver	NOUN	I3.1-/S2mf M1/S2mf
@@ -34181,7 +33629,6 @@ lectureship	NOUN	P1
 lecturing	NOUN	Q2.2 P1
 lecturing	VERB	Q2.2 P1
 led	VERB	S7.1+ A2.2 M2 A1.1.1
-led	VERB	S7.1+ A2.2 M2 A1.1.1
 lederhosen	NOUN	B5
 ledge	NOUN	W3 H5
 ledger	NOUN	Q1.2
@@ -34195,7 +33642,6 @@ leeway	NOUN	A2.1+ N5 S7.4+
 left	ADJ	M6 G1.2 N5.2+
 left	NOUN	M6 G1.2c
 left	ADV	M6
-left	VERB	M1 M2 A1.1.1 A1.9 A9- T2-
 left	VERB	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2-
 left-hand	ADJ	M6
 left-hander	NOUN	O4.2/S2mf
@@ -34255,7 +33701,6 @@ legitimatise	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimatises	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimise	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimised	VERB	G2.1+/A2.2 G2.2+/A2.2
-legitimised	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimize	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimized	VERB	G2.1+/A2.2 G2.2+/A2.2
 legitimizing	VERB	G2.1+/A2.2 G2.2+/A2.2
@@ -34300,7 +33745,6 @@ lenses	NOUN	B1 O2
 lent	ADJ	A9-
 lent	NOUN	S9/T1.3
 lent	VERB	A9-
-lent	VERB	A9-
 lentil	NOUN	F1
 lentils	NOUN	F1
 leopard	NOUN	L2
@@ -34313,7 +33757,6 @@ lesi	NOUN	S3.2/S2.1f
 less	DET	N5--
 less	ADP	Z5
 less	ADV	A13.6
-less	ADV	A13.6
 less	SCONJ	Z5
 lessee	NOUN	I2.2/S2mf
 lessen	VERB	N5-/A2.1
@@ -34324,8 +33767,6 @@ lesson	NOUN	P1 S9/Q4.1
 lessor	NOUN	H4/S2mf
 lest	SCONJ	A1.3+
 let	NOUN	I2.2/H1 K5.1%
-let	VERB	S7.4+ I2.2/H1 T2-
-let	VERB	S7.4+ I2.2/H1 T2-
 let	VERB	S7.4+ I2.2/H1 T2-
 let-down	NOUN	E4.2-
 letdown	NOUN	E4.2-
@@ -34363,7 +33804,6 @@ leverage	NOUN	M2 S7.1+
 leverageable	ADJ	M2 S7.1+
 leveraged	ADJ	M2 S7.1+
 leveraged	VERB	M2 S7.1+
-levied	VERB	G1.1/A9+
 levied	VERB	G1.1/A9+
 levied	ADJ	G1.1/A9+
 levies	VERB	G1.1/A9+
@@ -34425,7 +33865,6 @@ licence	VERB	G1.1/Q1.2 S7.4+
 licence-holder	NOUN	G1.1/S7.4+/S2mf
 licenced	ADJ	G1.1/Q1.2 S7.4+
 licenced	VERB	G1.1/Q1.2 S7.4+
-licenced	VERB	G1.1/Q1.2 S7.4+
 license	VERB	G1.1/Q1.2 S7.4+
 license	NOUN	G1.1/Q1.2 S7.4+
 licensed	ADJ	G1.1/Q1.2 S7.4+
@@ -34442,7 +33881,6 @@ licorice	NOUN	F1
 lid	NOUN	O2
 lie	VERB	A5.2- M1 T2++ M6 A3+
 lie	NOUN	A5.2-
-lied	VERB	A5.2-
 lied	VERB	A5.2-
 lied	ADJ	A5.2-
 lien	NOUN	I2.2
@@ -34524,7 +33962,6 @@ likely	ADV	A7+
 liken	VERB	A6.1+
 likened	ADJ	A6.1+
 likened	VERB	A6.1+
-likened	VERB	A6.1+
 likeness	NOUN	A6.1+
 likes	NOUN	A6.1+ E2+
 likes	VERB	E2+
@@ -34551,7 +33988,6 @@ limit	NOUN	N5.1 A1.7+ M7
 limit	VERB	A1.7+
 limitation	NOUN	A1.7+
 limited	ADJ	N5- I2.1 A1.7+
-limited	VERB	A1.7+
 limited	VERB	A1.7+
 limiting	ADJ	A1.7+
 limiting	NOUN	A1.7+
@@ -34637,7 +34073,6 @@ listen	NOUN	X3.2
 listen	VERB	X3.2
 listenable	ADJ	O4.2+/X3.2
 listened	VERB	X3.2
-listened	VERB	X3.2
 listened	ADJ	X3.2
 listener	NOUN	X3.2/S2mf
 listeners	NOUN	X3.2/S2mf
@@ -34662,7 +34097,6 @@ literature	NOUN	Q4.1 Q1.2
 lithe	ADJ	O4.2+
 litho	NOUN	C1 Q1.2
 lithograph	NOUN	Q1.2 C1
-litigate	VERB	G2.1
 litigate	VERB	G2.1
 litigation	NOUN	G2.1
 litigator	NOUN	G2.1/S2mf
@@ -34691,7 +34125,6 @@ lived	ADJ	H4 L1+ A3
 lived	VERB	H4 L1+ A3
 livelihood	NOUN	I3.1
 lively	ADJ	X5.2+ L1+%
-liven	VERB	X5.2+
 liven	VERB	X5.2+
 livens	VERB	X5.2+
 liver	NOUN	B1 F1 S2mf
@@ -34732,7 +34165,6 @@ loans	NOUN	I1.2 A9-
 loath	ADJ	X7-
 loathe	VERB	E2-
 loathed	ADJ	E2-
-loathed	VERB	E2-
 loathed	VERB	E2-
 loathing	NOUN	E2-
 loathsome	ADJ	E2-
@@ -34871,7 +34303,6 @@ look-in	NOUN	S1.1.3-
 look-out	NOUN	X3.4/S2mf
 lookalike	NOUN	A6.1+/S2mf
 looked	VERB	A8 X3.4 X2.4 X7+
-looked	VERB	A8 X3.4 X2.4 X7+
 looker	NOUN	O4.2+/S2.1f
 lookie	NOUN	X3.4
 looking	ADJ	A8 X3.4
@@ -34897,7 +34328,6 @@ loose-leaf	ADJ	O4.1/Q1.2 F2
 loosely	ADV	A1.7- A4.2-
 loosen	VERB	A1.7-
 loosened	VERB	A1.7-
-loosened	VERB	A1.7-
 loot	NOUN	I1.1
 loot	VERB	G2.1-
 looter	NOUN	G2.1-/S2mf
@@ -34913,8 +34343,7 @@ lord	INTJ	Z4
 lord	VERB	S7.1+
 lording	VERB	S7.1+ E2-
 lords	NOUN	S7.1+/S2.2m
-lore	NOUN	X2.2
-lore	NOUN	L2
+lore	NOUN	L2 X2.2
 lorry	NOUN	M3fn
 los	X	Z5
 lose	VERB	X9.2- A9- M6/A5.3- L1-
@@ -34930,7 +34359,6 @@ loss-leader	NOUN	A9-/S7.1+
 loss-making	ADJ	I1.2
 lossage	NOUN	I1.2
 lost	ADJ	X9.2- A9- M6/A5.3- L1-
-lost	VERB	X9.2- A9- M6/A5.3- L1-
 lost	VERB	X9.2- A9- M6/A5.3- L1-
 lot	NOUN	N5 S5+ A3+ A1.4 M7 O2
 lotion	NOUN	B4 B3
@@ -35052,7 +34480,6 @@ lumber	NOUN	L3 O1.1
 lumber	VERB	M1/N3.8-
 lumbered	VERB	M1/N3.8-
 lumbered	ADJ	M1/N3.8-
-lumbered	VERB	M1/N3.8-
 lumbering	ADJ	M1/N3.8-
 lumberjack	NOUN	I3.1/F4/S2mf
 lumey	INTJ	Z4
@@ -35164,7 +34591,6 @@ madatory	ADJ	S6+
 madden	VERB	E3-
 maddening	ADJ	E3-
 maddens	VERB	E3-
-made	VERB	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+
 made	VERB	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+
 madhead	NOUN	S1.2.6-/S2mf
 madhouse	NOUN	B3/H1 M7/X2.5-
@@ -35484,8 +34910,7 @@ marionette	NOUN	K6
 marital	ADJ	S4
 maritime	ADJ	W3/M4 W4
 mark	VERB	O4.2- Q1.2 A5/P1 N3.1 Q1.1
-mark	NOUN	I1
-mark	NOUN	O4.2- Q1.2 A5/P1 N3.1 Q1.1
+mark	NOUN	O4.2- Q1.2 A5/P1 N3.1 Q1.1 I1
 mark-sheet	NOUN	Q1.2/A5/P1
 mark-up	NOUN	Y2/Q3
 markdowns	NOUN	I1.3-
@@ -35504,7 +34929,6 @@ market-town	NOUN	M7
 marketability	NOUN	I2.2
 marketable	ADJ	I2.2
 marketed	VERB	I2.2
-marketed	VERB	I2.2
 marketed	ADJ	I2.2
 marketer	NOUN	I2.2/S2mf
 marketing	NOUN	I2.2
@@ -35515,9 +34939,8 @@ marketingy	ADJ	I2.2
 marketplace	NOUN	I2.2/M7 I2.2
 marking	VERB	O4.2- Q1.2 A5/P1 N3.1 Q1.1
 marking	NOUN	O4.2- Q1.2 A5/P1 N3.1 Q1.1
-marks	NOUN	I1
 marks	VERB	O4.2- Q1.2 A5/P1 N3.1 Q1.1
-marks	NOUN	O4.2- Q1.2 A5/P1 N3.1 Q1.1
+marks	NOUN	O4.2- Q1.2 A5/P1 N3.1 Q1.1 I1
 marksheet	NOUN	Q1.2/A5/P1
 marksheets	NOUN	Q1.2/A5/P1
 marksman	NOUN	G3/S2.2m
@@ -35535,7 +34958,6 @@ marriage	NOUN	S4
 marriageable	ADJ	S4
 marriages	NOUN	S4
 married	ADJ	S4 A2.2
-married	VERB	S4 A2.2
 married	VERB	S4 A2.2
 marrow	NOUN	B1 L3
 marry	VERB	S4 A2.2
@@ -35683,7 +35105,6 @@ matter	VERB	A11.1+
 matter	NOUN	X4.1 O1
 matter-of-fact	ADJ	S1.2.6+
 mattered	VERB	A11.1+
-mattered	VERB	A11.1+
 matting	NOUN	O2/H5
 mattock	NOUN	B5 L3
 mattress	NOUN	H5
@@ -35755,10 +35176,8 @@ meaningful	ADJ	A11.1+/Q1.1
 meaningfully	ADV	A11.1+/Q1.1
 meaningless	ADJ	A11.1-/Q1.1 Q3 X9.2-
 meanness	NOUN	S1.2.2+
-means	NOUN	N2
-means	NOUN	X4.2 I1.1
+means	NOUN	X4.2 I1.1 N2
 meant	ADJ	Q1.1 X7+ S6+
-meant	VERB	Q1.1 X7+
 meant	VERB	Q1.1 X7+ S6+
 meantime	NOUN	T1.1.2
 meanwhile	ADV	T1.1.2
@@ -35783,8 +35202,7 @@ mechanic	NOUN	O2/S2mf
 mechanical	ADJ	O2 A6.2+
 mechanicalised	ADJ	O2
 mechanically	ADV	O2
-mechanics	NOUN	Y1
-mechanics	NOUN	S2/O2mf X4.2 A4.2+ O2
+mechanics	NOUN	S2/O2mf X4.2 A4.2+ O2 Y1
 mechanisation	NOUN	O3
 mechanise	VERB	O3
 mechanised	VERB	O3
@@ -35885,7 +35303,6 @@ melon	NOUN	F1 L3
 melt	VERB	A2.1+ O4.6+
 meltdown	NOUN	Y1 A1.1.2 X9.2- E3- B2-
 melted	VERB	O4.6
-melted	VERB	O4.6
 melted	ADJ	O4.6+
 melting	VERB	O4.6+
 melting	NOUN	O4.6+
@@ -35909,10 +35326,8 @@ memoranda	NOUN	Q1.2
 memorandum	NOUN	Q1.2
 memorisation	NOUN	X2.2+ X2.3+
 memorise	VERB	X2.2+ X2.3+
-memorise	VERB	X2.2+ X2.3+
 memorising	NOUN	X2.2+ X2.3+
 memorize	VERB	X2.2+ X2.3+
-memorized	VERB	X2.2+ X2.3+
 memorized	VERB	X2.2+ X2.3+
 memory	NOUN	X2 X2.2+ S7.2+ Y2
 men	NOUN	S2.2m
@@ -36004,7 +35419,6 @@ messed-up	ADJ	O4.2-
 messenger	NOUN	Q2.1/S2mf
 messing	NOUN	A1.1.1/A12- F1/G3
 messy	ADJ	O4.2-
-met	VERB	S3.1 M6 A1.1.1 A6.1+
 met	VERB	S3.1 M6 A1.1.1 A6.1+
 metabolic	ADJ	B1
 metabolism	NOUN	B1
@@ -36369,8 +35783,7 @@ minuscule	ADJ	N3.2-
 minuses	NOUN	N2 A5.1-
 minusses	NOUN	N2
 minute	VERB	Q1.2
-minute	NOUN	T1.3
-minute	NOUN	Q1.2
+minute	NOUN	T1.3 Q1.2
 minute	ADJ	N3.2-
 minute-by-minute	ADJ	T1.3
 minute-taker	NOUN	Q1.2/S2mf
@@ -36388,7 +35801,6 @@ mirror	NOUN	O2 A6.1+
 mirror	PROPN	Z3c
 mirrored	VERB	A6.1+
 mirrored	ADJ	A6.1+
-mirrored	VERB	A6.1+
 mirroring	VERB	A6.1+
 mirrors	VERB	A6.1+
 mirrors	NOUN	O2 A6.1+
@@ -36454,7 +35866,6 @@ misleading	NOUN	A5.2-
 misleading	ADJ	A5.2-
 misled	ADJ	A5.2-
 misled	VERB	A5.2-
-misled	VERB	A5.2-
 mismanaged	ADJ	S7.1- A5.1- X9.2-
 mismanaged	VERB	S7.1- A5.1- X9.2-
 mismanagement	NOUN	S7.1- A5.1- X9.2-
@@ -36473,7 +35884,6 @@ misreporting	NOUN	Q2.1/A5.2-
 misreporting	VERB	Q2.1/A5.2-
 misrepresent	VERB	A5.3-
 misrepresentation	NOUN	A5.3-
-misrepresented	VERB	A5.3-
 misrepresented	VERB	A5.3-
 misrepresenting	VERB	A5.3-
 misrule	NOUN	G2.1- A1.7-
@@ -36504,7 +35914,6 @@ mistaking	NOUN	A5.3-
 mister	NOUN	S2.2m
 mistreat	VERB	E3-
 mistreated	VERB	E3-
-mistreated	VERB	E3-
 mistress	NOUN	S7.1+/S2.1f S3.2/S2.1f P1/S2.1f
 mistrial	NOUN	G2.1
 mistrust	VERB	X2.1/A5.1-
@@ -36515,7 +35924,6 @@ misty	ADJ	W4 O4.1 A4.2-
 misunderstand	VERB	X2.5-
 misunderstanding	NOUN	X2.5-
 misunderstood	ADJ	X2.5-
-misunderstood	VERB	X2.5-
 misunderstood	VERB	X2.5-
 misuse	NOUN	G2.2-/A1.5.1
 misuse	VERB	G2.2-/A1.5.1
@@ -36617,7 +36025,6 @@ modicum	NOUN	N5
 modification	NOUN	A2.1+
 modifications	NOUN	A2.1+
 modified	VERB	A2.1+
-modified	VERB	A2.1+
 modified	ADJ	A2.1+
 modify	VERB	A2.1+
 modifying	VERB	A2.1+
@@ -36660,7 +36067,6 @@ mollycoddling	VERB	E3+/N5.2+
 molten	ADJ	O4.5/O4.6+
 mom	NOUN	S4/S2.1f
 moment	NOUN	T1.2 T1.1.2 N3
-moment	NOUN	T1.2 T1.1.2
 momentarily	ADV	T1.2 N3.8+
 momentary	ADJ	T1.2
 momentous	ADJ	A11.1+
@@ -36692,7 +36098,6 @@ monies	NOUN	I1
 monikers	NOUN	Q2.2
 monitor	NOUN	O2 Y2 Q4.3 X2.4/S2mf
 monitor	VERB	X2.4
-monitored	VERB	X2.4
 monitored	VERB	X2.4
 monitoring	NOUN	X2.4
 monitoring	VERB	X2.4
@@ -36777,7 +36182,6 @@ moratorium	NOUN	A1.7+
 morbid	ADJ	O4.2-
 morbidity	NOUN	B2-
 morbidly	ADV	L1-
-more	ADV	A13.3
 more	DET	N5++
 more	ADV	A13.3 N6++
 moreish	ADJ	X7/N5+
@@ -36824,8 +36228,7 @@ mosquitos	NOUN	L2mfn
 moss	NOUN	L3
 mossy	ADJ	L3
 most	DET	N5+++
-most	ADV	N5+++
-most	ADV	A13.2
+most	ADV	A13.2 N5+++
 most-successful	ADJ	X9.2+++
 mostly	ADV	A13.2
 mote	NOUN	O2 N5-
@@ -37128,7 +36531,6 @@ murals	NOUN	C1
 murder	VERB	L1-
 murder	NOUN	L1- A12-
 murdered	VERB	L1-
-murdered	VERB	L1-
 murderer	NOUN	L1-/G2.1-/S2mf
 murderers	NOUN	L1-/G2.1-/S2mf
 murderess	NOUN	L1-/G2.1-/S2.1f
@@ -37198,7 +36600,6 @@ mutant	ADJ	L2 L3
 mute	ADJ	X3.2-
 mute	VERB	X3.2- N5-
 muted	ADJ	X3.2- O4.3
-muted	VERB	X3.2- N5-
 muted	VERB	X3.2- N5-
 mutilated	ADJ	A1.1.2
 mutilation	NOUN	A1.1.2
@@ -37271,7 +36672,6 @@ name	NOUN	Q2.2
 name	VERB	Q2.2
 name-brand	ADJ	Q1.1/I2.2
 named	VERB	Q2.2
-named	VERB	Q2.2
 named	ADJ	Q2.2
 nameless	ADJ	A10-/Q2.2
 namely	ADV	Z5
@@ -37299,7 +36699,6 @@ narcotics	NOUN	F3
 nark	VERB	E3-
 narked	VERB	E3-
 narked	ADJ	E3-
-narked	VERB	E3-
 narking	VERB	E3-
 narking	NOUN	E3-
 narking	ADJ	E3-
@@ -37460,7 +36859,6 @@ neglect	VERB	A1.9
 neglect	NOUN	A1.9 G2.2-
 neglected	ADJ	O4.1
 neglected	VERB	A1.9
-neglected	VERB	A1.9
 neglecting	VERB	A1.9
 negligence	NOUN	A1.9 G2.2-
 negligent	ADJ	A1.9 G2.2-
@@ -37468,7 +36866,6 @@ negligible	ADJ	N3.2-
 negotiable	ADJ	Q2.2 A2.1+ I1 I2.1 A12+/M1
 negotiate	VERB	Q2.2
 negotiated	ADJ	Q2.2
-negotiated	VERB	Q2.2
 negotiated	VERB	Q2.2
 negotiating	VERB	Q2.2
 negotiating	NOUN	Q2.2
@@ -37642,8 +37039,7 @@ nick-nack	NOUN	O2
 nick-nacks	NOUN	O2
 nicked	VERB	A9-/G2.1- G2.1 A1.1.2
 nicked	ADJ	A9-/G2.1- G2.1 A1.1.2
-nickel	NOUN	I1.1
-nickel	NOUN	O1.1
+nickel	NOUN	O1.1 I1.1
 nicking	NOUN	A9-/G2.1- G2.1 A1.1.2
 nicking	VERB	A9-/G2.1- G2.1 A1.1.2
 nickname	NOUN	Q2.2
@@ -38036,7 +37432,6 @@ noticeable	ADJ	X3.4+ A11.2+
 noticeably	ADV	X3.4+ A11.2+
 noticeboard	NOUN	Q1.2/H5
 noticed	VERB	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
-noticed	VERB	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 noticed	ADJ	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 notices	VERB	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 noticing	VERB	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
@@ -38129,7 +37524,6 @@ nuptials	NOUN	S4
 nurse	NOUN	B3/S2mf
 nurse	VERB	B3 A9+ S8+
 nursed	VERB	B3 A9+ S8+
-nursed	VERB	B3 A9+ S8+
 nursemaid	NOUN	I3.1/S4/S2.1f
 nursery	NOUN	P1/H1c F4 H2
 nursey	ADJ	B3
@@ -38218,7 +37612,6 @@ obligatory	ADJ	S6+
 oblige	VERB	S6+ S8+
 obliged	ADJ	S6+
 obliged	VERB	S6+ S8+
-obliged	VERB	S6+ S8+
 obliging	ADJ	S6+ S8+
 obliging	NOUN	S6+ S8+
 obliging	VERB	S6+ S8+
@@ -38253,7 +37646,6 @@ observe	VERB	X3.4 Q2.1/X2.4 X2.1 G2.1+
 observer	NOUN	X3.4/S2mf Q4.2/I3.2/S2mf
 obsess	VERB	X5.2+/N5.2+
 obsessed	ADJ	X5.2+/N5.2+
-obsessed	VERB	X5.2+/N5.2+
 obsessed	VERB	X5.2+/N5.2+
 obsession	NOUN	X5.2+/N5.2+
 obsessional	ADJ	X5.2+/N5.2+
@@ -38304,7 +37696,6 @@ occupies	VERB	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
 occupy	VERB	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
 occupying	NOUN	H4 A1.5.1 G3 X5.1+ A1.1.1 T1.3
 occur	VERB	A2.1+ A3+ X2.1
-occurred	VERB	A2.1+ A3+ X2.1
 occurred	VERB	A2.1+ A3+ X2.1
 occurrence	NOUN	A2.1+ A3+ N6
 occurrences	NOUN	A2.1+ A3+ N6
@@ -38383,7 +37774,6 @@ offer	NOUN	A9- Q2.2 I1.3-
 offer	VERB	A9- Q2.2
 offered	ADJ	A9- Q2.2
 offered	VERB	A9- Q2.2
-offered	VERB	A9- Q2.2
 offerer	NOUN	I1.3/S2mf
 offering	ADJ	A9- Q2.2
 offering	NOUN	A9- Q2.2
@@ -38410,7 +37800,6 @@ offload	VERB	M2 A9-
 offputting	NOUN	T1.1.3
 offputting	ADJ	O4.2-
 offset	NOUN	A6.1- H1 Q4.1 L3 B1 W3
-offset	VERB	A6.1- Q4.1 H1
 offset	VERB	A6.1- Q4.1 H1
 offshoot	NOUN	S5+ A2.2
 offshore	ADJ	M6
@@ -38473,7 +37862,6 @@ olive	NOUN	F1 L3 O4.3
 olive-green	ADJ	O4.3
 ology	NOUN	A1.1.1
 olympic	ADJ	K5.1
-olympics	NOUN	K5.1
 olympics	NOUN	K5.1
 ombudsman	NOUN	G1.1/S2mf
 omelette	NOUN	F1
@@ -38601,9 +37989,7 @@ open-source	ADJ	Y2
 open-toe	ADJ	B5
 opencast	ADJ	I4
 opened	VERB	A1.1.1 T2+
-opened	VERB	A1.1.1 T2+
-opened	ADJ	A10+
-opened	ADJ	A1.1.1
+opened	ADJ	A10+ A1.1.1
 opener	NOUN	O2 T2+
 opening	ADJ	A1.1.1 T2+
 opening	NOUN	A1.1.1 T2+ O2 I3.1
@@ -38619,7 +38005,6 @@ operating	ADJ	A1.1.1 B3
 operating	NOUN	A1.1.1 B3
 operation	NOUN	A1.1.1 B3 G3
 operational	ADJ	A1.1.1
-operationalize	VERB	A5.1+
 operationalize	VERB	A5.1+
 operationally	ADV	A1.1.1
 operative	ADJ	A1.1.1 B3@
@@ -38652,7 +38037,6 @@ opportunity	NOUN	A1.4
 oppose	VERB	S8-/E2- A6.1-
 opposed	ADJ	S8-/E2- A6.1-
 opposed	VERB	S8-/E2- A6.1-
-opposed	VERB	S8-/E2- A6.1-
 opposing	ADJ	A6.1-
 opposing	NOUN	E2-
 opposite	NOUN	A6.1-
@@ -38661,7 +38045,6 @@ opposite	ADP	Z5
 opposite	ADV	M6
 opposition	NOUN	S8-/E2- S7.3+ A6.1-
 oppress	VERB	E3- G2.2-
-oppress	VERB	E3-
 oppressed	VERB	S7.1+
 oppression	NOUN	S7.1+
 oppressive	ADJ	A1.7+ W4
@@ -38723,7 +38106,6 @@ ordains	VERB	S9 X6+ G2.1
 ordeal	NOUN	E6-
 order	VERB	S7.1+/Q2.2 I2.2/Q2.2
 order	NOUN	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+
-ordered	VERB	S7.1+/Q2.2 I2.2/Q2.2
 ordered	VERB	S7.1+/Q2.2 I2.2/Q2.2
 ordered	ADJ	A6.2+ S7.1+/Q2.2 I2.2/Q2.2
 ordering	ADJ	S7.1+/Q2.2 I2.2/Q2.2
@@ -38912,7 +38294,6 @@ outlaid	VERB	I1.2
 outlandish	ADJ	N5.2+
 outlast	VERB	T2++/T1.3+
 outlaw	VERB	G2.1-
-outlaw	VERB	G2.1-
 outlawed	VERB	G2.1-
 outlay	VERB	I1.2
 outlay	NOUN	I1.2
@@ -38942,8 +38323,6 @@ outprice	VERB	I1.3/N5.2+
 outpriced	VERB	I1.3/N5.2+
 outpunch	VERB	N5.2+
 output	NOUN	N5 Y2 X9.2+ Q4
-output	VERB	Y2
-output	VERB	Y2
 output	VERB	Y2
 outrage	VERB	E3-
 outrage	NOUN	E3-
@@ -38982,12 +38361,10 @@ outstanding	ADJ	A5.1++ A11.2+ I1.2 A1.9
 outstandingly	ADV	A13.3 A6.2-
 outstay	VERB	M8/T2-
 outstayed	VERB	M8/T2-
-outstayed	VERB	M8/T2-
 outstretch	VERB	M2
 outstretched	VERB	M2
 outstretched	ADJ	M6
 outstrip	VERB	A5.1++ N5.2+
-outstripped	VERB	A5.1++ N5.2+
 outstripped	VERB	A5.1++ N5.2+
 outstripped	ADJ	A5.1++ N5.2+
 outstripping	NOUN	A5.1++ N5.2+
@@ -39008,8 +38385,7 @@ oval	ADJ	O4.4
 ovary	NOUN	B1
 oven	NOUN	O2/F1
 over	ADJ	N5.2+ T2-
-over	ADV	T2- M6
-over	ADV	N5.2+ A13.2
+over	ADV	N5.2+ A13.2 T2- M6
 over	ADP	Z5
 over	NOUN	K5.1
 over-academic	ADJ	A1.6
@@ -39100,7 +38476,6 @@ overcharges	VERB	I1.3+
 overclean	ADJ	O4.2+
 overcoat	NOUN	B5
 overcome	VERB	X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2-
-overcome	VERB	X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2-
 overcoming	VERB	X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2-
 overcoming	NOUN	X9.2+/S7.3 X9.2+/G3 A2.2/E1 B2-
 overcompensate	VERB	S8+++
@@ -39132,7 +38507,6 @@ overestimate	VERB	N5.2+ A11.1+ X2.1/A5.3-
 overestimation	NOUN	N5.2+ A11.1+ X2.1/A5.3-
 overexploitation	NOUN	A1.1.2
 overexpose	VERB	C1 Q4
-overexposed	VERB	C1 Q4
 overexposed	VERB	C1 Q4
 overfill	VERB	N5.2+
 overfilled	VERB	N5.2+
@@ -39186,7 +38560,6 @@ overpay	VERB	I1.1/N5.2+
 overplay	VERB	N5.2+ K5
 overpopulation	NOUN	S2/N5.2+
 overpower	VERB	S7.1+ G3
-overpowered	VERB	S7.1+
 overpowered	VERB	S7.1+ N5++
 overpowering	VERB	S7.1+ N5++
 overpowering	NOUN	S7.1+ N5++
@@ -39204,7 +38577,6 @@ overriding	ADJ	A11.1+++
 overriding	NOUN	T2- A11.1++
 overrule	VERB	T2-/S7.1+
 overruled	ADJ	T2-/S7.1+
-overruled	VERB	T2-/S7.1+
 overruled	VERB	T2-/S7.1+
 overrun	VERB	S7.1- N5++
 overrunning	NOUN	S7.1- N5++
@@ -39245,7 +38617,6 @@ overstretched	VERB	A1.1.1/N5.2+
 oversubscribed	VERB	S1.1.3/N5.2+
 overt	ADJ	A10+
 overtake	VERB	M3 N3.8++
-overtake	VERB	M3 N3.8++
 overtaken	ADJ	N3.8++
 overtaken	VERB	N3.8++
 overtaking	VERB	M3 N3.8++
@@ -39264,7 +38635,6 @@ overturn	VERB	A2.1+ M2
 overturned	VERB	A2.1+ M2
 overuse	VERB	A1.5.1/N5.2+
 overused	ADJ	A1.5.1/N5.2+
-overused	VERB	A1.5.1/N5.2+
 overused	VERB	A1.5.1/N5.2+
 overvalued	ADJ	I1.3+ A11.1+
 overvalued	VERB	I1.3+ A11.1+
@@ -39288,7 +38658,6 @@ overworrying	NOUN	E6-/N5.2+
 overworrying	ADJ	E6-/N5.2+
 ow	INTJ	Z4
 owe	VERB	I1.2 S6+
-owed	VERB	I1.2 S6+
 owed	VERB	I1.2 S6+
 owed	ADJ	I1.2 S6+
 owing	VERB	I1.2 S6+
@@ -39395,7 +38764,6 @@ pagoda	NOUN	H1
 pagodas	NOUN	H1
 paid	ADJ	I1.1
 paid	VERB	I1.2 A9- I1.1/I3.1
-paid	VERB	I1.2 A9- I1.1/I3.1
 paid-up	ADJ	I1.2-
 pail	NOUN	O2
 pain	NOUN	B2- E2- E4.1-
@@ -39495,7 +38863,6 @@ panicking	NOUN	E5-
 panicking	VERB	E5-
 panicky	ADJ	E5-
 panned	VERB	Q4.3/M1 Q2.2
-panned	VERB	Q4.3/M1 Q2.2
 panned	ADJ	Q4.3/M1 Q2.2
 pannier	NOUN	O2
 panniers	NOUN	O2
@@ -39562,7 +38929,6 @@ parakeet	NOUN	L2
 parallel	ADJ	A6.1+ T1.1.2 M6
 parallel	NOUN	A6.1+ W3
 parallel	VERB	A6.1+ T1.1.2
-paralleled	VERB	A6.1+ T1.1.2
 paralleled	VERB	A6.1+ T1.1.2
 paralleled	ADJ	A6.1+ T1.1.2
 paralyse	VERB	B2- X5.2-
@@ -39872,7 +39238,6 @@ pay-up	NOUN	I1.1
 payable	ADJ	I1.2
 payback	NOUN	I1.1+ I1.2 S1.1.2+
 paycheck	VERB	I1.1
-paycheck	VERB	I1.1
 payer	NOUN	I1.2/S2mf
 payers	NOUN	I1.2/S2mf
 paying	ADJ	I1.2 A9- I1.1/I3.1
@@ -40026,7 +39391,6 @@ penchant	NOUN	E2+
 pencil	VERB	Q1.2
 pencil	NOUN	Q1.2/O2
 pencilled	VERB	Q1.2
-pencilled	VERB	Q1.2
 pencilled	ADJ	Q1.2
 pending	ADJ	T1.1.3
 pendulum	NOUN	O2
@@ -40085,7 +39449,6 @@ per-day	ADJ	N6
 perceive	VERB	X4.1 X3.4 X2.5+
 perceived	ADJ	X4.1 X3.4 X2.5+
 perceived	VERB	X4.1 X3.4 X2.5+
-perceived	VERB	X4.1 X3.4 X2.5+
 perceiver	NOUN	X3.4/S2mf
 perceivers	NOUN	X3.4/S2mf
 perceiving	VERB	X4.1 X3.4 X2.5+
@@ -40139,7 +39502,6 @@ performance-based	ADJ	A1.1.1 X9.2
 performance-wise	ADV	X9.2 A1.1.1
 performative	ADJ	A1.1.1 K4 X9.2+
 performativity	NOUN	A1.1.1 K4
-performed	VERB	A1.1.1 K4 X9.2+
 performed	VERB	A1.1.1 K4 X9.2+
 performer	NOUN	K4/S2mf X9.2+/S2mf
 performers	NOUN	K4/S2mf X9.2+/S2mf
@@ -40222,7 +39584,6 @@ perry	NOUN	F2
 persecute	VERB	E3-
 persecuted	ADJ	E3-
 persecuted	VERB	E3-
-persecuted	VERB	E3-
 persecuting	VERB	E3-
 persecution	NOUN	E3-
 persecutions	NOUN	E3-
@@ -40258,7 +39619,6 @@ perspiration	NOUN	B1
 persuade	VERB	Q2.2
 persuaded	VERB	Q2.2
 persuaded	ADJ	Q2.2
-persuaded	VERB	Q2.2
 persuading	NOUN	Q2.2
 persuading	VERB	Q2.2
 persuading	ADJ	Q2.2
@@ -40450,8 +39810,6 @@ pick-up	NOUN	M3fn K2
 pickaxe	NOUN	O2
 picked	ADJ	X7+ A1.1.1 F4
 picked	VERB	X7+ A1.1.1
-picked	VERB	X7+ A1.1.1
-picked	ADJ	X7+ A1.1.1
 picket	NOUN	I3.1 G3 O2%
 picket	VERB	I3.1
 picketing	VERB	I3.1 G3
@@ -40735,7 +40093,6 @@ plasterboard	NOUN	O1.1
 plastercene	NOUN	O1.1
 plastercine	NOUN	O1.1
 plastered	VERB	A1.1.1 N5+
-plastered	VERB	A1.1.1 N5+
 plastered	ADJ	F2+++/B1 O4.1
 plasterer	NOUN	H1/S2mf
 plastering	VERB	A1.1.1 N5+
@@ -40906,8 +40263,6 @@ plumpish	ADJ	O4.4 O4.2
 plums	NOUN	F1 L3
 plunder	NOUN	G2.1-/A9+
 plunder	VERB	G2.1-/A9+ A9+
-plunder	VERB	G2.1-/A9+ A9+
-plundered	VERB	G2.1-/A9+ A9+
 plundered	VERB	G2.1-/A9+ A9+
 plundering	NOUN	G2.1-/A9+ A9+
 plundering	VERB	G2.1-/A9+ A9+
@@ -40959,7 +40314,6 @@ pocket-sized	ADJ	N3.2-
 pocketbook	NOUN	B5/I1
 pocketed	ADJ	A9+ K5.2%
 pocketed	VERB	A9+ K5.2%
-pocketed	VERB	A9+ K5.2%
 pocketful	NOUN	N5
 pocketing	VERB	A9+ K5.2%
 pocketing	ADJ	A9+ K5.2%
@@ -40996,7 +40350,6 @@ poise	NOUN	S1.2
 poise	VERB	M2 X7+
 poison	NOUN	E3-/O1 A15-/O1
 poison	VERB	E3- A1.1.2
-poisoned	VERB	E3- A1.1.2
 poisoned	VERB	E3- A1.1.2
 poisoner	NOUN	G2.2-/S2mf
 poisoning	ADJ	E3- A1.1.2
@@ -41048,7 +40401,6 @@ politicisation	NOUN	G1.2
 politicise	VERB	G1.2
 politicised	VERB	G1.2
 politicize	VERB	G1.2
-politicized	VERB	G1.2
 politicized	VERB	G1.2
 politicizing	VERB	G1.2
 politicking	NOUN	G1.2
@@ -41310,7 +40662,6 @@ postmaster	NOUN	Q1.2/I3.1/S2.2m
 postmortem	NOUN	B3
 postpone	VERB	T1.1.3
 postponed	VERB	T1.1.3
-postponed	VERB	T1.1.3
 postponement	NOUN	T1.1.3
 postscript	NOUN	Q1.2 N4
 postulant	NOUN	S9/S2mf
@@ -41357,9 +40708,8 @@ poultice	NOUN	B3
 poultry	NOUN	L2
 pounce	NOUN	M1
 pounce	VERB	M1
-pound	NOUN	M7
 pound	PROPN	M7
-pound	NOUN	I1 N3.5
+pound	NOUN	I1 N3.5 M7
 pound	VERB	A1.1.1 P1
 pounder	NOUN	N3.5
 pounding	NOUN	A1.1.2
@@ -41648,7 +40998,6 @@ preferentially	ADV	E2++
 preferment	NOUN	S7.1+/A2.1 S8+
 preferred	ADJ	E2++
 preferred	VERB	E2++
-preferred	VERB	E2++
 prefix	NOUN	Q3 N4
 prefix	VERB	N4 Q3 X6+
 prefixed	VERB	N4 Q3 X6+
@@ -41743,11 +41092,9 @@ preserve	NOUN	F1 A4.1 L2
 preserve	VERB	S8+ A9+/A2.1- F1 L2
 preserved	ADJ	S8+ A9+/A2.1- F1 L2
 preserved	VERB	S8+ A9+/A2.1- F1 L2
-preserved	VERB	S8+ A9+/A2.1- F1 L2
 preserving	VERB	S8+ A9+/A2.1- F1 L2
 preset	VERB	A1.7+/N4
 preside	VERB	S7.1+
-presided	VERB	S7.1+
 presided	VERB	S7.1+
 president	NOUN	G1.1/S7.1+/S2mf
 president-elect	PROPN	G1.1/S7.1+/S2mf
@@ -41760,7 +41107,6 @@ press	NOUN	Q4.2c O2 A1.1.1 Q4.1/I2.1c
 press	VERB	A1.1.1 X8+ S7.1+ E6-
 pressed	VERB	A1.1.1 X8+ S7.1+ E6-
 pressed	ADJ	E6- A12-
-pressed	VERB	A1.1.1 X8+ S7.1+ E6-
 presser	NOUN	O2
 pressers	NOUN	O2
 presses	NOUN	Q4.2 O2 A1.1.1
@@ -41940,7 +41286,6 @@ privatizations	NOUN	G1.1-
 privatize	VERB	G1.1-
 privatized	ADJ	G1.1-
 privatized	VERB	G1.1-
-privatized	VERB	G1.1-
 privet	NOUN	L3
 privilege	VERB	A5.1+
 privilege	NOUN	G2.1 S7.1+ A5.1+ S7.2+
@@ -42010,8 +41355,6 @@ processing	ADJ	A1.1.1
 procession	NOUN	S1.1.1/M1
 processor	NOUN	Y2 O3
 proclaim	VERB	Q2.2
-proclaim	VERB	Q2.2
-proclaimed	VERB	Q2.2
 proclaimed	VERB	Q2.2
 proclaiming	VERB	Q2.2
 proclamation	NOUN	Q2.2 Q1.2
@@ -42035,7 +41378,6 @@ prodigious	ADJ	O4.2+ N3.2+
 prodigy	NOUN	X9.1+/S2mf
 produce	VERB	A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4
 produce	NOUN	F1
-produce	VERB	A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4
 produced	ADJ	A1.1.1
 producer	NOUN	K4/S7.1+/S2mf A1.1.1/S2mf
 producing	ADJ	A2.2 A1.1.1 A10+ K4 K3 Q4.3
@@ -42092,7 +41434,6 @@ profusely	ADV	N5+
 profusion	NOUN	N5+
 progenitor	NOUN	S4 T2+/S2mf
 progenitors	NOUN	S4
-progeny	NOUN	S4
 progeny	NOUN	S4 T1.1.3/T1.3
 prognosis	NOUN	X2.6+
 prognostication	NOUN	X2.6+
@@ -42146,7 +41487,6 @@ prolific	ADJ	A1.1.1/N5+ N5+
 prologue	NOUN	Q2.1/N4 Q4.1/N4 N4
 prolong	VERB	T1.3++
 prolonged	ADJ	T1.3++
-prolonged	VERB	T1.3++
 prolonged	VERB	T1.3++
 prolongs	VERB	T1.3++
 prom	NOUN	M7 K2 K1
@@ -42203,7 +41543,6 @@ proofed	VERB	A15+ A5.3+ Q4.1 F1
 proofing	NOUN	A15+ A5.3+ Q4.1 F1
 proofing	VERB	A15+ A5.3+ Q4.1 F1
 proofread	VERB	Q1.2/A5.3
-proofread	VERB	Q1.2/A5.3
 prop	NOUN	O2 O2/K4 K5.1/S2mf
 prop	VERB	A1.1.1
 propaganda	NOUN	G1.2
@@ -42248,7 +41587,6 @@ proposition	NOUN	Q2.2 X4.1
 propound	VERB	X7+ Q2.2 Q1.1
 propounded	VERB	X7+ Q2.2 Q1.1
 propounding	VERB	X7+ Q2.2 Q1.1
-propped	VERB	A1.1.1
 propped	VERB	A1.1.1
 proprietary	ADJ	A9+
 proprietor	NOUN	I2.1/S2mf
@@ -42316,7 +41654,6 @@ protor	NOUN	Y2
 protors	NOUN	Y2
 prototype	NOUN	A4.1/X2.4
 prototyping	NOUN	A4.1/X2.4
-protract	VERB	T2++ N3.7+/A2.1 N2
 protract	VERB	T2++ N3.7+/A2.1 N2
 protracted	ADJ	T1.3+
 protruding	ADJ	O4.1 O4.4 A11.2+
@@ -42420,7 +41757,6 @@ psychoanalysts	NOUN	B3/S2mf
 psychoanalytic	ADJ	B3/X1
 psychoanalytical	ADJ	B3/X1
 psychogeriatric	ADJ	B3
-psychographics	NOUN	X1
 psychographics	NOUN	X1
 psychological	ADJ	X1
 psychologically	ADV	X1
@@ -42594,7 +41930,6 @@ purseful	NOUN	N5
 pursing	NOUN	B1
 pursing	VERB	B1
 pursuance	NOUN	A1.1.1/N4
-pursuance	NOUN	A1.1.1/N4
 pursue	VERB	A1.1.1 X8+ X2.4 M1
 pursued	VERB	A1.1.1 X8+ X2.4 M1
 pursuing	NOUN	A1.1.1 X8+ X2.4 M1
@@ -42617,14 +41952,11 @@ pushover	NOUN	S1.2.5- A12+
 pushy	ADJ	S1.2.3+
 pussy	NOUN	L2mfn B1
 put	VERB	M2 Q2.1 Q2.2 A1.1.1
-put	VERB	M2 Q2.1 Q2.2 A1.1.1
 put	ADJ	M2
-put	VERB	M2 Q2.1 Q2.2 A1.1.1
 putative	ADJ	A5.4+
 putrefy	VERB	X3.5/A5.1- G2.2-
 putsch	NOUN	G1.2
 putt	NOUN	K5.1
-putt	VERB	K5.1
 putt	VERB	K5.1
 putting	NOUN	M2 Q2.1 Q2.2 A1.1.1 K5.1
 putting	VERB	M2 Q2.1 Q2.2 A1.1.1
@@ -42671,7 +42003,6 @@ qual	ADJ	A5.1
 qualification	NOUN	P1 X9.1 S6+ A1.7+
 qualifications	NOUN	P1 X9.1 S6+ A1.7+
 qualified	VERB	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3
-qualified	VERB	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3
 qualified	ADJ	A1.2+/I3.2+ A1.7+
 qualify	VERB	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3
 qualifying	ADJ	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3
@@ -42686,7 +42017,6 @@ quango	NOUN	G1.1
 quant	NOUN	Y2/N2/S2mf
 quantifiable	ADJ	N3.1
 quantification	NOUN	N3.1
-quantified	VERB	N3.1
 quantified	VERB	N3.1
 quantified	ADJ	N3.1
 quantifies	VERB	N3.1
@@ -42736,7 +42066,6 @@ quell	VERB	T2-
 quelled	VERB	T2-
 quench	VERB	O4.6- E4.2+
 quenched	VERB	O4.6- E4.2+
-queried	VERB	Q2.2
 queried	VERB	Q2.2
 queried	ADJ	Q2.2
 queries	NOUN	Q2.2
@@ -42809,7 +42138,6 @@ quirks	NOUN	A6.2-
 quirky	ADJ	A6.2-
 quit	VERB	T2- I3.1- M1
 quite	ADV	A13.5 A13.6 A13.2
-quite	ADV	A13.5 A13.6 A13.2
 quiver	VERB	M1 E5-
 quivering	ADJ	M1 E5-
 quivering	NOUN	M1 E5-
@@ -42871,8 +42199,7 @@ raconteur	NOUN	Q2.1/S2mf
 racoon	NOUN	L2mfn
 racquet	NOUN	K5.1/O2
 racy	ADJ	X5.2+ S1.2.4-
-rad	NOUN	O2
-rad	NOUN	N3.1/Y1
+rad	NOUN	N3.1/Y1 O2
 radar	NOUN	O3
 radial	ADJ	O4.4
 radiance	NOUN	O4.2+ O4.3
@@ -43078,8 +42405,7 @@ rate	VERB	A5.1
 rateable	ADJ	A5.1 I1.1/H1
 rated	ADJ	A5.1
 rates	NOUN	N3.8 N5 I1.3
-rather	ADV	A13.5
-rather	ADV	Z4 E2++
+rather	ADV	Z4 E2++ A13.5
 ratification	NOUN	S7.4+
 ratified	VERB	S7.4+
 ratify	VERB	S7.4+
@@ -43104,7 +42430,6 @@ rationalizing	NOUN	X2.1 N3.2-/A2.1
 rationalizing	ADJ	X2.1 N3.2-/A2.1
 rationally	ADV	S1.2.6+
 rationed	ADJ	S1.1.2+
-rationed	VERB	S1.1.2+
 rationed	VERB	S1.1.2+
 rationing	ADJ	S1.1.2+
 rationing	NOUN	S1.1.2+
@@ -43201,7 +42526,6 @@ re-enact	VERB	A1.1.1/N6+
 re-enactment	NOUN	A1.1.1/N6+
 re-energise	VERB	X5.2+/A2.1+
 re-engineer	VERB	A2.1+
-re-engineer	VERB	A2.1+
 re-entered	VERB	M1/N6+
 re-equipping	ADJ	A9- A9+ P1
 re-establish	VERB	T2+/N6+
@@ -43226,7 +42550,6 @@ re-housed	VERB	H4/A2.1
 re-housing	VERB	H4/A2.1
 re-innovated	VERB	T3-
 re-integrate	VERB	A1.8+ S5+
-re-invent	VERB	X2.1/N6+
 re-invent	VERB	N6+/X2.1
 re-inventing	NOUN	N6+/X2.1
 re-inventing	VERB	N6+/X2.1
@@ -43250,7 +42573,6 @@ re-mixing	VERB	A1.1.1/N6+ K3/N6+
 re-mixing	NOUN	A1.1.1/N6+ K3/N6+
 re-modernisation	NOUN	T3+/N6+
 re-modernise	VERB	T3+/N6+
-re-modernise	VERB	T3+/N6+
 re-modernising	NOUN	T3+/N6+
 re-modernising	VERB	T3+/N6+
 re-mortgage	NOUN	I1.2/H1
@@ -43267,7 +42589,6 @@ re-offending	NOUN	G2.1/N6+
 re-opened	VERB	A10+/N6+ T2+/N6+
 re-organisation	NOUN	A2.1+
 re-organisations	NOUN	A2.1+
-re-organise	VERB	A2.1+
 re-organise	VERB	A2.1+
 re-organised	VERB	A2.1+
 re-paper	VERB	H5/A2.1
@@ -43347,8 +42668,6 @@ reactors	NOUN	Y1
 reacts	VERB	A1.1.1 A6.1- B2- Y1
 read	NOUN	Q1.2
 read	VERB	Q3 Q1.2 X3.2+ X2.5+ P1 A10+
-read	VERB	Q3 Q1.2 X3.2+ X2.5+ P1 A10+
-read	VERB	Q3 Q1.2 X3.2+ X2.5+ P1 A10+
 readable	ADJ	X5.2+ Q1.2
 reader	NOUN	Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1
 readers	NOUN	Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1
@@ -43401,7 +42720,6 @@ realtor	NOUN	I2.2/S2mf
 realty	NOUN	H1
 ream	VERB	A2.1+
 reamed	VERB	A2.1+
-reamed	VERB	A2.1+
 reamed	ADJ	A2.1+
 reams	NOUN	N5+
 reap	VERB	F4 A9+
@@ -43430,7 +42748,6 @@ reasonable-looking	ADJ	O4.2+
 reasonably	ADV	A13.5
 reasoned	VERB	X2.1 Q2.2
 reasoned	ADJ	X2.1
-reasoned	VERB	X2.1 Q2.2
 reasoning	VERB	X2.1 Q2.2
 reasoning	ADJ	X2.1
 reasoning	NOUN	X2.1 Q2.2
@@ -43463,15 +42780,12 @@ rebooked	VERB	Q2.2/N6+
 reborn	VERB	B1/N6+
 rebound	VERB	M1 A5.1-
 rebound	NOUN	M1 A5.1- S3.2
-rebound	VERB	M1 A5.1-
-rebound	VERB	M1 A5.1-
 rebranding	NOUN	A4.1/N6+
 rebuffed	VERB	X7- M2
 rebuild	VERB	H1/N6+ A1.1.1/N6+
 rebuilding	VERB	H1/N6+ A1.1.1/N6+
 rebuilding	NOUN	H1/N6+ A1.1.1/N6+
 rebuilds	VERB	H1/N6+ A1.1.1/N6+
-rebuilt	VERB	H1/N6+ A1.1.1/N6+
 rebuilt	VERB	H1/N6+ A1.1.1/N6+
 rebuke	VERB	Q2.2
 rebuy	VERB	I2.2
@@ -43510,7 +42824,6 @@ receivable	NOUN	I1.2
 receivables	NOUN	I1.2
 receive	VERB	A9+ S5+
 received	ADJ	A9+ S5+
-received	VERB	A9+ S5+
 received	VERB	A9+ S5+
 receiver	NOUN	Q1.3 Q4.3 G2.1-/S2mf I2.1/S2mf
 receivers	NOUN	Q1.3 Q4.3 G2.1-/S2mf I2.1/S2mf
@@ -43556,7 +42869,6 @@ recklessly	ADV	A1.3-
 reckon	VERB	X2.1 N2
 reckoned	ADJ	X2.1 N2
 reckoned	VERB	X2.1 N2
-reckoned	VERB	X2.1 N2
 reckoning	NOUN	X2.1 N2
 reckoning	VERB	X2.1 N2
 reclaim	VERB	A9+/N6+
@@ -43565,7 +42877,6 @@ reclaimed	VERB	A9+
 reclamation	NOUN	A9+/N6+
 reclassification	NOUN	A4.1/A2.1
 reclassified	ADJ	A4.1/A2.1
-reclassified	VERB	A4.1/A2.1
 reclassified	VERB	A4.1/A2.1
 reclassifies	VERB	A4.1/A2.1
 reclassify	VERB	A4.1/A2.1
@@ -43632,13 +42943,11 @@ recourse	NOUN	A1.1.1
 recover	VERB	B2+ A5.1+/A2.1 A9+
 recovered	ADJ	B2+ A5.1+/A2.1 A9+
 recovered	VERB	B2+ A5.1+/A2.1 A9+
-recovered	VERB	B2+ A5.1+/A2.1 A9+
 recovering	ADJ	B2+ A5.1+/A2.1 A9+
 recovering	VERB	B2+ A5.1+/A2.1 A9+
 recovering	NOUN	B2+ A5.1+/A2.1 A9+
 recovery	NOUN	B2+ A5.1+/A2.1 A9+
 recreate	VERB	A1.1.1/N6+
-recreated	VERB	A1.1.1/N6+
 recreated	VERB	A1.1.1/N6+
 recreating	NOUN	A1.1.1/N6+
 recreating	VERB	A1.1.1/N6+
@@ -43658,7 +42967,6 @@ rectangle	NOUN	O4.4
 rectangular	ADJ	O4.4
 rectification	NOUN	A5.3+/A2.1
 rectified	ADJ	A5.3+/A2.1
-rectified	VERB	A5.3+/A2.1
 rectified	VERB	A5.3+/A2.1
 rectifies	VERB	A5.3+/A2.1
 rectify	VERB	A5.3+/A2.1
@@ -43693,7 +43001,6 @@ redden	VERB	O4.3
 reddish	ADJ	O4.3
 reddy	ADJ	O4.3
 redecorate	VERB	C1/H1
-redecorate	VERB	C1/H1
 redecorating	VERB	C1/H1
 redecorating	NOUN	C1/H1
 redecoration	NOUN	C1/H1
@@ -43704,7 +43011,6 @@ redemption	NOUN	S9 S8+ A9+
 redeploy	VERB	M2
 redeployment	NOUN	I3.1/A2.1+
 redesign	VERB	C1 X7+ B5
-redesign	VERB	C1
 redevelop	VERB	A2.1+
 redeveloped	ADJ	A2.1+
 redeveloped	VERB	A2.1+
@@ -43749,7 +43055,6 @@ reek	NOUN	X3.5
 reel	NOUN	O2 K2%
 reel	VERB	M1/E3- E4.1-
 reenact	VERB	A1.1.1/N6+
-reenact	VERB	A1.1.1/N6+
 reenactment	NOUN	A1.1.1/N6+
 reengineer	VERB	A2.1+
 reengineering	NOUN	A2.1+
@@ -43775,7 +43080,6 @@ referral	NOUN	Q2.2/S2mf Q2.2
 referrals	NOUN	Q2.2
 referred	VERB	Q2.2 Q1.2
 referred	ADJ	Q2.2 Q1.2
-referred	VERB	Q2.2 Q1.2
 referring	VERB	Q2.2 Q1.2
 referring	ADJ	Q2.2 Q1.2
 referring	NOUN	Q2.2 Q1.2
@@ -43907,7 +43211,6 @@ register	NOUN	Q1.2/G1.1 Q3@ K2%
 register	VERB	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
 registered	ADJ	Q1.2/G1.1 I3.2+
 registered	VERB	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
-registered	VERB	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
 registering	VERB	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
 registering	ADJ	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
 registering	NOUN	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+
@@ -43989,7 +43292,6 @@ reintroduction	NOUN	T2+/N6+
 reinvent	VERB	N6+/X2.1
 reinvention	NOUN	N6+/X2.1
 reinvest	VERB	I1.1/N6+
-reinvest	VERB	I1.1/N6+
 reinvested	VERB	I1.1/N6+
 reinvestment	NOUN	I1.1/N6+
 reinvigorate	VERB	B2+/N6+ A5.1+/A2.1/N6+ X5.2+/N6+
@@ -44052,7 +43354,6 @@ relent	VERB	T2-
 relentless	ADJ	T2++
 relentlessly	ADV	T2++ S1.2.1-
 relevance	NOUN	A1.2+ A1.5.2+
-relevance	NOUN	A1.2+
 relevant	ADJ	A1.2+ A1.5.2+
 reliability	NOUN	A5.1+
 reliable	ADJ	A5.1+ A5.3+
@@ -44062,7 +43363,6 @@ reliant	ADJ	S7.1-
 relic	NOUN	O2/T3++ S9
 relics	NOUN	O2/T3++ S9
 relied	VERB	S7.1-
-relied	VERB	S7.1-
 relied	ADJ	S7.1-
 relief	NOUN	E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1%
 reliefing	NOUN	I3.1
@@ -44070,7 +43370,6 @@ reliefing	VERB	I3.1
 relies	VERB	S7.1-
 relieve	VERB	A1.7- A9- S8+ G3 B3%
 relieved	ADJ	E4.1+
-relieved	VERB	A1.7- A9- S8+ G3 B3%
 relieved	VERB	A1.7- A9- S8+ G3 B3%
 relieving	ADJ	A1.7- A9- S8+ G3 B3%
 relieving	NOUN	A1.7- A9- S8+ G3 B3%
@@ -44135,13 +43434,11 @@ remedy	NOUN	X4.2 B3
 remedy	VERB	X9.2+
 remember	VERB	X2.2+
 remembered	VERB	X2.2+
-remembered	VERB	X2.2+
 remembered	ADJ	X2.2+
 remembering	ADJ	X2.2+
 remembering	NOUN	X2.2+
 remembering	VERB	X2.2+
 remembrance	NOUN	X2.2+/S7.2+
-remembrance	NOUN	X2.2+
 remet	VERB	S1.1.1/N6+
 remind	VERB	X4.1
 reminded	VERB	X4.1
@@ -44232,8 +43529,6 @@ renovation	NOUN	A5.1+/A2.1/H1
 renown	NOUN	X9.2+
 renowned	ADJ	S7.2+
 rent	VERB	I2.2
-rent	VERB	I2.2
-rent	VERB	I2.2
 rent	NOUN	I2.2 I1
 rentable	ADJ	I2.2
 rental-car	ADJ	M3
@@ -44255,12 +43550,10 @@ reoffending	VERB	G2.1-/N6+
 reoffending	NOUN	G2.1-/N6+
 reopen	VERB	A10+/N6+ T2+/N6+
 reopened	VERB	A10+/N6+ T2+/N6+
-reopened	VERB	A10+/N6+ T2+/N6+
 reopening	VERB	A10+/N6+ T2+/N6+
 reorder	NOUN	Q2.2 A2.1/N4
 reorder	VERB	Q2.2 A2.1/N4
 reordered	ADJ	Q2.2 A2.1/N4
-reordered	VERB	Q2.2 A2.1/N4
 reordered	VERB	Q2.2 A2.1/N4
 reordering	ADJ	Q2.2 A2.1/N4
 reordering	NOUN	Q2.2 A2.1/N4
@@ -44280,7 +43573,6 @@ repackaging	VERB	A1.1.1
 repacked	ADJ	A1.1.1
 repacked	VERB	A1.1.1
 repaid	ADJ	I1.2- S1.1.2+
-repaid	VERB	I1.2- S1.1.2+
 repaid	VERB	I1.2- S1.1.2+
 repaint	VERB	H5/N6+ C1/N6+
 repainted	VERB	H5/N6+ C1/N6+
@@ -44312,7 +43604,6 @@ repeater	NOUN	O2/N6+ N6+
 repeating	ADJ	N6+ F1/B1@
 repeating	NOUN	N6+ F1/B1@
 repeatingly	ADV	N6+
-repel	VERB	G3 E2-
 repel	VERB	S8- O4.1 G3 E2-
 repelled	VERB	G3 E2-
 repellent	NOUN	O1
@@ -44362,7 +43653,6 @@ reporter	NOUN	Q4.2/S2mf
 reporting	ADJ	Q2.2 S7.1-
 reporting	NOUN	Q2.2 S7.1-
 repose	VERB	E3+
-reposed	VERB	E3+ M8 A3+ A2.2
 reposed	VERB	E3+ M8 A3+ A2.2
 reposition	VERB	M2 A2.1+
 repositioning	NOUN	M2 A2.1+
@@ -44665,7 +43955,6 @@ retaining	NOUN	A9+
 retaining	ADJ	A9+
 retake	NOUN	P1/N6+
 retake	VERB	A9+/N6+ P1/N6+ C1/N6+ A1.1.1/N6+
-retake	VERB	A9+/N6+ P1/N6+ C1/N6+ A1.1.1/N6+
 retaken	VERB	G3 A9+/N6+ P1/N6+ C1/N6+ Q4.3/N6+ A1.1.1/N6+
 retaliate	VERB	E3-
 retaliation	NOUN	E3-
@@ -44702,7 +43991,6 @@ retraction	NOUN	A2.1/Q2.2
 retrain	VERB	P1/N6
 retrainable	ADJ	P1
 retrained	ADJ	P1
-retrained	VERB	P1
 retrained	VERB	P1
 retraining	VERB	P1
 retraining	NOUN	P1
@@ -44752,7 +44040,6 @@ rev	NOUN	S9
 revaluation	NOUN	I1.3
 revamp	VERB	A2.1+
 revamped	VERB	A2.1+
-revamped	VERB	A2.1+
 revamps	VERB	A2.1+
 reveal	VERB	A10+
 revealing	ADJ	A10+
@@ -44799,7 +44086,6 @@ reviewing	NOUN	X2.4/A5 P1 Q4 G3
 reviews	NOUN	X2.4 Q4
 reviews	VERB	X2.4/A5 P1 Q4 G3
 revile	VERB	E2-
-revile	VERB	E2-
 revise	VERB	A2.1+ P1
 revised	ADJ	A2.1+
 revising	NOUN	A2.1+ P1
@@ -44809,7 +44095,6 @@ revisionist	NOUN	G1.2/S2mf
 revisionists	NOUN	G1.2/S2mf
 revisions	NOUN	N6/A2.1
 revisit	VERB	M1/N6
-revisited	VERB	M1/N6
 revisited	VERB	M1/N6
 revitalise	VERB	A5.1+/A2.1
 revitalising	NOUN	O4.2+/A2.1
@@ -44904,8 +44189,6 @@ ricochet	NOUN	M1
 ricocheted	VERB	G3
 ricotta	NOUN	F1
 rid	VERB	A9-
-rid	VERB	A9-
-rid	VERB	A9-
 riddance	NOUN	A9-
 ridden	VERB	K5.1/L2 M1
 ridden	ADJ	N5+
@@ -44942,7 +44225,6 @@ right	INTJ	Z4
 right	VERB	A5.3+/A2.1
 right	NOUN	S7.4+ G2.2+ M6 G1.2
 right	ADJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2
-right	ADV	A13.3 A13.2
 right	ADV	Z4 A5.3+ A4.2+ M6 A13.3 A13.2
 right-angled	ADJ	O4.4
 right-hand	ADJ	M6 S8+
@@ -44995,7 +44277,6 @@ rip	NOUN	O4.2-
 rip-off	NOUN	G2.2-
 ripe	ADJ	O4.1/L3/F1 A1.2+
 ripen	VERB	O4.1/L3/F1
-ripeness	NOUN	O4.1
 ripeness	NOUN	O4.1/L3/F1
 ripening	ADJ	O4.1/L3/F1
 ripoff	VERB	G2.2-
@@ -45086,7 +44367,6 @@ roatrite	NOUN	Z3
 rob	VERB	G2.1-
 robbed	ADJ	G2.1- A9-
 robbed	VERB	G2.1- A9-
-robbed	VERB	G2.1- A9-
 robber	NOUN	G2.1-/S2mf
 robberies	NOUN	G2.1- A9-
 robbers	NOUN	G2.1-/S2mf
@@ -45105,7 +44385,6 @@ rock	VERB	M1 M2 E5- K2
 rock	NOUN	O2 O1.1 K2 F1
 rock-bottom	ADJ	N5.1- E4.1-
 rock-hard	ADJ	O4.5 S1.2.5+ O4.1
-rocked	VERB	M1 M2 E5- K2
 rocked	VERB	M1 M2 E5- K2
 rocker	NOUN	H5 O2 K2/S2mf
 rocker-type	NOUN	K2/S2mf
@@ -45346,7 +44625,6 @@ rule	VERB	S7.1+ Q1.2 X6+
 rule	NOUN	G2.1 X4.2 A6.2+ S7.1+ Q3
 rule-based	ADJ	Y2
 ruled	VERB	S7.1+ Q1.2 X6+
-ruled	VERB	S7.1+ Q1.2 X6+
 ruler	NOUN	S7.1+/S2mf O2
 rules	NOUN	G2.1 X4.2 A6.2+ Q3
 ruling	VERB	S7.1+ Q1.2 X6+
@@ -45375,7 +44653,6 @@ rump	NOUN	B1 F1 N5-
 rumpus	NOUN	E3-
 run	NOUN	M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1%
 run	VERB	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
-run	VERB	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4
 run-down	ADJ	O4.2-
 run-in	NOUN	A1.1.1
 run-of-the-mill	ADJ	A6.2+
@@ -45402,7 +44679,6 @@ rupee	NOUN	I1
 rupees	NOUN	I1
 rupture	VERB	A1.1.2 S1.1.2-
 rupture	NOUN	B2-
-ruptured	VERB	A1.1.2 S1.1.2-
 ruptured	VERB	A1.1.2 S1.1.2-
 rural	ADJ	F4/M7
 rural-urban	ADJ	M7
@@ -45508,7 +44784,6 @@ sage	ADJ	X9.1+
 sage	NOUN	F1 L3 X9.1+/S2mf
 saggy	ADJ	O4.4
 said	ADJ	Q1.1
-said	VERB	Q2.1
 said	VERB	Q2.1
 sail	NOUN	M4
 sail	VERB	M4
@@ -45666,7 +44941,6 @@ sash	NOUN	B5 O2
 sassenach	NOUN	Z2/S2mf
 sassy	ADJ	S7.2- O4.2+
 sat	VERB	M8 C1 P1 G1.1 G2.1 M6 A9+
-sat	VERB	M8 C1 P1 G1.1 G2.1 M6 A9+
 satchel	NOUN	B5
 satellite	NOUN	W1 Y1 Q1.3 S7.1-
 satellite	ADJ	Y1 S7.1-
@@ -45678,7 +44952,6 @@ satisfactorily	ADV	A5.1+
 satisfactory	ADJ	A5.1+
 satisfied	VERB	E4.2+ A1.2+
 satisfied	ADJ	E4.2+ A1.2+
-satisfied	VERB	E4.2+ A1.2+
 satisfy	VERB	E4.2+ A1.2+
 satisfying	ADJ	E4.2+ A1.2+
 satisfying	NOUN	E4.2+ A1.2+
@@ -45727,8 +45000,7 @@ savoury	ADJ	X3.1
 savvy	NOUN	X2.2+
 savvy	ADJ	X2.2+
 saw	NOUN	O2
-saw	VERB	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2
-saw	VERB	A1.1.1
+saw	VERB	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 A1.1.1
 sawdust	NOUN	O1.1
 sawed-off	ADJ	A1.1.1
 sawmill	NOUN	I4/H1c
@@ -45813,7 +45085,6 @@ scatter	VERB	M1 N3.6+/A2.1
 scatter-gram	NOUN	N2
 scatter-grams	NOUN	N2
 scattered	ADJ	M1 N3.6+/A2.1
-scattered	VERB	M1 N3.6+/A2.1
 scattered	VERB	M1 N3.6+/A2.1
 scatty	ADJ	S1.2.6-
 scavenge	VERB	A9+
@@ -45972,7 +45243,7 @@ scratch	NOUN	B2- A1.1.1 A1.1.2 T2+
 scratching	ADJ	B2- A1.1.1 A1.1.2
 scratching	NOUN	B2- A1.1.1 A1.1.2
 scratchy	ADJ	O4.5 E3- X3.2
-scrattily	ADV	SENSE
+scrattily	ADV	O4.2-
 scrawl	VERB	Q1.2
 scrawled	VERB	Q1.2
 scrawls	NOUN	Q1.2
@@ -46057,7 +45328,6 @@ scuffles	VERB	E3-
 scull	VERB	M4
 scullery	NOUN	H2/F1
 sculpt	VERB	C1 A1.1.1
-sculpt	VERB	C1 A1.1.1
 sculpted	ADJ	C1 O4.1
 sculptor	NOUN	C1/S2mf
 sculptress	NOUN	C1/S2.1f
@@ -46111,7 +45381,6 @@ seaport	NOUN	M7/M4
 sear	VERB	O4.6+
 search	NOUN	X2.4
 search	VERB	X2.4
-search	VERB	X2.4
 searcher	NOUN	X2.4/S2mf
 searching	NOUN	X2.4
 searching	VERB	X2.4
@@ -46152,8 +45421,7 @@ secluded	ADJ	A10-
 secluded	VERB	A10-
 seclusion	NOUN	A10-
 second	ADJ	N4
-second	NOUN	P1 F1 O2/T3+ S8+/S2mf
-second	NOUN	T1.3 T1.2
+second	NOUN	P1 F1 O2/T3+ S8+/S2mf T1.3 T1.2
 second	VERB	S8+
 second-best	ADJ	A5.1-
 second-biggest	ADJ	N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++
@@ -46171,8 +45439,7 @@ secondhand	ADJ	T3+ N4
 secondhand	ADV	T3+ N4
 secondly	ADV	N4
 secondment	NOUN	S5/T1.3+
-seconds	NOUN	P1 F1 O2/T3+ S8+/S2mf
-seconds	NOUN	T1.3 T1.2
+seconds	NOUN	P1 F1 O2/T3+ S8+/S2mf T1.3 T1.2
 secrecy	NOUN	A10-
 secret	ADJ	A10-
 secret	NOUN	A10-
@@ -46269,7 +45536,6 @@ segway	NOUN	K3
 segways	NOUN	K3
 seige	NOUN	G3
 seize	VERB	A9+ X9.2+/G3 S7.1+
-seized	VERB	A9+ X9.2+/G3 S7.1+
 seized	VERB	A9+ X9.2+/G3 S7.1+
 seized	ADJ	A9+ X9.2+/G3 S7.1+
 seizure	NOUN	A9+ X9.2+/G3 S7.1+ B2-
@@ -46516,7 +45782,6 @@ sensor	NOUN	O3
 sensual	ADJ	S3.2 O4.2+
 sent	ADJ	M2 A2.2
 sent	VERB	M2 A2.2
-sent	VERB	M2 A2.2
 sentence	NOUN	Q3 G2.1
 sentence	VERB	G2.1
 sentencing	VERB	G2.1
@@ -46561,7 +45826,6 @@ sequentially	ADV	N4
 sequester	VERB	A9+/G2.1 S5-
 sequestered	VERB	A9+/G2.1 S5-
 sequestered	ADJ	A10-
-sequestered	VERB	A9+/G2.1 S5-
 sequestering	VERB	A9+/G2.1 S5-
 sequestration	NOUN	A9+/G2.1 S5-
 sequin	NOUN	O2
@@ -46599,8 +45863,6 @@ servant	NOUN	S7.1-/S2mf
 servants	NOUN	S7.1-/S2mf
 serve	NOUN	K5.1
 serve	VERB	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
-serve	VERB	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
-served	VERB	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
 served	VERB	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
 served	ADJ	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1
 server	NOUN	F1/S2mf Y2
@@ -46624,10 +45886,8 @@ serviettes	NOUN	B5 H5
 servile	ADJ	S7.1- S1.2.5-
 servility	NOUN	S7.1- S1.2.5-
 serving	ADJ	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
-serving	ADJ	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
 serving	NOUN	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
 serving	VERB	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1
-servitude	NOUN	S7.1-
 servitude	NOUN	S7.1-
 servo	PROPN	Z3
 sesame	NOUN	L3 F1
@@ -46635,8 +45895,6 @@ session	NOUN	T1.3
 sessional	ADJ	T1.3
 set	NOUN	N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1%
 set	ADJ	X6+ O4.5
-set	VERB	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
-set	VERB	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
 set	VERB	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
 set-meeting	NOUN	S1.1.3+
 set-out	NOUN	S7.1 O2
@@ -46654,7 +45912,6 @@ setting	NOUN	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3
 setting-up	NOUN	M2 T2+
 settle	VERB	M8 X9.2+ I1.2 H4 E4.2+ X6+
 settle	NOUN	H5
-settled	ADJ	M8 X9.2+ I1.2 H4 E4.2+ X6+
 settled	ADJ	M8 X9.2+ I1.2 H4 E4.2+ X6+
 settled	VERB	M8 X9.2+ I1.2 H4 E4.2+ X6+
 settlement	NOUN	M7 Q2.2 I1.2
@@ -46686,7 +45943,6 @@ severance	NOUN	I3.1-
 severe	ADJ	A5.1- S1.2.5+ S1.2.1- O4.2-
 severed	VERB	A1.1.1 T2-
 severed	ADJ	A1.1.1 T2-
-severed	VERB	A1.1.1 T2-
 severely	ADV	A5.1- S1.2.5+ S1.2.1- O4.2- A13.3
 severest	ADJ	A5.1--- S1.2.5+++ S1.2.1--- O4.2---
 severing	VERB	A1.1.1 T2-
@@ -46821,7 +46077,6 @@ sharpness	NOUN	O4.4 A10+ X9.1+ N3.8+ B2- X3.1 E3- A5.3@
 shatter	VERB	A1.1.2
 shatter-proof	ADJ	A1.1.2-
 shattered	VERB	A1.1.2
-shattered	VERB	A1.1.2
 shattered	ADJ	E4.1- B2- A1.1.2
 shattering	VERB	A1.1.2
 shattering	NOUN	A1.1.2
@@ -46876,7 +46131,6 @@ shelter	VERB	A10-
 shelter	NOUN	H1/A10- H4/H1c
 sheltered	VERB	A10-
 sheltered	ADJ	A10-
-sheltered	VERB	A10-
 shelters	NOUN	H1/A10- H4/H1
 shelters	VERB	A10-
 shelve	VERB	A1.9 O4.4
@@ -46936,7 +46190,6 @@ shipbuilding	NOUN	M4/I4
 shipman	NOUN	M4/S2mf
 shipmate	NOUN	M4/S2mf
 shipment	NOUN	N5 M2
-shipped	VERB	M2
 shipped	VERB	M2
 shipper	NOUN	M2/S2mf
 shippers	NOUN	M2/S2mf
@@ -47058,7 +46311,6 @@ shortcut	VERB	N3.8+
 shorten	VERB	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
 shortened	ADJ	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
 shortened	VERB	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
-shortened	VERB	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
 shortening	VERB	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
 shortens	VERB	N3.7-/A2.1 N5-/A2.1 A2.1/T1.3 N3.3-/A2.1 F1
 shorter	ADJ	T1.3 N3.7-- N3.3-- N5-- S1.2.4-- N3.8++@ F1%
@@ -47147,7 +46399,6 @@ shrewishly	ADV	E3- L2%
 shrewishness	NOUN	E3- L2%
 shrews	NOUN	L2mfn
 shriek	VERB	Q2.2/X3.2+
-shriek	VERB	Q2.2
 shriek	NOUN	Q2.2/X3.2+
 shrieke	VERB	Q2.2
 shrieking	VERB	Q2.2/X3.2+
@@ -47168,10 +46419,8 @@ shrinking	VERB	N3.2-/A2.1 E2-@
 shrinks	VERB	N3.2-/A2.1 E2-@
 shrivel	VERB	A1.1.2 O1.2- O4.5
 shrivelled	VERB	A1.1.2 O1.2- O4.5
-shrivelled	VERB	A1.1.2 O1.2- O4.5
 shroud	VERB	A10-
 shroud	NOUN	B5/L1-
-shrouded	VERB	A10-
 shrouded	VERB	A10-
 shrouds	VERB	A10-
 shrouds	NOUN	B5/L1-
@@ -47179,7 +46428,6 @@ shrub	NOUN	L3
 shrubs	NOUN	L3
 shrug	NOUN	M1
 shrug	VERB	X5.2-/A1.1.1 B1
-shrug	NOUN	M1
 shrugging	VERB	X5.2-/A1.1.1 B1
 shrugging	NOUN	X5.2-/A1.1.1 B1
 shrugs	VERB	X5.2-/A1.1.1 B1
@@ -47196,12 +46444,9 @@ shuffling	NOUN	M1 A2.1+
 shui	NOUN	S9
 shun	VERB	S1.2.1- A1.9
 shunned	VERB	S1.2.1- A1.9
-shunned	VERB	S1.2.1- A1.9
 shuns	VERB	S1.2.1- A1.9
 shunt	VERB	M2
 shunt	NOUN	O2 A1.4 B1
-shut	VERB	A10-
-shut	VERB	A10-
 shut	VERB	A10-
 shut	ADJ	A10-
 shut-down	NOUN	T2- A10-
@@ -47267,9 +46512,7 @@ sifts	VERB	A1.1.1 X2.4
 sig	NOUN	K2/Q4.3
 sigh	NOUN	Q2.2/X3.2
 sigh	VERB	Q2.2/X3.2
-sigh	VERB	Q2.2/X3.2
 sigher	NOUN	E4.1-/S2mf
-sighers	NOUN	E4.1-/S2mf
 sighers	NOUN	E4.1-/S2mf
 sighing	VERB	Q2.2/X3.2
 sighs	VERB	Q2.2/X3.2
@@ -47367,7 +46610,6 @@ simplicity	NOUN	A12+ O4.1
 simplification	NOUN	A12+/A2.1
 simplified	ADJ	A12+/A2.1
 simplified	VERB	A12+/A2.1
-simplified	VERB	A12+/A2.1
 simplifies	VERB	A12+/A2.1
 simplify	VERB	A12+/A2.1
 simplifying	ADJ	A12+/A2.1
@@ -47398,7 +46640,6 @@ sinful	ADJ	G2.2- A5.1+
 sinfully	ADV	G2.2- A5.1+
 sing	VERB	K2
 sing-song	ADJ	X3.2 K2
-singe	VERB	O4.6+ A1.1.2
 singe	VERB	O4.6+ A1.1.2
 singeing	VERB	O4.6+ A1.1.2
 singer	NOUN	K2/S2mf
@@ -47462,7 +46703,6 @@ sitting	NOUN	M8 C1 P1 G1.1 G2.1 M6 A9+
 sitting	VERB	M8 C1 P1 G1.1 G2.1 M6 A9+
 situate	VERB	M6 A2.2
 situated	ADJ	M6 A2.2
-situated	VERB	M6 A2.2
 situated	VERB	M6 A2.2
 situation	NOUN	A3+ O4.1 M6 I3.1@
 six	NUM	N1 T3 T1.2
@@ -47625,7 +46865,6 @@ slam	VERB	A1.1.1 Q2.2
 slander	NOUN	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
 slander	VERB	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
 slandered	VERB	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
-slandered	VERB	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
 slanderer	NOUN	Q2.2/A5.2-/S2mf Q2.2/A1.1.2/S2mf
 slanderers	NOUN	Q2.2/A5.2-/S2mf Q2.2/A1.1.2/S2mf
 slanderous	ADJ	Q2.2/A5.2- Q2.2/A5.1- G2.2-
@@ -47650,7 +46889,6 @@ slate	VERB	Q2.2
 slate	NOUN	O1.1 O2 Q1.2
 slated	ADJ	Q2.2 H2
 slated	VERB	Q2.2
-slated	VERB	Q2.2
 slater	NOUN	H1/S2mf
 slates	NOUN	H2 O2
 slates	VERB	Q2.2
@@ -47660,9 +46898,8 @@ slating	NOUN	Q2.2
 slats	NOUN	O2
 slaughter	VERB	L1- L1-/F1
 slaughter	NOUN	L1- L1-/F1
-slaughtered	VERB	L1- S7.1+
 slaughtered	ADJ	L1- L1-/F1
-slaughtered	VERB	L1- L1-/F1
+slaughtered	VERB	L1- L1-/F1 S7.1+
 slaughterer	NOUN	F1/S2mf L1-/S2mf
 slaughterhouse	NOUN	L1-/F1/H1c
 slaughtering	VERB	L1- S7.1+
@@ -47676,7 +46913,6 @@ slaves	NOUN	S7.1-/S2mf
 slaves	VERB	A1.1.1
 slavish	ADJ	S7.1- S1.2.5-
 slavishly	ADV	A4.2+
-slay	VERB	L1-
 slay	VERB	L1-/E3-
 slayed	VERB	L1-/E3-
 slaying	VERB	L1-/E3-
@@ -47703,7 +46939,6 @@ sleezy	ADJ	O4.2-
 slender	ADJ	A13.4 N3.2-/B1
 slenderer	ADJ	N3.2--/B1
 slenderly	ADV	A13.4 A4.2+
-slept	VERB	B1 H4/N5
 slept	VERB	B1 H4/N5
 slept	ADJ	B1
 slew	VERB	L1-/E3-
@@ -47742,7 +46977,6 @@ sling	VERB	M2
 slingback	NOUN	B5
 slingbacks	NOUN	B5
 slink	VERB	M1/A10-
-slink	VERB	M1/A10-
 slip	NOUN	A5.3- Q1.2 B5 C1/O1.2@
 slip	VERB	M1 A9- A2.1+ A5.1-/A2.1
 slip-on	ADJ	B5
@@ -47750,7 +46984,6 @@ slip-on	NOUN	B5
 slip-ons	NOUN	B5
 slip-up	NOUN	A5.3-
 slipped	ADJ	M1 A9- A2.1+ A5.1-/A2.1
-slipped	VERB	M1 A9- A2.1+ A5.1-/A2.1
 slipped	VERB	M1 A9- A2.1+ A5.1-/A2.1
 slipper	NOUN	B5
 slippered	ADJ	B5
@@ -47785,8 +47018,7 @@ sloshed	VERB	O1.2/M1 O1.2/M2
 sloshing	VERB	M2 M1
 slot	NOUN	O2 T1.3 I3.1
 slot	VERB	A1.1.1 T1.3
-sloth	NOUN	L2
-sloth	NOUN	X5.2-
+sloth	NOUN	L2 X5.2-
 slothful	ADJ	X5.2-
 sloths	NOUN	L2
 slotted	ADJ	O4.1
@@ -47808,7 +47040,7 @@ slowed	ADJ	N3.8-
 slowing	NOUN	N3.8-
 slowly	ADV	N3.8-
 slowness	NOUN	N3.8-
-slowwash	NOUN	SENSE
+slowwash	NOUN	B4
 sludgy	ADJ	O4.5
 slug	VERB	E3-
 slug	NOUN	L2mfn G3 F2 E3-
@@ -47821,7 +47053,6 @@ slum	NOUN	H3/O4.2-
 slum	VERB	O4.2-
 slumber	VERB	B1
 slumber	NOUN	B1
-slumber	VERB	B1
 slumbered	VERB	B1
 slumbers	NOUN	B1
 slumbers	VERB	B1
@@ -47836,7 +47067,6 @@ slumping	VERB	O4.4/B1 N5-/A2.1
 slums	NOUN	H3/O4.2-
 slung	VERB	M2
 slung	ADJ	M6
-slung	VERB	M2
 slunk	VERB	M1/A10-
 slur	NOUN	Q3
 slur	VERB	Q3
@@ -47894,7 +47124,6 @@ smattering	NOUN	N5-
 smear	VERB	A1.1.1 M2 G2.1-/Q2.2
 smear	NOUN	O2 M2 B3 G2.1-/Q2.2
 smeared	VERB	A1.1.1 M2 G2.1-/Q2.2
-smeared	VERB	A1.1.1 M2 G2.1-/Q2.2
 smell	VERB	X3.5 X3 A8
 smell	NOUN	X3.5
 smelling	NOUN	X3.5 X3 A8
@@ -47904,9 +47133,7 @@ smells	NOUN	X3.5
 smells	VERB	X3.5 X3 A8
 smelly	ADJ	X3.5
 smelly	NOUN	B4
-smelt	VERB	X3.5 X3 A8
-smelt	VERB	X3.5 X3 A8
-smelt	VERB	A1.1.1
+smelt	VERB	X3.5 X3 A8 A1.1.1
 smile	VERB	E4.1+
 smile	NOUN	E4.1+
 smiled	VERB	E4.1+
@@ -47919,8 +47146,7 @@ smirch	VERB	G2.1- A1.1.2
 smirched	VERB	G2.1- A1.1.2
 smirk	NOUN	E4.1+/S1.2.6-
 smirk	VERB	E4.1+/S1.2.6-
-smite	VERB	E3-/A1.1.1
-smite	VERB	E3- B2- E2+
+smite	VERB	E3- B2- E2+ E3-/A1.1.1
 smites	VERB	E3-/A1.1.1
 smithereens	NOUN	N5.1-
 smithy	NOUN	I4/H1
@@ -47958,7 +47184,6 @@ smoothness	NOUN	X3.3 O4.5 X3.1 E3+ A5.1+
 smoothy	NOUN	O4.2/S2.2m
 smote	VERB	E3-/A1.1.1
 smother	VERB	A10- E2+ L1- S8- O4.6+
-smother	VERB	A10- E2+ L1-
 smothered	VERB	A10- E2+ L1- S8- O4.6+
 smothering	VERB	A10- E2+ L1- S8- O4.6+
 smothers	VERB	A10- E2+ L1- S8- O4.6+
@@ -48035,7 +47260,6 @@ sniffle	VERB	B1 B2-
 sniffle	NOUN	B2-
 snigger	NOUN	E4.1+
 snigger	VERB	E4.1+
-snigger	VERB	E4.1+
 snip	VERB	A1.1.1
 snip	NOUN	A1.1.1 I1.3- B3
 sniper	NOUN	G3/S2mf
@@ -48053,7 +47277,6 @@ snooker	NOUN	K5.2
 snooker	VERB	A12-
 snookered	ADJ	A12-
 snookered	VERB	A12-
-snookered	VERB	A12-
 snoop	NOUN	X2.4/X7-
 snoop	VERB	X2.4/X7-
 snooper	NOUN	X7-/S2mf
@@ -48063,7 +47286,6 @@ snooty	ADJ	S1.2.3+
 snooze	NOUN	B1
 snooze	VERB	B1
 snoozing	VERB	B1
-snore	VERB	B1
 snore	VERB	B1/X3.2
 snore	NOUN	B1/X3.2
 snores	VERB	B1/X3.2
@@ -48114,15 +47336,13 @@ snug	NOUN	F2/H2
 snug	ADJ	O4.6+ N3.1
 snuggle	VERB	M8
 snugly	ADV	O4.1 O4.6+ N3.1
-so	ADV	A13.3
-so	SCONJ	Z5
 so	SCONJ	Z5
 so	ADV	Z5 A13.3
 so-and-so	NOUN	Z8mf
 so-and-so	ADJ	A5.1
 so-called	ADJ	A8
 so-so	ADV	A5.1
-soak	NOUN	O1.2 F2+++/S2@@mf
+soak	NOUN	O1.2 F2+++/S2mf@
 soak	VERB	O1.2 B4
 soaked	ADJ	O1.2
 soaking	VERB	O1.2 B4
@@ -48178,7 +47398,6 @@ sociology	NOUN	S1.1.1
 sociometrically	ADV	S1.1.1/S5
 sock	NOUN	B5
 sock	VERB	E3-
-socked	VERB	E3-
 socked	VERB	E3- F2++
 socket	NOUN	O3 O2
 socks	NOUN	B5
@@ -48195,7 +47414,6 @@ soft-boiled	ADJ	F1
 soft-drink	ADJ	F2
 softball	NOUN	K5.2
 soften	VERB	O4.5 A2.1+ S1.2.5- S1.2.1+ O4.1
-softened	VERB	O4.5 A2.1+ S1.2.5- S1.2.1+ O4.1
 softened	VERB	O4.5 A2.1+ S1.2.5- S1.2.1+ O4.1
 softened	ADJ	O4.5 A2.1+ S1.2.5- S1.2.1+ O4.1
 softer	ADJ	O4.5 X3.2-- O4.3 S1.2.5-- A12++
@@ -48215,18 +47433,15 @@ soiling	NOUN	O4.2-
 soils	VERB	O4.2-
 sojourn	NOUN	M8
 solace	NOUN	S8+
-solace	NOUN	S8+
 solaces	NOUN	S8+
 solar	ADJ	W1 W2 O3
 solarium	NOUN	H1/B4
 sold	VERB	I2.2
 sold	ADJ	I2.2
-sold	VERB	I2.2
 solder	VERB	A1.1.1
 soldering	VERB	A1.1.1
 soldering	NOUN	A1.1.1
 soldier	NOUN	G3/S2mf
-soldier	VERB	A1.1.1 G3
 soldier	VERB	A1.1.1 G3
 soldiers	NOUN	G3/S2mf
 soldiery	NOUN	G3/S5
@@ -48242,7 +47457,6 @@ solemnisation	NOUN	E4.1+ S4
 solemnise	VERB	E4.1+ S4 S7.2+
 solemnised	VERB	E4.1+ S4 S7.2+
 solemnity	NOUN	O4.2+ A6.2+ E4.1-
-solemnize	VERB	E4.1+ S4 S7.2+
 solemnize	VERB	E4.1+ S4 S7.2+
 solemnized	VERB	E4.1+ S4 S7.2+
 solemnly	ADV	O4.2 A5.2+
@@ -48330,7 +47544,6 @@ sooner	ADV	T1.1.3/N3.8++
 soonest	ADV	T1.1.3/N3.8+++
 soot	NOUN	O1.1
 soothe	VERB	E3+ S8+
-soothe	VERB	E3+ S8+
 soothing	VERB	E3+
 soothing	NOUN	E3+
 soothing	ADJ	E3+
@@ -48365,7 +47578,6 @@ sorts	VERB	A4.1 A1.1.1 Y2
 sos	INTJ	Z4
 sothe	VERB	E3+
 sou	NOUN	I1
-sought	VERB	X2.4
 sought	VERB	X2.4
 sought	ADJ	X2.4
 soul	ADJ	K2
@@ -48420,11 +47632,9 @@ southward	ADV	M6
 souvenir	NOUN	O2
 souvenirs	NOUN	O2
 sovereign	ADJ	S7.1+
-sovereign	NOUN	I1
-sovereign	NOUN	S7.1+/S2mf
+sovereign	NOUN	S7.1+/S2mf I1
 sovereignly	ADV	S7.1+ S7.2+
-sovereigns	NOUN	I1
-sovereigns	NOUN	S7.1+/S2mf
+sovereigns	NOUN	S7.1+/S2mf I1
 sovereignty	NOUN	S7.1+
 soviet	NOUN	Z2
 sow	VERB	F4 A2.2
@@ -48440,7 +47650,6 @@ spa	NOUN	M7/O1.2
 space	VERB	N6
 space	NOUN	N3.6 W1 T1.3 Q1.2
 space-age	ADJ	T1.3/Y1
-spacecraft	NOUN	M5/W1
 spacecraft	NOUN	M5/W1
 spaced	ADJ	N6
 spaceman	NOUN	Y1/W1/S2.2m
@@ -48605,7 +47814,6 @@ spelling	VERB	Q3
 spells	NOUN	T1.3 S9
 spells	VERB	Q3
 spelt	VERB	Q3
-spelt	VERB	Q3
 spelt	ADJ	Q3
 spencer	PROPN	Z1mf
 spencers	PROPN	Z3c
@@ -48615,7 +47823,6 @@ spender	NOUN	I1.2/S2mf
 spending	NOUN	I1.2 A1.5.1 T1.3
 spending	ADJ	I1.2 A1.5.1
 spendthrift	NOUN	I1.2+/S2mf
-spent	VERB	I1.2 A1.5.1 T1.3
 spent	VERB	I1.2 A1.5.1 T1.3
 spent	ADJ	I1.2 A1.5.1 B1
 sperm	NOUN	B1
@@ -48644,7 +47851,6 @@ spilled	VERB	A1.1.1
 spiller	PROPN	Z1mf
 spills	NOUN	O2
 spills	VERB	A1.1.1
-spilt	VERB	A1.1.1
 spilt	VERB	A1.1.1
 spin	NOUN	M1 B4 M3
 spin	VERB	M1 M2 B4 C1
@@ -48840,8 +48046,6 @@ spraying	NOUN	A1.1.1
 spraying	ADJ	A1.1.1
 spread	VERB	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
 spread	NOUN	F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2
-spread	VERB	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
-spread	VERB	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
 spreadability	NOUN	O4.5
 spreadable	ADJ	O4.5
 spreading	NOUN	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
@@ -48854,7 +48058,6 @@ sprightly	ADV	X5.2+
 sprightly	ADJ	X5.2+
 spring	NOUN	O2 T1.3 W3/M4
 spring	VERB	M1 A2.2 Q2.1 G2.1-@ T1.3%
-spring	NOUN	T1.3
 spring-autumn	NOUN	T1.3
 springboard	NOUN	T2+ O2
 springer	NOUN	L2mfn
@@ -48949,7 +48152,6 @@ squeeze	VERB	M2 M2/O1.2 N5- A9+/S7.1+ F1
 squeeze	NOUN	M2 N5- S2/N5+ I1/A1.7+ S7.1+
 squeezed	ADJ	M2 M2/O1.2 N5- A9+/S7.1+ F1
 squeezed	VERB	M2 M2/O1.2 N5- A9+/S7.1+ F1
-squeezed	VERB	M2 M2/O1.2 N5- A9+/S7.1+ F1
 squeezing	ADJ	M2 M2/O1.2 N5- A9+/S7.1+ F1
 squeezing	VERB	M2 M2/O1.2 N5- A9+/S7.1+ F1
 squib	NOUN	O2 Q1.2 Q2.1 Q4.2
@@ -49025,7 +48227,6 @@ stagger	NOUN	M1
 stagger	VERB	M1 N4 E5- N4 A12-
 staggered	ADJ	N6 E5-
 staggered	VERB	M1 N4 E5- N4 A12-
-staggered	VERB	M1 N4 E5- N4 A12-
 staggering	ADJ	E5-
 staggering	NOUN	M1 N4 E5- N4 A12-
 staggering	VERB	M1 N4 E5- N4 A12-
@@ -49091,7 +48292,6 @@ standard	NOUN	A5.1 G2.2 Q1.1 O2@
 standardisation	NOUN	A6.2+/A2.1
 standardise	VERB	A6.2+/A2.1
 standardised	ADJ	A6.2+
-standardised	VERB	A6.2+/A2.1
 standardised	VERB	A6.2+/A2.1
 standardize	VERB	A6.2+/A2.1
 standards	NOUN	A5.1 G2.2 Q1.1 O2@
@@ -49216,7 +48416,6 @@ steady	NOUN	A2.1-
 steak	NOUN	F1
 steaks	NOUN	F1
 steaky	ADJ	F1
-steal	VERB	G2.1-/A9+ A9+
 steal	VERB	G2.1-/A9+ A9+
 stealing	NOUN	G2.1-/A9+ A9+
 stealing	VERB	G2.1-/A9+ A9+
@@ -49440,9 +48639,7 @@ stonking	ADJ	O4.2-
 stony	ADJ	O4.1 E1-
 stony-hearted	ADJ	S1.2 S1.2.1-
 stood	VERB	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
-stood	VERB	M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+
 stool	NOUN	H5 B1%
-stoop	VERB	M1 G2.2-
 stoop	VERB	M1 G2.2-
 stoop	NOUN	O4.4/B1
 stoops	VERB	M1 O4.4
@@ -49531,7 +48728,6 @@ strangely	ADV	A6.2-
 strangeness	NOUN	A6.2-
 stranger	ADJ	A6.2--
 stranger	NOUN	X2.2-/S2mf
-strangle	VERB	L1-
 strangle	VERB	L1-
 strangled	VERB	L1-
 strangler	NOUN	G2.1-/S2mf
@@ -49636,7 +48832,6 @@ stripes	NOUN	O4.3 S7.1+/O4.3
 stripey	ADJ	O4.3
 stripped	ADJ	O4.1
 stripped	VERB	B5- A1.1.1 A9-
-stripped	VERB	B5- A1.1.1 A9-
 stripper	NOUN	K1/S2mf O2 O1.2
 strippers	NOUN	K1/S2mf O2 O1.2
 stripping	ADJ	B5- A1.1.1 A9-
@@ -49665,7 +48860,6 @@ strop	NOUN	O2 E3-
 stroppy	ADJ	S1.2.3+
 struck	VERB	I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+
 struck	ADJ	E2+
-struck	VERB	I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+
 structural	ADJ	O4.1 S7.1
 structurally	ADV	O4.1
 structure	NOUN	O4.1 H1 S7.1 O2 A4.1 X4.2 B1
@@ -49695,7 +48889,6 @@ stubble	NOUN	L3 B1
 stubborn	ADJ	A2.1-/X2.1
 stubborn-headed	ADJ	A2.1-/X2.1
 stubby	ADJ	O4.1
-stuck	VERB	M2 A1.1.1 A1.7+ T2- E2+
 stuck	VERB	M2 A1.1.1 A1.7+ T2- E2+ X2.2-
 stuck	ADJ	A1.7+ A12- X2.2-
 stud	VERB	O4.1
@@ -49713,7 +48906,6 @@ student-to-student	ADJ	P1/S2mf
 student-to-tutor	ADJ	P1/S2mf
 studentled	ADJ	P1/S2mf
 studenty	ADJ	P1
-studied	VERB	P1 X2.4
 studied	VERB	P1 X2.4
 studied	ADJ	X7+
 studies	NOUN	P1 X2.4 H2 Q1.2 C1
@@ -49741,10 +48933,8 @@ stumbling	ADJ	M1 A5.3-
 stump	VERB	X2.2-
 stump	NOUN	K5.1 B1 O2
 stumped	VERB	X2.2-
-stumped	VERB	X2.2-
 stumped	ADJ	X2.2-
 stun	VERB	E5- B2-@
-stung	VERB	B2- G2.2-
 stung	VERB	B2- G2.2-
 stung	ADJ	B2- G2.2-
 stunk	VERB	X3.5
@@ -49847,10 +49037,8 @@ subdivides	VERB	A6.1- A9-/N5.1 N2
 subdivision	NOUN	N5.1- M7/H1
 subdivisions	NOUN	N5.1- M7/H1
 subdue	VERB	S7.1+ N5-/A2.1 O4.3
-subdue	VERB	S7.1+ N5-/A2.1 O4.3
 subdued	VERB	S7.1+ N5-/A2.1 O4.3
 subdued	ADJ	X5.2- A11.2- O4.3
-subdued	VERB	S7.1+ N5-/A2.1 O4.3
 subheading	NOUN	Q1.2
 subheadings	NOUN	Q1.2
 subing	NOUN	S1.1.1
@@ -50002,7 +49190,6 @@ sudoku	NOUN	K5.2/X4.1
 suds	NOUN	O2
 sue	VERB	G2.1
 sued	VERB	G2.1
-sued	VERB	G2.1
 sued	ADJ	G2.1
 suede	NOUN	O1.1
 suer	NOUN	G2.1/S2mf
@@ -50010,7 +49197,6 @@ suers	NOUN	G2.1/S2mf
 suet	NOUN	F1
 suffer	VERB	E4.1- B2- X3 A5.1-/A2.1 S7.4+
 sufferance	NOUN	E2-
-suffered	VERB	E4.1- B2- X3 A5.1-/A2.1 S7.4+
 suffered	VERB	E4.1- B2- X3 A5.1-/A2.1 S7.4+
 suffered	ADJ	E4.1- B2- X3 A5.1-/A2.1
 sufferer	NOUN	B2-/S2mf
@@ -50269,7 +49455,6 @@ surprise	NOUN	X2.6-
 surprise	VERB	X2.6-
 surprised	VERB	X2.6-
 surprised	ADJ	X2.6-
-surprised	VERB	X2.6-
 surprising	ADJ	X2.6- A6.2-
 surprisingly	ADV	X2.6- A6.2-
 surreal	ADJ	A5.2- C1
@@ -50286,7 +49471,6 @@ surround	VERB	M6 A1.8+ A10- G3
 surround	NOUN	M6 A1.8+ A10- K5.1
 surrounded	VERB	M6 A1.8+ A10- G3
 surrounded	ADJ	M6 A1.8+ A10- G3
-surrounded	VERB	M6 A1.8+ A10- G3
 surrounding	VERB	M6 A1.8+ A10- G3
 surrounding	NOUN	M6 A1.8+ A10- G3
 surrounding	ADJ	M6 A1.8+ A10- G3
@@ -50329,7 +49513,6 @@ sussing	VERB	X2.5+
 sustain	VERB	T2++ A2.2 S8+ A9+ A1.1.1 B1
 sustainability	NOUN	T2++
 sustainable	ADJ	T2++
-sustained	VERB	T2++ A2.2 S8+ A9+ A1.1.1 B1
 sustained	VERB	T2++ A2.2 S8+ A9+ A1.1.1 B1
 sustenance	NOUN	F1
 sustentation	NOUN	S8+
@@ -50402,7 +49585,6 @@ sweet-smelling	ADJ	X3.5
 sweeten	VERB	X3.1 O4.2+/A2.1 S1.1.1
 sweetened	VERB	X3.1 O4.2+/A2.1 S1.1.1
 sweetened	ADJ	X3.1 O4.2+/A2.1 S1.1.1
-sweetened	VERB	X3.1 O4.2+/A2.1 S1.1.1
 sweetener	NOUN	F1 O4.2+/A2.1
 sweeter	ADJ	X3.1 O4.2++
 sweetheart	NOUN	S3.2/S2mf
@@ -50506,7 +49688,6 @@ symbol	NOUN	A6.2+ Q1.1 X4.1 M2
 symbolic	ADJ	A6.2+ Q1.1 X4.1 M2 A5.4- A5.1-
 symbolise	VERB	A6.2+ Q1.1
 symbolism	NOUN	Q1.1
-symbolize	VERB	A6.2+ Q1.1
 symbolize	VERB	A6.2+ Q1.1
 symbols	NOUN	A6.2+ Q1.1 X4.1 M2
 symmetrical	ADJ	A6.1+
@@ -50754,7 +49935,6 @@ tardy	ADJ	T4- N3.8-
 target	VERB	X7+
 target	NOUN	X7+ G3 K5.1
 targeted	VERB	X7+
-targeted	VERB	X7+
 targeted	ADJ	X7+
 targeting	NOUN	X7+
 targeting	ADJ	X7+
@@ -50788,7 +49968,6 @@ taste	NOUN	X3.1 O4.2 E2+ X2.2
 taste	VERB	X3.1 F1 X2.2
 tasted	ADJ	X3.1 F1 X2.2
 tasted	VERB	X3.1 F1 X2.2
-tasted	VERB	X3.1 F1 X2.2
 tasteful	ADJ	O4.2+
 tastefully	ADV	O4.2+
 tasteless	ADJ	O4.2-
@@ -50810,7 +49989,6 @@ tattoos	NOUN	C1/B1 G3
 tatty	NOUN	F1
 tatty	ADJ	O4.2-
 taught	ADJ	P1
-taught	VERB	P1
 taught	VERB	P1
 taunt	NOUN	Q2.2/S1.2.4-
 taunt	VERB	Q2.2/S1.2.4-
@@ -51005,7 +50183,6 @@ temperate	ADJ	O4.6+
 temperature	NOUN	O4.6
 tempered	ADJ	E1 O4.2+/A2.1
 tempered	VERB	O4.2+/A2.1
-tempered	VERB	O4.2+/A2.1
 tempering	ADJ	N5-/A2.1
 tempest	NOUN	W4
 tempestuous	ADJ	E3-
@@ -51029,8 +50206,7 @@ ten-pin	ADJ	K5.1
 ten:one	X	N5
 tenable	ADJ	A9+ I3.1
 tenacious	ADJ	S1.2.5+ X8+
-tenacity	NOUN	X8+
-tenacity	NOUN	S1.2.5+
+tenacity	NOUN	S1.2.5+ X8+
 tenancy	NOUN	H4
 tenant	NOUN	H4/S2mf
 tenantlike	ADJ	H1
@@ -51043,7 +50219,6 @@ tendency	NOUN	A6.2+ A8 S1.1.1
 tender	ADJ	E2+ T3- O4.5 B2-
 tender	NOUN	I2.2
 tender	VERB	I2.2 A9-
-tendered	VERB	I2.2 A9-
 tendered	VERB	I2.2 A9-
 tenderer	NOUN	I2.2/S2mf
 tenderers	NOUN	I2.2/S2mf
@@ -51127,7 +50302,6 @@ terrier	NOUN	L2mfn
 terrific	ADJ	A5.1+ N3.2+
 terrifically	ADV	A13.3
 terrified	ADJ	E5-
-terrified	VERB	E5-
 terrified	VERB	E5-
 terrify	VERB	E5-
 terrifying	ADJ	E5-
@@ -51344,7 +50518,6 @@ thou	PRON	Z8mf
 though	SCONJ	Z5
 though	ADV	Z5
 thought	VERB	X2.1
-thought	VERB	X2.1
 thought	ADJ	X2.1
 thought	NOUN	X4.1
 thought-provoking	ADJ	X2.1
@@ -51365,7 +50538,6 @@ threads	VERB	A1.1.1 M1
 threat	NOUN	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 threaten	VERB	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 threatened	ADJ	E3-/Q2.2 A15- X2.6+/O4.2- A7+
-threatened	VERB	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 threatened	VERB	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 threatening	ADJ	E3-/Q2.2 A15- X2.6+/O4.2- A7+
 threatening	NOUN	E3-/Q2.2 A15- X2.6+/O4.2- A7+
@@ -51408,7 +50580,6 @@ thrifty	ADJ	A1.3+/I1
 thrill	NOUN	X5.2+++ E4.1+++ E5---
 thrill	VERB	E4.1+++ X5.2+++
 thrilled	ADJ	E4.1+++ X5.2+++
-thrilled	VERB	E4.1+++ X5.2+++
 thrilled	VERB	E4.1+++ X5.2+++
 thriller	NOUN	Q4.1/X5.2+++ Q4.3/X5.2+++ K4/X5.2+++
 thrilling	ADJ	E4.1+++ X5.2+++
@@ -51453,8 +50624,6 @@ thru	ADV	M6
 thrush	NOUN	L2mfn B2-
 thrushes	NOUN	L2mfn
 thrust	NOUN	M1 X4.1 X7+
-thrust	VERB	M2 M1 S6+
-thrust	VERB	M2 M1 S6+
 thrust	VERB	M2 M1 S6+
 thrusting	ADJ	M2 M1 S1.2.5+ A5.1+
 thud	NOUN	X3.2
@@ -51510,7 +50679,6 @@ tide	NOUN	W3/M4 A6.2+ A2.1+ N5+
 tides	NOUN	W3/M4 A6.2+ A2.1+ N5+
 tidied	ADJ	O4.2+ N5
 tidied	VERB	O4.2+
-tidied	VERB	O4.2+
 tidily	ADV	O4.2+
 tidiness	NOUN	O4.2+
 tiding	NOUN	Q2.1
@@ -51520,12 +50688,9 @@ tidy	ADJ	O4.2+
 tidy	NOUN	O2 O4.2+ B4
 tidying	NOUN	B4
 tie	NOUN	B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+
-tie	NOUN	B5 O2 S5+ A1.7+ K5.1/S7.3+
-tie	VERB	A2.2 A1.1.1 S5+ S6+ A1.7+
 tie	VERB	A2.2 A1.1.1 S5+ S6+ A1.7+
 tie-up	NOUN	A2.2 M3 M4
 tied	ADJ	A2.2 A1.1.1 S5+ S6+ A1.7+
-tied	VERB	A2.2 A1.1.1 S5+ S6+ A1.7+
 tied	VERB	A2.2 A1.1.1 S5+ S6+ A1.7+
 tier	NOUN	O2 N3.7 S5+c A4.1 S7.1
 tiered	ADJ	N3.7 S5+c S7.1 O4.1
@@ -51542,7 +50707,6 @@ tight-lipped	ADJ	A10- O4.1
 tighted	ADJ	B5
 tighten	VERB	A1.7+/A2.1
 tightened	ADJ	A1.7+/A2.1
-tightened	VERB	A1.7+/A2.1
 tightened	VERB	A1.7+/A2.1
 tightening	NOUN	A1.7+/A2.1
 tightening	VERB	A1.7+/A2.1
@@ -51595,7 +50759,6 @@ time-waster	NOUN	A1.5.2-/S2mf
 time-wise	ADJ	T1.1
 timeframe	NOUN	T1.3
 timekeeping	NOUN	T4 N3.1/T1
-timekeeping	NOUN	T1
 timeless	ADJ	T2++ A2.1-
 timeline	NOUN	T1/N4
 timely	ADJ	T1.2/A1.2+
@@ -51661,7 +50824,6 @@ tirades	NOUN	Q2.2
 tire	NOUN	M3/O2
 tire	VERB	B1 B2- X5.2-
 tired	ADJ	B1 B2- X5.2- O4.2-
-tired	VERB	B1 B2- X5.2-
 tired	VERB	B1 B2- X5.2-
 tireder	ADJ	B1 B2-- X5.2-- O4.2--
 tiredness	NOUN	B1 B2-
@@ -51748,7 +50910,6 @@ tokenization	NOUN	Q3 Y2/Q3
 tokenizer	NOUN	Y2/Q3
 tokenizers	NOUN	Y2/Q3
 told	VERB	Q2.1 S7.1+/Q2.2 X3 A10+
-told	VERB	Q2.1 S7.1+/Q2.2 X3 A10+
 tolerable	ADJ	A5.1+ S7.4+
 tolerance	NOUN	S7.4+ O4.1
 tolerant	ADJ	S7.4+
@@ -51792,8 +50953,7 @@ tonsil	NOUN	B1
 tonsillitis	NOUN	B2-
 tonsils	NOUN	B1
 tonsure	NOUN	B1/S9
-too	ADV	N5.2+ A13.3
-too	ADV	N5++
+too	ADV	N5++ N5.2+ A13.3
 too-rapid	ADJ	N3.8+
 took	VERB	A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
 tool	NOUN	O2 X4.2
@@ -52045,7 +51205,6 @@ tram	NOUN	M3fn
 tramp	NOUN	S2 M4fn X3.2/M1
 tramp	VERB	M1
 trample	VERB	E3- S7.1+
-trample	VERB	E3- S7.1+
 trampoline	VERB	K5.1
 trampoline	NOUN	K5.1
 trampolining	VERB	K5.1
@@ -52089,7 +51248,6 @@ transfer	VERB	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
 transferable	ADJ	A9- M2
 transfered	VERB	M6/A2.1 A9+/A2.1
 transfered	ADJ	M6/A2.1 A9+/A2.1
-transfered	VERB	M6/A2.1 A9+/A2.1
 transferred	ADJ	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
 transferred	VERB	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
 transferring	VERB	M6/A2.1+ A9- I3.1/A2.1+ Y2 M3 M4 M5
@@ -52125,7 +51283,6 @@ transmission	NOUN	Q4.3 Q1.3 A2.1+
 transmit	VERB	O4.3 M2 Q2.1
 transmittable	ADJ	Q4.3 Q1.3
 transmitted	ADJ	Q4.3 M2 Q2.1
-transmitted	VERB	Q4.3 M2 Q2.1
 transmitted	VERB	Q4.3 M2 Q2.1
 transmitter	NOUN	O2/Q1.3
 transparency	NOUN	Q1.2 O4.3 C1
@@ -52173,7 +51330,6 @@ travel	VERB	M1
 traveled	VERB	M1
 travelers	NOUN	M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf
 traveling	ADJ	M1
-travelled	VERB	M1
 travelled	VERB	M1
 travelled	ADJ	M1
 traveller	NOUN	M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf
@@ -52285,7 +51441,6 @@ tricuspid	ADJ	B1/O4.4
 trident	NOUN	G3
 tried	VERB	X8+ X2.4 Q2.2 G2.1 A12-
 tried	ADJ	X2.4
-tried	VERB	X8+ X2.4 Q2.2 G2.1 A12-
 triennial	NOUN	T1.3
 triennial	ADJ	T1.3
 tries	VERB	X8+ X2.4 Q2.2 G2.1 A12-
@@ -52297,7 +51452,6 @@ trifle	VERB	E4.1+
 trifled	ADJ	E4.1+
 trigger	NOUN	O2 A2.2
 trigger	VERB	A2.2
-triggered	VERB	A2.2
 triggered	VERB	A2.2
 triggered	ADJ	A2.2
 triggering	ADJ	A2.2
@@ -52458,7 +51612,6 @@ tubular-woven	ADJ	B5
 tuck	VERB	M2
 tuck	NOUN	B5 F1
 tucked	VERB	M2
-tucked	VERB	M2
 tucked	ADJ	M6
 tuer	NOUN	O2
 tuesday	PROPN	T1.3
@@ -52510,7 +51663,6 @@ tureen	NOUN	O2/F1
 turf	VERB	L3
 turf	NOUN	L3 K5.1%
 turfed	ADJ	L3
-turfed	VERB	F4
 turfed	VERB	F4
 turgid	ADJ	O4.2- A12-
 turkey	NOUN	F1 L2mfn
@@ -52587,7 +51739,6 @@ twiddling	NOUN	M2
 twiddly	ADJ	O4.1
 twig	NOUN	L3
 twig	VERB	X2.5+
-twigged	VERB	X2.5+
 twigged	VERB	X2.5+
 twigs	VERB	X2.5+
 twigs	NOUN	L3
@@ -52764,7 +51915,6 @@ unawares	ADV	X2.6-
 unbalance	VERB	A6.1- O4.1/B1
 unbalanced	ADJ	E6- B2-/X1 A5.3-
 unbalanced	VERB	A6.1- O4.1/B1
-unbalanced	VERB	A6.1- O4.1/B1
 unbearable	ADJ	O4.2-
 unbearably	ADV	N5.2+
 unbeatable	ADJ	A5.1+++ X9.2+++/S7.3 X9.2+++/G3
@@ -52812,7 +51962,6 @@ uncivil	ADJ	S1.2.4-
 uncivilized	ADJ	A5.1- G2.1- O4.2- S1.2.4-
 unclad	ADJ	B5-
 unclasp	VERB	A1.7-
-unclasp	VERB	A1.7-
 unclasped	ADJ	O4.1
 uncle	NOUN	S4m
 unclean	ADJ	O4.2-
@@ -52842,7 +51991,6 @@ unconfirmed	ADJ	A5.4-
 unconnected	ADJ	A2.2-
 unconscious	ADJ	B1 X2.2-
 unconsciously	ADV	X5.1-
-unconsidered	VERB	X2.1- X2.4- X6-
 unconsidered	VERB	X2.1- X2.4- X6-
 unconstitutional	ADJ	G1.1
 unconstructive	ADJ	S8-
@@ -52878,8 +52026,7 @@ undeniable	ADJ	A5.2+
 undeniably	ADV	A7+++
 under	ADJ	S7.1- B1
 under	ADP	Z5
-under	ADV	M6
-under	ADV	A13.6
+under	ADV	A13.6 M6
 under-Air	ADV	M6
 under-anxious	ADJ	E6
 under-developed	ADJ	I1.1- N3.2-
@@ -52909,7 +52056,6 @@ under-utilised	ADJ	A1.5.1/N5-
 under-utilising	NOUN	A1.5.1/N5-
 under-utilising	VERB	A1.5.1/N5-
 under-value	VERB	I1.3- A11.1-
-under-valued	VERB	I1.3- A11.1-
 under-valued	VERB	I1.3- A11.1-
 under-valued	ADJ	I1.3- A11.1-
 underage	NOUN	T3-
@@ -52990,7 +52136,6 @@ understanding	ADJ	X2.5+
 understated	ADJ	Q2.2
 understatement	NOUN	Q2.2 X2.1/N5-
 understood	VERB	X2.5+
-understood	VERB	X2.5+
 understood	ADJ	X2.5+
 understudy	NOUN	S7.1-/S2mf
 undertake	VERB	A1.1.1 Q2.2
@@ -53001,7 +52146,6 @@ undertaking	NOUN	A1.1.1 Q2.2
 undertook	VERB	Q2.2 A1.1.1
 underutilized	ADJ	A1.5.1/N5-
 undervalue	VERB	I1.3- A11.1-
-undervalued	VERB	I1.3- A11.1-
 undervalued	VERB	I1.3- A11.1-
 undervalued	ADJ	I1.3- A11.1-
 undervaluing	VERB	I1.3- A11.1-
@@ -53051,7 +52195,6 @@ unease	NOUN	E6-
 uneasiness	NOUN	E6-
 uneasy	ADJ	E6-
 uneconomical	ADJ	I1.3+
-uneducated	VERB	P1-
 uneducated	VERB	P1-
 uneducated	ADJ	P1-
 unemotional	ADJ	E1-
@@ -53177,7 +52320,6 @@ unit	NOUN	S5+c O2 H5 H1 N3.1 P1 N1
 unite	VERB	S5+
 united	VERB	S5+ A1.1.1
 united	ADJ	S5+ A1.1.1
-united	VERB	S5+ A1.1.1
 unites	VERB	S5+ A1.1.1
 unity	NOUN	S5+ N1%
 univers	PROPN	Z3c
@@ -53471,8 +52613,7 @@ unworthily	ADV	S1.1.4-
 unworthy	ADJ	S1.1.4- G2.2-
 unwrapped	ADJ	A10+
 unwritten	ADJ	Q1.2-
-unwrought	VERB	O4.1
-unwrought	VERB	A1.1.1-
+unwrought	VERB	A1.1.1- O4.1
 unyoked	ADJ	A1.7- A2.2-
 unzip	VERB	B5
 unzipped	VERB	B5
@@ -53505,7 +52646,6 @@ updating	NOUN	T1.1.2
 upend	VERB	M2
 upended	VERB	M2
 upended	ADJ	M6
-upended	VERB	M2
 upfront	ADJ	A10+
 upgrade	VERB	A11.1+/A2.1 A5.1+/A2.1
 upgraded	ADJ	A11.1+/A2.1 A5.1+/A2.1
@@ -53558,8 +52698,6 @@ uprooted	VERB	M6/A2.1 L3
 uprootedness	NOUN	E4.2-
 ups	VERB	N5+/A2.1
 upscale	NOUN	O4.2+
-upset	VERB	E4.1- A2.1+ M2
-upset	VERB	E4.1- A2.1+ M2
 upset	VERB	E4.1- A2.1+ M2
 upset	ADJ	E4.1- M6 B2-
 upset	NOUN	E4.1- B2-
@@ -53744,7 +52882,6 @@ vanity	NOUN	S1.2.3+
 vanquish	VERB	X9.2+++/S7.3 X9.2+++/G3 E1
 vanquished	ADJ	X9.2+++/S7.3 X9.2+++/G3 E1
 vanquished	VERB	X9.2+++/S7.3 X9.2+++/G3 E1
-vanquished	VERB	X9.2+++/S7.3 X9.2+++/G3 E1
 vapour	NOUN	O1.3
 vapours	NOUN	O1.3
 variability	NOUN	A6.3+
@@ -53756,7 +52893,6 @@ variants	NOUN	A6.1-
 variation	NOUN	A6.3+ K2@
 varicose	ADJ	B2-
 varied	ADJ	A6.3+
-varied	VERB	A6.3+
 varied	VERB	A6.3+
 varies	VERB	A6.3+
 varieties	NOUN	A4.1
@@ -53793,7 +52929,6 @@ vegetables	NOUN	F1 X9.1-/S2mf
 vegetarian	ADJ	F1
 vegetarian	NOUN	F1/S2mf
 vegetariansim	NOUN	F1
-vegetate	VERB	X5.2-
 vegetate	VERB	X5.2-
 vegetation	NOUN	L3
 vegetative	ADJ	B2-/X1
@@ -53952,7 +53087,6 @@ vicious	ADJ	E3-
 viciously	ADV	E3-
 victim	NOUN	A1.1.2/G2.1/S2mf B2-/S2mf
 victimise	VERB	E3-
-victimise	VERB	E3-
 victimised	VERB	E3-
 victimized	VERB	E3-
 victorian	ADJ	T1.1.1
@@ -54018,8 +53152,6 @@ vintner	NOUN	I2.2/F2/S2mf F2/S2mf
 vintners	NOUN	I2.2/F2/S2mf F2/S2mf
 vinyl	NOUN	O1.1
 violate	VERB	A1.1.2 E3- G2.2- G2.1-
-violate	VERB	A1.1.2 E3- G2.2- G2.1-
-violated	VERB	A1.1.2 E3- G2.2- G2.1-
 violated	VERB	A1.1.2 E3- G2.2- G2.1-
 violated	ADJ	A1.1.2 E3- G2.2- G2.1-
 violation	NOUN	G2.1- A1.9 E3-
@@ -54064,7 +53196,6 @@ visionary	ADJ	X9.1+/T3+
 visit	VERB	S1.1.1 M1
 visit	NOUN	S1.1.1 M1
 visitation	NOUN	S1.1.1
-visited	VERB	S1.1.1 M1
 visited	VERB	S1.1.1 M1
 visited	ADJ	S1.1.1 M1
 visiting	VERB	S1.1.1 M1
@@ -54150,7 +53281,6 @@ vote	VERB	G1.2
 votecatcher	NOUN	G1.2/X9.2+
 voted	ADJ	G1.2
 voted	VERB	G1.2
-voted	VERB	G1.2
 voter	NOUN	G1.2/S2mf X7+/S2mf
 voters	NOUN	G1.2/S2mf
 votes	VERB	G1.2
@@ -54207,7 +53337,6 @@ wage	NOUN	I1.1/I3.1
 wage-earning	ADJ	I1.1/I3.1
 waged	ADJ	I1.1/I3.1 A1.1.1
 waged	VERB	A1.1.1
-waged	VERB	A1.1.1
 wager	NOUN	I1/A1.4
 wager	VERB	I1/A1.4 X2.6+
 wages	VERB	A1.1.1
@@ -54236,7 +53365,6 @@ waitressing	NOUN	F1
 waive	VERB	S6-
 waived	VERB	S6-
 waived	ADJ	S6-
-waived	VERB	S6-
 waiver	NOUN	S6-/Q1.2
 waives	VERB	S6-
 wake	NOUN	M4 N4 S1.1.3+/L1-
@@ -54289,7 +53417,6 @@ walrus	NOUN	L2
 waltz	NOUN	K1
 waltz	VERB	K1
 waltzes	NOUN	K1 K2
-wan	VERB	X7+
 wan	VERB	X7+
 wand	NOUN	O2/S9
 wander	VERB	M1 X5.1-
@@ -54411,7 +53538,6 @@ waste	NOUN	N5.2+
 waste	ADJ	N5.2+ O4.2-
 waste	VERB	N5.2+ X9.2- N3.2-/A2.1
 wasted	VERB	N5.2+ X9.2- N3.2-/A2.1
-wasted	VERB	N5.2+ X9.2- N3.2-/A2.1
 wasted	ADJ	N5.2+ X9.2-
 wasteful	ADJ	N5.2+
 wasteland	NOUN	W3/L3 M7/O4.2-
@@ -54450,7 +53576,6 @@ water-soluble	ADJ	O4.1/O1.2
 water-works	NOUN	O1.2/H1c B1/E4.1-
 watercolour	NOUN	C1
 watercolours	NOUN	C1
-watered	VERB	F4 B1
 watered	VERB	F4 B1
 watered	ADJ	F4 B1
 waterfall	NOUN	O1.2/W3
@@ -54603,7 +53728,6 @@ weeks	NOUN	T1.3
 weeny	NOUN	T3-/S2mf
 weep	NOUN	E4.1-
 weep	VERB	E4.1-
-weep	VERB	E4.1-
 weeping	NOUN	E4.1- O1.2/M1@
 weeping	VERB	E4.1- O1.2/M1@
 weepy	ADJ	E4.1-
@@ -54721,14 +53845,11 @@ westerner	NOUN	M6/S2mf
 westerners	NOUN	M6/S2mf
 westernise	VERB	M6
 westernised	VERB	M6
-westernised	VERB	M6
 westernised	ADJ	M6
 westward	ADV	M6
 westwards	ADV	M6
 wet	VERB	O1.2
 wet	NOUN	G1.2
-wet	VERB	O1.2
-wet	VERB	O1.2
 wet	ADJ	O1.2 W4 X5.2-
 wet-nurse	NOUN	B4/S4/S2.1f
 wet-processing	NOUN	F4/O1.2
@@ -54856,7 +53977,6 @@ whiteboard	NOUN	O2
 whitecurrant	NOUN	F1 L3
 whitecurrants	NOUN	F1 L3
 whiteness	NOUN	O4.3 A5.4+
-whiteness	NOUN	O4.3
 whitewash	VERB	O4.3 A10-
 whitewashed	ADJ	O4.3 A10-
 whitewashed	VERB	O4.3 A10-
@@ -54922,7 +54042,6 @@ wide-ranging	ADJ	A6.3+/A2.2
 widely	ADV	N5+ A4.2-
 widen	VERB	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
 widened	VERB	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
-widened	VERB	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
 widening	ADJ	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
 widening	NOUN	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
 widening	VERB	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1
@@ -54958,8 +54077,7 @@ wildfire	NOUN	O4.6+
 wildlife	NOUN	L2
 wildly	ADV	A13.3 A1.7-
 wildness	NOUN	E3- O4.2- X5.2+ A6.2- A1.7- A7- L1
-wile	VERB	X9.1+
-wile	VERB	G2.2-
+wile	VERB	G2.2- X9.1+
 wilful	ADJ	X7+/G2.2- S1.2.3+
 wilfully	ADV	X7+/G2.2-
 wilfulness	NOUN	S1.2.3+
@@ -55043,7 +54161,6 @@ wining	NOUN	F2
 wink	NOUN	O4.1
 wink	VERB	O4.1
 winked	VERB	O4.1
-winked	VERB	O4.1
 winking	VERB	O4.1
 winner	NOUN	X9.2+/S7.3/S2mf X9.2+/G3/S2mf
 winner-take-all	ADJ	A9+/X9.2+++
@@ -55100,17 +54217,14 @@ witchcraft	NOUN	S9
 with	ADP	Z5
 withal	ADV	Z5 A2.1-
 withdraw	VERB	M2 M1 S1.1.3- A2.1+
-withdraw	VERB	M2 M1 S1.1.3- A2.1+
 withdrawal	NOUN	M2 M1 S1.1.3- A2.1+
 withdrawn	ADJ	S1.2.1-
 withdrawn	VERB	M2 M1 S1.1.3- A2.1+
 withdrew	VERB	M2 M1 S1.1.3- A2.1+
 wither	VERB	A1.1.2 B2-
 withered	ADJ	O4.2- O4.1
-withered	ADJ	O4.2-
 withering	ADJ	O4.2- O4.1
 withheld	VERB	A10-
-withhold	VERB	A10-
 withhold	VERB	A10-
 withholds	VERB	A10-
 within	ADV	M6
@@ -55123,7 +54237,6 @@ withstanding	VERB	S1.2.5+
 witless	ADJ	S1.2.6-
 witness	VERB	X3.4 G2.1 A10+@ S9
 witness	NOUN	G2.1/S2mf X3.4/S2mf S9/S2mf S9 A10+@
-witnessed	VERB	X3.4 G2.1 A10+@ S9
 witnessed	VERB	X3.4 G2.1 A10+@ S9
 witnesses	NOUN	G2.1/S2mf X3.4/S2mf S9/S2mf S9
 witnessing	VERB	X3.4 G2.1 A10+@ S9
@@ -55153,9 +54266,7 @@ woeful	ADJ	E4.1- A5.1-
 woefullest	ADJ	E4.1--- A5.1---
 woefully	ADV	A13.3
 woes	NOUN	E4.1-
-woes	NOUN	E4.1-
 wok	NOUN	F1/O2
-woke	VERB	B1
 woke	VERB	B1
 woken	ADJ	B1
 woken	VERB	B1
@@ -55190,13 +54301,11 @@ womens	NOUN	S2.1f
 womenswear	NOUN	B5
 won	ADJ	S7.1+ A9+
 won	VERB	S7.1+ A9+
-won	VERB	S7.1+ A9+
 wonder	VERB	X2.1
 wonder	NOUN	X2.6- A5.1+
 wonder	ADJ	A5.1+ A6.2-
 wondered	VERB	X2.1
 wondered	ADJ	X2.1
-wondered	VERB	X2.1
 wonderful	ADJ	A5.1+
 wonderful-looking	ADJ	O4.2+
 wonderfully	ADV	A13.3 A5.1+
@@ -55342,7 +54451,6 @@ worn	VERB	B5 A1.1.1
 worn-in	ADJ	O4.1
 worried	ADJ	E6-
 worried	VERB	E6-
-worried	VERB	E6-
 worriedly	ADV	E6-
 worrier	NOUN	E6-/S2mf
 worries	VERB	E6-
@@ -55379,16 +54487,12 @@ worthless	ADJ	I1.3- A1.5.2- A5.1-
 worthwhile	ADJ	A1.5.2+
 worthy	ADJ	S1.1.4+ G2.2+
 wotsits	PROPN	Z3
-wotsits	PROPN	Z3
 would	AUX	A7+
 would-be	ADJ	X7+
 wouldnae	AUX	A7-
 wouldnay	AUX	A7-
 wound	NOUN	B2- E4.1-
-wound	VERB	B2- E4.1-
-wound	VERB	M2 M1 B1 O4.4
-wound	VERB	M2 M1 B1 O4.4
-wounded	VERB	B2- E4.1-
+wound	VERB	M2 M1 B1 O4.4 B2- E4.1-
 wounded	VERB	B2- E4.1-
 wounded	ADJ	B2- E4.1-
 wounding	VERB	E3- E4.1-
@@ -55399,7 +54503,6 @@ woven	VERB	B5 A1.1.1 A1.8+ M1
 wow	INTJ	Z4
 wrangle	NOUN	E3- Q2.2/X3.2+
 wrangle	VERB	E3- Q2.2/X3.2+
-wrangle	VERB	Q2.2/E3-
 wrangler	NOUN	P1/S2mf
 wrangles	NOUN	Q2.2/E3-
 wrangles	VERB	Q2.2/E3-
@@ -55410,7 +54513,6 @@ wrap	NOUN	B5 Y2%
 wrap-around	ADJ	A10-
 wraparound	ADJ	A1.8+
 wrapped	ADJ	O4.1
-wrapped	VERB	A1.1.1
 wrapped	VERB	A1.1.1
 wrapper	NOUN	O2
 wrapping	ADJ	A1.1.1
@@ -55433,7 +54535,6 @@ wren	NOUN	L2mf
 wrench	NOUN	E4.1- O2
 wrench	VERB	M2
 wrestle	VERB	K5.1 E3- A1.1.1/A12-
-wrestled	VERB	K5.1 E3- A1.1.1/A12-
 wrestled	VERB	K5.1 E3- A1.1.1/A12-
 wrestler	NOUN	K5.1/S2mf
 wrestlers	NOUN	K5.1/S2mf
@@ -55460,7 +54561,6 @@ wrinkly	ADJ	O4.2
 wrist	NOUN	B1
 wrists	NOUN	B1
 writ	VERB	Q1.2
-writ	VERB	Q1.2
 writ	NOUN	G2.1/Q1.2 Q1.2
 write	VERB	Q1.2 I2.1
 write-off	NOUN	A1.5.1-
@@ -55478,7 +54578,6 @@ wrong	NOUN	G2.2-
 wrong-doer	NOUN	G2.1-/S2mf G2.2-/S2mf
 wrongdoing	NOUN	G2.1- G2.2-
 wronge	VERB	G2.2-
-wronged	VERB	G2.2-
 wronged	VERB	G2.2-
 wrongful	ADJ	G2.2-
 wrongfully	ADV	A5.3- G2.2-
@@ -55525,12 +54624,10 @@ yanked	VERB	M2
 yankee	ADJ	Z2
 yankee	NOUN	Z2/S2mf I1/A1.4%
 yap	VERB	X3.2
-yard	NOUN	N3.3 N3.7
 yard	PROPN	H3 L3/H3 M7/I4 N3.7
 yard	NOUN	H3 L3/H3 M7/I4 N3.7
 yards	NOUN	H3 L3/H3 M7/I4 N3.7
 yards	PROPN	H3 L3/H3 M7/I4 N3.7
-yards	NOUN	N3.3 N3.7
 yardstick	NOUN	A6/A5.1 N3.1
 yarm	NOUN	Q2.2
 yarn	NOUN	O1.1 Q2.1
@@ -55549,7 +54646,6 @@ year-old	ADJ	T3
 yearend	NOUN	T2-
 yearly	ADV	N6
 yearly	ADJ	N6+
-yearn	VERB	X7+
 yearn	VERB	X7+
 yearning	NOUN	X7+
 yearning	VERB	X7+
@@ -55700,7 +54796,3 @@ zoom	NOUN	N3.3+/O2
 zoom	VERB	M1/N3.8+ A2.1/N5+ N3.3+
 zoomin	NOUN	M1/N3.8+ A2.1/N5+ N3.3+
 zooms	NOUN	N3.3+/O2
-	X	Q1.2
-	X	Q1.2
-	NOUN	S4f
-	ADJ	N1 Z6
