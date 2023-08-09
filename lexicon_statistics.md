@@ -24,5 +24,5 @@
 | Welsh (cy)               | semantic_lexicon_cy.tsv        | 143,292                         | :heavy_check_mark:           | :x:                          |
 | Welsh (cy)               | mwe-welsh.tsv                  | :x:                             | :x:                          | 240                          |
 | Indonesian (id)          | semantic_lexicon_id.tsv        | 284                             | :heavy_check_mark:           | :x:                          |
-| English (en)             | semantic_lexicon_en.tsv        | 55,705                          | :heavy_check_mark:           | :x:                          |
-| English (en)             | mwe-en.tsv                     | :x:                             | :x:                          | 19,141                       |
+| English (en)             | semantic_lexicon_en.tsv        | 54,797                          | :heavy_check_mark:           | :x:                          |
+| English (en)             | mwe-en.tsv                     | :x:                             | :x:                          | 19,042                       |
