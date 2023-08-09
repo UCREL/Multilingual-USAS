@@ -104,7 +104,6 @@ mwe_template	semantic_tags
 *_NOUN and_CCONJ *_NOUN	T1.3
 *_NOUN and_CCONJ *_NOUN ago_ADV	T1.1.1
 *_NOUN and_CCONJ a_DET half_DET old_ADJ	T3 T3/S2mf
-*_NOUN and_CCONJ a_DET half_NOUN	T1.3
 *_NOUN and_CCONJ a_DET half_NOUN	N3.3 N3.5 N3.6 N3.4
 *_NOUN arrangement*_NOUN	Df
 *_NOUN based_VERB	Df
@@ -176,7 +175,6 @@ mwe_template	semantic_tags
 *_NOUN replacement_NOUN operation*_NOUN	B3
 *_NOUN room*_NOUN	Df/H2
 *_NOUN sandwich*_NOUN	F1
-*_NOUN sandwich*_NOUN	F1
 *_NOUN sauce*_NOUN	F1
 *_NOUN sector_NOUN	Dfc
 *_NOUN seed*_NOUN	L3
@@ -186,7 +184,6 @@ mwe_template	semantic_tags
 *_NOUN societies_NOUN	Df/S5+
 *_NOUN society_NOUN	Df/S5+c
 *_NOUN soup*_NOUN	F1
-*_NOUN speaking_*	Q3
 *_NOUN speaking_*	Q3
 *_NOUN stir_* fry_*	F1
 *_NOUN stuff_NOUN	Df/O2 Df
@@ -221,13 +218,9 @@ mwe_template	semantic_tags
 *_NUM *_NOUN on_ADV	T4
 *_NUM *_NOUN to_ADP the_DET day_NOUN	T1.3
 *_NUM *_NUM	N1 T3 T1.2 T1.3 N3.3 N3.5 I1
-*_NUM *_NUM	T1.3
-*_NUM *_NUM	N1 T1.3 I1
 *_NUM *_NUM *_NOUN in_ADP advance_NOUN	T4+
 *_NUM *_NUM *_NOUN old*_*	T3 T3/S2mf
 *_NUM *_NUM *_NUM	T1.3 T1.2 N1 I1
-*_NUM *_NUM *_NUM	N1 T1.3 I1
-*_NUM *_NUM *_NUM	N1 T1.3 I1
 *_NUM *_NUM *_NUM *_NUM	N1 I1
 *_NUM *_NUM *_NUM *_NUM to_ADP the_DET power_NOUN {ADP} *_NUM *_NUM *_NUM *_NUM	N1
 *_NUM *_NUM *_NUM pounds_NOUN	I1
@@ -237,8 +230,6 @@ mwe_template	semantic_tags
 *_NUM *_NUM knots_NOUN	N3.8
 *_NUM *_NUM or_CCONJ *_NUM	T3 N1
 *_NUM *_NUM pounds_NOUN	I1
-*_NUM *_NUM pounds_NOUN	I1
-*_NUM *_NUM pounds_NOUN worth_*	N5/I1.3
 *_NUM *_NUM pounds_NOUN worth_*	N5/I1.3
 *_NUM *_NUM quid_NOUN	I1
 *_NUM *_NUM something_PRON	T1.3
@@ -300,8 +291,7 @@ mwe_template	semantic_tags
 *_NUM minute_ADJ wonder*_NOUN	T1.3-
 *_NUM minute_NOUN ride_NOUN away_ADV	N3.3
 *_NUM o'clock_ADV	T1.2
-*_NUM odd_ADJ	N5+
-*_NUM odd_ADJ	N1 T3
+*_NUM odd_ADJ	N1 N5+ T3
 *_NUM of_ADP *_NUM	N5+
 *_NUM or_CCONJ *_NUM *_NOUN ago_ADV	T1.1.1
 *_NUM or_CCONJ *_NUM *_NUM pounds_NOUN	I1 N3.5
@@ -350,7 +340,6 @@ mwe_template	semantic_tags
 *_NUM year_NOUN contract*_NOUN	I3.1/T1.3
 *_NUM year_NOUN plan_NOUN	X7+
 *_NUM years_NOUN old_ADJ	T3
-*_NUM years_NOUN old_ADJ	T3
 *_NUM {ADJ/INTJ} *_NOUN ago_ADV	T1.1.1
 *_NUM {ADJ/INTJ} *_NOUN old_ADJ	T3
 *_NUM {ADJ/INTJ} *_NOUN running_VERB	N6+
@@ -361,7 +350,6 @@ mwe_template	semantic_tags
 *_NUM {ADJ/INTJ} percent_NOUN	N5
 *_NUM {ADJ/INTJ} pounds_*	I1 N3.5
 *_NUM {ADJ/INTJ} times_NOUN	N6+ A13.3
-*_NUM {ADJ/INTJ} times_NOUN a*_DET {ADJ/INTJ} *_NOUN	N6+
 *_NUM {ADJ/INTJ} times_NOUN a*_DET {ADJ/INTJ} *_NOUN	N6+
 *_NUM {ADJ/INTJ} times_NOUN in_ADP a_DET {ADJ/INTJ} row_NOUN	N6+
 *_NUM {ADJ/INTJ} times_NOUN out_ADP of_ADP *_NUM	N6+
@@ -383,11 +371,9 @@ mwe_template	semantic_tags
 *_PROPN 's_PART Tor_NOUN	Z2
 *_PROPN 's_PART of_ADP *_PROPN	Z3c
 *_PROPN 's_PART {ADJ/INTJ} Park_*	Z2
-*_PROPN *_ADJ	Z1mf
-*_PROPN *_ADJ	T1.3
+*_PROPN *_ADJ	Z1mf T1.3
 *_PROPN *_NOUN	T1.3
-*_PROPN *_NUM	Z2 Z1mf
-*_PROPN *_NUM	T1.3
+*_PROPN *_NUM	Z2 Z1mf T1.3
 *_PROPN *_NUM *_ADJ	T1.3
 *_PROPN *_PROPN	Z1mf Z3c
 *_PROPN *_PROPN *_PROPN	Z1mf Z3c
@@ -447,7 +433,6 @@ mwe_template	semantic_tags
 *_PROPN Constituency_NOUN Labour_* Party_NOUN General_ADJ Management_NOUN Committee_NOUN	Z3c
 *_PROPN Convent_NOUN	Z3c
 *_PROPN Corner_NOUN	Z2
-*_PROPN Council_NOUN	Z3c
 *_PROPN Council_NOUN	Z3c
 *_PROPN Council_NOUN School_NOUN	Z3c
 *_PROPN County_NOUN	Z2c
@@ -614,7 +599,6 @@ mwe_template	semantic_tags
 *_PROPN Theatre_NOUN	Z2
 *_PROPN Tower_NOUN	Z2
 *_PROPN Town_NOUN	Z2
-*_PROPN Town_NOUN	Z2
 *_PROPN Town_NOUN Hall_NOUN	Z2
 *_PROPN Training_NOUN College_NOUN	Z3c
 *_PROPN Trust_NOUN	Z3c
@@ -650,15 +634,13 @@ mwe_template	semantic_tags
 *_PROPN in_ADP {ADJ/INTJ} *_PROPN	Z2
 *_PROPN lunch_NOUN	F1/T1.3
 *_PROPN on_ADP *_PROPN	Z2
-*_PROPN on_ADP *_PROPN	Z2
 *_PROPN on_ADP Sea_NOUN	Z2
 *_PROPN reg_NOUN	M3/T3
 *_PROPN site_NOUN	Z2
 *_PROPN supporter*_NOUN	Z3/S2mf
 *_PROPN tea_NOUN	F1/T1.3
 *_PROPN terrier*_NOUN	L2mfn
-*_PROPN the_DET *_ADJ	T1.3
-*_PROPN the_DET *_ADJ	Z1mf Z3fnc
+*_PROPN the_DET *_ADJ	Z1mf Z3fnc T1.3
 *_PROPN the_DET *_ADJ Dock_NOUN	Z2
 *_PROPN time_NOUN	T1.3
 *_PROPN upon_ADP *_PROPN	Z2
@@ -692,7 +674,6 @@ mwe_template	semantic_tags
 *_VERB *_PRON an_DET injustice_NOUN	S1.2.3-
 *_VERB *_PRON the_DET world_NOUN of_ADP good_ADJ	S8++
 *_VERB a*_DET {ADJ/INTJ} inch_NOUN	S7.1+
-*_VERB a_* lot_* going_VERB for_ADP	A5.1+
 *_VERB a_* lot_* going_VERB for_ADP	A5.1+
 *_VERB a_DET bite_NOUN to_PART eat_VERB	F1
 *_VERB a_DET good_ADJ head_NOUN on_ADP *_DET shoulders_NOUN	X9.1+
@@ -820,11 +801,9 @@ mwe_template	semantic_tags
 *_VERB {PRON/ADV/DET} to_PART do_VERB with_ADP	A2.2 S1.1.1
 *_VERB {PRON/ADV/Np} around_ADV	S1.1.1
 *_VERB {PRON/ADV/Np} good_ADJ	S8+
-*_VERB {PRON/ADV/Np} in_ADV	L1- E3- A1.1.2 E6-
-*_VERB {PRON/ADV/Np} in_ADV	B2- A1.1.2 E3-
+*_VERB {PRON/ADV/Np} in_ADV	L1- B2- E3- A1.1.2 E6-
 *_VERB {PRON/ADV/Np} off_ADV for_ADP	A9+
 *_VERB {PRON/ADV/Np} out_ADV	M2
-*_VERB {PRON/ADV/Np} over_ADV	S1.1.1
 *_VERB {PRON/ADV/Np} over_ADV	S1.1.1
 *_VERB {PRON/ADV/Np} round_ADP *_DET little_ADJ finger*_NOUN	S7.1+
 *_VERB {PRON/ADV/Np} up_ADV	O4.2+/A2.1
@@ -1209,7 +1188,7 @@ Blue_NOUN is_VERB a_DET Colour_NOUN	Z3c
 Blues_NOUN Brothers_NOUN	Z3
 Bo_* Peep_*	Z3mf
 Board_NOUN of_ADP Directors_NOUN	S7.1+/S5+c
-Boat_NOUN Show_NOUN	M4/10+
+Boat_NOUN Show_NOUN	M4/I2
 Boca_PROPN Raton_PROPN	Z2
 Bodnant_* Garden_*	Z2
 Bodram_PROPN Bodram_PROPN	Z2
@@ -1491,7 +1470,6 @@ Child_NOUN Benefit_NOUN	I1.1/G1.1
 Child_NOUN Support_NOUN Agency_NOUN	Z3c
 Children_NOUN 's_PART World_NOUN	Z3c
 Children_NOUN Act_NOUN	Z3
-Children_NOUN Act_NOUN	Z3
 Children_NOUN in_ADP Need_NOUN	Z3c
 Childrens_NOUN '_PART Act_NOUN	Z3
 Chiltern_PROPN Gate_NOUN	Z2
@@ -1597,7 +1575,7 @@ Commando_NOUN Engineers_NOUN	G3
 Commercial_* {PRON/Np} Road_*	Z2
 Commercial_ADJ Fraud_NOUN Squad_NOUN	Z3c
 Commercial_ADJ Union_NOUN	Z3c
-Common_ADJ Agricultural_ADJ Policy_NOUN	G1.1/F4/x7+ G1.1/F4/Q1.2
+Common_ADJ Agricultural_ADJ Policy_NOUN	G1.1/F4/X7+ G1.1/F4/Q1.2
 Common_ADJ Market_NOUN	Z3c
 Common_ADJ Military_ADJ Syllabus_NOUN for_ADP Recruits_NOUN	G3/P1
 Communist_* Party_NOUN of_ADP China_PROPN	G1.2/Z3
@@ -1718,8 +1696,8 @@ Delhi_PROPN Belly_NOUN	B2-
 Delta_* Force_*	Z3c
 Democratic_ADJ People_NOUN 's_PART Republic_NOUN of_ADP Korea_PROPN	Z2
 Democratic_ADJ Republic_NOUN of_ADP the_DET Congo_PROPN	Z2
-Denbigh,_* Leicester_* 's_PART  Church_*	Z2
-Denbigh,_* St_* Hilary_* 's_PART  Chapel_*	Z2
+Denbigh,_* Leicester_* 's_PART Church_*	Z2
+Denbigh,_* St_* Hilary_* 's_PART Chapel_*	Z2
 Denbigh_* Castle_*	Z2
 Denbigh_* Friary_*	Z2
 Denbigh_* Town_* Walls_*	Z2
@@ -1863,7 +1841,7 @@ El_PROPN Salvador_PROPN	Z2
 Electronic_* Design_*	Z3c
 Electronics_* International_*	Z3c
 Elephant_* and_* Castle_*	Z2
-Eliseg_* 's_PART  Pillar_*	Z2
+Eliseg_* 's_PART Pillar_*	Z2
 Elizabeth_PROPN Foundation_NOUN for_ADP the_DET Deaf_ADJ	Z3c
 Elizabeth_PROPN II_*	Z1f
 Elizabeth_PROPN I_*	Z1f
@@ -1946,7 +1924,6 @@ Far_* East_*	Z2
 Faroe_* Islander*_NOUN	Z2/S2mf
 Fate_NOUN and_CCONJ Destiny_NOUN	Z3
 Father*_NOUN of_ADP the_DET Church_NOUN	S9/S2m
-Father_NOUN Christmas_NOUN	Z1m/S9
 Father_NOUN Christmas_NOUN	Z1m/S9
 Father_PROPN *_PROPN	Z1m
 Federal_ADJ Bureau_NOUN of_ADP Investigation_NOUN	G1.1
@@ -2176,7 +2153,6 @@ Henry_PROPN VIII_*	Z1m
 Henry_PROPN VI_*	Z1m
 Henry_PROPN V_*	Z1m
 Hepatitis_NOUN B_SYM	B2-
-Her_DET Majesty_NOUN	S7.1+/S2.1f
 Her_DET Majesty_NOUN	S7.1+/S2.1f
 Herbert_PROPN Percy_PROPN Horne_PROPN	Z3c
 Heritage_* Cottage_*	Z2
@@ -2450,12 +2426,11 @@ Labour_ADJ Students_NOUN	Z3c
 Lace_* Hall_*	Z2
 Lady_NOUN in_ADP Leisure_NOUN	Z3c
 Lady_PROPN *_PROPN	Z1f Z3fn
-Lady_PROPN *_PROPN	Z1f
 Lady_PROPN Julians_PROPN	Z3
 Laing_* {ADJ/INTJ} Homes_*	Z3c
 Lake_NOUN *_PROPN	Z2
 Lake_NOUN District_NOUN	M7
-Lamphey_* Bishop_* 's_PART  Palace_*	Z2
+Lamphey_* Bishop_* 's_PART Palace_*	Z2
 Lancaster_PROPN Arts_NOUN Centre_NOUN	Z2
 Lancaster_PROPN Moor_NOUN Hospital_NOUN	Z3c
 Land_* of_ADP the_DET Midnight_NOUN Sun_NOUN	Z2
@@ -2554,7 +2529,6 @@ Lord_PROPN Chancellor_NOUN 's_PART Department_NOUN	G2.1c
 Lorenzo_PROPN Marks_PROPN	Z2
 Los_* Angeles_NOUN	Z2
 Los_* Angeles_PROPN	Z2
-Los_* Angeles_PROPN	Z2
 Los_* Christianos_PROPN	Z2
 Loughor_* Castle_*	Z2
 Love_* Thy_DET Neighbour_NOUN	Z3c
@@ -2610,7 +2584,7 @@ Marlon_PROPN Fold_PROPN	Z2
 Mars_* bar*_NOUN	Z3
 Marshall_PROPN Islands_PROPN	Z2
 Marshall_PROPN Ward_PROPN	Z3c
-Martin_* 's_PART  Haven_*	Z2
+Martin_* 's_PART Haven_*	Z2
 Martin_PROPN Dreadnought_PROPN	Z3
 Martindale_PROPN Railway*_NOUN	Z3c
 Martins_NOUN Newsagency_NOUN	Z3c
@@ -3021,7 +2995,7 @@ Part_NOUN II_*	P1
 Part_NOUN I_SYM	P1
 Passport_NOUN Agency_NOUN	Z3c
 Pateley_PROPN Bridge*_NOUN	Z2
-Paxton_* 's_PART  Tower_*	Z2
+Paxton_* 's_PART Tower_*	Z2
 Pay_NOUN As_SCONJ You_PRON Earn_VERB	G1.1/I1 I1.1/I3.1
 Pays_X de_X Bray_X	Z2
 Peak_NOUN District_NOUN	Z2
@@ -3037,7 +3011,7 @@ Pedigree_NOUN Chum_NOUN	Z3
 Penarth_* Fawr_* Medieval_* House_*	Z2
 Pendelphin_PROPN Rabbit*_NOUN	Z3
 Penguin_NOUN Book*_NOUN Ltd_*	Z3
-Penmon_* Priory,_* Cross_* and_* St_* Seiriol_* 's_PART  Well_*	Z2
+Penmon_* Priory,_* Cross_* and_* St_* Seiriol_* 's_PART Well_*	Z2
 Penmon_* Priory_*	Z2
 Pennard,_* Pwll_* Du_* and_* Bishopston_* Valley_*	Z2
 Penrhos_* Feilw_* Standing_* Stones_*	Z2
@@ -3376,7 +3350,6 @@ Salisburys_PROPN Handbags_NOUN	Z3c
 Salvation_* Army_*	Z3c
 San_NOUN Antonia_PROPN	Z2
 San_NOUN Francisco_PROPN Bay_NOUN	Z2
-San_PROPN *_PROPN	Z2
 San_PROPN *_PROPN	Z2 Z3c
 San_PROPN Diego_PROPN	Z2 Z3c
 San_PROPN Francisco_PROPN	Z2 Z3c
@@ -3518,7 +3491,7 @@ South_* Island_NOUN	Z2
 South_* Korean*_NOUN	Z2/S2mf
 South_* Moluccan*_NOUN	Z2/S2mf
 South_* Pole_NOUN	Z2
-South_* Tyrolian*_NOUN	Z2/s2mf
+South_* Tyrolian*_NOUN	Z2/S2mf
 South_* Vietnamese_* Air_NOUN Force_NOUN	Z3c
 South_* Wales_PROPN Echo_NOUN	Z3c
 South_* West_*	Z2 M6
@@ -3556,7 +3529,6 @@ Spring_NOUN Meadow_NOUN	Z2
 Sri_* Lankan*_*	Z2/S2mf Z2
 Sri_* Lankan_ADJ	Z2
 Sri_PROPN Lanka_PROPN	Z2
-Sri_PROPN Lanka_PROPN	Z2
 Sri_PROPN Lankan*_NOUN	Z2/S2mf
 St._* *_PROPN	Z2 Z3c Z1mf
 St._* Davids_*	Z2
@@ -3570,9 +3542,9 @@ St._PROPN *_PROPN 's_PART Day_NOUN	T1.3/S9
 St._PROPN *_PROPN 's_PART Park_NOUN	Z2
 St_* Albans_*	Z2c
 St_* Andrews_PROPN University_NOUN	Z3c
-St_* Cybi_* 's_PART  Well_*	Z2
-St_* David_* 's_PART  Visitor_* Centre_* and_* Shop_*	Z2
-St_* Davids_* Bishop_* 's_PART  Palace_*	Z2
+St_* Cybi_* 's_PART Well_*	Z2
+St_* David_* 's_PART Visitor_* Centre_* and_* Shop_*	Z2
+St_* Davids_* Bishop_* 's_PART Palace_*	Z2
 St_* Dogmaels_* Abbey_* and_* Coach_* House_*	Z2
 St_* Fagans_*	Z2
 St_* Fagans_* National_* Museum_* of_* History_*	Z2
@@ -3581,13 +3553,12 @@ St_* John_PROPN	Z3c Z1m
 St_* Johns_PROPN Ambulance_NOUN	Z3c
 St_* Lythans_* Burial_* Chamber_*	Z2
 St_* Marys_NOUN	Z3c
-St_* Non_* 's_PART  Chapel_*	Z2
-St_* Quentin_* 's_PART  Castle,_* Llanblethian_*	Z2
-St_* Seiriol_* 's_PART  Well_*	Z2
-St_* Winefride_* 's_PART  Chapel_*	Z2
-St_* Winefride_* 's_PART  Chapel_* and_* Holy_* Well_*	Z2
+St_* Non_* 's_PART Chapel_*	Z2
+St_* Quentin_* 's_PART Castle,_* Llanblethian_*	Z2
+St_* Seiriol_* 's_PART Well_*	Z2
+St_* Winefride_* 's_PART Chapel_*	Z2
+St_* Winefride_* 's_PART Chapel_* and_* Holy_* Well_*	Z2
 St_NOUN *_PROPN	Z2 Z3c
-St_NOUN *_PROPN 's_PART Church_NOUN	Z3c
 St_NOUN *_PROPN 's_PART Church_NOUN	Z3c
 St_NOUN *_PROPN 's_PART Hotel_NOUN	Z3c
 St_NOUN *_PROPN *_ADJ School_NOUN	Z3c
@@ -3831,8 +3802,7 @@ Tottenham_* Court_* Road_*	Z2
 Tottenham_PROPN Hotspur_PROPN	Z3c
 Tottenham_PROPN Hotspurs_PROPN	Z3c
 Touche_PROPN Ross_PROPN	Z3c
-Tour_NOUN de_* France_PROPN	Z3
-Tour_NOUN de_* France_PROPN	K5.1
+Tour_NOUN de_* France_PROPN	K5.1 Z3
 Tower_* Bridge_*	Z2
 Tower_* Hill_*	Z2
 Tower_* of_ADP London_PROPN	Z2
@@ -3863,7 +3833,7 @@ Trevi_PROPN Fountain_NOUN	Z2
 Trinity_NOUN United_ADJ Reform_NOUN Church_NOUN	Z3c
 Trivial_ADJ Pursuit*_NOUN	K5.2
 Tropic_PROPN of_ADP Capricorn_NOUN	Z2
-Tudor_* Merchant_* 's_PART  House_*	Z2
+Tudor_* Merchant_* 's_PART House_*	Z2
 Tudor_PROPN Wood_NOUN Bastow_PROPN	Z3c
 Tunbridge_PROPN Wells_PROPN	Z2 Z3c
 Turbo_NOUN C_SYM	Y2
@@ -3876,7 +3846,6 @@ Twthill,_* Rhuddlan_*	Z2
 Ty_* Mawr_* Standing_* Stone_*	Z2
 Ty_* Newydd_* Burial_* Chamber_*	Z2
 Tyne_PROPN Tees_PROPN	Z3c Z2
-Tyne_PROPN Tees_PROPN	Z3c
 Tyre_NOUN Services_NOUN	Z3c
 Tŷ_* Mawr_* Standing_* Stone_*	Z2
 Tŷ_* Mawr_* Wybrnant_*	Z2
@@ -4066,7 +4035,7 @@ World_NOUN Cup_NOUN	K5.1
 World_NOUN Health_NOUN Organization_NOUN	Z3
 World_NOUN Student_NOUN Games_NOUN	Z3c
 World_NOUN Trade_NOUN Centre_NOUN	Z2
-World_NOUN War*_NOUN {*_NUM}	G3
+World_NOUN War*_NOUN *_NUM	G3
 World_NOUN War_NOUN *_NUM	Z3
 XML_* formatting_*	Y2
 Y_* Centre*_NOUN	Z3c
@@ -4393,7 +4362,7 @@ age_NOUN group*_NOUN	T3
 age_NOUN limit_NOUN	T3/N5.1 T3/A1.7+
 age_NOUN of_ADP consent_NOUN	S3.2/T3
 age_NOUN range*_NOUN	T3
-agent_NOUN provocateur*_NOUN	A2.2/S2mf G1/1.S8-/S2mf
+agent_NOUN provocateur*_NOUN	A2.2/S2mf G1.1/S8-/S2mf
 ages_NOUN ago_ADV	T1.1.1
 aggravated_ADJ burglaries_NOUN	G2.1-
 aggravated_ADJ burglary_NOUN	G2.1-
@@ -4407,7 +4376,6 @@ agricultural_ADJ engineering_NOUN	F4/Y1
 agricultural_ADJ show_NOUN	F4/K1 F4/S1.1.1
 agricultural_ADJ subsidy_NOUN	F4/I1.1
 ah_INTJ dear_INTJ	Z4
-ahead_ADP of_ADP	N4
 ahead_ADP of_ADP	N4 A5.1++
 ahead_ADP of_ADP *_DET time_NOUN	T3--
 ahead_ADP of_ADP the_DET {ADJ/INTJ} game_NOUN	S7.1+
@@ -4722,7 +4690,7 @@ approach_NOUN road_NOUN	M3
 apres_* ski_*	K5.1/N4
 apricot_NOUN schnapps_NOUN	F2
 apron_NOUN strings_NOUN	S4
-aptitude_NOUN test_NOUN	X9.1/X2/4
+aptitude_NOUN test_NOUN	X9.1/X2.4
 aqua_NOUN pressure_NOUN	B3
 arbor_* vitae_*	L3
 arcade_NOUN game_NOUN	K1
@@ -4977,18 +4945,14 @@ atmospheric_ADJ pollution_NOUN	W3 W5
 atmospheric_ADJ pressure_NOUN	W3
 atom_NOUN bomb*_NOUN	G3
 atomic_ADJ age_NOUN	G3/T1.3 Y1/T1.3
-atomic_ADJ age_NOUN	G3/T3 Y1/T3
-atomic_ADJ bomb*_NOUN	G3
 atomic_ADJ bomb*_NOUN	G3 A1.1.2++
 atomic_ADJ energy_NOUN	Y1
 atomic_ADJ heat_NOUN	Y1/O4.6++
 atomic_ADJ particle*_NOUN	Y1/N3.2---
 atomic_ADJ physics_NOUN	Y1/P1
-atomic_ADJ power_NOUN	O3
-atomic_ADJ power_NOUN	Y1
+atomic_ADJ power_NOUN	Y1 O3
 atomic_ADJ power_NOUN station_NOUN	Y1/H1
 atomic_ADJ theory_NOUN	X2.1
-atomic_ADJ warfare_NOUN	G3
 atomic_ADJ warfare_NOUN	Y1/G3
 atomic_ADJ warhead_NOUN	Y1/G3
 atomising_ADJ spray_NOUN	O2
@@ -5085,7 +5049,6 @@ back_* passage_NOUN	B1 M7
 back_* pay_NOUN	I1.1/I3.1
 back_* road*_NOUN	M7
 back_* seat_NOUN	M3/O2
-back_* seat_NOUN	O2
 back_* somersault_NOUN	K5.1
 back_* stage_NOUN	K4 A10-
 back_* stop_NOUN	K5.1/S2mf
@@ -5228,10 +5191,10 @@ bank_NOUN statement*_NOUN	I1/Q1.2
 bank_NOUN transfer*_NOUN	I1/A2.1
 banker_NOUN 's_PART card*_NOUN	O2/I1
 banker_NOUN 's_PART draft*_NOUN	I1/Q1.2
-banker_NOUN 's_PART order_NOUN	II/Q1.2 ZZ
+banker_NOUN 's_PART order_NOUN	I2/Q1.2
 banking_NOUN account_NOUN	I1.1
 banking_NOUN hours_NOUN	I1/T2
-bankruptcy_NOUN court_NOUN	I1.2/G2/1/H1
+bankruptcy_NOUN court_NOUN	I1.2/G2.1/H1
 bankruptcy_NOUN proceedings_NOUN	I1.2/A1.1.1
 banqueting_ADJ hall*_NOUN	F1/H1
 banqueting_ADJ room*_NOUN	F1/H2
@@ -6147,7 +6110,6 @@ broken_* home*_NOUN	S4-
 broken_ADJ English_NOUN	Q3/A5.1-
 broken_ADJ families_NOUN	S4-
 broken_ADJ family_NOUN	S4-
-broken_ADJ family_NOUN	S4-
 broken_ADJ leg*_NOUN	B2-
 bronchial_ADJ asthma_NOUN	B2-
 bronchial_ADJ tubes_NOUN	B1
@@ -6212,8 +6174,7 @@ buck*_* *_DET {ADJ/INTJ} ideas_NOUN up_ADV	A5.1+/A2.1
 buck*_* up_ADV *_DET {ADJ/INTJ} ideas_NOUN	A5.1+/A2.1
 buck*_* {PRON/ADV/Np} up_ADV	A5.1+/A2.1
 buck_NOUN 's_PART fizz_NOUN	F2
-buck_NOUN teeth_NOUN	O4.1
-buck_NOUN teeth_NOUN	B1
+buck_NOUN teeth_NOUN	O4.1 B1
 bucket*_* down_ADV	W4
 bucket_NOUN seat_NOUN	M3/O2
 buckl*_* {ADV} down_ADV	X8+
@@ -6516,7 +6477,6 @@ came_VERB {ADV} alive_ADJ	X5.2+ A3+
 came_VERB {ADV} along_*	M1 A1.1.1
 came_VERB {ADV} around_*	A1.1.1 B1 M1 A2.1+
 came_VERB {ADV} at_ADP	E3-
-came_VERB {ADV} away_ADV	M1 A1.1.2
 came_VERB {ADV} away_ADV	M1 A1.1.2
 came_VERB {ADV} back_*	M1/N6+ X2.2+
 came_VERB {ADV} by_*	M1
@@ -6877,7 +6837,7 @@ ceiling_NOUN price*_NOUN	I1.3/A1.7+
 cell_NOUN biology_NOUN	Y1
 cellar_NOUN space*_NOUN	H2
 cellular_ADJ phone*_NOUN	Q1.3
-cellular_ADJ telephone*_NOUN	Q1/3
+cellular_ADJ telephone*_NOUN	Q1.3
 cement*_* {PRON/ADV/Np} in_ADV	A1.7+
 cement_NOUN mixer*_NOUN	A1.1.1/O2
 central_* heated_*	O4.6+/H2
@@ -6896,6 +6856,7 @@ centre_NOUN of_ADP attention_NOUN	A11.1+
 centre_NOUN piece*_NOUN	O2
 centre_NOUN spread_NOUN	Q4.2/C1
 centre_NOUN stage_NOUN	K4/M7 A11.1+
+century_* and_CCONJ a_DET half_NOUN	T1.3
 cerebral_ADJ {ADJ/INTJ} palsy_NOUN	B2-
 certified_ADJ accountant*_NOUN	I2.1/S2mf
 cervical_ADJ cancer_NOUN	B2-
@@ -7477,7 +7438,6 @@ come*_VERB {ADV} along_*	M1 A1.1.1
 come*_VERB {ADV} around_*	A1.1.1 B1 M1 A2.1+
 come*_VERB {ADV} at_ADP	E3-
 come*_VERB {ADV} away_ADV	M1 A1.1.2
-come*_VERB {ADV} away_ADV	M1 A1.1.2
 come*_VERB {ADV} back_*	M1/N6+ X2.2+
 come*_VERB {ADV} by_*	M1
 come*_VERB {ADV} clean_*	O4.2+ A5.2+
@@ -7549,7 +7509,6 @@ coming_* {ADV} alive_ADJ	X5.2+ A3+
 coming_* {ADV} along_*	M1 A1.1.1
 coming_* {ADV} around_*	A1.1.1 B1 M1 A2.1+
 coming_* {ADV} at_ADP	E3-
-coming_* {ADV} away_ADV	M1 A1.1.2
 coming_* {ADV} away_ADV	M1 A1.1.2
 coming_* {ADV} back_*	M1/N6+ X2.2+
 coming_* {ADV} by_*	M1
@@ -7643,8 +7602,7 @@ communion_NOUN service_NOUN	S9
 communion_NOUN table_NOUN	S9/H5
 community_NOUN affairs_NOUN	S5+
 community_NOUN affairs_NOUN department*_NOUN	G2.1/S5+c
-community_NOUN care_NOUN	B3
-community_NOUN care_NOUN	S5+/S8+
+community_NOUN care_NOUN	B3 S5+/S8+
 community_NOUN centre*_NOUN	H1/S5+c
 community_NOUN charge*_NOUN	G1.1/I1
 community_NOUN charge_NOUN	G1.1/I1.3
@@ -7730,7 +7688,6 @@ computer_NOUN games_NOUN programmer*_NOUN	Y2/S2mf
 computer_NOUN graphics_NOUN	Y2/C1
 computer_NOUN language*_NOUN	Q3/Y2
 computer_NOUN literacy_NOUN	Y2/X9.1+
-computer_NOUN literate_ADJ	Y2
 computer_NOUN literate_ADJ	Y2/X9.1+
 computer_NOUN maintenance_NOUN	Y2
 computer_NOUN operated_*	Y2
@@ -7863,7 +7820,7 @@ cor_INTJ blimey_INTJ	Z4
 coral_NOUN reef*_NOUN	W3
 cordless_ADJ telephone*_NOUN	Q1.3
 core_NOUN curriculum_NOUN	A11.1+/P1
-core_NOUN subject*_NOUN	A11/1+/P1
+core_NOUN subject*_NOUN	A11.1+/P1
 corn_NOUN beef_NOUN	F1
 corn_NOUN bread_NOUN	F1
 corn_NOUN on_ADP the_DET cob_NOUN	F1
@@ -8243,6 +8200,7 @@ daughter_NOUN in_ADP law_NOUN	S4f
 dawn_NOUN chorus_NOUN	L2/X3.2
 day*_NOUN out_*	K1/T1.3
 day_* care_NOUN centre*_NOUN	S8+/H1
+day_* and_CCONJ a_DET half_NOUN	T1.3
 day_NOUN *_NUM	T1.2
 day_NOUN after_* recall_NOUN	X2.2/N4
 day_NOUN boy*_NOUN	P1/S2.2m
@@ -8293,6 +8251,7 @@ death_NOUN row_NOUN	G2.1/H4
 death_NOUN slide*_NOUN	K5.1
 death_NOUN squad*_NOUN	G2.1-/S4 G2.2-/S4
 debt_NOUN collecting_NOUN	I1.2
+decade_* and_CCONJ a_DET half_NOUN	T1.3
 decaffeinated_ADJ coffee_NOUN	F2
 decision_NOUN making_*	X6+
 decision_NOUN {ADV/VERB} taken_VERB	X6+
@@ -8316,7 +8275,7 @@ deep_ADJ space_NOUN	W1
 deep_ADJ structure_NOUN	Q3
 deep_ADJ vein_NOUN thrombosis_NOUN	B2-
 deep_ADV down_ADV	A10- M6
-deep_ADV freeze_VERB	O4.6-/03
+deep_ADV freeze_VERB	O4.6-/O3
 deep_ADV fried_ADJ	F1
 deep_ADV rooted_VERB	T3+
 defeat*_VERB the_DET whole_ADJ {ADJ/INTJ} object_NOUN	A1.2-
@@ -8356,7 +8315,6 @@ deputy_ADJ head*_NOUN	P1/S2mf S7.1+/S2mf
 deputy_NOUN head*_NOUN	P1/S2mf S7.1+/S2mf
 deputy_NOUN leader*_NOUN	S7.1+/S2mf
 deputy_NOUN manager*_NOUN	S7.1+/S2mf
-dereliction_NOUN of_* duty_NOUN	A1.9/I3.1
 dereliction_NOUN of_* duty_NOUN	A1.9/I3.1
 desert_* boots_NOUN	B5 G3/B5
 desert_NOUN area*_NOUN	W3
@@ -8627,7 +8585,6 @@ drag*_* {PRON/ADV/Np} about_ADV	M2
 drag*_* {PRON/ADV/Np} along_ADV	M2
 drag*_* {PRON/ADV/Np} around_ADV	M2
 drag*_* {PRON/ADV/Np} away_ADV	M2
-drag*_* {PRON/ADV/Np} away_ADV	M2
 drag*_* {PRON/ADV/Np} down_ADV	M2 A5.1-/A2.1 E4.1-
 drag*_* {PRON/ADV/Np} in_ADV	M2
 drag*_* {PRON/ADV/Np} in_ADV screaming_VERB	X7-
@@ -8691,7 +8648,6 @@ drift*_* {ADV} along_ADV	M1 T2++
 drift*_* {ADV} apart_ADV	S3.1- M1
 drift*_* {ADV} around_ADV	M1
 drift*_* {ADV} away_ADV	M1 S3.1- X5.1-
-drift*_* {ADV} away_ADV	M1 X5.1-
 drift*_* {ADV} off_ADV	M1 X5.1-
 drift*_* {ADV} out_ADV	M1
 drill*_* {ADV} down_ADV	A1.1.1
@@ -8810,7 +8766,6 @@ duchess_NOUN satin_NOUN	B5
 duck-billed_ADJ platypus_NOUN	L2
 duck_NOUN soup_NOUN	F1
 due_* *_NOUN	M6
-due_* date_NOUN	S6+/T1.1
 due_* date_NOUN	S6+/T1.1
 due_ADP to_ADP	A2.2
 dug_* {PRON/ADV/Np} out*_*	X2.4 A1.1.1 G3@
@@ -8949,7 +8904,6 @@ emergency_NOUN service*_NOUN	G1.1c
 emotional_ADJ blackmail_NOUN	E1/G2.2-
 employment_NOUN agencies_NOUN	I3.1/I2.1
 employment_NOUN agency_NOUN	I3.1/I2.1c
-employment_NOUN agency_NOUN	I3.1/I2.1c
 employment_NOUN building_NOUN	H1/I3.1
 employment_NOUN market*_NOUN	I3.1
 emptied_VERB {PRON/ADV/Np} out_ADV	M2
@@ -9047,7 +9001,6 @@ event_NOUN planner*_NOUN	K1/S2mf
 ever_* since_*	T2++
 ever_ADV after_*	T2++/N4
 ever_ADV so_ADV	A13.3
-ever_ADV so_ADV	A13.3
 ever_ADV such_DET a_PRON lot_PRON	N5++
 every_* *_NUM to_ADP *_NUM *_NOUN	N6+
 every_* day_NOUN and_CCONJ night_NOUN	N6+
@@ -9065,8 +9018,7 @@ every_DET now_ADV and_CCONJ again_ADV	N6+
 every_DET now_ADV and_CCONJ then_ADV	N6+
 every_DET one_*	Z8/N5.1+
 every_DET other_ADJ *_PROPN	N6+
-every_DET other_ADJ {ADJ/INTJ} *_NOUN	N6+
-every_DET other_ADJ {ADJ/INTJ} *_NOUN	N5.1+
+every_DET other_ADJ {ADJ/INTJ} *_NOUN	N5.1+ N6+
 every_DET single_ADJ	N5.1+
 every_DET single_ADJ one_PRON	N5.1+
 every_DET single_ADJ thing_NOUN under_ADP the_DET {ADJ/INTJ} sky_NOUN	N5.1+
@@ -9234,7 +9186,6 @@ family_NOUN circle*_NOUN	S4c
 family_NOUN concern_NOUN	I2.1/S4
 family_NOUN credit_NOUN	S4/I1
 family_NOUN dispute*_NOUN	E3-/S4
-family_NOUN doctor*_NOUN	B3/S2mf
 family_NOUN doctor*_NOUN	B3/S2mf
 family_NOUN history_NOUN	S4/T1.1.1
 family_NOUN history_NOUN societ*_NOUN	S5+/T1.1.1c
@@ -9703,8 +9654,7 @@ garbage_NOUN site*_NOUN	M7/O4.2-
 garden_NOUN centre*_NOUN	F4/M7c
 garden_NOUN fork*_NOUN	O2/F4
 garden_NOUN parties_NOUN	S1.1.3+
-garden_NOUN party_NOUN	K1
-garden_NOUN party_NOUN	S1.1.3+
+garden_NOUN party_NOUN	K1 S1.1.3+
 garden_NOUN path*_NOUN	H3 X2.5-
 garden_NOUN shears_NOUN	O2/F4
 garment_NOUN exchange*_NOUN	I2.2/B5
@@ -10103,7 +10053,6 @@ go_VERB {ADV} amiss_ADV	A9-
 go_VERB {ADV} around_*	M1
 go_VERB {ADV} around_* {ADV} with_*	S3.1
 go_VERB {ADV} away_ADV	M1 A10- G2.1@
-go_VERB {ADV} away_ADV	M1 A10-
 go_VERB {ADV} back_*	M1 A2.1+ T1.1.1
 go_VERB {ADV} back_* in_ADP time_NOUN	T1.1.1
 go_VERB {ADV} bananas_NOUN	X5.2+++ B2-/X1 E3-
@@ -10226,7 +10175,6 @@ goes_VERB {ADV} along_ADV {ADV} with_ADP	S1.1.3+
 goes_VERB {ADV} amiss_ADV	A9-
 goes_VERB {ADV} around_*	M1
 goes_VERB {ADV} away_ADV	M1 A10- G2.1@
-goes_VERB {ADV} away_ADV	M1 A10-
 goes_VERB {ADV} back_*	M1 A2.1+ T1.1.1
 goes_VERB {ADV} back_* in_ADP time_NOUN	T1.1.1
 goes_VERB {ADV} bananas_NOUN	X5.2+++ B2-/X1 E3-
@@ -10343,7 +10291,6 @@ going_* {ADV} along_ADV {ADV} with_ADP	S1.1.3+
 going_* {ADV} amiss_ADV	A9-
 going_* {ADV} around_*	M1
 going_* {ADV} away_ADV	M1 A10- G2.1@
-going_* {ADV} away_ADV	M1 A10-
 going_* {ADV} back_*	M1 A2.1+ T1.1.1
 going_* {ADV} back_* in_ADP time_NOUN	T1.1.1
 going_* {ADV} bananas_NOUN	X5.2+++ B2-/X1
@@ -10473,7 +10420,6 @@ gone_VERB {ADV} against_ADP the_DET {ADJ/INTJ} grain_NOUN	X7-
 gone_VERB {ADV} ahead_ADV	T2++
 gone_VERB {ADV} amiss_ADV	A9-
 gone_VERB {ADV} away_ADV	M1 A10- G2.1@
-gone_VERB {ADV} away_ADV	M1 A10-
 gone_VERB {ADV} back_ADV	M1/N6+ A2.1+
 gone_VERB {ADV} bonkers_*	E3- X5.2+ B2-/X1
 gone_VERB {ADV} by_ADV	M1 T1.3
@@ -11358,6 +11304,7 @@ hotel_NOUN management_NOUN	H4/I2.1
 hotel_NOUN manager*_NOUN	H4/S2mf
 hotel_NOUN resort*_NOUN	M7/K1
 hour_NOUN and_CCONJ a_DET {ADJ/INTJ} half_NOUN	T1.3
+hour_* and_CCONJ a_DET half_NOUN	T1.3
 house*_NOUN of_ADP {ADJ/INTJ} parliament_NOUN	H1/G1.1c G1.1c
 house_NOUN bound_VERB	M1-
 house_NOUN breaking_NOUN	G2.1-
@@ -11658,7 +11605,7 @@ in_ADP that_*	Z5
 in_ADP that_DET vein_NOUN	A6.1+
 in_ADP that_DET {ADJ} vain_*	A6.1+
 in_ADP the_ADP light_ADP of_ADP	A2.2
-in_ADP the_DET	altogether B5-
+in_ADP the_DET altogether_ADV	B5-
 in_ADP the_DET *_ADJ place_NOUN	Z4 N4
 in_ADP the_DET *_NOUN ahead_ADV	T1.1.3
 in_ADP the_DET ascendant_NOUN	N5+/A2.1/S7.1+ N5+/A2.1/E2+ N5+/A2.1/X9.2+
@@ -12126,7 +12073,6 @@ knock*_* the_DET living_ADJ daylights_NOUN out_ADP of_ADP	E3- A1.1.2
 knock*_* {PRON/ADV/Np} about_ADV	E3- A1.1.1 Q2.2 S1.1.1
 knock*_* {PRON/ADV/Np} apart_ADV	A1.1.2
 knock*_* {PRON/ADV/Np} around_ADV	E3- A1.1.1 Q2.2 S1.1.1
-knock*_* {PRON/ADV/Np} back_ADV	S8- M2
 knock*_* {PRON/ADV/Np} back_ADV	S8- A1.1.1 M2
 knock*_* {PRON/ADV/Np} dead_ADJ	E5-
 knock*_* {PRON/ADV/Np} down_*	A1.1.2 I2.2 I1.3- E3- E4.1-
@@ -12221,7 +12167,6 @@ lash*_* {ADV} out_ADV	E3- I1.2
 last_* *_DET *_NOUN	T1.1.1
 last_* *_NOUN	T1.1.1
 last_* *_NUM *_NOUN	T1.1.1
-last_* *_PROPN	T1.1.1
 last_* *_PROPN	T1.1.1
 last_* but_CCONJ not_PART least_*	N4
 last_* {ADJ/INTJ} minute_NOUN	T4-
@@ -12319,7 +12264,6 @@ leav*_* it_PRON at_ADP that_DET	T2-
 leav*_* it_PRON {ADV} as_SCONJ it_PRON *_VERB	A2.1-
 leav*_* no_DET stone_NOUN unturned_ADJ	N5.1+
 leav*_* the_DET nest_NOUN	H4/A2.1
-leav*_* {PRON/ADV/Np} alone_*	A1.9
 leav*_* {PRON/ADV/Np} alone_*	A2.1- S5- A1.9
 leav*_* {PRON/ADV/Np} behind_ADV	M2 S7.1+
 leav*_* {PRON/ADV/Np} cold_ADJ	E2-
@@ -12598,7 +12542,6 @@ local_ADJ enterprise_NOUN companies_NOUN	I2.1/S5+c
 local_ADJ enterprise_NOUN company_NOUN	I2.1/S5+c
 local_ADJ government_NOUN	G1.1c
 lock*_* {PRON/ADV/Np} away_ADV	A1.7-/A10- G2.1@
-lock*_* {PRON/ADV/Np} away_ADV	A10- G2.1
 lock*_* {PRON/ADV/Np} in*_*	A1.7+ F2%
 lock*_* {PRON/ADV/Np} out_ADV	A1.7+
 lock*_* {PRON/ADV/Np} up*_*	A1.7+ G2.1 H1
@@ -12708,7 +12651,6 @@ lose*_VERB *_DET {ADJ/INTJ} marbles_NOUN	B2-/X1
 lose*_VERB heart_NOUN	X5.2-
 lose*_VERB sight_NOUN of_ADP	X3.4- X5.1-
 lose*_VERB touch_NOUN	S1.1.1-
-lose*_VERB touch_NOUN	S1.1.1
 lose*_VERB track_NOUN	X5.1-
 lose*_VERB {INTJ/ADJ/DET/Np} way_NOUN	M6/X2.2-
 lose*_VERB {PRON/DET} weight_NOUN	N3.6-/A2.1
@@ -12738,7 +12680,6 @@ lost_VERB heart_NOUN	X5.2-
 lost_VERB me_PRON	X2.5-
 lost_VERB patience_NOUN with_ADP	E3-
 lost_VERB sight_NOUN of_ADP	X3.4- X5.1-
-lost_VERB touch_NOUN	S1.1.1
 lost_VERB touch_NOUN	S1.1.1-
 lost_VERB track_NOUN	X5.1-
 lost_VERB {INTJ/ADJ/DET/Np} way_NOUN	M6/X2.2-
@@ -12904,7 +12845,7 @@ mak*_* {PRON/ADV/ADJ/Np} redundant_ADJ	I3.1-
 mak*_* {PRON/ADV/Np} aware_ADJ of_ADP	Q1.1
 mak*_* {PRON/ADV/Np} up_*	A5.2- B4 N5 S3.1 A1.1.1
 mak*_* {PRON/INTJ/Np/ADV/ADJ} good_ADJ	A1.1.1
-mak*_VERB hay_NOUN {while_SCONJ the_DET sun_NOUN shines_VERB}	S8+
+mak*_VERB hay_NOUN while_SCONJ the_DET sun_NOUN shines_VERB	S8+
 mak*_VERB use_NOUN of_ADP	A1.5.1+
 make*_* *_DET {INTJ/ADJ/DET} mind*_NOUN up_ADV	X6+
 make*_* a_DET complete_ADJ and_CCONJ utter_ADJ fool_NOUN of_ADP *_PRON	S1.2.6-
@@ -13055,9 +12996,7 @@ maternal_ADJ grandfather*_NOUN	S4m
 maternity_NOUN clothes_NOUN	B5/S4
 maternity_NOUN cover_NOUN	I3.1/S4
 maternity_NOUN hospital*_NOUN	B3/H1c
-maternity_NOUN leave_NOUN	I3.1-/S4
-maternity_NOUN leave_NOUN	K1/S4
-maternity_NOUN leave_NOUN	T1.3/S4
+maternity_NOUN leave_NOUN	I3.1-/S4 T1.3/S4
 maternity_NOUN unit*_NOUN	B3c
 maximiser_NOUN account*_NOUN	I1.1
 may_AUX I_PRON add_VERB	Z4
@@ -13096,7 +13035,6 @@ meet*_* the_DET {ADJ} budget_NOUN	I1.1/N5+
 meet*_* up_ADV	S3.1
 meet*_* {ADV} together_ADV	S5+
 meet*_* {PRON/ADV/Np} half_ADV way_ADV	S1.1.2+
-meeting_NOUN place*_NOUN	DEL
 mega_* bucks_NOUN	I1.1+
 mega_NOUN drive*_NOUN	Y2
 mega_NOUN store*_NOUN	I2.2/H1c
@@ -13228,6 +13166,7 @@ minister*_NOUN of_ADP religion_NOUN	S9/S2mf
 minister_NOUN of_ADP food_NOUN and_CCONJ national_ADJ registration_NOUN	G1.1/S2mf
 minor_ADJ isolation_NOUN	B3
 mint_NOUN sauce_NOUN	F1
+minute_* and_CCONJ a_DET half_NOUN	T1.3
 mirror_NOUN dinghies_NOUN	M4
 mirror_NOUN dinghy_NOUN	M4fn
 mirror_NOUN image*_NOUN	A6.1+
@@ -13286,6 +13225,7 @@ money_NOUN spinner*_NOUN	I1.1
 money_NOUN to_PART {ADJ/INTJ} burn_VERB	I1.1+
 monkey_NOUN business_NOUN	G2.2-
 monopoly_NOUN money_NOUN	I1/A5.4-
+month_* and_CCONJ a_DET half_NOUN	T1.3
 mooch*_* {ADV} about_ADV	M1
 mooch*_* {ADV} around_ADV	M1
 mood_NOUN swing*_NOUN	E1/A2.1
@@ -13398,7 +13338,6 @@ muddl*_* {PRON/ADV/Np} up_ADV	X2.5-
 mug_NOUN 's_PART game*_NOUN	S1.2.6-
 mugs_NOUN game*_NOUN	S1.2.6-
 mull*_* {PRON/ADV/Np} around_ADV	X2.4
-mull*_* {PRON/ADV/Np} over_ADV	X2.1
 mull*_* {PRON/ADV/Np} over_ADV	X2.4
 multi-thousand_NUM pound_NOUN	I1
 multi_* coloured_*	O4.3/N5+
@@ -13449,7 +13388,6 @@ n*t_PART at_ADV all_ADV	Z6
 n*t_PART bad_ADJ as_SCONJ {Np} go_VERB	A5.1+/A6
 n*t_PART do_VERB things_NOUN by_ADP half_DET	N5.1+
 n*t_PART ever_ADV	N6/Z6
-n*t_PART for_ADP me_PRON	E2-
 n*t_PART for_ADP me_PRON	E2-
 n*t_PART get*_* {PRON} anywhere_ADV	X9.2-
 n*t_PART getting_VERB anywhere_ADV	X9.2-
@@ -13783,7 +13721,7 @@ old_ADJ age_NOUN benefit*_NOUN	I1.1/T3+
 old_ADJ age_NOUN pension*_NOUN	I1.1/T3+
 old_ADJ age_NOUN pensioner*_NOUN	T3+/S2mf
 old_ADJ banger*_NOUN	M3/T3+fn
-old_ADJ bidd*_NOUN	T3+/S2/1f
+old_ADJ bidd*_NOUN	T3+/S2.1f
 old_ADJ boy*_NOUN	T3++/S2.2m P1/S2.2m
 old_ADJ codger*_NOUN	T3++/S2.2m
 old_ADJ dear*_NOUN	S2/T3+++mf
@@ -13946,8 +13884,7 @@ on_ADP the_DET {ADV/ADJ} lookout_NOUN	X2.4
 on_ADP those_DET {ADJ} lines_NOUN	A6.1+
 on_ADP time_NOUN	T4
 on_ADP to_ADP	Z5
-on_ADP top_ADP of_ADP	M6 N5++ X2.2+
-on_ADP top_ADP of_ADP	Z5
+on_ADP top_ADP of_ADP	M6 N5++ X2.2+ Z5
 on_ADP top_ADP of_ADP the_DET {ADJ/INTJ} world_NOUN	E4.1+
 on_ADP top_NOUN	S7.1+ M6 N5++
 on_ADP track_NOUN	X9.2+
@@ -14025,7 +13962,7 @@ open_ADJ space*_NOUN	W3
 opening_* night*_NOUN	K4/T1.3
 opening_* preview*_*	K4
 opening_* preview*_NOUN	K4
-opens_VERB {a_DET} Pandora_PROPN 's_PART box_NOUN	A2.2/A12-
+opens_VERB a_DET Pandora_PROPN 's_PART box_NOUN	A2.2/A12-
 opera_NOUN group*_NOUN	K2/S5+c
 operatic_ADJ societies_NOUN	K2/S5+
 operatic_ADJ society_NOUN	K2/S5+c
@@ -14059,8 +13996,7 @@ other_ADJ side_NOUN of_ADP the_DET {ADJ/INTJ} fence_NOUN	A6.1-
 other_ADJ way_NOUN about_ADV	A6.1- S3.2
 other_ADJ way_NOUN around_ADV	N4 M6 A6.1-
 other_ADJ way_NOUN round_*	A6.1-
-other_ADP than_ADP	Z5
-other_ADP than_ADP	A1.8-
+other_ADP than_ADP	A1.8- Z5
 other_ADP than_ADP that_DET	A6.1-
 ounce_NOUN of_ADP trouble_NOUN	E3-
 out_* bid*_*	I2.2/S7.3+
@@ -14079,7 +14015,6 @@ out_* of_* {ADJ/INTJ} pocket_NOUN	I1.2
 out_* there_ADV	M6
 out_* town_NOUN	M6
 out_ADJ of_ADJ date_ADJ	T3+++
-out_ADP of_ADP	Z5
 out_ADP of_ADP	Z5 A9-
 out_ADP of_ADP *_DET hair_NOUN	S1.1.3-
 out_ADP of_ADP *_DET league_NOUN	S7.1+/N5.2+ A5.1+/N5.2+
@@ -14658,7 +14593,6 @@ pony_NOUN trekking_*	K5.1
 poodl*_* {ADV} round_ADV	M1
 pool_NOUN side*_NOUN	H3
 pool_NOUN table*_NOUN	K5.1/H5
-pool_NOUN table*_NOUN	K5.2/H5
 poor_ADJ as_ADP a_DET church_NOUN mouse_NOUN	I1.1-
 poor_ADJ class_NOUN	A5.1-
 poor_ADJ little_ADJ devil*_NOUN	S2mf
@@ -14896,7 +14830,6 @@ public_ADJ bodies_NOUN	G1.1c
 public_ADJ body_NOUN	G1.1c
 public_ADJ communication_NOUN	Q1.1
 public_ADJ domain_NOUN	A10+
-public_ADJ enquiry_NOUN unit*_NOUN	DEL
 public_ADJ hands_NOUN	G1.1
 public_ADJ health_NOUN	B3c
 public_ADJ health_NOUN and_CCONJ hygiene_NOUN	B3
@@ -15056,8 +14989,7 @@ put*_* {PRON/ADV/Np} on_ADP hold_NOUN	T2-
 put*_* {PRON/ADV/Np} on_ADP one_NUM side_NOUN	A1.9 M2
 put*_* {PRON/ADV/Np} on_ADP the_DET market_NOUN	I2.2
 put*_* {PRON/ADV/Np} on_ADP the_DET shelf_NOUN	T2-
-put*_* {PRON/ADV/Np} on_ADP the_DET {ADJ/INTJ} spot_NOUN	X2.4
-put*_* {PRON/ADV/Np} on_ADP the_DET {ADJ/INTJ} spot_NOUN	Q2.2
+put*_* {PRON/ADV/Np} on_ADP the_DET {ADJ/INTJ} spot_NOUN	X2.4 Q2.2
 put*_* {PRON/ADV/Np} on_ADP {ADV} the_DET right_ADJ lines_NOUN	S8+
 put*_* {PRON/ADV/Np} on_ADV	B5 M2 A1.1.1 K4 A5.4- N5+/A2.1
 put*_* {PRON/ADV/Np} out_*	M2 O4.6- Q2.2 E4.1-
@@ -15113,7 +15045,6 @@ quieten*_* {PRON/ADV/Np} down_ADV	X3.2-/A2.1 E3+/A2.1
 quite_ADV a_* bit_*	N5+ N6+
 quite_ADV a_* lot_*	N5+ N6+
 quite_ADV a_DET few_DET	N5+
-quite_ADV a_DET few_DET	N5+
 quite_ADV a_DET long_ADJ time_NOUN	T1.3+
 quite_ADV a_DET while_NOUN	T1.3+
 quite_ADV a_DET {ADJ} number_NOUN of_ADP	N5+
@@ -15129,7 +15060,6 @@ rabbl*_* {ADV} on_ADV	Q2.1
 race*_VERB {ADV} up_ADV	M1/N3.8+
 race_NOUN circuit*_NOUN	K5.1/M7
 race_NOUN course*_NOUN	K5.1/M7
-race_NOUN course*_NOUN	K5.1/M7
 race_NOUN evening*_NOUN	K5.1/T1.3
 race_NOUN meeting*_NOUN	K5.1
 race_NOUN relations_NOUN	S5+
@@ -15142,7 +15072,6 @@ racing_NOUN car*_NOUN	M3/K5.1fn
 racing_NOUN circuit*_NOUN	M3/M7
 racing_NOUN driver*_NOUN	M3/S2mf
 racing_NOUN track*_NOUN	K5.1/M7c
-racing_NOUN track*_NOUN	K5.1/M7
 rack*_* *_DET {ADJ/INTJ} brain*_NOUN	X2.1
 rack*_VERB *_DET brain*_NOUN	X2.1
 racket_NOUN ball_NOUN	K5.1
@@ -15201,7 +15130,6 @@ ran_VERB {ADV} ahead_ADV	M1
 ran_VERB {ADV} along_ADV	M1
 ran_VERB {ADV} amok_ADV	A1.7-
 ran_VERB {ADV} amuck_ADV	A1.7-
-ran_VERB {ADV} away_ADV	M1
 ran_VERB {ADV} away_ADV	M1 A1.7-
 ran_VERB {ADV} out_*	N5.1- M1 T2- M2
 ran_VERB {ADV} riot_*	A1.7-
@@ -15253,7 +15181,6 @@ read*_* {PRON/ADV/Np} in_ADV	Y2 X2.1
 read*_* {PRON/ADV/Np} out_ADV	Q2.2
 read*_* {PRON/ADV/Np} through_ADV	Q1.2
 reading_NOUN glasses_NOUN	B3/X3.4
-reading_NOUN glasses_NOUN	B3
 reading_NOUN problem*_NOUN	B2-/Q1.2
 ready_ADJ dinner*_NOUN	F1
 ready_ADJ meal*_NOUN	F1
@@ -15404,7 +15331,6 @@ retail_NOUN shop*_NOUN	I2.2/H1c
 retirement_NOUN home*_NOUN	H1/T3+c
 rev*_* {PRON/ADV/Np} up_ADV	M3
 revamp*_* {PRON/ADV/Np} out_ADV	O4.2+/A2.1
-revert*_* {ADV} back_ADV	A2.1+
 revert*_* {ADV} back_ADV	A2.1+/N6+
 revising_NOUN time_NOUN	P1/T1.3
 revision_NOUN notes_NOUN	P1/Q1.2
@@ -15443,7 +15369,6 @@ right_ADV across_ADP the_DET board_NOUN	N5.1+
 right_ADV down_ADV to_*	A14
 right_ADV enough_ADV	A7+ Z4
 right_ADV from_ADP the_DET word_NOUN go_*	T2+
-right_ADV now_ADV	T1.1.2
 right_ADV now_ADV	T1.1.2
 right_ADV off_ADV	N3.8+
 right_ADV round_*	N5.1+
@@ -15538,7 +15463,6 @@ rose_NOUN bowl*_NOUN	O2
 rose_NOUN coloured_* glasses_NOUN	A5.1+/X2.1
 rose_NOUN hip*_NOUN	L3
 rot*_* {PRON/ADV/Np} away_ADV	A1.1.2
-rot*_* {PRON/ADV/Np} away_ADV	A1.1.2
 rough*_* it_PRON	A12-
 rough_ADJ and_CCONJ ready_ADJ	O4.2-
 rough_ADJ casting_NOUN	H1
@@ -15608,7 +15532,6 @@ run*_* {ADV} ahead_ADV	M1
 run*_* {ADV} along_ADV	M1
 run*_* {ADV} amok_ADV	A1.7-
 run*_* {ADV} amuck_ADV	A1.7-
-run*_* {ADV} away_ADV	M1
 run*_* {ADV} away_ADV	M1 A1.7-
 run*_* {ADV} in_ADP the_DET {ADJ/INTJ} family_NOUN	S4
 run*_* {ADV} loose_*	A1.7-
@@ -15623,7 +15546,6 @@ run*_* {PRON/ADV/Np} into_ADP the_DET {ADJ/INTJ} ground_NOUN	S7.1+
 run*_* {PRON/ADV/Np} off_*	M1/N3.8+ A1.1.1 Q1.2 S3.2
 run*_* {PRON/ADV/Np} out_*	N5.1- M1 T2- M2
 run*_* {PRON/ADV/Np} over_ADV	E3-/M3 M1 X2.4
-run*_* {PRON/ADV/Np} over_ADV	E3-/M3 X2.4 M1
 run*_* {PRON/ADV/Np} round_ADV	M1 M2
 run*_* {PRON/ADV/Np} through_ADV	E3- M1 X2.4 Q2.1
 run*_* {PRON/ADV/Np} up_ADV	A2.2 M1 M2 N4
@@ -15641,7 +15563,6 @@ running_ADJ text_NOUN	Q4.1/Q3 Q3/Y2
 running_ADJ water_NOUN	O1.2
 running_NOUN shoe*_NOUN	B5/K5.1
 running_NOUN track*_NOUN	K5.1/M7c
-running_NOUN track*_NOUN	K5.1/M7
 rush*_* {ADV} ahead_ADV	M1/N3.8+ A1.1.1/N3.8+
 rush*_* {ADV} in_ADV with_ADP both_DET feet_NOUN	N3.8+/A1.1.1
 rush*_* {ADV} in_ADV with_ADP both_DET hands_NOUN	N3.8+/A1.1.1
@@ -15679,7 +15600,6 @@ sales_NOUN manager*_NOUN	I2.2/S2mf
 sales_NOUN people_NOUN	I2.2/S2
 sales_NOUN person*_NOUN	I2.2/S2mf
 sales_NOUN pitch*_NOUN	I2.2/Q2.2
-sales_NOUN pitch*_NOUN	I2.2/Q2.2
 sales_NOUN rep*_NOUN	I2.2/S2mf
 salmon_ADJ pink_NOUN	O4.3
 sand_NOUN bank*_NOUN	W3
@@ -15709,8 +15629,7 @@ sausage_NOUN skin*_NOUN	F1
 sav*_* time_NOUN	T1.3-
 sav*_* {DET/Np} face_NOUN	S1.2.3+
 save*_* {PRON/ADV/Np} up_ADV	I1.1/A9+ A9+
-save_ADP for_ADP	A1.8-
-save_ADP for_ADP	Z5
+save_ADP for_ADP	A1.8- Z5
 save_SCONJ that_SCONJ	Z5
 saving_* {PRON/ADV/Np} up_ADV	I1.1/A9+ A9+
 savings_NOUN account*_*	I1.1
@@ -15823,6 +15742,7 @@ season_NOUN ticket*_NOUN	Q1.2/T1.3
 seat_NOUN belt*_NOUN	M3
 second_* hand_*	T3+
 second_* hand_* shop*_NOUN	I2.2/T3+c
+second_* and_CCONJ a_DET half_NOUN	T1.3
 second_ADJ best_ADJ	A5.1--
 second_ADJ chef*_NOUN	F1/S2mf
 second_ADJ class_NOUN citizen*_NOUN	A11.1-/S2mf
@@ -15945,7 +15865,6 @@ sergeant_NOUN major*_NOUN	G3/S2mf
 sergeants_NOUN '_PART mess*_NOUN	F1/G3c
 serial_ADJ killer*_NOUN	L1-/S2mf
 serial_ADJ number*_NOUN	N1/N4
-serv*_* *_DET purpose_NOUN	A1.5.2+
 serv*_* *_DET purpose_NOUN	A1.5.2+
 serv*_* *_PRON right_*	S1.1.4+
 serv*_* {DET/Np} time_NOUN	G2.1
@@ -16231,7 +16150,6 @@ sit*_* {ADV} together_ADV	M8/S5+
 sit*_* {PRON/ADV/Np} down_ADV	M8 M1 M2
 sit*_* {PRON/ADV/Np} out_ADV	M8
 sit*_* {PRON/ADV/Np} up_ADV	M1 M2 M8
-sit*_* {PRON/ADV/Np} up_ADV	M1 M2
 sit_* com*_*	Q4.3/E4.1+
 sit_* down_* meal*_NOUN	F1
 sit_* up*_NOUN	K5.1
@@ -16638,7 +16556,6 @@ spring*_* {ADV} out_*	M1
 spring*_* {ADV} to_* mind_*	X2.1
 spring*_* {ADV} up_ADV	A8+ M1
 spring_NOUN clean*_*	B4
-spring_NOUN clean*_*	B4
 spring_NOUN harvest*_NOUN	F4
 spring_NOUN onion*_NOUN	F1 L3
 spring_NOUN roll*_NOUN	F1
@@ -16777,7 +16694,6 @@ stay*_* behind_ADV	M8
 stay*_* over_ADV	H4
 stay*_* put_VERB	M8
 stay*_* {ADV} away_ADV	S1.1.3-
-stay*_* {ADV} away_ADV	S1.1.3-
 stay*_* {ADV} in_ADV	M8
 stay*_* {ADV} on_ADV	T2++ M8
 stay*_* {ADV} out_ADP of_ADP	S1.1.3-
@@ -16798,12 +16714,10 @@ steam_NOUN train*_NOUN	M3fn
 steel_NOUN casting_NOUN	A1.1.1 O2
 steel_NOUN industries_NOUN	O1.1/I4
 steel_NOUN industry_NOUN	O1.1/I4c
-steel_NOUN mill*_NOUN	VARB
+steel_NOUN mill*_NOUN	I4/H1c
 steel_NOUN rod_NOUN wire*_NOUN	O2
 steel_NOUN worker*_NOUN	I4/S2mf
 steel_NOUN works_NOUN	I4/H1c
-steel_NOUN works_NOUN	VARB
-steel_NOUN works_NOUN	I4/M7c
 steer*_* {ADV} clear_*	A1.9
 steer*_* {PRON/ADV/Np} away_ADV	M6 A1.9/A2.2
 steer*_* {PRON/ADV/Np} in_ADP the_DET right_ADJ direction_NOUN	S8+
@@ -16937,8 +16851,7 @@ street_NOUN children_NOUN	H4-/T3-/S2mf
 street_NOUN collection*_NOUN	I1/A9+
 street_NOUN corner*_NOUN	H3
 street_NOUN corner_NOUN shop*_NOUN	I2.2/H1
-street_NOUN cred_NOUN	A5.4+/A8
-street_NOUN cred_NOUN	O4.2+
+street_NOUN cred_NOUN	A5.4+/A8 O4.2+
 street_NOUN directories_NOUN	Q4.1/H3
 street_NOUN directory_NOUN	Q4.1/H3
 street_NOUN door*_NOUN	H2
@@ -17060,8 +16973,7 @@ sub_* mariner*_*	M4/S2mf
 sub_* tropical_ADJ	W4
 sub_* unit*_NOUN	S5+c
 subject_* matter_NOUN	X4.1
-subject_ADP to_ADP	Z5
-subject_ADP to_ADP	S7.1-
+subject_ADP to_ADP	S7.1- Z5
 subject_NOUN area*_NOUN	A4.1
 submarine_NOUN braking_NOUN	M3
 subscription_NOUN magazine*_NOUN	Q4.2
@@ -17448,7 +17360,6 @@ tarot_NOUN reader*_NOUN	S9/S2mf
 tart*_* {PRON/ADV/Np} up_ADV	O4.2+/A2.1
 tartar_* sauce_NOUN	F1
 task_NOUN force*_NOUN	A1.1.1/S5+c
-task_NOUN force*_NOUN	A1.1.1/S5+c
 taste_NOUN bud*_NOUN	B1
 taster_NOUN course*_NOUN	P1/X2.4
 tax_NOUN accountant*_NOUN	I1.1/S2mf
@@ -17745,7 +17656,6 @@ thought_* {PRON/ADV/Np} out_ADV	X2.1
 thought_* {PRON/ADV/Np} through_ADV	X2.1
 thought_NOUN process*_NOUN	X2.1
 thought_VERB the_DET sun_NOUN and_CCONJ moon_NOUN shine*_VERB out_ADP of_ADP	S7.2+
-thought_VERB the_DET sun_NOUN and_CCONJ moon_NOUN shine*_VERB out_ADP of_ADP	S7.2+
 thought_VERB the_DET {ADJ/INTJ} world_NOUN of_ADP	E2+
 thought_VERB {ADV} ahead_ADV	X2.1/T1.1.3
 thought_VERB {PRON/ADV/Np} through_ADV	X2.1
@@ -17922,8 +17832,7 @@ to_PART use_VERB a_DET common_ADJ way_NOUN of_ADP putting_VERB it_PRON	Z4
 today_ADV 's_PART age_NOUN	T1.1.2
 toe*_* the_DET {ADJ/INTJ} line_NOUN	S7.1-
 toe_NOUN rag*_NOUN	O4.2-/S2mf
-together_ADP with_ADP	S5+
-together_ADP with_ADP	Z5
+together_ADP with_ADP	S5+ Z5
 toilet_NOUN roll*_NOUN	B4/O2
 toilet_NOUN seat*_NOUN	B4
 toilet_NOUN train*_NOUN	M3
@@ -18016,7 +17925,6 @@ took_VERB the_DET rough_ADJ with_ADP the_DET smooth_ADJ	E6+
 took_VERB the_DET steam_NOUN out_ADP of_ADP	X5.2-/A2.1
 took_VERB the_DET {ADJ/INTJ} door_NOUN	M1
 took_VERB the_DET {ADJ/INTJ} fun_NOUN out_ADP of_ADP	E4.1+
-took_VERB the_DET {ADJ/INTJ} mick_NOUN	E4.1+
 took_VERB the_DET {ADJ/INTJ} mick_NOUN	E4.1+
 took_VERB the_DET {ADJ/INTJ} mickey_NOUN	E4.1+
 took_VERB the_DET {ADJ/INTJ} plunge_NOUN	A1.1.1
@@ -18252,7 +18160,7 @@ trip*_NOUN out_ADV	M1
 trivium_* initii_*	Q1.2
 trod*_* on_ADP *_DET toes_NOUN	S8-
 trod*_VERB on_ADP {PRON/Np} 's_PART toes_NOUN	S8-
-troll*_VERB	along M1
+troll*_VERB along_ADP	M1
 troop*_* {ADV} off_ADV	M1
 troop*_* {ADV} out_ADV	M1
 troop*_* {ADV} round_ADV	M1
@@ -18307,7 +18215,6 @@ turn*_* {INTJ/ADJ/DET} tables_NOUN	A2.1+
 turn*_* {PRON/ADV/Np} around_ADV	M1 M2 A2.1+
 turn*_* {PRON/ADV/Np} away_ADV	M1 M2 A2.1+
 turn*_* {PRON/ADV/Np} back_ADV	M1 M2 A2.1+
-turn*_* {PRON/ADV/Np} back_ADV	M1 M2
 turn*_* {PRON/ADV/Np} down_ADV	X7- A1.1.1 X3.2-/A2.1
 turn*_* {PRON/ADV/Np} in_ADV	M1 M2 B1 G2.1 S1.2.1-
 turn*_* {PRON/ADV/Np} into_ADP	A2.1+
@@ -18435,7 +18342,6 @@ up_ADP the_DET ladder_NOUN	S7.1+
 up_ADP the_DET road_NOUN	N3.3-
 up_ADP the_DET {ADJ/INTJ} road_NOUN	N3.3-
 up_ADP to_ADP	Z5 X6+
-up_ADP to_ADP	Z5
 up_ADP to_ADP *_DET {ADJ/INTJ} ears_NOUN in_ADP	N5++
 up_ADP to_ADP *_DET {ADJ/INTJ} eyeballs_NOUN	N5+
 up_ADP to_ADP a_DET {ADJ} point_NOUN	A13.6
@@ -18536,8 +18442,7 @@ vinyl_* matt_*	O4.5
 vinyl_* silk_*	O4.5
 viral_* disease*_NOUN	B2-
 virtual_ADJ reality_NOUN	Y2
-vis_ADP a_ADP vis_ADP	A2.2
-vis_ADP a_ADP vis_ADP	Z5
+vis_ADP a_ADP vis_ADP	A2.2 Z5
 vision_NOUN mixer*_NOUN	Q4.3/S2mf
 vision_NOUN technician*_NOUN	B4/S2mf
 visual_ADJ display_NOUN unit*_NOUN	Y2
@@ -18548,7 +18453,7 @@ vitamin_NOUN tablet*_NOUN	B3
 voice_NOUN exercise*_NOUN	B3/Q2.1
 voice_NOUN trace*_NOUN	G2.1/K3
 volley_NOUN ball_NOUN	K5.1
-voluntary_ADJ care_NOUN	DEL
+voluntary_ADJ care_NOUN	S8+/B3
 voluntary_ADJ service_NOUN	S8+/I1-
 voluntary_ADJ work_NOUN	I3.1/I1.1-
 volunteer_NOUN carer*_NOUN	S8+/S2mf
@@ -18692,7 +18597,6 @@ water_NOUN tower*_NOUN	O1.2/O2
 water_NOUN treatment_NOUN	B4
 water_NOUN under_ADP the_DET {ADJ/INTJ} bridge_NOUN	T1.1.1
 watering_NOUN hole*_NOUN	F2/H1c W3
-watering_NOUN hole*_NOUN	F2/H1
 wav*_* {PRON/ADV/Np} down_ADV	Q1.1
 wav*_* {PRON/ADV/Np} off_ADV	Q1.1
 wave*_VERB {PRON/ADV/Np} around_ADV	M2 M1
@@ -18728,6 +18632,7 @@ wedding_NOUN present*_NOUN	A9-/S4
 wedding_NOUN ring*_NOUN	B5/S4
 wedg*_* {PRON/ADV/Np} in_ADV	M2 M8
 weed*_VERB out_ADV	S1.1.3- F4
+week_* and_CCONJ a_DET half_NOUN	T1.3
 week_NOUN to_ADP week_NOUN basis_NOUN	N6+
 weekend_NOUN course*_NOUN	P1/T1.3
 weigh*_* in_ADV	N3.5
@@ -18828,7 +18733,6 @@ went_VERB {ADV} along_ADV {ADV} with_ADP	S1.1.3+
 went_VERB {ADV} amiss_ADV	A9-
 went_VERB {ADV} around_*	M1
 went_VERB {ADV} away_ADV	M1 A10- G2.1@
-went_VERB {ADV} away_ADV	M1 A10-
 went_VERB {ADV} back_*	M1 A2.1+
 went_VERB {ADV} back_* in_ADP time_NOUN	T1.1.1
 went_VERB {ADV} bananas_NOUN	X5.2+++ B2-/X1 E3-
@@ -18985,12 +18889,10 @@ winkle*_VERB {PRON/ADV/NOUN} out_ADV of_ADP	G2.2- X2.3+
 winter_NOUN break*_NOUN	T1.3/K1
 wip*_* {PRON/ADV/Np} down_ADV	B4
 wip*_* {PRON/ADV/Np} off_ADV	B4 A1.1.2
-wipe*_VERB {PRON/ADV/Np} out_ADV	A1.1.2 B4 L1-
 wipe*_VERB {PRON/ADV/Np} out_ADV	A1.1.2 L1- B4
 wiper_NOUN blade*_NOUN	O2
 wiping_* {PRON/ADV/Np} out_ADV	A1.1.2 L1- B4
-wiping_* {PRON/ADV/Np} out_ADV	A1.1.2 B4 L1-
-wire*_* {NN*/P*}	up O3
+wire*_* {NN*/P*} up_ADP	O3
 wire*_VERB {PRON/ADV/Np} across_ADV	Q1.3
 wired_ADJ licence_NOUN	S7.4+/O3
 wiring_* {PRON/ADV/Np} across_ADV	Q1.3
@@ -19003,8 +18905,7 @@ with_ADP a_DET fine_ADJ toothcomb_NOUN	A4.2+
 with_ADP a_DET fine_ADJ toothed_* comb_NOUN	A4.2+
 with_ADP a_DET {ADJ/INTJ} bang_NOUN	X9.2+
 with_ADP a_DET {ADV/ADJ/INTJ} straight_ADJ face_NOUN	E4.1-
-with_ADP reference_ADP to_ADP	A2.2
-with_ADP reference_ADP to_ADP	Z5
+with_ADP reference_ADP to_ADP	A2.2 Z5
 with_ADP regard_* to_ADP	Z5
 with_ADP regard_ADP to_ADP	A2.2
 with_ADP relation_ADP to_ADP	A2.2
