@@ -17,8 +17,8 @@
 | Russian (ru)             | semantic_lexicon_rus.tsv       | 17,443                          | :heavy_check_mark:           | :x:                          |
 | Russian (ru)             | semantic_lexicon_rus_names.tsv | 7,643                           | :heavy_check_mark:           | :x:                          |
 | Russian (ru)             | mwe-rus.tsv                    | :x:                             | :x:                          | 713                          |
-| Spanish, Castilian (es)  | semantic_lexicon_es.tsv        | 9,709                           | :heavy_check_mark:           | :x:                          |
-| Spanish, Castilian (es)  | mwe-es.tsv                     | :x:                             | :x:                          | 4,841                        |
+| Spanish, Castilian (es)  | semantic_lexicon_es.tsv        | 13,111                          | :heavy_check_mark:           | :x:                          |
+| Spanish, Castilian (es)  | mwe-es.tsv                     | :x:                             | :x:                          | 5,595                        |
 | Swedish (sv)             | semantic_lexicon_se.tsv        | 18,082                          | :heavy_check_mark:           | :x:                          |
 | Urdu (ur)                | Urdu_Semantic_Lexicon.tsv      | 2,000                           | :heavy_check_mark:           | :x:                          |
 | Welsh (cy)               | semantic_lexicon_cy.tsv        | 143,292                         | :heavy_check_mark:           | :x:                          |
