@@ -482,11 +482,26 @@ python mwe_pos_mapping.py English/mwe-en.txt pos_mappers/mwe_c7_to_upos.json Eng
 
 ### Python Requirements
 
+If you prefer to use a Dev Container see the section below.
+
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
 
 ``` bash
 pip install -r requirements.txt
 ```
+
+#### Dev Container
+
+A [dev container](https://containers.dev/) uses a docker container to create the required development environment. To run it locally it requires docker to be installed, you can also run it in a cloud based code editor, for a list of supported editors/cloud editors see [the following webpage.](https://containers.dev/supporting)
+
+To run for the first time on a local VSCode editor (a slightly more detailed and better guide on the [VSCode website](https://code.visualstudio.com/docs/devcontainers/tutorial)):
+1. Ensure docker is running.
+2. Ensure the VSCode [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension is installed in your VSCode editor.
+3. Open the command pallete `CMD + SHIFT + P` and then select `Dev Containers: Rebuild and Reopen in Container`
+
+You should now have everything you need to develop, `python` and `git`, for VSCode various extensions like `Pylance`, etc.
+
+If you have any trouble see the [VSCode website.](https://code.visualstudio.com/docs/devcontainers/tutorial).
 
 ## Citation
 

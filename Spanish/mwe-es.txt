@@ -1,8 +1,9 @@
-#Spanish Semantic MWE Lexicon. Clean Version. Last updated: 26 April 2017.
+#Spanish Semantic MWE Lexicon. Clean Version. Last updated: 2 April 2019.
 #Contributors include:
 #Ricardo-María Jiménez of UICbarcelona (International University of Catalonia), Barcelona, Spain;
 #Hugo Sanjurjo González, University of León, Spain;
 #Carlos Herrero of Autonomous University of Madrid (UAM), Spain.
+#ACTRES Research Group - https://actres.unileon.es/ (Spain).
 #Lexicon editors: Scott Piao & Paul Rayson, UCREL, Lancaster University, UK.
 
 mwe_template	semantic_tags
@@ -35,8 +36,13 @@ A_pnoun Somozass_pnoun	Z2
 A_pnoun Teixeira_pnoun	Z2
 A_pnoun Veiga_pnoun	Z2
 a_prep carta_noun cabal_adj	A4 A5.1
+a_prep la_art plancha_noun	A1.1.1
+a_prep limón_noun	X3.1/X3.5
 a_prep machamartillo_noun	S1.2.5
+a_prep nueces_noun	X3.1
+a_prep nuez_noun	X3.1
 a_prep pie_noun juntillas_noun	A5 S3 X2.2
+a_prep temperatura_noun controlada_verb	A1.1.1
 a_prep trancas_noun y_conj barrancas_noun	A12
 a_prep troche_noun y_conj moche_noun	A13.2 X2.5
 Aarón_pnoun Sarmiento_pnoun	Z2
@@ -50,11 +56,43 @@ Abella_pnoun de_pnoun la_pnoun Conca_pnoun	Z2
 Abia_pnoun de_pnoun la_pnoun Obispalía_pnoun	Z2
 Abia_pnoun de_pnoun las_pnoun Torres_pnoun	Z2
 Abu_pnoun Dabi_pnoun	Z2
+acción_noun colagoga_noun	B3
+acción_noun colerética_adj	A1.1.1
+aceite_noun de_prep algodón_noun parcialmente_adv hidrogenado_verb	F1
+aceite_noun de_prep colza_noun	F1
+aceite_noun de_prep girasol_noun	F1
+aceite_noun de_prep girasol_noun alto_adj oléico_adj	F1
+aceite_noun de_prep limón_noun	F1
+aceite_noun de_prep maíz_noun	F1/L3
+aceite_noun de_prep oliva_noun	F1/L3
+aceite_noun de_prep oliva_noun virgen_noun extra_adj	F1
+aceite_noun de_prep palma_noun	F1
+aceite_noun de_prep palma_noun no_adv hidrogenado_verb	F1
+aceite_noun de_prep palmiste_noun	F1
+aceite_noun de_prep soja_noun	F1
+aceite_noun vegetal_noun	F1/L3
+aceite_noun vegetal_noun parcialmente_adv hidrogenado_verb	F1
 acercarse_fw al_port sol_noun que_pron más_adv calienta_verb	S7 X5.2
+acero_noun inoxidable_adj	F2/O2/N3.2/N3.5/A1.1.1
+acidez_noun total_noun	X3.1
+acidez_noun volátil_adj	O1/O1.1/O2
+ácido_adj aminobutírico_noun	O1/O1.1/O2
+ácido_adj ascórbico_adj	O1/O1.1/O2
+ácido_adj cítrico_adj	O1/O1.1/O2
+ácido_adj clorogénico_adj	O1/O1.1/O2
+ácido_adj fólico_adj	O1/O1.1/O2
+ácido_adj oleanólico_adj	O1/O1.1/O2
+ácido_adj pantoténico_adj	O1/O1.1/O2
+ácido_adj ursólico_adj	O1/O1.1/O2
+ácidos_adj cafeilquínicos_noun	O1/O1.1/O2
 acordarse_fw de_prep Santa_adj Bárbara_noun cuando_conj truena_verb	T2 T4
+adaptarse_verb a_prep	A1.2
+adenina_noun	O1/O1.1/O2
 Adís_pnoun Abeba_pnoun	Z2
+adquirir_verb un_art color_noun	A1.1.1/O4.3
 Adrada_pnoun de_pnoun Haza_pnoun	Z2
 Adrada_pnoun de_pnoun Pirón_pnoun	Z2
+agua_noun de_prep manantial_noun	F1
 Aguas_pnoun Cándidas_pnoun	Z2
 Aguilar_pnoun de_pnoun Bureba_pnoun	Z2
 Aguilar_pnoun de_pnoun Campoo_pnoun	Z2
@@ -67,18 +105,19 @@ Aguilar_pnoun del_pnoun Río_pnoun Alhama_pnoun	Z2
 Ahigal_pnoun de_pnoun los_pnoun Aceiteros_pnoun	Z2
 Ahigal_pnoun de_pnoun Villarino_pnoun	Z2
 Ahuecar_verb el_art ala_noun	T1
+ahumado_adj con_prep roble_noun	X3.1/X3.5
 Aielo_pnoun de_pnoun Malferit_pnoun	Z2
 Aielo_pnoun de_pnoun Rugat_pnoun	Z2
 Ainhoa_pnoun Murua_pnoun	Z2
 Ainhoa_pnoun Murúa_pnoun	Z2
-Ainhoa_pnoun Murua_pnoun Zubizarreta_pnoun	Z2
 Ainhoa_pnoun Murúa_pnoun Zubizarreta_pnoun	Z2
+Ainhoa_pnoun Murua_pnoun Zubizarreta_pnoun	Z2
 Ajamil_pnoun de_pnoun Cameros_pnoun	Z2
+ajo_noun molido_adj	F1/L3
 Alagón_pnoun del_pnoun Río_pnoun	Z2
 Alameda_pnoun de_pnoun la_pnoun Sagra_pnoun	Z2
 Alameda_pnoun del_pnoun Valle_pnoun	Z2
 Alar_pnoun del_pnoun Rey_pnoun	Z2
-Alàs_pnoun I_pnoun Cerc_pnoun	Z2
 Alba_pnoun de_pnoun Cerrato_pnoun	Z2
 Alba_pnoun de_pnoun Tormes_pnoun	Z2
 Alba_pnoun de_pnoun Yeltes_pnoun	Z2
@@ -86,6 +125,7 @@ Alba_pnoun María_pnoun Cabello_pnoun	Z2
 Alba_pnoun María_pnoun Cabello_pnoun Rodilla_pnoun	Z2
 Alba_pnoun Torrens_pnoun	Z2
 Alba_pnoun Torrens_pnoun Salom_pnoun	Z2
+albahaca_noun sagrada_adj	X3.1/X3.5/F1/L3
 Albaida_pnoun del_pnoun Aljarafe_pnoun	Z2
 Albaladejo_pnoun del_pnoun Cuende_pnoun	Z2
 Albalat_pnoun de_pnoun la_pnoun Ribera_pnoun	Z2
@@ -127,13 +167,13 @@ Alcalá_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
 Alcalá_pnoun de_pnoun la_pnoun Vega_pnoun	Z2
 Alcalá_pnoun de_pnoun los_pnoun Gazules_pnoun	Z2
 Alcalá_pnoun de_pnoun Moncayo_pnoun	Z2
-Alcalà_pnoun de_pnoun Xivert_pnoun	Z2
 Alcalá_pnoun del_pnoun Júcar_pnoun	Z2
 Alcalá_pnoun del_pnoun Obispo_pnoun	Z2
 Alcalá_pnoun del_pnoun Río_pnoun	Z2
 Alcalá_pnoun del_pnoun Valle_pnoun	Z2
 Alcalá_pnoun la_pnoun Real_pnoun	Z2
-Alcàntera_pnoun de_pnoun Xúquer_pnoun	Z2
+Alcalà_pnoun de_pnoun Xivert_pnoun	Z2
+alcanzar_verb el_art pico_verb	A1.1.1
 Alcaudete_pnoun de_pnoun la_pnoun Jara_pnoun	Z2
 Alcázar_pnoun de_pnoun San_pnoun Juan_pnoun	Z2
 Alcázar_pnoun del_pnoun Rey_pnoun	Z2
@@ -153,6 +193,7 @@ Alcubilla_pnoun de_pnoun las_pnoun Peñas_pnoun	Z2
 Alcubilla_pnoun de_pnoun Nogales_pnoun	Z2
 Alcudia_pnoun de_pnoun Monteagud_pnoun	Z2
 Alcudia_pnoun de_pnoun Veo_pnoun	Z2
+Alcàntera_pnoun de_pnoun Xúquer_pnoun	Z2
 Aldea_pnoun de_pnoun San_pnoun Miguel_pnoun	Z2
 Aldea_pnoun del_pnoun Cano_pnoun	Z2
 Aldea_pnoun del_pnoun Fresno_pnoun	Z2
@@ -213,6 +254,7 @@ Alfoz_pnoun de_pnoun Quintanadueñas_pnoun	Z2
 Alfoz_pnoun de_pnoun Santa_pnoun Gadea_pnoun	Z2
 Alfredo_pnoun Carneros_pnoun	Z2
 Alfredo_pnoun Carneros_pnoun Beamud_pnoun	Z2
+alga_noun wakame_noun	X3.5/X3.1/F1/L3
 Algar_pnoun de_pnoun Mesa_pnoun	Z2
 Algar_pnoun de_pnoun Palancia_pnoun	Z2
 Algimia_pnoun de_pnoun Alfara_pnoun	Z2
@@ -236,6 +278,12 @@ Almenar_pnoun de_pnoun Soria_pnoun	Z2
 Almenara_pnoun de_pnoun Adaja_pnoun	Z2
 Almenara_pnoun de_pnoun Tormes_pnoun	Z2
 Almendral_pnoun de_pnoun la_pnoun Cañada_pnoun	Z2
+almidón_noun de_prep arroz_noun	F1
+almidón_noun de_prep maíz_noun	F1
+almidón_noun de_prep maíz_noun modificado_verb	F1
+almidón_noun de_prep patata_noun	F1
+almidón_noun de_prep tapioca_noun	F1
+almidón_noun de_prep trigo_noun	F1
 Almodóvar_pnoun del_pnoun Campo_pnoun	Z2
 Almodóvar_pnoun del_pnoun Pinar_pnoun	Z2
 Almodóvar_pnoun del_pnoun Río_pnoun	Z2
@@ -249,10 +297,12 @@ Almudena_pnoun Cid_pnoun	Z2
 Almudena_pnoun Cid_pnoun Tostado_pnoun	Z2
 Almudena_pnoun Gallardo_pnoun	Z2
 Almunia_pnoun de_pnoun San_pnoun Juan_pnoun	Z2
-Alòs_pnoun de_pnoun Balaguer_pnoun	Z2
+aloe_noun vera_noun	F1/L3
 Alpujarra_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Alquerías_pnoun del_pnoun Niño_pnoun Perdido_pnoun	Z2
 Alt_pnoun Àneu_pnoun	Z2
+alta_adj intensidad_noun	X3.5
+Althaea_pnoun officinalis_noun	F1/L3
 Álvaro_pnoun de_pnoun Figueroa_pnoun	Z2
 Álvaro_pnoun Fernández_pnoun	Z2
 Álvaro_pnoun Martín_pnoun	Z2
@@ -260,6 +310,16 @@ Alt_pnoun Àneu_pnoun	Z2
 Álvaro_pnoun Nadal_pnoun Belda_pnoun	Z2
 Álvaro_pnoun Rodríguez_pnoun	Z2
 Álvaro_pnoun Rodríguez_pnoun Melero_pnoun	Z2
+Alàs_pnoun I_pnoun Cerc_pnoun	Z2
+Alòs_pnoun de_pnoun Balaguer_pnoun	Z2
+amante_noun del_prep+art queso_noun	S2mf/F1
+amarillo_adj dorado_adj	O4.3
+amarillo_adj limón_noun	O4.3/X3.5/X3.1/F1/L3
+amarillo_adj oro_noun	O4.3
+amarillo_adj paja_noun	F1/X3.1/X3.5/O4.3/L3
+amarillo_adj pajizo_adj	O4.3
+amarillo_adj pálido_adj	O4.3
+amarillo_adj verdoso_adj	O4.3
 Amaya_pnoun Valdemoro_pnoun	Z2
 Amaya_pnoun Valdemoro_pnoun Madariaga_pnoun	Z2
 Amayuelas_pnoun de_pnoun Arriba_pnoun	Z2
@@ -287,8 +347,8 @@ Ander_pnoun Elosegui_pnoun	Z2
 Ander_pnoun Elosegui_pnoun Alcaín_pnoun	Z2
 Andrea_pnoun Barnó_pnoun	Z2
 Andrea_pnoun Fuentes_pnoun	Z2
-Andrea_pnoun Fuentes_pnoun Fache_pnoun	Z2
 Andrea_pnoun Fuentes_pnoun Fache*_pnoun	Z2
+Andrea_pnoun Fuentes_pnoun Fache_pnoun	Z2
 Andrés_pnoun Mata_pnoun	Z2
 Andrés_pnoun Mata_pnoun Pérez_pnoun	Z2
 Ángel_pnoun David_pnoun	Z2
@@ -298,6 +358,8 @@ Andrés_pnoun Mata_pnoun Pérez_pnoun	Z2
 Ángel_pnoun Luis_pnoun Andreo_pnoun Gabán_pnoun	Z2
 Ángela_pnoun San_pnoun Juan_pnoun	Z2
 Ángela_pnoun San_pnoun Juan_pnoun Cisneros_pnoun	Z2
+anís_noun estrellado_verb	X3.5/X3.1/F1/L3
+anís_noun verde_adj	X3.5/X3.1/F1/L3
 Anna_pnoun Montañana_pnoun	Z2
 Anna_pnoun Montañana_pnoun Gimeno_pnoun	Z2
 Anna_pnoun Sanchís_pnoun	Z2
@@ -333,6 +395,8 @@ Araceli_pnoun Navarro_pnoun Laso_pnoun	Z2
 Aragüés_pnoun del_pnoun Puerto_pnoun	Z2
 Aranda_pnoun de_pnoun Duero_pnoun	Z2
 Aranda_pnoun de_pnoun Moncayo_pnoun	Z2
+arándano_noun negro_adj azulado_adj	F2/L3/F1
+arándano_noun rojo_adj	F2/L3/F1
 Arandilla_pnoun del_pnoun Arroyo_pnoun	Z2
 Arantxa_pnoun Ramos_pnoun	Z2
 Arantxa_pnoun Ramos_pnoun Plasencia_pnoun	Z2
@@ -366,6 +430,12 @@ Arganda_pnoun del_pnoun Rey_pnoun	Z2
 armar_verb un_art cisco_noun	E8 A2
 Armuña_pnoun de_pnoun Almanzora_pnoun	Z2
 Armuña_pnoun de_pnoun Tajuña_pnoun	Z2
+aroma_noun artificial_adj	F1/O1
+aroma_noun de_prep *_noun X3.5
+aroma_noun natural_adj de_prep vainilla_noun	X3.5
+aromatizado_verb con_prep	X3.5
+aromatizante_noun artificial_adj	F1
+aromatizante_noun natural_adj	F1/L3
 Arpad_pnoun Šterbik_pnoun	Z2
 Arraya_pnoun de_pnoun Oca_pnoun	Z2
 arrimar_verb el_art ascua_noun a_prep su_pron sardina_noun	S7.1 S1.2.2
@@ -377,16 +447,22 @@ Arroyo_pnoun de_pnoun San_pnoun Serván_pnoun	Z2
 Arroyo_pnoun del_pnoun Ojanco_pnoun	Z2
 Arroyomolinos_pnoun de_pnoun la_pnoun Vera_pnoun	Z2
 Arroyomolinos_pnoun de_pnoun León_pnoun	Z2
+arroz_noun inflado_verb	F1/L3
+arroz_noun integral_adj	F1/L3
 Artesa_pnoun de_pnoun Lleida_pnoun	Z2
 Artesa_pnoun de_pnoun Segre_pnoun	Z2
 Arturo_pnoun Casado_pnoun	Z2
 Arturo_pnoun Casado_pnoun Alda_pnoun	Z2
 Aschwin_pnoun Wildeboer_pnoun	Z2
+ascorbato_noun sódico_adj	F1
 Asier_pnoun Maeztu_pnoun	Z2
 Asier_pnoun Maeztu_pnoun Villabeitia_pnoun	Z2
+Aspalathus_pnoun Linearis_pnoun	F1/L3
 Atalaya_pnoun del_pnoun Cañavate_pnoun	Z2
 Atzeneta_pnoun D'albaida_pnoun	Z2
 Atzeneta_pnoun del_pnoun Maestrat_pnoun	Z2
+aumento_noun brusco_noun de_prep la_art temperatura_noun	A1.1.1/T1.3
+aumento_noun brusco_noun del_prep+art calor_noun	A1.1.1/T1.3
 Ausejo_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Autilla_pnoun del_pnoun Pino_pnoun	Z2
 Autillo_pnoun de_pnoun Campos_pnoun	Z2
@@ -398,6 +474,12 @@ Ayad_pnoun Lamdassem_pnoun El_pnoun	Z2
 Ayad_pnoun Lamdassem_pnoun El_pnoun Mouhcin_pnoun	Z2
 Ayoó_pnoun de_pnoun Vidriales_pnoun	Z2
 Aytami_pnoun Ruano_pnoun	Z2
+azúcar_noun de_prep caña_noun	F1/L3
+azúcar_noun integral_adj	F1/L3
+azúcar_noun integral_adj de_prep caña_noun	F1/L3
+azúcar_noun invertido_verb	F1/L3
+azúcar_noun moreno_noun de_prep caña_noun	F1/L3
+azúcar_noun residual_adj	F1/L3
 Azuqueca_pnoun de_pnoun Henares_pnoun	Z2
 Badia_pnoun del_pnoun Vallès_pnoun	Z2
 Bahabón_pnoun de_pnoun Esgueva_pnoun	Z2
@@ -425,8 +507,8 @@ Barbadillo_pnoun del_pnoun Mercado_pnoun	Z2
 Barbadillo_pnoun del_pnoun Pez_pnoun	Z2
 Bárbara_pnoun González_pnoun	Z2
 Bárbara_pnoun González_pnoun Oteiza_pnoun	Z2
-Bárbara_pnoun Malda_pnoun	Z2
 Bárbara_pnoun Maldá_pnoun	Z2
+Bárbara_pnoun Malda_pnoun	Z2
 Bárbara_pnoun Maldá_pnoun Salinas_pnoun	Z2
 Barberà_pnoun de_pnoun la_pnoun Conca_pnoun	Z2
 Barberà_pnoun del_pnoun Vallès_pnoun	Z2
@@ -436,14 +518,19 @@ Bárcena_pnoun de_pnoun Pie_pnoun de_pnoun Concha_pnoun	Z2
 Barchín_pnoun del_pnoun Hoyo_pnoun	Z2
 Barcial_pnoun de_pnoun la_pnoun Loma_pnoun	Z2
 Barcial_pnoun del_pnoun Barco_pnoun	Z2
+barrica_noun de_prep madera_noun	F2/A1.1.1/O2/N3.2/N3.5/F1/O4.6
+barrica_noun de_prep roble_noun	F2/A1.1.1/O2/N3.2/N3.5/F1/O4.6
 Barrio_pnoun de_pnoun Muñó_pnoun	Z2
 Barrios_pnoun de_pnoun Colina_pnoun	Z2
 Barruelo_pnoun de_pnoun Santullán_pnoun	Z2
 Barruelo_pnoun del_pnoun Valle_pnoun	Z2
+basado_verb en_prep	T2+
 Basconcillos_pnoun del_pnoun Tozo_pnoun	Z2
 Báscones_pnoun de_pnoun Ojeda_pnoun	Z2
 Bascuñana_pnoun de_pnoun San_pnoun Pedro_pnoun	Z2
+bases_noun xánticas_noun	O1/O1.1/O2
 batir_verb el_art cobre_noun	S1.2.5
+baya_noun de_prep enebro_noun	F1/L3
 Bayubas_pnoun de_pnoun Abajo_pnoun	Z2
 Bayubas_pnoun de_pnoun Arriba_pnoun	Z2
 Beas_pnoun de_pnoun Granada_pnoun	Z2
@@ -507,6 +594,12 @@ Berta_pnoun Castells_pnoun	Z2
 Berta_pnoun Castells_pnoun Franco_pnoun	Z2
 Berzosa_pnoun de_pnoun Bureba_pnoun	Z2
 Berzosa_pnoun del_pnoun Lozoya_pnoun	Z2
+Betula_noun alba_noun	F2/X3.5/X3.1/F1/L3
+bicarbonato_noun amónico_adj	F1
+bicarbonato_noun sódico_adj	F1
+bien_adv equilibrada_verb	F2/X3.1
+bien_adv estructurados_verb	F2/O4.5/X3.1
+bien_adv integrada_verb	F2/X3.1
 Bigues_pnoun I_pnoun Riells_pnoun	Z2
 Blanca_pnoun Manchón_pnoun	Z2
 Blasconuño_pnoun de_pnoun Matacabras_pnoun	Z2
@@ -523,6 +616,7 @@ Bodonal_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Bohonal_pnoun de_pnoun Ibor_pnoun	Z2
 Bolaños_pnoun de_pnoun Calatrava_pnoun	Z2
 Bolaños_pnoun de_pnoun Campos_pnoun	Z2
+bollo_noun de_prep pan_noun	F1
 Bollullos_pnoun de_pnoun la_pnoun Mitación_pnoun	Z2
 Bollullos_pnoun Par_pnoun del_pnoun Condado_pnoun	Z2
 Bonilla_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
@@ -598,6 +692,12 @@ Cabrera_pnoun D'anoia_pnoun	Z2
 Cabrera_pnoun de_pnoun Mar_pnoun	Z2
 Cabreros_pnoun del_pnoun Monte_pnoun	Z2
 Cabreros_pnoun del_pnoun Río_pnoun	Z2
+cacao_noun desgrasado_adj	F1/L3
+cacao_noun desgrasado_adj en_prep polvo_noun	F1/L3
+cacao_noun en_prep grano_noun	F1/L3
+cacao_noun en_prep polvo_noun	F1/L3
+cada_adj vez_noun más_adv	A1.1.1
+cada_adj vez_noun mayor_adj	N5+/A2.1
 Cadalso_pnoun de_pnoun los_pnoun Vidrios_pnoun	Z2
 caer_verb el_art alma_noun a_prep los_art pies_noun	E4 E6
 Calabazas_pnoun de_pnoun Fuentidueña_pnoun	Z2
@@ -606,6 +706,7 @@ Caldas_pnoun de_pnoun Reis_pnoun	Z2
 Caldes_pnoun D'estrac_pnoun	Z2
 Caldes_pnoun de_pnoun Malavella_pnoun	Z2
 Caldes_pnoun de_pnoun Montbui_pnoun	Z2
+calentar_verb hasta_prep que_conj hierva_verb	F2/A1.1.1/04.6
 Calera_pnoun de_pnoun León_pnoun	Z2
 Calera_pnoun y_pnoun Chozas_pnoun	Z2
 Callosa_pnoun D'en_pnoun Sarrià_pnoun	Z2
@@ -626,6 +727,8 @@ Camarena_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Camarma_pnoun de_pnoun Esteruelas_pnoun	Z2
 Camarzana_pnoun de_pnoun Tera_pnoun	Z2
 cambiar_verb el_art agua_noun a_prep las_art aceitunas_noun	S1.2 A1.1.1
+cambio_noun brusco_noun en_prep la_art temperatura_noun	A1.1.1/T1.3
+Camellia_pnoun sinensis_noun	F1/L3
 Camp_pnoun de_pnoun Mirra_pnoun	Z2
 Campillo_pnoun de_pnoun Altobuey_pnoun	Z2
 Campillo_pnoun de_pnoun Aragón_pnoun	Z2
@@ -658,6 +761,7 @@ Canalejas_pnoun de_pnoun Peñafiel_pnoun	Z2
 Canalejas_pnoun del_pnoun Arroyo_pnoun	Z2
 Canales_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Cañaveral_pnoun de_pnoun León_pnoun	Z2
+canela_noun en_prep polvo_noun	F1/L3
 Canet_pnoun D'adri_pnoun	Z2
 Canet_pnoun D'en_pnoun Berenguer_pnoun	Z2
 Canet_pnoun de_pnoun Mar_pnoun	Z2
@@ -673,13 +777,20 @@ Canillas_pnoun de_pnoun Albaida_pnoun	Z2
 Canillas_pnoun de_pnoun Esgueva_pnoun	Z2
 Canillas_pnoun de_pnoun Río_pnoun Tuerto_pnoun	Z2
 Cañizar_pnoun del_pnoun Olivar_pnoun	Z2
-Cànoves_pnoun I_pnoun Samalús_pnoun	Z2
 Caracuel_pnoun de_pnoun Calatrava_pnoun	Z2
+caramelo_noun amónico_adj	F1/L3
+caramelo_noun natural_adj	F1/L3
 Caravaca_pnoun de_pnoun la_pnoun Cruz_pnoun	Z2
 Carbajales_pnoun de_pnoun Alba_pnoun	Z2
 Carbajosa_pnoun de_pnoun la_pnoun Sagrada_pnoun	Z2
 Carballeda_pnoun de_pnoun Avia_pnoun	Z2
 Carballeda_pnoun de_pnoun Valdeorras_pnoun	Z2
+carbonato_noun ácido_adj de_prep amonio_noun	F1
+carbonato_noun ácido_adj de_prep sodio_noun	F1
+carbonato_noun de_prep amonio_noun	F1
+carbonato_noun de_prep calcio_noun	F1
+carbonato_noun de_prep magnesio_noun	F1
+carbonato_noun de_prep sodio_noun	F1
 Carboneras_pnoun de_pnoun Guadazaón_pnoun	Z2
 Carbonero_pnoun el_pnoun Mayor_pnoun	Z2
 Carcedo_pnoun de_pnoun Bureba_pnoun	Z2
@@ -711,7 +822,11 @@ Carlos_pnoun Sastre_pnoun	Z2
 Carlos_pnoun Sastre_pnoun Candil_pnoun	Z2
 Carlos_pnoun Torrent_pnoun	Z2
 Carlota_pnoun Castrejana_pnoun Fernández_pnoun	Z2
+carne_noun cocinada_verb	F1
 carne_noun de_prep cañón_noun	A2 A5
+carne_noun de_prep cerdo_noun	F1
+carne_noun en_prep lonchas_noun	F1
+carnes_noun especiales_adj	F1
 Carolina_pnoun Rodríguez_pnoun	Z2
 Carpio_pnoun de_pnoun Azaba_pnoun	Z2
 Carrascal_pnoun de_pnoun Barregas_pnoun	Z2
@@ -723,6 +838,7 @@ Carrascosa_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Carrión_pnoun de_pnoun Calatrava_pnoun	Z2
 Carrión_pnoun de_pnoun los_pnoun Céspedes_pnoun	Z2
 Carrión_pnoun de_pnoun los_pnoun Condes_pnoun	Z2
+casa_noun de_prep campo_noun	F4/H1
 Casa_pnoun de_pnoun Uceda_pnoun	Z2
 Casar_pnoun de_pnoun Cáceres_pnoun	Z2
 Casar_pnoun de_pnoun Palomero_pnoun	Z2
@@ -756,6 +872,9 @@ Casbas_pnoun de_pnoun Huesca_pnoun	Z2
 Cascajares_pnoun de_pnoun Bureba_pnoun	Z2
 Cascajares_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Cascante_pnoun del_pnoun Río_pnoun	Z2
+cáscara_noun de_prep cacao_noun	F2/X3.1/X3.5/F1/L3
+cáscara_noun de_prep limón_noun	X3.1/X3.5/F1/L3
+cáscara_noun de_prep naranja_noun	X3.1/X3.5/F1/L3
 Casillas_pnoun de_pnoun Coria_pnoun	Z2
 Casillas_pnoun de_pnoun Flores_pnoun	Z2
 Cassà_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
@@ -771,11 +890,11 @@ Castejón_pnoun de_pnoun Tornos_pnoun	Z2
 Castejón_pnoun de_pnoun Valdejasa_pnoun	Z2
 Castejón_pnoun del_pnoun Puente_pnoun	Z2
 Castel_pnoun de_pnoun Cabra_pnoun	Z2
+Castell-Platja_pnoun D'aro_pnoun	Z2
 Castell_pnoun de_pnoun Cabres_pnoun	Z2
 Castell_pnoun de_pnoun Castells_pnoun	Z2
 Castell_pnoun de_pnoun L'areny_pnoun	Z2
 Castell_pnoun de_pnoun Mur_pnoun	Z2
-Castell-Platja_pnoun D'aro_pnoun	Z2
 Castellanos_pnoun de_pnoun Castro_pnoun	Z2
 Castellanos_pnoun de_pnoun Moriscos_pnoun	Z2
 Castellanos_pnoun de_pnoun Villiquera_pnoun	Z2
@@ -847,19 +966,27 @@ Castroverde_pnoun de_pnoun Campos_pnoun	Z2
 Castroverde_pnoun de_pnoun Cerrato_pnoun	Z2
 Caudete_pnoun de_pnoun las_pnoun Fuentes_pnoun	Z2
 Cazalla_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+cebada_noun malteada_verb	F2/X3.1/X3.5/F1/L3
+cebolla_noun caramelizada_verb	F1
+cebolla_noun en_prep polvo_noun	F1/L3
 Cebrones_pnoun del_pnoun Río_pnoun	Z2
 Cecilia_pnoun Blanco_pnoun	Z2
 Cedillo_pnoun de_pnoun la_pnoun Torre_pnoun	Z2
 Cedillo_pnoun del_pnoun Condado_pnoun	Z2
 Ceinos_pnoun de_pnoun Campos_pnoun	Z2
 Celada_pnoun del_pnoun Camino_pnoun	Z2
+celebrar_verb un_art evento_noun	A3
 Cendea_pnoun de_pnoun Olza_pnoun	Z2
 Cendejas_pnoun de_pnoun Enmedio_pnoun	Z2
 Cendejas_pnoun de_pnoun la_pnoun Torre_pnoun	Z2
 Cenes_pnoun de_pnoun la_pnoun Vega_pnoun	Z2
+ceniza_noun de_prep heno_noun	X3.5
 Centenera_pnoun de_pnoun Andaluz_pnoun	Z2
 Cepeda_pnoun la_pnoun Mora_pnoun	Z2
 Cerdanyola_pnoun del_pnoun Vallès_pnoun	Z2
+cereal_noun con_prep gluten_noun	F1
+cereal_noun integral_adj	F1
+cereales_noun con_prep gluten_noun	X3.1/X3.5/F1/L3/B2/A1.1.1
 Cereceda_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Cerecinos_pnoun de_pnoun Campos_pnoun	Z2
 Cerecinos_pnoun del_pnoun Carrizal_pnoun	Z2
@@ -877,22 +1004,27 @@ Cervera_pnoun de_pnoun Pisuerga_pnoun	Z2
 Cervera_pnoun del_pnoun Llano_pnoun	Z2
 Cervera_pnoun del_pnoun Maestre_pnoun	Z2
 Cervera_pnoun del_pnoun Río_pnoun Alhama_pnoun	Z2
+Cervillego_pnoun de_pnoun la_pnoun Cruz_pnoun	Z2
 Cervià_pnoun de_pnoun Les_pnoun Garrigues_pnoun	Z2
 Cervià_pnoun de_pnoun Ter_pnoun	Z2
-Cervillego_pnoun de_pnoun la_pnoun Cruz_pnoun	Z2
 Cespedosa_pnoun de_pnoun Tormes_pnoun	Z2
 Cevico_pnoun de_pnoun la_pnoun Torre_pnoun	Z2
 Cevico_pnoun Navero_pnoun	Z2
 Chagarcía_pnoun Medianero_pnoun	Z2
+Chamaemelum_pnoun nobile_noun	F1/L3
 Chandrexa_pnoun de_pnoun Queixa_pnoun	Z2
 Chiclana_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
 Chiclana_pnoun de_pnoun Segura_pnoun	Z2
 Chillarón_pnoun de_pnoun Cuenca_pnoun	Z2
 Chillarón_pnoun del_pnoun Rey_pnoun	Z2
 Chinchilla_pnoun de_pnoun Monte-Aragón_pnoun	Z2
+chocolate_noun amargo_adj	X3.5/X3.1/F1
+chocolate_noun con_prep leche_noun	X3.5/X3.1/F1
+chocolate_noun dulce_adj	X3.5/X3.1/F1
 Chozas_pnoun de_pnoun Abajo_pnoun	Z2
 Chozas_pnoun de_pnoun Canales_pnoun	Z2
 Churriana_pnoun de_pnoun la_pnoun Vega_pnoun	Z2
+ciclo_noun vegetativo_adj	T1.3/A1.1.1
 cielo_noun de_prep color_noun de_prep panza_noun de_prep burro_noun	O4.3 E2
 Cilleros_pnoun de_pnoun la_pnoun Bastida_pnoun	Z2
 Cilleruelo_pnoun de_pnoun Abajo_pnoun	Z2
@@ -904,9 +1036,12 @@ Cimanes_pnoun del_pnoun Tejar_pnoun	Z2
 Cinco_pnoun Olivas_pnoun	Z2
 Cindy_pnoun Lima_pnoun	Z2
 Cindy_pnoun Lima_pnoun García_pnoun	Z2
+Cinnamomum_pnoun verum_noun	X3.5/X3.1/F1/L3
 Ciruelos_pnoun de_pnoun Cervera_pnoun	Z2
 Ciruelos_pnoun del_pnoun Pinar_pnoun	Z2
 Cirujales_pnoun del_pnoun Río_pnoun	Z2
+citrato_noun de_prep sodio_noun	F1
+Citrus_noun aurantium_noun	X3.5/X3.1/F1/L3
 Ciudad_pnoun de_pnoun Guatemala_pnoun	Z2
 Ciudad_pnoun de_pnoun México_pnoun	Z2
 Ciudad_pnoun del_pnoun Cabo_pnoun	Z2
@@ -916,16 +1051,23 @@ Ciudad_pnoun Juárez_pnoun	Z2
 Ciudad_pnoun Real_pnoun	Z2
 Ciudad_pnoun Rodrigo_pnoun	Z2
 Ciutadella_pnoun de_pnoun Menorca_pnoun	Z2
+clara_noun de_prep huevo_noun	F1
+clara_noun de_prep huevo_noun en_prep polvo_noun	F1
+clara_noun de_prep huevo_noun pasteurizada_adj	F1
 Clarés_pnoun de_pnoun Ribota_pnoun	Z2
 Clariana_pnoun de_pnoun Cardener_pnoun	Z2
 Cobos_pnoun de_pnoun Cerrato_pnoun	Z2
 Cobos_pnoun de_pnoun Fuentidueña_pnoun	Z2
 Coca_pnoun de_pnoun Alba_pnoun	Z2
+cocina_noun de_prep mercado_noun	F1
+coco_noun en_prep polvo_noun	F1/L3
+coco_noun rallado_adj	F1/L3
 Cogeces_pnoun de_pnoun Íscar_pnoun	Z2
 Cogeces_pnoun del_pnoun Monte_pnoun	Z2
 coger_verb algo_pron al_port vuelo_noun	X2.5
 Cogollos_pnoun de_pnoun Guadix_pnoun	Z2
 Cogollos_pnoun de_pnoun la_pnoun Vega_pnoun	Z2
+cola_noun de_prep caballo_noun	X3.5/X3.1/F1/L3
 Coll_pnoun de_pnoun Nargó_pnoun	Z2
 Collado_pnoun de_pnoun Contreras_pnoun	Z2
 Collado_pnoun de_pnoun la_pnoun Vera_pnoun	Z2
@@ -938,11 +1080,37 @@ Colmenar_pnoun de_pnoun Montemayor_pnoun	Z2
 Colmenar_pnoun de_pnoun Oreja_pnoun	Z2
 Colmenar_pnoun del_pnoun Arroyo_pnoun	Z2
 Colmenar_pnoun Viejo_pnoun	Z2
+colorante_noun artificial_adj	F1/O1
+colorante_noun artificial_adj UK_fw	F1
+colorante_noun artificial_adj US_pnoun	F1
+combinación_noun perfecta_adj	O4.2/O4.5/X3.1
+comenzar_verb a_prep producirse_verb	T2
+comida_noun del_prep+art mundo_noun	F1
+comida_noun estival_adj	F1
 Commonwealth_pnoun de_pnoun Australia_pnoun	Z2
 Commonwealth_pnoun de_pnoun Dominica_pnoun	Z2
 Commonwealth_pnoun de_pnoun las_pnoun Bahamas_pnoun	Z2
 como_conj agua_noun de_prep mayo_noun	T1.1.3 E2
+composición_noun varietal_noun	F2/F1/L3
+con_prep cuerpo_noun	O4.5
+con_prep cuidado_adj	A1.1.1
+con_prep forma_noun de_prep	O4.4
+con_prep gran_adj concentración_noun de_prep	F2/O4.5/X3.1
+con_prep manchas_noun	O4.3
+con_prep mucho_adv sabor_noun	X3.1
+con_prep muchos_adj matices_noun	A12-
+con_prep niebla_noun	T1.3
+con_prep reconocimiento_noun oficial_adj	A5.4+
+con_prep sabor_noun a_prep frutos_noun secos_adj	X3.1
+con_prep sabor_noun a_prep leche_noun	X3.1
+con_prep sabor_noun a_prep miel_noun	X3.1
+con_prep sabor_noun ahumado_adj	X3.1
+con_prep textura_noun uniforme_adj	O4.5
+con_prep un_art toque_noun a_prep	X3.1
+con_prep vetas_verb	O4.3
+con_prep vetas_verb azules_adj	O4.3
 Conca_pnoun de_pnoun Dalt_pnoun	Z2
+concentrado_adj proteico_adj de_prep suero_noun	F1
 Concepción_pnoun Montaner_pnoun	Z2
 Concepción_pnoun Montaner_pnoun Coll_pnoun	Z2
 Concha_pnoun Montaner_pnoun	Z2
@@ -951,11 +1119,24 @@ Condado_pnoun de_pnoun Castilnovo_pnoun	Z2
 Condado_pnoun de_pnoun Treviño_pnoun	Z2
 Condemios_pnoun de_pnoun Abajo_pnoun	Z2
 Condemios_pnoun de_pnoun Arriba_pnoun	Z2
+condiciones_noun climatológicas_adj	T1.3
+condiciones_noun de_prep pasto_noun	F4
+condimento_noun para_conj chorizo_noun	F1/O1
 Confederación_pnoun Suiza_pnoun	Z2
+congestión_noun nasal_adj	B2
 Congosto_pnoun de_pnoun Valdavia_pnoun	Z2
 Conil_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
+conocido_adj como_*	Q2.2
 Conquista_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+conserva_noun especiada_adj de_prep frutas_noun	F1
+consumir_verb preferentemente_adv	T1.3
+contar_verb con_prep	F1
+contenido_noun en_prep grasas_adj	N5/O1
+contribuir_verb a_prep	A1.1.1
 Cooperativa_pnoun de_pnoun Guyana_pnoun	Z2
+copo_noun de_prep avena_noun	F1
+copo_noun de_prep centeno_noun	F1
+copo_noun de_prep maíz_noun	F1
 Cora_pnoun Olivero_pnoun	Z2
 Corbera_pnoun D'ebre_pnoun	Z2
 Corbera_pnoun de_pnoun Llobregat_pnoun	Z2
@@ -973,7 +1154,9 @@ Corral_pnoun de_pnoun Ayllón_pnoun	Z2
 Corral_pnoun de_pnoun Calatrava_pnoun	Z2
 Corrales_pnoun de_pnoun Duero_pnoun	Z2
 Corrales_pnoun del_pnoun Vino_pnoun	Z2
+corrector_noun de_prep acidez_noun	F1
 cortar_verb el_art bacalao_noun	S7.1
+cortar_verb en_prep lonchas_noun	A1.1.1
 Corte_pnoun de_pnoun Peleas_pnoun	Z2
 Cortes_pnoun de_pnoun Aragón_pnoun	Z2
 Cortes_pnoun de_pnoun Arenoso_pnoun	Z2
@@ -981,15 +1164,27 @@ Cortes_pnoun de_pnoun Baza_pnoun	Z2
 Cortes_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
 Cortes_pnoun de_pnoun Pallás_pnoun	Z2
 Cortes_pnoun y_pnoun Graena_pnoun	Z2
+corteza_noun de_prep árbol_noun	F2/L3/F1
 Coruña_pnoun del_pnoun Conde_pnoun	Z2
 Corvera_pnoun de_pnoun Asturias_pnoun	Z2
 Corvera_pnoun de_pnoun Toranzo_pnoun	Z2
 Costa_pnoun de_pnoun Marfil_pnoun	Z2
 Costa_pnoun Rica_pnoun	Z2
 Cotanes_pnoun del_pnoun Monte_pnoun	Z2
-Côte_pnoun D'ivoire_pnoun	Z2
 Cozuelos_pnoun de_pnoun Fuentidueña_pnoun	Z2
+Crataegus_pnoun oxycantha_pnoun	X3.5/X3.1/F1/L3
+crema_noun de_prep nata_noun	F1
+criado_verb en_prep libertad_noun	F4
+crianza_noun en_prep acero_noun inoxidable_adj	F2/T3/A1.1.1
+crianza_noun en_prep barrica_noun	F2/T3/A1.1.1
+crianza_noun en_prep botella_noun	F2/T3/A1.1.1
+crianza_noun en_prep madera_noun	F2/T3/A1.1.1
+crianza_noun en_prep roble_noun	F2/T3/A1.1.1
+crianza_noun sobre_prep lías_verb	F2/T3/A1.1.1
+criar_verb en_prep depósitos_noun	F2/T3/A1.1.1
 criar_verb malvas_noun	T1.1.1 A3 T2
+crispies_noun de_prep maíz_noun	F1/L3
+crispy_noun de_prep máiz_noun	F1
 Cristian_pnoun Malmagro_pnoun	Z2
 Cristian_pnoun Malmagro_pnoun Viaña_pnoun	Z2
 Cristian_pnoun Ugalde_pnoun	Z2
@@ -1000,6 +1195,7 @@ Cristóbal_pnoun Ricardo_pnoun Montoro_pnoun Romero_pnoun	Z2
 Cruïlles,_pnoun Monells_pnoun I_pnoun Sant_pnoun Sadurní_pnoun de_pnoun L'heura_pnoun	Z2
 Cuacos_pnoun de_pnoun Yuste_pnoun	Z2
 Cuarte_pnoun de_pnoun Huerva_pnoun	Z2
+cuba_pnoun de_prep acero_noun inoxidable_adj	F2/F1/T3/O2/N3.2/N3.5/F1/O4.6
 Cubas_pnoun de_pnoun la_pnoun Sagra_pnoun	Z2
 Cubillas_pnoun de_pnoun Cerrato_pnoun	Z2
 Cubillas_pnoun de_pnoun los_pnoun Oteros_pnoun	Z2
@@ -1010,7 +1206,11 @@ Cubillos_pnoun del_pnoun Sil_pnoun	Z2
 Cubo_pnoun de_pnoun Benavente_pnoun	Z2
 Cubo_pnoun de_pnoun Bureba_pnoun	Z2
 Cubo_pnoun de_pnoun la_pnoun Solana_pnoun	Z2
+cubre_verb la_art boca_noun	F2/O4.5/X3.1
+cuchara_noun sopera_adj de_prep	N3/N3.4
+cucharada_noun de_prep	N3/N3.4
 Cuenca_pnoun de_pnoun Campos_pnoun	Z2
+cuencas_noun del_prep+art río_noun	Z2
 Cueva_pnoun de_pnoun Ágreda_pnoun	Z2
 Cueva_pnoun del_pnoun Hierro_pnoun	Z2
 Cuevas_pnoun Bajas_pnoun	Z2
@@ -1024,11 +1224,17 @@ Cuevas_pnoun del_pnoun Campo_pnoun	Z2
 Cuevas_pnoun del_pnoun Valle_pnoun	Z2
 Cuevas_pnoun Labradas_pnoun	Z2
 Cúllar_pnoun Vega_pnoun	Z2
+cultivos_noun bacterianos_adj	F1
 Cumbres_pnoun de_pnoun Enmedio_pnoun	Z2
 Cumbres_pnoun de_pnoun San_pnoun Bartolomé_pnoun	Z2
 Cumbres_pnoun Mayores_pnoun	Z2
 Curiel_pnoun de_pnoun Duero_pnoun	Z2
 Cuzcurrita_pnoun de_pnoun Río_pnoun Tirón_pnoun	Z2
+Cynara_pnoun cardunculus_noun	X3.5/X3.1/F1/L3
+Cynodon_pnoun dactylon_noun	X3.5/X3.1/F1/L3
+Cànoves_pnoun I_pnoun Samalús_pnoun	Z2
+Côte_pnoun D'ivoire_pnoun	Z2
+dado_noun la_art vuelta_noun a_prep mano_noun	O4.1
 Daganzo_pnoun de_pnoun Arriba_pnoun	Z2
 Dámaso_pnoun Berenguer_pnoun	Z2
 Damián_pnoun Vindel_pnoun	Z2
@@ -1042,10 +1248,12 @@ dar_verb a_prep al_port magín_noun	X2
 dar_verb carta_noun blanca_adj	S7.4
 dar_verb coces_noun contra_prep el_art aguijón_noun	A1.9
 dar_verb el_art pego_noun	X4 A5.2
+dar_verb forma_noun	O4.4
 dar_verb gato_noun por_prep liebre_noun	X4 A5.2
 dar_verb la_art lata_noun	E3
 dar_verb la_art murga_noun	S1.2.4 S1.2.5
 dar_verb la_art ventolera_noun	S1.2.4 E2
+dar_verb la_art vuelta_noun	A1.1.1
 dar_verb rienda_noun suelta_adj	G2 A1.1.1
 Daroca_pnoun de_pnoun Rioja_pnoun	Z2
 David_pnoun Alarza_pnoun	Z2
@@ -1069,8 +1277,39 @@ David_pnoun Martín_pnoun Lozano_pnoun	Z2
 David_pnoun Mascató_pnoun	Z2
 Daya_pnoun Nueva_pnoun	Z2
 Daya_pnoun Vieja_pnoun	Z2
+de_prep antaño_adv	T3+
+de_prep buen_adj cuerpo_noun	F2/O4.5/X3.1
+de_prep buena_adj calidad_noun	A5.1+
+de_prep chuparse_verb los_art dedos_noun	X3.1/A5.1+++
+de_prep clima_noun cálido_adj	T1.3
+de_prep clima_noun frío_adj	T1.3
+de_prep color_noun natural_adj	O4.3
+de_prep corteza_noun cerosa_adj	O4.2
+de_prep forma_noun ética_noun	A1.1.1
+de_prep forma_noun exclusiva_adj	A14
+de_prep forma_noun natural_adj	A1.1.1
+de_prep forma_noun rutinaria_adj	N6
+de_prep forma_noun sencilla_adj	A12+
+de_prep forma_noun significativa_adj	A11.1+
+de_prep fuera_adv	N4
+de_prep gran_adj calidad_noun	A5.1+++/O4.1
+de_prep gran_adj intensidad_noun	X3.1
+de_prep guarda_verb	F2/T3/F1/O4.6
+de_prep la_art mejor_adj calidad_noun	A1.1.1
+de_prep la_art zona_noun	M7
+de_prep larga_adj tradición_noun	S7.2
+de_prep las_art cuales_adj saturadas_verb	F1
 de_prep marras_noun	A5 X2
 de_prep órdago_noun	A5
+de_prep origen_noun vegetal_noun	B2/F1
+de_prep pasta_noun compacta_adj	O4.5
+de_prep pasta_noun dura_adj	O4.1
+de_prep sabor_noun dulce_adj	X3.1
+de_prep sabor_noun fuerte_adj	X3.1
+de_prep sabor_noun intenso_adj	X3.1
+de_prep sabor_noun redondo_adj	O4.4
+de_prep textura_noun cerrada_verb	O4.5
+de_prep textura_noun suave_adj	O4.5
 de_prep uvas_noun a_prep peras_noun	T1.3
 defender_verb a_prep alguien_adj a_prep capa_noun y_conj espada_noun	S1.1.2 S3.1
 Dehesa_pnoun de_pnoun Montejo_pnoun	Z2
@@ -1080,13 +1319,25 @@ Dehesas_pnoun Viejas_pnoun	Z2
 dejar_verb con_prep la_art miel_noun en_prep los_art labios_noun	T2
 Demetrio_pnoun Lozano_pnoun	Z2
 Demetrio_pnoun Lozano_pnoun Jarque_pnoun	Z2
+Denominación_noun de_prep Origen_noun	A5.4+
+depósito_noun de_prep acero_noun inoxidable_adj	A1.1.1/F2/T3/O2/N3.2/N3.5/F1/O4.6
 despedir_verb con_prep cajas_noun destempladas_adj	E3 S3
+dextrina_noun de_prep maíz_noun	F1/L3
 Diana_pnoun Box_pnoun	Z2
 Diego_pnoun del_pnoun Carpio_pnoun	Z2
 Diego_pnoun Martínez_pnoun Barrio_pnoun	Z2
 Diego_pnoun Ruiz_pnoun	Z2
+diente_noun de_prep león_noun	X3.5/X3.1/F1/L3
+difosfato_noun disódico_adj	F1
+digestión_noun pesada_verb	B2
+diglicérido_noun de_prep ácido_adj graso_adj	F1/O1
+diglicéridos_noun de_prep ácidos_adj grasos_adj	F1
 Dimas_pnoun Wood_pnoun	Z2
 Dios_pnoun Le_pnoun Guarde_pnoun	Z2
+dióxido_noun de_prep sulfuro_verb	O1/O1.1/O2
+diseñado_verb a_prep mano_noun	O4.1
+dolencia_noun menor_adj	B2
+dolor_noun de_prep garganta_noun	B2
 Dolores_pnoun Checa_pnoun	Z2
 Dolores_pnoun Checa_pnoun Porcel_pnoun	Z2
 Dolores_pnoun de_pnoun Cospedal_pnoun	Z2
@@ -1105,10 +1356,15 @@ dormirse_fw en_prep los_art laureles_noun	X5 E2
 Dos_pnoun Aguas_pnoun	Z2
 Dos_pnoun Hermanas_pnoun	Z2
 Dos_pnoun Torres_pnoun	Z2
+dulce_adj y_conj salado_adj	X3.1
 Duruelo_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+earl_pnoun grey_noun	F2/L3/A4
+echar_verb colorante_noun	O4.3
 echar_verb el_art sambenito_pnoun	E2- S1.1.2 A1.1.2
 echar_verb las_art campanas_noun al_port vuelo_noun	E4
 echar_verb pelillos_noun a_prep la_art mar_noun	S1.1.2 S7.1
+echar_verb por_prep encima_prep	A1.1.1
+echar_verb unas_art gotas_noun	A1.1.1
 Eddie_pnoun Tubau_pnoun	Z2
 Eduard_pnoun Arbós_pnoun	Z2
 Eduard_pnoun Arbós_pnoun Borràs_pnoun	Z2
@@ -1119,7 +1375,7 @@ Eduardo_pnoun Dato_pnoun	Z2
 Eduardo_pnoun Gurbindo_pnoun	Z2
 Eduardo_pnoun Lorente_pnoun	Z2
 Ejea_pnoun de_pnoun los_pnoun Caballeros_pnoun	Z2
-el_art agua_noun	
+ejercer_verb influencia_noun	A2.2
 el_art año_noun de_prep Maricastaña_pnoun	T1.1.1
 el_art perro_noun del_Port hortelano_noun ni_conj come_verb ni_conj deja_verb comer_verb	S1.1.2 S7.2
 El_pnoun Acebrón_pnoun	Z2
@@ -1206,8 +1462,8 @@ El_pnoun Maíllo_pnoun	Z2
 El_pnoun Manzano_pnoun	Z2
 El_pnoun Masnou_pnoun	Z2
 El_pnoun Masroig_pnoun	Z2
-El_pnoun Milà_pnoun	Z2
 El_pnoun Milano_pnoun	Z2
+El_pnoun Milà_pnoun	Z2
 El_pnoun Mirón_pnoun	Z2
 El_pnoun Molar_pnoun	Z2
 El_pnoun Montmell_pnoun	Z2
@@ -1222,7 +1478,6 @@ El_pnoun Pallaresoss_pnoun	Z2
 El_pnoun Palomar_pnoun	Z2
 El_pnoun Papiol_pnoun	Z2
 El_pnoun Parral_pnoun	Z2
-El_pnoun Paso_pnoun	Z2
 El_pnoun Paso_pnoun	Z2
 El_pnoun Payo_pnoun	Z2
 El_pnoun Pedernoso_pnoun	Z2
@@ -1260,7 +1515,6 @@ El_pnoun Puente_pnoun del_pnoun Arzobispo_pnoun	Z2
 El_pnoun Puerto_pnoun de_pnoun Santa_pnoun María_pnoun	Z2
 El_pnoun Pueyo_pnoun de_pnoun Araguás_pnoun	Z2
 El_pnoun Puig_pnoun de_pnoun Santa_pnoun Maria_pnoun	Z2
-El_pnoun Ràfol_pnoun D'almúnia_pnoun	Z2
 El_pnoun Rasillo_pnoun de_pnoun Cameros_pnoun	Z2
 El_pnoun Real_pnoun de_pnoun Gandia_pnoun	Z2
 El_pnoun Real_pnoun de_pnoun la_pnoun Jara_pnoun	Z2
@@ -1274,6 +1528,7 @@ El_pnoun Rosario_pnoun	Z2
 El_pnoun Rourell_pnoun	Z2
 El_pnoun Royo_pnoun	Z2
 El_pnoun Rubio_pnoun	Z2
+El_pnoun Ràfol_pnoun D'almúnia_pnoun	Z2
 El_pnoun Sahugo_pnoun	Z2
 El_pnoun Salvador_pnoun	Z2
 El_pnoun Saucejo_pnoun	Z2
@@ -1300,6 +1555,7 @@ El_pnoun Viso_pnoun	Z2
 El_pnoun Viso_pnoun de_pnoun San_pnoun Juan_pnoun	Z2
 El_pnoun Viso_pnoun del_pnoun Alcor_pnoun	Z2
 Elche_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+elección_noun perfecta_adj	O4.2/X3.1
 Elena_pnoun Gómez_pnoun Servera_pnoun	Z2
 Elena_pnoun López_pnoun	Z2
 Elías_pnoun Cuesta_pnoun	Z2
@@ -1313,20 +1569,47 @@ Eliseo_pnoun Martín_pnoun	Z2
 Eliseo_pnoun Martín_pnoun Omenat_pnoun	Z2
 Eloy_pnoun Teruel_pnoun	Z2
 Embid_pnoun de_pnoun Ariza_pnoun	Z2
+embutido_noun español_adj	F1
+embutido_noun italiano_adj	F1
 Emiratos_pnoun Árabes_pnoun Unidos_pnoun	Z2
+en_prep altitudes_noun bajas_adj	Z2
+en_prep dados_verb	O4.4
+en_prep forma_noun de_prep disco_noun	O.4.4
+en_prep la_art comida_noun	F2/T3
+en_prep la_art provincia_noun de_prep	Z2
+en_prep la_art región_noun de_prep	Z2
+en_prep las_art faldas_noun de_prep	Z2
+en_prep las_art montañas_noun de_prep	Z2
+en_prep latitudes_noun altas_adj	Z2
+en_prep latitudes_noun medias_*	Z2
+en_prep los_art alrededores_adv de_prep	Z2
+en_prep los_art altos_adj de_prep	Z2
+en_prep salmuera_noun	O4.1
+en_prep tanques_noun de_prep acero_noun inoxidable_adj	A1.1.1
+en_prep todo_pron el_art mundo_noun	W1
+en_prep vinagre_noun	O4.1
 Encina_pnoun de_pnoun San_pnoun Silvestre_pnoun	Z2
 Encinas_pnoun de_pnoun Abajo_pnoun	Z2
 Encinas_pnoun de_pnoun Arriba_pnoun	Z2
 Encinas_pnoun de_pnoun Esgueva_pnoun	Z2
 Encinas_pnoun Reales_pnoun	Z2
 Encinasola_pnoun de_pnoun los_pnoun Comendadores_pnoun	Z2
+encontrar_verb el_art origen_noun	T3
 Eneko_pnoun Llanos_pnoun	Z2
 Eneritz_pnoun Iturriaga_pnoun	Z2
+enfermedades_noun tumorales_adj	B2
+enrollar_verb a_prep mano_noun	A1.1.1/C1
+ensalada_noun verde_adj	F1
+entrada_noun en_prep boca_noun	X3.1/O4.5/MWU
 entrar_verb a_prep hurtadillas_noun	A10 X9
 Entrín_pnoun Bajo_pnoun	Z2
+envejecer_verb en_prep barrica_noun	F2/T3/A1.1.1
+época_noun de_prep producción_noun	I4/T1.3
+Equisetum_pnoun arvense_adj	X3.5/X3.1/F1/L3
 Erdoitza_pnoun Goikoetxea_pnoun	Z2
 Erika_pnoun Villaécija_pnoun	Z2
 Erika_pnoun Villaécija_pnoun García_pnoun	Z2
+eritorbato_noun sódico_adj	O1/O1.1/O2
 Erribera_pnoun Beitia_pnoun	Z2
 Es_pnoun Bòrdes_pnoun	Z2
 Es_pnoun Castell_pnoun	Z2
@@ -1339,12 +1622,16 @@ Escobar_pnoun de_pnoun Campos_pnoun	Z2
 Escobar_pnoun de_pnoun Polendos_pnoun	Z2
 Escobosa_pnoun de_pnoun Almazán_pnoun	Z2
 Escurial_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+esencia_noun de_prep limón_noun	F1/L3/X3.5
+esencia_noun de_prep naranja_noun	F1/L3/X3.5
 Esguevillas_pnoun de_pnoun Esgueva_pnoun	Z2
 Esparragosa_pnoun de_pnoun la_pnoun Serena_pnoun	Z2
 Esparragosa_pnoun de_pnoun Lares_pnoun	Z2
 Espartza_pnoun Zaraitzu_pnoun	Z2
 Esparza_pnoun de_pnoun Salazar_pnoun	Z2
+especias_noun exóticas_adj	X3.5/X3.1/F1/L3
 Espeja_pnoun de_pnoun San_pnoun Marcelino_pnoun	Z2
+espino_noun blanco_adj	X3.5/X3.1/F1/L3
 Espino_pnoun de_pnoun la_pnoun Orbada_pnoun	Z2
 Espinosa_pnoun de_pnoun Cerrato_pnoun	Z2
 Espinosa_pnoun de_pnoun Cervera_pnoun	Z2
@@ -1355,6 +1642,9 @@ Espinosa_pnoun de_pnoun Villagonzalo_pnoun	Z2
 Espinosa_pnoun del_pnoun Camino_pnoun	Z2
 Espinoso_pnoun del_pnoun Rey_pnoun	Z2
 Esplugues_pnoun de_pnoun Llobregat_pnoun	Z2
+estabilizadas_verb mediante_prep vapor_noun de_prep agua_noun	A1.1.1
+estación_noun cálida_adj	T1.3
+estación_noun lluviosa_adj	T1.3
 Estado_pnoun de_pnoun Bahrein_pnoun	Z2
 Estado_pnoun de_pnoun Brunéi_pnoun Darusalam_pnoun	Z2
 Estado_pnoun de_pnoun Eritrea_pnoun	Z2
@@ -1362,21 +1652,24 @@ Estado_pnoun de_pnoun Israel_pnoun	Z2
 Estado_pnoun de_pnoun Kuwait_pnoun	Z2
 Estado_pnoun de_pnoun la_pnoun Ciudad_pnoun del_pnoun Vaticano_pnoun	Z2
 Estado_pnoun de_pnoun Qatar_pnoun	Z2
-Estado_pnoun Independiente_pnoun de_pnoun Papua_pnoun Nueva_pnoun Guinea_pnoun	Z2
 Estado_pnoun Independiente_pnoun de_pnoun Papúa_pnoun Nueva_pnoun Guinea_pnoun	Z2
+Estado_pnoun Independiente_pnoun de_pnoun Papua_pnoun Nueva_pnoun Guinea_pnoun	Z2
 Estado_pnoun Independiente_pnoun de_pnoun Samoa_pnoun	Z2
 Estado_pnoun Independiente_pnoun de_pnoun Samoa_pnoun Occidental_pnoun	Z2
 Estado_pnoun Plurinacional_pnoun de_pnoun Bolivia_pnoun	Z2
+Estados_noun Unidos_pnoun	F2/Z2
 Estados_pnoun Federados_pnoun de_pnoun Micronesia_pnoun	Z2
 Estados_pnoun Unidos_pnoun	Z2
 Estados_pnoun Unidos_pnoun de_pnoun América_pnoun	Z2
 Estados_pnoun Unidos_pnoun Mexicanos_pnoun	Z2
+estándar_noun de_prep calidad_noun	A5.1
 estar_verb como_conj basilisco_noun	S1.2.5 E5
 estar_verb con_prep el_art agua_noun al_port cuello_noun	A15 I1 S8
 estar_verb en_prep Babia_noun	X2
 estar_verb en_prep un_num brete_noun	E6 A5
 estar_verb entre_prep dos_num aguas_noun	X2 S1.1.3
 estar_verb entre_prep Pinto_noun y_conj Valdemoro_pnoun	A1.3
+estar_verb situado_verb en_prep	A3/M7
 estar_verb tocado_adj del_Port ala_noun	X2
 Estepa_pnoun de_pnoun San_pnoun Juan_pnoun	Z2
 Esterri_pnoun D'àneu_pnoun	Z2
@@ -1387,15 +1680,31 @@ Esther_pnoun Termens_pnoun	Z2
 Esther_pnoun Térmens_pnoun	Z2
 Esther_pnoun Termens_pnoun Cañabate_pnoun	Z2
 Estopiñán_pnoun del_pnoun Castillo_pnoun	Z2
+estructura_noun tánica_adj	O4.5
+estrujado_adj de_prep la_art uva_noun	A1.1.1
+estrujado_adj del_prep+art hollejo_noun de_prep la_art uva_noun	A1.1.1
+estudios_noun científicos_noun	X2.4
 Etxarri_pnoun Aranatz_pnoun	Z2
 Eugenio_pnoun Montero_pnoun Ríos_pnoun	Z2
 Eusebio_pnoun Cáceres_pnoun	Z2
 Eva_pnoun Mirones_pnoun	Z2
 Ex_pnoun República_pnoun Yugoslava_pnoun de_pnoun Macedonia_pnoun	Z2
+extracto_noun de_prep acerola_noun	F1/L3
+extracto_noun de_prep cebada_noun malteada_verb	F1/L3
+extracto_noun de_prep levadura_noun	F1/L3
+extracto_noun de_prep malta_noun	F1/L3
+extracto_noun de_prep malta_noun cebada_noun	F1/L3
+extracto_noun de_prep malta_noun de_prep cebada_noun	F1/L3
+extracto_noun de_prep pimentón_noun	F1/L3
+extracto_noun de_prep romero_noun	F1/L3
+extracto_noun de_prep vainilla_noun	F1/L3
+extracto_noun de_prep vainilla_noun puro_adj	F1/L3
+fábrica_noun de_prep productos_noun lácteos_adj	I2/F1
 Fang_pnoun Zhu_pnoun	Z2
 Fang_pnoun Zhu_pnoun Jin_pnoun	Z2
 Faramontanos_pnoun de_pnoun Tábara_pnoun	Z2
 Fátima_pnoun Báñez_pnoun	Z2
+fécula_noun de_prep patata_noun	F1/L3
 Federación_pnoun de_pnoun Rusia_pnoun	Z2
 Federación_pnoun de_pnoun San_pnoun Cristóbal_pnoun y_pnoun Nieves_pnoun	Z2
 Feliciano_pnoun López_pnoun	Z2
@@ -1407,6 +1716,22 @@ Felipe_pnoun Reyes_pnoun	Z2
 Felipe_pnoun Reyes_pnoun Cabanas_pnoun	Z2
 Felipe_pnoun VI_pnoun	Z2
 Felipe_pnoun Vivancos_pnoun	Z2
+feria_noun de_prep queso_noun	S7.3
+fermentación_noun alcohólica_noun	A1.1.1
+fermentación_noun con_prep levadura_noun auctóctona_adj	A1.1.1
+fermentación_noun con_prep racimo_noun entero_noun	A1.1.1
+fermentación_noun en_prep	A1.1.1
+fermentación_noun en_prep depósitos_noun de_prep acero_noun inoxidable_adj	A1.1.1
+fermentación_noun en_prep frío_noun	A1.1.1
+fermentación_noun maloláctica_noun	A1.1.1
+fermentación_noun primaria_adj	A1.1.1
+fermentación_noun secundaria_adj	A1.1.1
+fermentar_verb en_prep barrica_noun	A1.1.1
+fermentar_verb en_prep depósitos_noun de_prep acero_noun inoxidable_adj	A1.1.1/F2/T3/O2/N3.2/N3.5/F1/O4.6
+fermentar_verb en_prep tanques_noun de_prep acero_noun inoxidable_adj	A1.1.1/F2/T3/O2/N3.2/N3.5/F1/O4.6
+fermentos_noun de_prep ácidos_adj lácticos_adj	F1
+fermentos_noun de_prep extracto_noun de_prep apio_noun	F1/L3
+fermentos_noun lácteos_adj	F1
 Fernán_pnoun Caballero_pnoun	Z2
 Fernando_pnoun Echavarri_pnoun	Z2
 Fernando_pnoun Echavarri_pnoun Erasun_pnoun	Z2
@@ -1416,11 +1741,20 @@ Fernando_pnoun Verdasco_pnoun	Z2
 Ferreras_pnoun de_pnoun Abajo_pnoun	Z2
 Ferreras_pnoun de_pnoun Arriba_pnoun	Z2
 Ferreruela_pnoun de_pnoun Huerva_pnoun	Z2
+fibra_noun alimentaria_adj	O1/O1.1/O2
+fibra_noun de_prep avena_noun	F1/L3
+fibra_noun de_prep guisante_noun	F1/L3
+fibra_noun soluble_adj	O1/O1.1/O2
 Fígols_pnoun I_pnoun Alinyà_pnoun	Z2
 Figuerola_pnoun del_pnoun Camp_pnoun	Z2
 Figueruela_pnoun de_pnoun Arriba_pnoun	Z2
+film_noun transparente_noun	O2
+final_noun de_prep boca_noun	F2/O4.5/X3.1
+flor_noun de_prep manzanilla_noun	X3.5/X3.1/F1/L3
+flor_noun de_prep naranja_noun	X3.5/X3.1/F1/L3
 Flores_pnoun de_pnoun Ávila_pnoun	Z2
 Florida_pnoun de_pnoun Liébana_pnoun	Z2
+Foeniculum_noun vulgare_adj	F1/L3
 Fogars_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
 Fogars_pnoun de_pnoun Montclús_pnoun	Z2
 Folgoso_pnoun de_pnoun la_pnoun Ribera_pnoun	Z2
@@ -1432,15 +1766,19 @@ Formentera_pnoun del_pnoun Segura_pnoun	Z2
 Formiche_pnoun Alto_pnoun	Z2
 Fornells_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
 Fornelos_pnoun de_pnoun Montes_pnoun	Z2
+fosfato_noun disódico_adj	F1
+fosfato_noun monocálcico_noun	F1
+fosfato_noun sódico_adj	F1
+fosfato_noun tetrasódico_adj	F1
 Frades_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Fran_pnoun Ventoso_pnoun	Z2
 Fráncfort_pnoun del_pnoun Meno_pnoun	Z2
 Francisco_pnoun Cortés_pnoun	Z2
 Francisco_pnoun Cortés_pnoun Juncosa_pnoun	Z2
 Francisco_pnoun Cubelos_pnoun	Z2
+Francisco_pnoun Franco_pnoun	Z2
 Francisco_pnoun Fàbregas_pnoun	Z2
 Francisco_pnoun Fàbregas_pnoun Monegal_pnoun	Z2
-Francisco_pnoun Franco_pnoun	Z2
 Francisco_pnoun Javier_pnoun Fernández_pnoun	Z2
 Francisco_pnoun Javier_pnoun Fernández_pnoun Peláez_pnoun	Z2
 Francisco_pnoun Javier_pnoun Gómez_pnoun	Z2
@@ -1478,6 +1816,20 @@ Fresno_pnoun del_pnoun Río_pnoun	Z2
 Fresno_pnoun el_pnoun Viejo_pnoun	Z2
 Frías_pnoun de_pnoun Albarracín_pnoun	Z2
 Friera_pnoun de_pnoun Valverde_pnoun	Z2
+fruta_noun de_prep hueso_noun	X3.5/X3.1/F1/L3
+fruta_noun exótica_adj	X3.5/X3.1/F1/L3
+fruta_noun madura_adj	X3.5/X3.1/F1/L3
+fruta_noun negra_adj	X3.5/X3.1/F1/L3
+fruta_noun roja_adj	X3.5/X3.1/F1/L3
+fruta_noun tropical_adj	X3.5/X3.1/F1/L3
+frutillos_noun del_prep+art bosque_noun	X3.5/X3.1/F1/L3
+fruto_noun de_prep cáscara_noun	F1
+frutos_noun de_prep cáscara_noun	X3.5/X3.1/F1/L3
+frutos_noun del_prep+art bosque_noun	X3.5/X3.1/F1/L3
+frutos_noun negros_adj	X3.5/X3.1/F1/L3
+frutos_noun rojos_adj	X3.5/X3.1/F1/L3
+frutos_noun secos_adj	X3.5/X3.1/F1/L3
+frutos_noun silvestres_adj	X3.5/X3.1/F1/L3
 Fuencaliente_pnoun de_pnoun la_pnoun Palma_pnoun	Z2
 Fuenlabrada_pnoun de_pnoun los_pnoun Montes_pnoun	Z2
 Fuensanta_pnoun de_pnoun Martos_pnoun	Z2
@@ -1527,6 +1879,7 @@ Fuentidueña_pnoun de_pnoun Tajo_pnoun	Z2
 Fuerte_pnoun del_pnoun Rey_pnoun	Z2
 Gabino_pnoun Bugallal_pnoun	Z2
 Gabriel_pnoun Hernández_pnoun	Z2
+galato_noun de_prep epigalocatequina_noun	O1/O1.1/O2
 Galia_pnoun Dvorak_pnoun	Z2
 Galindo_pnoun y_pnoun Perahuy_pnoun	Z2
 Gallegos_pnoun de_pnoun Altamiros_pnoun	Z2
@@ -1536,8 +1889,10 @@ Gallegos_pnoun de_pnoun Sobrinos_pnoun	Z2
 Gallegos_pnoun de_pnoun Solmirón_pnoun	Z2
 Gallegos_pnoun del_pnoun Pan_pnoun	Z2
 Gallegos_pnoun del_pnoun Río_pnoun	Z2
+galleta_noun salada_verb	F1
 Gallinero_pnoun de_pnoun Cameros_pnoun	Z2
 Galve_pnoun de_pnoun Sorbe_pnoun	Z2
+ganglios_noun linfáticos_adj	F1
 Garganta_pnoun de_pnoun los_pnoun Montes_pnoun	Z2
 Garganta_pnoun del_pnoun Villar_pnoun	Z2
 Garganta_pnoun la_pnoun Olla_pnoun	Z2
@@ -1557,6 +1912,7 @@ Gema_pnoun Peris_pnoun	Z2
 Gemma_pnoun Mengual_pnoun	Z2
 Gemma_pnoun Mengual_pnoun Civil*_pnoun	Z2
 General_pnoun Santos_pnoun	Z2
+gente_noun de_prep la_art zona_noun	M7/S2mf
 George_pnoun Town_pnoun	Z2
 Georgina_pnoun Oliva_pnoun	Z2
 Georgina_pnoun Oliva_pnoun Isern_pnoun	Z2
@@ -1566,32 +1922,60 @@ Gil_pnoun García_pnoun	Z2
 Gimenells_pnoun I_pnoun el_pnoun Pla_pnoun de_pnoun la_pnoun Font_pnoun	Z2
 Gisela_pnoun Morón_pnoun	Z2
 Gisela_pnoun Morón_pnoun Rovira_pnoun	Z2
+glándulas_noun salivales_adj	X3.1
 Gloria_pnoun Comerma_pnoun	Z2
 Gloria_pnoun Comerma_pnoun Broto_pnoun	Z2
 Glory_pnoun Alozie_pnoun	Z2
+glucosa_noun de_prep maíz_noun	F1/L3
+glucosa_noun en_prep polvo_noun	F1/L3
+gluten_noun de_prep maíz_noun	F1/L3
+goma_noun de_prep celulosa_noun	F1/L3
+goma_noun guar_noun	F1/L3
+goma_noun xantana_noun	F1/L3
 Gordaliza_pnoun del_pnoun Pino_pnoun	Z2
+grabado_verb con_prep cincho_noun o_conj pleita_noun	O4.5
 Graciela_pnoun Pisonero_pnoun	Z2
 Graciela_pnoun Pisonero_pnoun Castro_pnoun	Z2
+grado_noun Brix_pnoun	O1/O1.1/O2
+grado_noun de_prep maduración_noun	T3
 Graja_pnoun de_pnoun Campalbo_pnoun	Z2
 Graja_pnoun de_pnoun Iniesta_pnoun	Z2
 Grajal_pnoun de_pnoun Campos_pnoun	Z2
 Gran_pnoun Ducado_pnoun de_pnoun Luxemburgo_pnoun	Z2
 Granadilla_pnoun de_pnoun Abona_pnoun	Z2
+granate_adj picota_*	X3.5/X3.1/O4.3
 Granátula_pnoun de_pnoun Calatrava_pnoun	Z2
 Grandas_pnoun de_pnoun Salime_pnoun	Z2
 Grandes_pnoun y_pnoun San_pnoun Martín_pnoun	Z2
 Granja_pnoun de_pnoun Moreruela_pnoun	Z2
 Granja_pnoun de_pnoun Rocamora_pnoun	Z2
 Granja_pnoun de_pnoun Torrehermosa_pnoun	Z2
+grano_noun de_prep cacao_noun	F1
+granos_noun de_prep cacao_noun	X3.1/X3.5
 Granyena_pnoun de_pnoun Les_pnoun Garrigues_pnoun	Z2
 Granyena_pnoun de_pnoun Segarra_pnoun	Z2
+grasa_noun de_prep leche_noun	F1
+grasa_noun de_prep palma_noun	F1
+grasa_noun monoinsaturada_adj	O1
+grasa_noun poliinsaturada_adj	O1
+grasa_noun saturada_verb	O1
+grasa_noun trans_*	O1
+grasa_noun vegetal_adj no_adv hidrogenada_adj	F1
+grasa_noun vegetal_adj palma_noun	F1
+grasa_noun vegetal_adj parcialmente_adv hidrogenada_adj	F1
+grasa_noun vegetal_adj parcialmente_adv hidrogenada_adj origen_noun palma_noun	F1
+grasa_noun vegetal_noun	F1
+grasas_adj monoinsaturadas_noun	O1/O1.1/O2
+grasas_adj poliinsaturadas_adj	O1/O1.1/O2
+grasas_adj saturadas_verb	O1/O1.1/O2
+grasas_adj trans_*	O1/O1.1/O2
+gris_adj azulado_adj	O4.3
 Guadalix_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Guadiana_pnoun del_pnoun Caudillo_pnoun	Z2
 Guardamar_pnoun de_pnoun la_pnoun Safor_pnoun	Z2
 Guardamar_pnoun del_pnoun Segura_pnoun	Z2
 Guardiola_pnoun de_pnoun Berguedà_pnoun	Z2
 Guaza_pnoun de_pnoun Campos_pnoun	Z2
-Güéjar_pnoun Sierra_pnoun	Z2
 Guía_pnoun de_pnoun Isora_pnoun	Z2
 Guijo_pnoun de_pnoun Ávila_pnoun	Z2
 Guijo_pnoun de_pnoun Coria_pnoun	Z2
@@ -1609,16 +1993,44 @@ Gurrea_pnoun de_pnoun Gállego_pnoun	Z2
 Gusendos_pnoun de_pnoun los_pnoun Oteros_pnoun	Z2
 Gustavo_pnoun Marcos_pnoun	Z2
 Gustavo_pnoun Martínez_pnoun	Z2
+gusto_noun de_prep fondo_noun	X3.1
+gusto_noun final_noun	X3.1
+Güéjar_pnoun Sierra_pnoun	Z2
+hace_verb poco_pron	T3-
+hacer_verb a_prep la_art plancha_noun	A1.1.1
 hacer_verb agua_noun	A4 A15
 hacer_verb de_prep tu_pron capa_noun un_art sayo_noun	A5 E2
 hacer_verb el_art longuis_adj	X5
 Hacer_verb el_art sueco_adj	X9.1
 hacer_verb las_art cuentas_noun del_Port Gran_adj Capitán_noun	I1.1 A5.2
+hacer_verb posible_adj	S8+
+hacerse_verb más_* profundo_adj	X3.1
 Hai_pnoun Phong_pnoun	Z2
+harina_noun de_prep arroz_noun	F1
+harina_noun de_prep arroz_noun integral_adj	F1
+harina_noun de_prep avena_noun	F1
+harina_noun de_prep cebada_noun	F1
+harina_noun de_prep centeno_noun	F1
+harina_noun de_prep maíz_noun	F1
+harina_noun de_prep malta_noun de_prep cebada_noun	F1
+harina_noun de_prep soja_noun	F1
+harina_noun de_prep soja_noun texturizada_adj	F1/L3/O1
+harina_noun de_prep sorgo_noun	F1
+harina_noun de_prep tapioca_noun	F1
+harina_noun de_prep trigo_noun	F1
+harina_noun de_prep trigo_noun enriquecida_verb	F1
+harina_noun de_prep trigo_noun sin_prep blanquear_verb	F1
+harina_noun integral_adj avena_noun	F1
+harina_noun integral_adj de_prep cereales_noun	F1
+harina_noun integral_adj de_prep trigo_noun	F1
+Harpagophytum_pnoun procumbens_pnoun	F1/L3
 hasta_prep los_art tuétanos_noun	A13.2
 Hazas_pnoun de_pnoun Cesto_pnoun	Z2
+hecho_* a_prep mano_noun	O4.1
+hecho_* en_prep granja_noun	O4.1
 Helechosa_pnoun de_pnoun los_pnoun Montes_pnoun	Z2
 Heras_pnoun de_pnoun Ayuso_pnoun	Z2
+herbáceos_adj frescos_adj	X3.5/X3.1/F1/L3
 Herguijuela_pnoun de_pnoun Ciudad_pnoun Rodrigo_pnoun	Z2
 Herguijuela_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Herguijuela_pnoun del_pnoun Campo_pnoun	Z2
@@ -1634,6 +2046,13 @@ Herrera_pnoun del_pnoun Duque_pnoun	Z2
 Herreros_pnoun de_pnoun Suso_pnoun	Z2
 Herreruela_pnoun de_pnoun Oropesa_pnoun	Z2
 Herrín_pnoun de_pnoun Campos_pnoun	Z2
+heterósidos_noun cardiotónicos_noun	O1/O1.1/O2
+heterósidos_noun monoterpénicos_noun	O17O1.1/O2
+hidratos_noun de_prep carbono_noun	O1/O1.1/O2
+hierba_noun limón_noun	F1/L3
+hierba_noun luisa_noun	F1/L3
+hierbas_noun aromáticas_adj	F1/L3
+higo_noun chumbo_noun	X3.5/X3.1/F1/L3
 Higuera_pnoun de_pnoun Calatrava_pnoun	Z2
 Higuera_pnoun de_pnoun la_pnoun Serena_pnoun	Z2
 Higuera_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
@@ -1648,6 +2067,7 @@ Hinojosa_pnoun del_pnoun Campo_pnoun	Z2
 Hinojosa_pnoun del_pnoun Duque_pnoun	Z2
 Hinojosa_pnoun del_pnoun Valle_pnoun	Z2
 Hinojosas_pnoun de_pnoun Calatrava_pnoun	Z2
+hojas_noun de_prep lúpulo_noun	L3
 Hondón_pnoun de_pnoun las_pnoun Nieves_pnoun	Z2
 Hondón_pnoun de_pnoun los_pnoun Frailes_pnoun	Z2
 Hong_pnoun Kong_pnoun	Z2
@@ -1691,6 +2111,12 @@ Huétor_pnoun de_pnoun Santillán_pnoun	Z2
 Huétor_pnoun Tájar_pnoun	Z2
 Huétor_pnoun Vega_pnoun	Z2
 Huévar_pnoun del_pnoun Aljarafe_pnoun	Z2
+huevo_noun	F1
+huevo_noun en_prep polvo_noun	F1
+huevo_noun entero_noun	F1
+huevo_noun fresco_adj	F1
+huevo_noun líquido_* pasteurizado_adj	F1
+huevos_noun frescos_adj	F1
 Humanes_pnoun de_pnoun Madrid_pnoun	Z2
 Ibeas_pnoun de_pnoun Juarros_pnoun	Z2
 Icod_pnoun de_pnoun los_pnoun Vinos_pnoun	Z2
@@ -1708,10 +2134,18 @@ Iñaki_pnoun Aguilar_pnoun	Z2
 Iñaki_pnoun Aguilar_pnoun Vicente_pnoun	Z2
 Iñaki_pnoun Lejarreta_pnoun	Z2
 Iñaki_pnoun Lejarreta_pnoun Errasti_pnoun	Z2
+infección_noun respiratoria_adj	B2
 Ingrid_pnoun Pons_pnoun	Z2
+inicio_verb de_prep su_adj comercialización_noun	T2
 Íñigo_pnoun Joaquín_pnoun de_pnoun la_pnoun Serna_pnoun Hernáiz_pnoun	Z2
 Íñigo_pnoun Méndez_pnoun de_pnoun Vigo_pnoun	Z2
 Íñigo_pnoun Méndez_pnoun de_pnoun Vigo_pnoun y_pnoun Montojo_pnoun	Z2
+inocular_verb de_prep	A1.1.1
+intensidad_noun justa_*	X3.5
+intensidad_noun media_adj	X3.5
+intolerancia_noun a_prep la_art lactosa_noun	B2
+intolerante_adj a_prep la_art lactosa_noun	B2
+Inula_noun helenium_noun	F1/L3
 Ione_pnoun Serrano_pnoun	Z2
 ir_verb cada_noun mochuelo_noun a_prep su_pron olivo_noun	M1
 ir_verb por_prep los_art cerros_noun de_prep Úbeda_pnoun	X5.2 A1.9
@@ -1722,6 +2156,7 @@ Irina_pnoun Rodríguez_pnoun Álvarez_pnoun	Z2
 Iris_pnoun Fuentes-Pila_pnoun Ortiz_pnoun	Z2
 Iris_pnoun María_pnoun Fuentes-Pila_pnoun	Z2
 Iris_pnoun María_pnoun Fuentes-Pila_pnoun Ortiz_pnoun	Z2
+irritación_noun de_prep gargante_noun	B2
 irse_fw el_art santo_noun al_port cielo_noun	X5-
 Iruña_pnoun de_pnoun Oca_pnoun	Z2
 Iruña_pnoun Oka_pnoun	Z2
@@ -1773,7 +2208,21 @@ Jaime_pnoun Martí_pnoun Marcos_pnoun	Z2
 Jalón_pnoun de_pnoun Cameros_pnoun	Z2
 Jamahiriya_pnoun Árabe_pnoun Libia_pnoun	Z2
 Jamahiriya_pnoun Árabe_pnoun Libia_pnoun Popular_pnoun y_pnoun Socialista_pnoun	Z2
+jamón_noun de_prep cerdo_noun	F1
+jamón_noun serrano_noun	F1
 Jana_pnoun Smidaková_pnoun	Z2
+jarabe_noun	F1/L3
+jarabe_noun de_prep azúcar_noun	F1/L3
+jarabe_noun de_prep azúcar_noun caramelizado_verb	F1/L3
+jarabe_noun de_prep azúcar_noun moreno_noun	F1/L3
+jarabe_noun de_prep fructosa_noun	F1/L3
+jarabe_noun de_prep glucosa_noun	F1/L3
+jarabe_noun de_prep glucosa_noun deshidratado_adj	F1/L3
+jarabe_noun de_prep máiz_noun	F1
+jarabe_noun de_prep maíz_noun	F1/L3
+jarabe_noun de_prep maíz_noun de_prep alto_adj contenido_noun en_prep frutosa_noun	F1/L3
+jarabe_noun de_prep malta_noun	F1/L3
+jarabe_noun invertido_verb	F1/L3
 Jaraíz_pnoun de_pnoun la_pnoun Vera_pnoun	Z2
 Jaramillo_pnoun de_pnoun la_pnoun Fuente_pnoun	Z2
 Jaramillo_pnoun Quemado_pnoun	Z2
@@ -1817,12 +2266,11 @@ Jesús_pnoun Serrano_pnoun	Z2
 Jesús_pnoun Serrano_pnoun Lara_pnoun	Z2
 Jimena_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
 Jimera_pnoun de_pnoun Líbar_pnoun	Z2
+Joan-Lino_pnoun Martínez_pnoun	Z2
 Joan_pnoun Cañellas_pnoun	Z2
 Joan_pnoun Llaneras_pnoun	Z2
 Joan_pnoun Llaneras_pnoun Roselló_pnoun	Z2
-Joan-Lino_pnoun Martínez_pnoun	Z2
 Joane_pnoun Somarriba_pnoun	Z2
-João_pnoun Pessoa_pnoun	Z2
 Joaquín_pnoun Chapaprieta_pnoun	Z2
 Joaquín_pnoun de_pnoun la_pnoun Serna_pnoun	Z2
 Joaquín_pnoun Sánchez_pnoun de_pnoun Toca_pnoun	Z2
@@ -1883,6 +2331,7 @@ José_pnoun Ríos_pnoun Ortega_pnoun	Z2
 José_pnoun Sánchez_pnoun Guerra_pnoun	Z2
 Josephine_pnoun Onyia_pnoun	Z2
 Josephine_pnoun Onyia_pnoun Nnkiruka_pnoun	Z2
+João_pnoun Pessoa_pnoun	Z2
 Juan_pnoun Antonio_pnoun Jiménez_pnoun	Z2
 Juan_pnoun Antonio_pnoun Ramos_pnoun	Z2
 Juan_pnoun Antonio_pnoun Ramos_pnoun Sánchez_pnoun	Z2
@@ -1912,6 +2361,7 @@ Juan_pnoun Pérez_pnoun	Z2
 Juan_pnoun Zunzunegui_pnoun	Z2
 Juarros_pnoun de_pnoun Riomoros_pnoun	Z2
 Juarros_pnoun de_pnoun Voltoya_pnoun	Z2
+jugo_noun de_prep caña_noun de_prep azúcar_noun	F1/L3
 Julia_pnoun Menéndez_pnoun	Z2
 Julia_pnoun Menéndez_pnoun Ortega_pnoun	Z2
 Julio_pnoun Rey_pnoun de_pnoun	Z2
@@ -1946,7 +2396,6 @@ L'_pnoun Argentera_pnoun	Z2
 L'_pnoun Armentera_pnoun	Z2
 L'_pnoun Atzúbia_pnoun	Z2
 L'_pnoun Eliana_pnoun	Z2
-L'_pnoun Ènova_pnoun	Z2
 L'_pnoun Escala_pnoun	Z2
 L'_pnoun Espluga_pnoun Calba_pnoun	Z2
 L'_pnoun Espluga_pnoun de_pnoun Francolí_pnoun	Z2
@@ -1956,6 +2405,7 @@ L'_pnoun Estany_pnoun	Z2
 L'_pnoun Hospitalet_pnoun de_pnoun Llobregat_pnoun	Z2
 L'_pnoun Lorcha_pnoun	Z2
 L'_pnoun Olleria_pnoun	Z2
+L'_pnoun Ènova_pnoun	Z2
 La_pnoun Acebeda_pnoun	Z2
 La_pnoun Adrada_pnoun	Z2
 La_pnoun Alameda_pnoun de_pnoun Gardón_pnoun	Z2
@@ -2281,11 +2731,22 @@ Laura_pnoun López_pnoun Valle_pnoun	Z2
 Laura_pnoun Nicholls_pnoun	Z2
 Laura_pnoun Nicholls_pnoun González_pnoun	Z2
 Laura_pnoun Roca_pnoun	Z2
+leche_noun condensada_verb	F1
+leche_noun de_prep soja_noun	F2
+leche_noun de_prep soja_noun en_prep polvo_noun	F1
+leche_noun de_prep vaca_noun	F1
+leche_noun desnatada_verb	F2
+leche_noun desnatada_verb en_prep polvo_noun	F1
+leche_noun en_prep polvo_noun	F1
+leche_noun entera_verb	F1
+leche_noun entera_verb en_prep polvo_noun	F1
+lecitina_noun de_prep girasol_noun	F1/L3
+lecitina_noun de_prep soja_noun	F1/L3
 Ledesma_pnoun de_pnoun la_pnoun Cogolla_pnoun	Z2
 Leire_pnoun Iglesias_pnoun	Z2
 Leire_pnoun Iglesias_pnoun Armiño_pnoun	Z2
-Leire_pnoun Olaberria_pnoun	Z2
 Leire_pnoun Olaberría_pnoun	Z2
+Leire_pnoun Olaberria_pnoun	Z2
 Leire_pnoun Olaberría_pnoun Dorronsoro_pnoun	Z2
 Leire_pnoun Santos_pnoun	Z2
 Lenika_pnoun de_pnoun Simone_pnoun	Z2
@@ -2308,6 +2769,12 @@ Les_pnoun Preses_pnoun	Z2
 Les_pnoun Useras_pnoun	Z2
 Les_pnoun Valls_pnoun D'aguilar_pnoun	Z2
 Les_pnoun Valls_pnoun de_pnoun Valira_pnoun	Z2
+leudante_* químico_*	F1/O1
+leudantes_noun químicos_*	F1/L3
+levadura_noun autóctona_adj	F1
+levadura_noun comercial_adj	F1
+levadura_noun en_prep polvo_noun	F1/L3
+levadura_noun nativa_adj	F1
 Leyre_pnoun Eizaguirre_pnoun	Z2
 Leza_pnoun de_pnoun Río_pnoun Leza_pnoun	Z2
 Lidia_pnoun Redondo_pnoun	Z2
@@ -2321,12 +2788,14 @@ Llanera_pnoun de_pnoun Ranes_pnoun	Z2
 Llano_pnoun de_pnoun Bureba_pnoun	Z2
 Llano_pnoun de_pnoun Olmedo_pnoun	Z2
 Llanos_pnoun del_pnoun Caudillo_pnoun	Z2
+llantén_noun mayor_adj	F1/L3
+llantén_noun menor_adj	F1/L3
 llegar_verb su_pron San_adj Martín_pnoun	T1.3 E5
 Lles_pnoun de_pnoun Cerdanya_pnoun	Z2
 llevar_verb el_art agua_noun a_prep su_pron molino_noun	S1.2.2
+Llinars_pnoun del_pnoun Vallès_pnoun	Z2
 Lliçà_pnoun D'amunt_pnoun	Z2
 Lliçà_pnoun de_pnoun Vall_pnoun	Z2
-Llinars_pnoun del_pnoun Vallès_pnoun	Z2
 Llocnou_pnoun D'en_pnoun Fenollet_pnoun	Z2
 Llocnou_pnoun de_pnoun la_pnoun Corona_pnoun	Z2
 Llocnou_pnoun de_pnoun Sant_pnoun Jeroni_pnoun	Z2
@@ -2336,6 +2805,7 @@ Lloret_pnoun de_pnoun Vistalegre_pnoun	Z2
 Llover_verb chuzos_noun de_prep punta_noun	S1.2.5 O1.2
 Lobera_pnoun de_pnoun Onsella_pnoun	Z2
 Loma_pnoun de_pnoun Ucieza_pnoun	Z2
+lomo_noun embuchado_adj	F1
 Lora_pnoun de_pnoun Estepa_pnoun	Z2
 Lora_pnoun del_pnoun Río_pnoun	Z2
 Loranca_pnoun de_pnoun Tajuña_pnoun	Z2
@@ -2397,8 +2867,8 @@ Luis_pnoun Alberto_pnoun Marco_pnoun	Z2
 Luis_pnoun de_pnoun Guindos_pnoun	Z2
 Luis_pnoun de_pnoun Guindos_pnoun Jurado_pnoun	Z2
 Luis_pnoun Felipe_pnoun	Z2
-Luis_pnoun Felipe_pnoun Meliz_pnoun	Z2
 Luis_pnoun Felipe_pnoun Méliz_pnoun	Z2
+Luis_pnoun Felipe_pnoun Meliz_pnoun	Z2
 Luis_pnoun Felipe_pnoun Meliz_pnoun Linares_pnoun	Z2
 Luis_pnoun Jesús_pnoun Martínez_pnoun	Z2
 Luis_pnoun Jesús_pnoun Martínez_pnoun Encabo_pnoun	Z2
@@ -2407,11 +2877,16 @@ Luis_pnoun León_pnoun Sánchez_pnoun	Z2
 Luis_pnoun María_pnoun Flores_pnoun	Z2
 Luis_pnoun Martínez_pnoun	Z2
 Luis_pnoun Miguel_pnoun Martín_pnoun	Z2
+luz_noun del_prep+art sol_noun	W4
 Lydia_pnoun Morant_pnoun	Z2
 Lydia_pnoun Morant_pnoun Varó_pnoun	Z2
-Maçanet_pnoun de_pnoun Cabrenys_pnoun	Z2
-Maçanet_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
 Macarena_pnoun Aguilar_pnoun	Z2
+maceración_noun carbónica_adj	A1.1.1
+maceración_noun prolongada_verb	A1.1.1
+madera_noun fina_adj	X3.5
+madera_noun nueva_adj	X3.5
+madera_noun recién_adv cortada_verb	X3.5
+madera_noun tostada_noun	X3.5
 Madrigal_pnoun de_pnoun la_pnoun Vera_pnoun	Z2
 Madrigal_pnoun de_pnoun las_pnoun Altas_pnoun Torres_pnoun	Z2
 Madrigal_pnoun del_pnoun Monte_pnoun	Z2
@@ -2419,7 +2894,6 @@ Madrigalejo_pnoun del_pnoun Monte_pnoun	Z2
 Magaz_pnoun de_pnoun Cepeda_pnoun	Z2
 Magaz_pnoun de_pnoun Pisuerga_pnoun	Z2
 Magüi_pnoun Serna_pnoun	Z2
-Maià_pnoun de_pnoun Montcal_pnoun	Z2
 Maialen_pnoun Chourraut_pnoun	Z2
 Maialen_pnoun Chourraut_pnoun Yurramendi_pnoun	Z2
 Maider_pnoun Luengo_pnoun	Z2
@@ -2430,6 +2904,8 @@ Maire_pnoun de_pnoun Castroponce_pnoun	Z2
 Mairena_pnoun del_pnoun Alcor_pnoun	Z2
 Mairena_pnoun del_pnoun Aljarafe_pnoun	Z2
 Maite_pnoun Teresa_pnoun Andreu_pnoun	Z2
+Maià_pnoun de_pnoun Montcal_pnoun	Z2
+mal_* aliento_verb	B2
 Málaga_pnoun del_pnoun Fresno_pnoun	Z2
 Malgrat_pnoun de_pnoun Mar_pnoun	Z2
 Malpartida_pnoun de_pnoun Cáceres_pnoun	Z2
@@ -2451,6 +2927,9 @@ Manjabálago_pnoun y_pnoun Ortigosa_pnoun de_pnoun Rioalmar_pnoun	Z2
 Mansilla_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Mansilla_pnoun de_pnoun las_pnoun Mulas_pnoun	Z2
 Mansilla_pnoun Mayor_pnoun	Z2
+manteca_noun de_prep cacahuete_noun	F1/L3
+manteca_noun de_prep cacao_noun	F1/L3
+manteca_noun vegetal_*	F1/L3
 Manuel_pnoun Allendesalazar_pnoun Muñoz_pnoun	Z2
 Manuel_pnoun Azaña_pnoun	Z2
 Manuel_pnoun Carballo_pnoun	Z2
@@ -2468,14 +2947,19 @@ Manzanal_pnoun de_pnoun los_pnoun Infantes_pnoun	Z2
 Manzanal_pnoun del_pnoun Barco_pnoun	Z2
 Manzanares_pnoun de_pnoun Rioja_pnoun	Z2
 Manzanares_pnoun el_pnoun Real_pnoun	Z2
+manzanilla_noun común_adj	F1/L3
 Marc_pnoun Gasol_pnoun	Z2
 Marc_pnoun Gasol_pnoun Sáez_pnoun	Z2
 Marc_pnoun Minguell_pnoun	Z2
 Marc_pnoun Minguell_pnoun Alférez_pnoun	Z2
+marca_verb registrada_*	A5.4
+marcados_verb de_prep madera_noun	F2/O4.5/X3.1
 Marcelo_pnoun Azcárraga_pnoun	Z2
 Marcilla_pnoun de_pnoun Campos_pnoun	Z2
 Marcos_pnoun Rivera_pnoun	Z2
 Marcos_pnoun Rivera_pnoun Miranda_pnoun	Z2
+margarina_noun de_prep girasol_noun	F1/L3
+margarina_noun vegetal_*	F1/L3
 Margarita_pnoun Fullana_pnoun	Z2
 Margarita_pnoun Fullana_pnoun Riera_pnoun	Z2
 María_pnoun Abel_pnoun	Z2
@@ -2539,6 +3023,7 @@ Mario_pnoun Núñez_pnoun	Z2
 Mario_pnoun Núñez_pnoun García_pnoun	Z2
 Mario_pnoun Pestano_pnoun	Z2
 Mario_pnoun Pestano_pnoun García_pnoun	Z2
+Marrubium_pnoun vulgare_adj	F1/L3
 Marta_pnoun Domínguez_pnoun	Z2
 Marta_pnoun Domínguez_pnoun Azpeleta_pnoun	Z2
 Marta_pnoun Ejarque_pnoun	Z2
@@ -2555,8 +3040,10 @@ Martín_pnoun del_pnoun Río_pnoun	Z2
 Martín_pnoun Miguel_pnoun	Z2
 Martín_pnoun Muñoz_pnoun de_pnoun la_pnoun Dehesa_pnoun	Z2
 Martín_pnoun Muñoz_pnoun de_pnoun las_pnoun Posadas_pnoun	Z2
+más_* alta_adj calidad_noun	A1.1.1
 Mas_pnoun de_pnoun Barberans_pnoun	Z2
 Mas_pnoun de_pnoun las_pnoun Matas_pnoun	Z2
+masa_noun de_prep cacao_noun	F1/L3
 Masegoso_pnoun de_pnoun Tajuña_pnoun	Z2
 Mata_pnoun de_pnoun Alcántara_pnoun	Z2
 Mata_pnoun de_pnoun Cuéllar_pnoun	Z2
@@ -2564,13 +3051,22 @@ Matadeón_pnoun de_pnoun los_pnoun Oteros_pnoun	Z2
 Matallana_pnoun de_pnoun Torío_pnoun	Z2
 Matamala_pnoun de_pnoun Almazán_pnoun	Z2
 Mateo_pnoun Garralda_pnoun Larumbe_pnoun	Z2
+materia_noun seca_adj láctea_*	F1
 Matilla_pnoun de_pnoun Arzón_pnoun	Z2
 Matilla_pnoun de_pnoun los_pnoun Caños_pnoun	Z2
 Matilla_pnoun de_pnoun los_pnoun Caños_pnoun del_pnoun Río_pnoun	Z2
 Matilla_pnoun la_pnoun Seca_pnoun	Z2
+matiz_noun de_prep color_noun	O4.3
+Matricaria_pnoun chamomilla_noun	F1/L3
 Mayte_pnoun Gargallo_pnoun	Z2
 Mayte_pnoun Martínez_pnoun Jiménez_pnoun	Z2
 Mazuecos_pnoun de_pnoun Valdeginate_pnoun	Z2
+Maçanet_pnoun de_pnoun Cabrenys_pnoun	Z2
+Maçanet_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
+medalla_noun de_prep bronce_noun	O2/S7.3
+medalla_noun de_prep oro_*	O2/S7.3
+medalla_noun de_prep plata_*	S7.3
+media_adj tarde_adv	F2/T3
 Mediana_pnoun de_pnoun Aragón_pnoun	Z2
 Mediana_pnoun de_pnoun Voltoya_pnoun	Z2
 Medina_pnoun de_pnoun las_pnoun Torres_pnoun	Z2
@@ -2587,12 +3083,15 @@ Melgar_pnoun de_pnoun Fernamental_pnoun	Z2
 Melgar_pnoun de_pnoun Tera_pnoun	Z2
 Melgar_pnoun de_pnoun Yuso_pnoun	Z2
 Melissa_pnoun Caballero_pnoun	Z2
+Melissa_pnoun Officinalis_pnoun	F1/L3
 Melque_pnoun de_pnoun Cercos_pnoun	Z2
 Melquiades_pnoun Álvarez_pnoun	Z2
 Melquiades_pnoun Álvarez_pnoun Caraballo_pnoun	Z2
 Membibre_pnoun de_pnoun la_pnoun Hoz_pnoun	Z2
 Membribe_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Meneses_pnoun de_pnoun Campos_pnoun	Z2
+menta_noun piperita_noun	F1/L3
+Mentha_noun spicata_noun	F1/L3
 Mercedes_pnoun Chilla_pnoun	Z2
 Mercedes_pnoun Chilla_pnoun López_pnoun	Z2
 Mercedes_pnoun Peris_pnoun	Z2
@@ -2603,16 +3102,21 @@ Merindad_pnoun de_pnoun Río_pnoun Ubierna_pnoun	Z2
 Merindad_pnoun de_pnoun Sotoscueva_pnoun	Z2
 Merindad_pnoun de_pnoun Valdeporres_pnoun	Z2
 Merindad_pnoun de_pnoun Valdivielso_pnoun	Z2
+mermelada_noun de_prep naranja_*	X3.5/X3.1/F1/L3
 Mesas_pnoun de_pnoun Ibor_pnoun	Z2
 Mesegar_pnoun de_pnoun Corneja_pnoun	Z2
 Mesegar_pnoun de_pnoun Tajo_pnoun	Z2
 Mesones_pnoun de_pnoun Isuela_pnoun	Z2
 meter_verb baza_noun	S1.2.4 E3
+meter_verb en_prep un_* molde_noun	A1.1.1
 Mezquita_pnoun de_pnoun Jarque_pnoun	Z2
 Micereces_pnoun de_pnoun Tera_pnoun	Z2
 Micieces_pnoun de_pnoun Ojeda_pnoun	Z2
 Miedes_pnoun de_pnoun Aragón_pnoun	Z2
 Miedes_pnoun de_pnoun Atienza_pnoun	Z2
+miel_noun de_prep caña_noun	X3.5/X3.1/F1/L3
+miel_noun de_prep flores_noun	X3.5/X3.1/F1/L3
+miel_noun en_prep polvo_noun	F1/L3
 miel_noun sobre_prep hojuelas_noun	E2
 Miguel_pnoun Ángel_pnoun López_pnoun	Z2
 Miguel_pnoun Ángel_pnoun López_pnoun Nicolás_pnoun	Z2
@@ -2651,6 +3155,7 @@ Molinos_pnoun de_pnoun Duero_pnoun	Z2
 Molins_pnoun de_pnoun Rei_pnoun	Z2
 Mollet_pnoun de_pnoun Peralada_pnoun	Z2
 Mollet_pnoun del_pnoun Vallès_pnoun	Z2
+momento_noun óptimo_adj de_prep consumo_noun	T1.3
 Monasterio_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Monasterio_pnoun de_pnoun Rodilla_pnoun	Z2
 Monasterio_pnoun de_pnoun Vega_pnoun	Z2
@@ -2659,13 +3164,16 @@ Monforte_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Monforte_pnoun de_pnoun Lemos_pnoun	Z2
 Monforte_pnoun de_pnoun Moyuela_pnoun	Z2
 Monforte_pnoun del_pnoun Cid_pnoun	Z2
-Monica_pnoun Azón_pnoun	Z2
 Mónica_pnoun Azón_pnoun	Z2
+Monica_pnoun Azón_pnoun	Z2
 Mónica_pnoun Azón_pnoun Canalda_pnoun	Z2
 Mónica_pnoun Mesalles_pnoun	Z2
 Mónica_pnoun Rueda_pnoun	Z2
 Monistrol_pnoun de_pnoun Calders_pnoun	Z2
 Monistrol_pnoun de_pnoun Montserrat_pnoun	Z2
+monoglicérido_noun de_prep ácido_adj graso_adj	F1/O1
+monoglicéridos_noun de_prep ácidos_adj grasos_adj	O1/O1.1/O2
+monooleato_noun de_prep glicerol_noun	F1
 Monreal_pnoun de_pnoun Ariza_pnoun	Z2
 Monreal_pnoun del_pnoun Campo_pnoun	Z2
 Monreal_pnoun del_pnoun Llano_pnoun	Z2
@@ -2674,6 +3182,7 @@ Montagut_pnoun I_pnoun Oix_pnoun	Z2
 Montalbán_pnoun de_pnoun Córdoba_pnoun	Z2
 Montbrió_pnoun del_pnoun Camp_pnoun	Z2
 Montcada_pnoun I_pnoun Reixac_pnoun	Z2
+monte_noun bajo_adj	X3.5
 Monteagudo_pnoun de_pnoun las_pnoun Salinas_pnoun	Z2
 Monteagudo_pnoun de_pnoun las_pnoun Vicarías_pnoun	Z2
 Monteagudo_pnoun del_pnoun Castillo_pnoun	Z2
@@ -2695,6 +3204,7 @@ Monterrubio_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Montferrer_pnoun I_pnoun Castellbò_pnoun	Z2
 Montoliu_pnoun de_pnoun Lleida_pnoun	Z2
 Montoliu_pnoun de_pnoun Segarra_pnoun	Z2
+montones_noun de_prep	N3/N3.4
 Montornès_pnoun de_pnoun Segarra_pnoun	Z2
 Montornès_pnoun del_pnoun Vallès_pnoun	Z2
 Montserrat_pnoun Cruz_pnoun	Z2
@@ -2753,6 +3263,7 @@ Muro_pnoun En_pnoun Cameros_pnoun	Z2
 Muros_pnoun de_pnoun Nalón_pnoun	Z2
 nadar_verb entre_prep dos_num aguas_noun	X5.2 S1.2
 Nafría_pnoun de_pnoun Ucero_pnoun	Z2
+naranja_* deshidratada_verb	F1/L3
 Naroa_pnoun Agirre_pnoun	Z2
 Naroa_pnoun Agirre_pnoun Kamio_pnoun	Z2
 Narrillos_pnoun del_pnoun Álamo_pnoun	Z2
@@ -2809,10 +3320,14 @@ Nicolás_pnoun Almagro_pnoun	Z2
 Nicolás_pnoun Almagro_pnoun Sánchez_pnoun	Z2
 Nieva_pnoun de_pnoun Cameros_pnoun	Z2
 Nina_pnoun Zhivanevskaya_pnoun	Z2
+nitrato_noun de_prep potasio_noun	F1
+nitrito_noun sódico_adj	F1
 Niurka_pnoun Montalvo_pnoun	Z2
 Nizhny_pnoun Novgorod_pnoun	Z2
 no_adv caer_verb una_num breva_noun	E6 S1.2.1
+no_adv comestible_adj	F1
 no_adv dejar_verb títere_noun con_prep cabeza_noun	S1.2.5 G3 A1.1.2
+no_adv prensado_adj	O4.1
 no_adv se_pron lo_pron saltar_verb un_art torero_noun	N3.1
 Noain_pnoun (elortzibar)_pnoun	Z2
 Noáin_pnoun (valle_pnoun de_pnoun Elorz)_pnoun	Z2
@@ -2831,6 +3346,8 @@ Nueva_pnoun York_pnoun	Z2
 Nueva_pnoun Zelanda_pnoun	Z2
 Nueva_pnoun Zelandia_pnoun	Z2
 Nuevo_pnoun Baztán_pnoun	Z2
+nuez_noun de_prep Brasil_*	X3.1/X3.5/F1/L3
+nuez_noun moscada_adj	X3.5/X3.1/F1/L3
 Nuez_pnoun de_pnoun Ebro_pnoun	Z2
 Numancia_pnoun de_pnoun la_pnoun Sagra_pnoun	Z2
 Nuño_pnoun Gómez_pnoun	Z2
@@ -2864,6 +3381,7 @@ Ojos_pnoun Negros_pnoun	Z2
 Oklahoma_pnoun City_pnoun	Z2
 Olaf_pnoun Wildeboer_pnoun	Z2
 Olea_pnoun de_pnoun Boedo_pnoun	Z2
+oleina_noun de_prep palma_noun	F1/L3
 Olesa_pnoun de_pnoun Bonesvalls_pnoun	Z2
 Olesa_pnoun de_pnoun Montserrat_pnoun	Z2
 Olías_pnoun del_pnoun Rey_pnoun	Z2
@@ -2948,26 +3466,36 @@ Palacios_pnoun del_pnoun Arzobispo_pnoun	Z2
 Palacios_pnoun del_pnoun Pan_pnoun	Z2
 Palacios_pnoun del_pnoun Sil_pnoun	Z2
 Palas_pnoun de_pnoun Rei_pnoun	Z2
-Palau_pnoun de_pnoun Santa_pnoun Eulàlia_pnoun	Z2
 Palau-Solità_pnoun I_pnoun Plegamans_pnoun	Z2
+Palau_pnoun de_pnoun Santa_pnoun Eulàlia_pnoun	Z2
 Palazuelo_pnoun de_pnoun Vedija_pnoun	Z2
 Palazuelos_pnoun de_pnoun Eresma_pnoun	Z2
 Palazuelos_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Palazuelos_pnoun de_pnoun Muñó_pnoun	Z2
 Palencia_pnoun de_pnoun Negrilla_pnoun	Z2
+palitos_noun de_prep queso_noun	F1
 Palma_pnoun de_pnoun Gandía_pnoun	Z2
 Palma_pnoun de_pnoun Mallorca_pnoun	Z2
 Palma_pnoun del_pnoun Río_pnoun	Z2
 Pálmaces_pnoun de_pnoun Jadraque_pnoun	Z2
+palmitato_noun de_prep ascorbilo_noun	F1/L3
 Palol_pnoun de_pnoun Revardit_pnoun	Z2
 Palomar_pnoun de_pnoun Arroyos_pnoun	Z2
 Palomares_pnoun del_pnoun Campo_pnoun	Z2
 Palomares_pnoun del_pnoun Río_pnoun	Z2
 Palos_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
+pan_noun de_prep queso_noun	F1
+pan_noun rallado_adj	F1
+pan_noun tostado_adj	F1
 Paola_pnoun Tirados_pnoun	Z2
 Paola_pnoun Tirados_pnoun Sánchez_pnoun	Z2
+papel_noun de_prep alumninio_noun	O2
+papilas_noun gustativas_adj	X3.1/B1
 Papua_pnoun Nueva_pnoun Guinea_pnoun	Z2
 Papúa_pnoun Nueva_pnoun Guinea_pnoun	Z2
+para_conj cocinar_verb	F1
+para_conj sibaritas_adj	A5.1+/X3.1
+para_conj vegetarianos_*	B2/F1
 Paracuellos_pnoun de_pnoun Jarama_pnoun	Z2
 Paracuellos_pnoun de_pnoun Jiloca_pnoun	Z2
 Paracuellos_pnoun de_pnoun la_pnoun Ribera_pnoun	Z2
@@ -2982,10 +3510,25 @@ Paredes_pnoun de_pnoun Escalona_pnoun	Z2
 Paredes_pnoun de_pnoun Nava_pnoun	Z2
 Paredes_pnoun de_pnoun Sigüenza_pnoun	Z2
 Parets_pnoun del_pnoun Vallès_pnoun	Z2
+parte_noun superior_adj	N4
 Partido_pnoun de_pnoun la_pnoun Sierra_pnoun En_pnoun Tobalina_pnoun	Z2
+partir_verb en_prep trozos_noun pequeños_adj	A1.1.2
 pasar_verb una_art noche_noun toledana_adj	T1.3 E6 O4.6
 Pasarón_pnoun de_pnoun la_pnoun Vera_pnoun	Z2
+paso_* en_prep boca_noun	F2/X3.1/O4.5
+paso_* por_prep barrica_noun	F2/T3/A1.1.1
+paso_* por_prep boca_noun	F2/X3.1/O4.5
+paso_* por_prep botella_noun	F2/T3/A1.1.1
+paso_* por_prep madera_noun	F2/T3/A1.1.1
+paso_* por_prep roble_noun	F2/T3/A1.1.1
 Passanant_pnoun I_pnoun Belltall_pnoun	Z2
+pasta_noun de_prep avellana_noun	F1
+pasta_noun de_prep avellanas_noun	F1/L3
+pasta_noun de_prep cacao_noun	F1/L3
+pasta_noun de_prep fruta_noun	F1
+pasta_noun de_prep frutas_noun	F1/L3
+patata_noun asada_verb	F1
+patata_noun asada_verb con_prep la_art piel_noun	F1
 Paterna_pnoun de_pnoun Rivera_pnoun	Z2
 Paterna_pnoun del_pnoun Campo_pnoun	Z2
 Paterna_pnoun del_pnoun Madera_pnoun	Z2
@@ -3000,6 +3543,7 @@ Pau_pnoun Quemada_pnoun	Z2
 Payo_pnoun de_pnoun Ojeda_pnoun	Z2
 Pazos_pnoun de_pnoun Borbén_pnoun	Z2
 Peal_pnoun de_pnoun Becerro_pnoun	Z2
+pechuga_noun de_prep pollo_noun	F1
 Pedrafita_pnoun Do_pnoun Cebreiro_pnoun	Z2
 Pedrajas_pnoun de_pnoun San_pnoun Esteban_pnoun	Z2
 Pedralba_pnoun de_pnoun la_pnoun Pradería_pnoun	Z2
@@ -3034,6 +3578,7 @@ Peñaranda_pnoun de_pnoun Duero_pnoun	Z2
 Peñarroya_pnoun de_pnoun Tastavins_pnoun	Z2
 Peñas_pnoun de_pnoun San_pnoun Pedro_pnoun	Z2
 Pep_pnoun Sánchez_pnoun Delgado_pnoun	Z2
+pequeña_adj cantidad_noun	N5-
 Peral_pnoun de_pnoun Arlanza_pnoun	Z2
 Peraleda_pnoun de_pnoun la_pnoun Mata_pnoun	Z2
 Peraleda_pnoun de_pnoun San_pnoun Román_pnoun	Z2
@@ -3049,15 +3594,29 @@ Peralta_pnoun de_pnoun Calasanz_pnoun	Z2
 perder_verb la_art chaveta_noun	X2 E6
 Pereña_pnoun de_pnoun la_pnoun Ribera_pnoun	Z2
 Perilla_pnoun de_pnoun Castro_pnoun	Z2
+periodo_noun árido_adj	T1.3
+periodo_noun cálido_adj	T1.3
+periodo_noun frío_*	T1.3
+periodo_noun lluvioso_adj	T1.3
 Pesquera_pnoun de_pnoun Duero_pnoun	Z2
+pétalos_noun de_prep rosa_*	X3.5/X3.1/L3
 Petilla_pnoun de_pnoun Aragón_pnoun	Z2
 Pezuela_pnoun de_pnoun las_pnoun Torres_pnoun	Z2
+pico_verb máximo_* de_prep madurez_noun	A1.1.1
+picolinato_noun de_prep cromo_verb	F1
 Piedrahita_pnoun de_pnoun Castro_pnoun	Z2
 Piedras_pnoun Albas_pnoun	Z2
 Pilar_pnoun de_pnoun la_pnoun Horadada_pnoun	Z2
 Pilar_pnoun Hidalgo_pnoun	Z2
 Pilar_pnoun Sánchez_pnoun	Z2
 Pilar_pnoun Sánchez_pnoun Cerví_pnoun	Z2
+pimentón_noun dulce_*	F1/L3
+pimentón_noun picante_adj	F1/L3
+pimienta_noun blanca_*	F1/L3
+pimienta_noun negra_adj	F1/L3
+pimienta_noun roja_adj	F1/L3
+pimienta_noun rosa_*	F1
+Pimpinella_pnoun anisum_noun	F1/L3
 Piña_pnoun de_pnoun Campos_pnoun	Z2
 Pina_pnoun de_pnoun Ebro_pnoun	Z2
 Piña_pnoun de_pnoun Esgueva_pnoun	Z2
@@ -3082,7 +3641,10 @@ Pino_pnoun del_pnoun Río_pnoun	Z2
 Pinos_pnoun Genil_pnoun	Z2
 Pinos_pnoun Puente_pnoun	Z2
 Piqueras_pnoun del_pnoun Castillo_pnoun	Z2
+pirofosfato_noun ácido_adj de_prep sodio_noun	F1
+planta_noun florida_adj de_prep	F1/L3
 Plasencia_pnoun de_pnoun Jalón_pnoun	Z2
+plástico_noun protector_noun	F2/O2/N3.2/N3.5
 Población_pnoun de_pnoun Arroyo_pnoun	Z2
 Población_pnoun de_pnoun Campos_pnoun	Z2
 Población_pnoun de_pnoun Cerrato_pnoun	Z2
@@ -3090,15 +3652,22 @@ Pobladura_pnoun de_pnoun Pelayo_pnoun García_pnoun	Z2
 Pobladura_pnoun de_pnoun Valderaduey_pnoun	Z2
 Pobladura_pnoun del_pnoun Valle_pnoun	Z2
 Poble_pnoun Nou_pnoun de_pnoun Benitatxell_pnoun	Z2
+poco_pron a_prep poco_pron	T2++
+poco_pron curado_adj	T3-
 Pol_pnoun Amat_pnoun	Z2
+polifosfato_noun de_prep socio_noun	F1
+polifosfato_noun de_prep sodio_noun	F1/O1
 Polinyà_pnoun de_pnoun Xúquer_pnoun	Z2
 Pomar_pnoun de_pnoun Valdivia_pnoun	Z2
 poner_verb a_prep huevo_noun	A12
 poner_verb en_prep berlina_noun	E6 A5 X2
 poner_verb la_art proa_noun	S1.2.1- A1.1.2
+poner_verb por_prep encima_prep	A1.1.1
 poner_verb una_art pica_noun en_prep Flandes_pnoun	S1.2.5
 Pont_pnoun de_pnoun Molins_pnoun	Z2
 Ponte_pnoun Caldelas_pnoun	Z2
+por_prep la_art mañana_noun	F2/T3
+por_prep la_art noche_noun	F2/T3
 Port_pnoun Elizabeth_pnoun	Z2
 Port_pnoun Harcourt_pnoun	Z2
 Portalrubio_pnoun de_pnoun Guadamejud_pnoun	Z2
@@ -3147,11 +3716,22 @@ Prats_pnoun de_pnoun Lluçanès_pnoun	Z2
 Prats_pnoun I_pnoun Sansor_pnoun	Z2
 Premià_pnoun de_pnoun Dalt_pnoun	Z2
 Premià_pnoun de_pnoun Mar_pnoun	Z2
+prensa_noun quesera_noun	O2/F1
+presentar_verb un_* color_noun	A1.1.1/O4.3
 Priaranza_pnoun del_pnoun Bierzo_pnoun	Z2
 Priego_pnoun de_pnoun Córdoba_pnoun	Z2
 Principado_pnoun de_pnoun Andorra_pnoun	Z2
 Principado_pnoun de_pnoun Liechtenstein_pnoun	Z2
 Principado_pnoun de_pnoun Mónaco_pnoun	Z2
+problemas_noun cardiovasculares_adj	B2
+problemas_noun de_prep digestión_noun	B2
+problemas_noun digestivos_adj	B2
+procesos_noun degenerativos_adj	B2
+profesional_adj de_prep la_art salud_noun	I.3.2
+proteína_noun aislada_verb de_prep soja_noun	F1/L3
+proteína_noun de_prep la_art leche_noun	F1/O1
+proteínas_noun de_prep la_art leche_noun	F1
+proteínas_noun lácteas_*	F1
 Puebla_pnoun de_pnoun Albortón_pnoun	Z2
 Puebla_pnoun de_pnoun Alcocer_pnoun	Z2
 Puebla_pnoun de_pnoun Almenara_pnoun	Z2
@@ -3205,14 +3785,31 @@ Puerto_pnoun Serrano_pnoun	Z2
 Pueyo_pnoun de_pnoun Santa_pnoun Cruz_pnoun	Z2
 Puigverd_pnoun D'agramunt_pnoun	Z2
 Puigverd_pnoun de_pnoun Lleida_pnoun	Z2
+pulpa_noun de_prep naranja_*	F1/L3
 Punta_pnoun Umbría_pnoun	Z2
+punto_noun máximo_* de_prep maduración_noun	A1.1.1
+punto_noun óptimo_adj de_prep madurez_noun	A1.1.1
+puré_noun de_prep patata_noun	F1
 Quart_pnoun de_pnoun Les_pnoun Valls_pnoun	Z2
 Quart_pnoun de_pnoun Poblet_pnoun	Z2
+que_* anima_verb	A1.1.1
+que_* da_verb energía_noun	A1.1.1
+que_* echa_verb humo_noun	O4.6
+que_* hace_verb la_art boca_noun agua_noun	F2/O4.5/O4.2
+que_* se_pron desmenuza_verb	O4.5
+que_* se_pron puede_verb mojar_verb	O4.1
 quedar_verb a_prep dos_num velas_noun	E6 I1.2
 quedar_verb a_prep la_art luna_noun de_prep Valencia_pnoun	E4 A1.3
 quedar_verb el_art ojo_noun a_prep la_art virulé_noun	E6 A1.6
 quedar_verb en_prep agua_noun de_prep borrajas_noun	A5 E3
 querer_verb más_adv que_conj a_prep la_art niña_noun de_prep sus_pron ojos_noun	E2 S1.1.2
+queso_noun azul_adj	F1
+queso_noun de_prep Asiago_pnoun	F1
+queso_noun de_prep mesa_noun	F1
+queso_noun de_prep untar_verb	F1
+queso_noun especial_adj	F1
+queso_noun para_conj cocinar_verb	F1
+queso_noun plano_adj en_prep forma_noun de_prep disco_noun	O4.4
 Quintana_pnoun de_pnoun la_pnoun Serena_pnoun	Z2
 Quintana_pnoun del_pnoun Castillo_pnoun	Z2
 Quintana_pnoun del_pnoun Marco_pnoun	Z2
@@ -3240,6 +3837,7 @@ Quintanilla_pnoun Vivar_pnoun	Z2
 Quintela_pnoun de_pnoun Leirado_pnoun	Z2
 Quiruelas_pnoun de_pnoun Vidriales_pnoun	Z2
 quitar_verb el_art pelo_noun de_prep la_art dehesa_noun	S1.2.4 S1.2.5 M7
+quitar_verb la_art nata_noun	A1.1.1
 Rabanera_pnoun del_pnoun Pinar_pnoun	Z2
 Rábano_pnoun de_pnoun Aliste_pnoun	Z2
 Rabé_pnoun de_pnoun las_pnoun Calzadas_pnoun	Z2
@@ -3267,17 +3865,21 @@ Raquel_pnoun Huertas_pnoun	Z2
 Raquel_pnoun Huertas_pnoun Soler_pnoun	Z2
 Raúl_pnoun Entrerríos_pnoun	Z2
 Raúl_pnoun Entrerríos_pnoun Rodríguez_pnoun	Z2
-Raül_pnoun López_pnoun	Z2
 Raúl_pnoun Mesa_pnoun	Z2
 Raúl_pnoun Mesa_pnoun Lite_pnoun	Z2
+Raül_pnoun López_pnoun	Z2
 Real_pnoun Sitio_pnoun de_pnoun San_pnoun Ildefonso_pnoun	Z2
+rebanada_noun de_prep pan_noun tostado_adj con_prep queso_noun fundido_adj	F1
 Rebolledo_pnoun de_pnoun la_pnoun Torre_pnoun	Z2
 Rebollosa_pnoun de_pnoun Jadraque_pnoun	Z2
 Redecilla_pnoun del_pnoun Camino_pnoun	Z2
 Redecilla_pnoun del_pnoun Campo_pnoun	Z2
 Región_pnoun del_pnoun Ruhr_pnoun	Z2
+regiones_noun montañosas_adj	Z2
 Regueras_pnoun de_pnoun Arriba_pnoun	Z2
+regulador_noun de_prep acidez_noun	F1/L3
 Regumiel_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+Reino_noun Unido_verb	F2/Z2
 Reino_pnoun de_pnoun Arabia_pnoun Saudí_pnoun	Z2
 Reino_pnoun de_pnoun Arabia_pnoun Saudita_pnoun	Z2
 Reino_pnoun de_pnoun Bahrein_pnoun	Z2
@@ -3304,6 +3906,8 @@ Reino_pnoun Hachemita_pnoun de_pnoun Jordania_pnoun	Z2
 Reino_pnoun Unido_pnoun	Z2
 Reino_pnoun Unido_pnoun de_pnoun Gran_pnoun Bretaña_pnoun e_pnoun Irlanda_pnoun del_pnoun Norte_pnoun	Z2
 Reinoso_pnoun de_pnoun Cerrato_pnoun	Z2
+relleno_verb generoso_adj	N5/N5.1
+remontarse_verb a_prep	T3
 Renedo_pnoun de_pnoun Esgueva_pnoun	Z2
 Renedo_pnoun de_pnoun la_pnoun Vega_pnoun	Z2
 República_pnoun Árabe_pnoun de_pnoun Egipto_pnoun	Z2
@@ -3339,9 +3943,9 @@ República_pnoun de_pnoun Colombia_pnoun	Z2
 República_pnoun de_pnoun Corea_pnoun	Z2
 República_pnoun de_pnoun Costa_pnoun de_pnoun Marfil_pnoun	Z2
 República_pnoun de_pnoun Costa_pnoun Rica_pnoun	Z2
-República_pnoun de_pnoun Côte_pnoun D'ivoire_pnoun	Z2
 República_pnoun de_pnoun Croacia_pnoun	Z2
 República_pnoun de_pnoun Cuba_pnoun	Z2
+República_pnoun de_pnoun Côte_pnoun D'ivoire_pnoun	Z2
 República_pnoun de_pnoun Djibouti_pnoun	Z2
 República_pnoun de_pnoun el_pnoun Salvador_pnoun	Z2
 República_pnoun de_pnoun Eslovenia_pnoun	Z2
@@ -3353,10 +3957,10 @@ República_pnoun de_pnoun Fiyi_pnoun	Z2
 República_pnoun de_pnoun Gambia_pnoun	Z2
 República_pnoun de_pnoun Ghana_pnoun	Z2
 República_pnoun de_pnoun Guatemala_pnoun	Z2
-República_pnoun de_pnoun Guinea_pnoun	Z2
-República_pnoun de_pnoun Guinea_pnoun Ecuatorial_pnoun	Z2
 República_pnoun de_pnoun Guinea-Bisáu_pnoun	Z2
 República_pnoun de_pnoun Guinea-Bissau_pnoun	Z2
+República_pnoun de_pnoun Guinea_pnoun	Z2
+República_pnoun de_pnoun Guinea_pnoun Ecuatorial_pnoun	Z2
 República_pnoun de_pnoun Guyana_pnoun	Z2
 República_pnoun de_pnoun Haití_pnoun	Z2
 República_pnoun de_pnoun Honduras_pnoun	Z2
@@ -3382,8 +3986,8 @@ República_pnoun de_pnoun Madagascar_pnoun	Z2
 República_pnoun de_pnoun Malaui_pnoun	Z2
 República_pnoun de_pnoun Malawi_pnoun	Z2
 República_pnoun de_pnoun Maldivas_pnoun	Z2
-República_pnoun de_pnoun Mali_pnoun	Z2
 República_pnoun de_pnoun Malí_pnoun	Z2
+República_pnoun de_pnoun Mali_pnoun	Z2
 República_pnoun de_pnoun Malta_pnoun	Z2
 República_pnoun de_pnoun Mauricio_pnoun	Z2
 República_pnoun de_pnoun Moldavia_pnoun	Z2
@@ -3440,8 +4044,8 @@ República_pnoun del_pnoun Sudán_pnoun	Z2
 República_pnoun del_pnoun Yemen_pnoun	Z2
 República_pnoun Democrática_pnoun de_pnoun Madagascar_pnoun	Z2
 República_pnoun Democrática_pnoun de_pnoun Santo_pnoun Tomé_pnoun y_pnoun Príncipe_pnoun	Z2
-República_pnoun Democrática_pnoun de_pnoun Timor_pnoun Oriental_pnoun	Z2
 República_pnoun Democrática_pnoun de_pnoun Timor-Leste_pnoun	Z2
+República_pnoun Democrática_pnoun de_pnoun Timor_pnoun Oriental_pnoun	Z2
 República_pnoun Democrática_pnoun del_pnoun Congo_pnoun	Z2
 República_pnoun Democrática_pnoun Federal_pnoun de_pnoun Etiopía_pnoun	Z2
 República_pnoun Democrática_pnoun Federal_pnoun de_pnoun Nepal_pnoun	Z2
@@ -3484,8 +4088,8 @@ República_pnoun Socialista_pnoun de_pnoun Vietnam_pnoun	Z2
 República_pnoun Socialista_pnoun Democrática_pnoun de_pnoun Sri_pnoun Lanka_pnoun	Z2
 República_pnoun Somalí_pnoun	Z2
 República_pnoun Togolesa_pnoun	Z2
-República_pnoun Unida_pnoun de_pnoun Tanzania_pnoun	Z2
 República_pnoun Unida_pnoun de_pnoun Tanzanía_pnoun	Z2
+República_pnoun Unida_pnoun de_pnoun Tanzania_pnoun	Z2
 Requena_pnoun de_pnoun Campos_pnoun	Z2
 Respenda_pnoun de_pnoun la_pnoun Peña_pnoun	Z2
 Retamal_pnoun de_pnoun Llerena_pnoun	Z2
@@ -3498,10 +4102,11 @@ Revilla_pnoun del_pnoun Campo_pnoun	Z2
 Revilla_pnoun Vallejera_pnoun	Z2
 Reyes_pnoun Estévez_pnoun	Z2
 Reyes_pnoun Estévez_pnoun López_pnoun	Z2
+Rhamnus_pnoun lycioides_noun	F1/L3/X3.5
 Riaguas_pnoun de_pnoun San_pnoun Bartolomé_pnoun	Z2
-Riba_pnoun de_pnoun Saelices_pnoun	Z2
 Riba-Roja_pnoun D'ebre_pnoun	Z2
 Riba-Roja_pnoun de_pnoun Túria_pnoun	Z2
+Riba_pnoun de_pnoun Saelices_pnoun	Z2
 Ribamontán_pnoun Al_pnoun Mar_pnoun	Z2
 Ribamontán_pnoun Al_pnoun Monte_pnoun	Z2
 Ribas_pnoun de_pnoun Campos_pnoun	Z2
@@ -3535,6 +4140,7 @@ Riofrío_pnoun del_pnoun Llano_pnoun	Z2
 Rionegro_pnoun del_pnoun Puente_pnoun	Z2
 Rioseco_pnoun de_pnoun Soria_pnoun	Z2
 Rioseco_pnoun de_pnoun Tapia_pnoun	Z2
+ristra_noun de_prep chorizo_noun	F1
 Riu_pnoun de_pnoun Cerdanya_pnoun	Z2
 Riudellots_pnoun de_pnoun la_pnoun Selva_pnoun	Z2
 Rivilla_pnoun de_pnoun Barajas_pnoun	Z2
@@ -3568,10 +4174,28 @@ Rodrigo_pnoun de_pnoun la_pnoun Fuente_pnoun	Z2
 Rodrigo_pnoun Garza_pnoun	Z2
 Rodrigo_pnoun Garza_pnoun Barbero_pnoun	Z2
 Roelos_pnoun de_pnoun Sayago_pnoun	Z2
+rojo_adj burdeos_noun	O4.3
+rojo_adj cereza_noun	X3.5/X3.1/O4.3
+rojo_adj cereza_noun picota_*	X3.5/X3.1/O4.3
+rojo_adj frambuesa_noun	X3.5/X3.1/O4.3
+rojo_adj fresa_*	X3.5/X3.1/O4.3
+rojo_adj granate_adj	O4.3
+rojo_adj grosella_noun	X3.5/X3.1/O4.3
+rojo_adj guinda_noun	X3.5/X3.1/O4.3
+rojo_adj oscuro_adj	O4.3
+rojo_adj picota_*	X3.5/X3.1/O4.3
+rojo_adj púrpura_adj	O4.3
+rojo_adj rubí_adj	O4.3
+rojo_adj violáceo_adj	O4.3
+rojo_adj violeta_*	O4.3
 Rolando_pnoun Uríos_pnoun	Z2
 Romanillos_pnoun de_pnoun Atienza_pnoun	Z2
 Roperuelos_pnoun del_pnoun Páramo_pnoun	Z2
 Roquetas_pnoun de_pnoun Mar_pnoun	Z2
+rosa_* cereza_noun	X3.5/X3.1/O4.3
+rosa_* fresa_*	X3.5/X3.1/O4.3
+rosa_* mosqueta_noun	F1/L3
+rosa_* salmón_noun	O4.3
 Rosa_pnoun María_pnoun Morató_pnoun	Z2
 Rosa_pnoun María_pnoun Morató_pnoun Rodríguez_pnoun	Z2
 Rosa_pnoun Sánchez_pnoun	Z2
@@ -3580,6 +4204,7 @@ Rosana_pnoun Simón_pnoun	Z2
 Rosana_pnoun Simón_pnoun Álamo_pnoun	Z2
 Roser_pnoun Vives_pnoun	Z2
 Rosinos_pnoun de_pnoun la_pnoun Requejada_pnoun	Z2
+Rosmarinus_pnoun officinalis_noun	F1/L3
 Rostov_pnoun del_pnoun Don_pnoun	Z2
 Rotglà_pnoun I_pnoun Corberà_pnoun	Z2
 Royuela_pnoun de_pnoun Río_pnoun Franco_pnoun	Z2
@@ -3601,19 +4226,28 @@ Rupit_pnoun I_pnoun Pruit_pnoun	Z2
 Ruth_pnoun Beitia_pnoun	Z2
 Ruth_pnoun Beitia_pnoun Vila_pnoun	Z2
 Sa_pnoun Pobla_pnoun	Z2
+sabor_noun característico_adj	X3.1
+sabor_noun delicioso_adj	A1.1.1/X3.1
+sabor_noun final_noun	X3.1/T2
+sabor_noun fuerte_adj	X3.1
 Saelices_pnoun de_pnoun la_pnoun Sal_pnoun	Z2
 Saelices_pnoun de_pnoun Mayorga_pnoun	Z2
 Saelices_pnoun el_pnoun Chico_pnoun	Z2
 Saint_pnoun Kitts_pnoun y_pnoun Nevis_pnoun	Z2
 Saint_pnoun Louis_pnoun	Z2
+sal_noun de_prep ajo_noun	F1/L3
+sal_noun de_prep apio_noun	F1/L3
+sal_noun marina_verb	F1
+salado_adj en_prep seco_adj	A1.1.1
+salado_adj y_* dulce_*	X3.1
 Salas_pnoun Altas_pnoun	Z2
 Salas_pnoun Bajas_pnoun	Z2
 Salas_pnoun de_pnoun Bureba_pnoun	Z2
 Salas_pnoun de_pnoun los_pnoun Infantes_pnoun	Z2
-Salàs_pnoun de_pnoun Pallars_pnoun	Z2
 Salceda_pnoun de_pnoun Caselas_pnoun	Z2
 Saldaña_pnoun de_pnoun Burgos_pnoun	Z2
 Sales_pnoun de_pnoun Llierca_pnoun	Z2
+sales_verb de_prep hierro_noun	F1
 Salillas_pnoun de_pnoun Jalón_pnoun	Z2
 Salinas_pnoun de_pnoun Oro_pnoun	Z2
 Salinas_pnoun de_pnoun Pisuerga_pnoun	Z2
@@ -3623,7 +4257,11 @@ salir_verb a_prep cuerpo_noun gentil_adj	A10 B5
 salir_verb del_Port alma_noun	E2
 salir_verb por_prep peteneras_noun	A1.9 S1.2
 Sallent_pnoun de_pnoun Gállego_pnoun	Z2
+salsa_noun especiada_adj con_prep trozos_noun de_prep frutas_noun o_* verduras_noun	F1
 Salt_pnoun Lake_pnoun City_pnoun	Z2
+salvado_noun de_prep avena_noun	F1/L3
+salvado_noun de_prep soja_noun	F1/L3
+salvado_noun de_prep trigo_noun	F1/L3
 Salvador_pnoun de_pnoun Bahía_pnoun	Z2
 Salvador_pnoun de_pnoun Zapardiel_pnoun	Z2
 Salvador_pnoun Gómez_pnoun	Z2
@@ -3633,6 +4271,7 @@ Salvatierra_pnoun de_pnoun Esca_pnoun	Z2
 Salvatierra_pnoun de_pnoun los_pnoun Barros_pnoun	Z2
 Salvatierra_pnoun de_pnoun Santiago_pnoun	Z2
 Salvatierra_pnoun de_pnoun Tormes_pnoun	Z2
+Salàs_pnoun de_pnoun Pallars_pnoun	Z2
 Samir_pnoun de_pnoun los_pnoun Caños_pnoun	Z2
 Samper_pnoun de_pnoun Calanda_pnoun	Z2
 Samper_pnoun del_pnoun Salz_pnoun	Z2
@@ -3794,7 +4433,6 @@ San_pnoun Roque_pnoun	Z2
 San_pnoun Roque_pnoun de_pnoun Riomiera_pnoun	Z2
 San_pnoun Sadurniño_pnoun	Z2
 San_pnoun Salvador_pnoun	Z2
-San_pnoun Salvador_pnoun	Z2
 San_pnoun Sebastián_pnoun	Z2
 San_pnoun Sebastián_pnoun de_pnoun la_pnoun Gomera_pnoun	Z2
 San_pnoun Sebastián_pnoun de_pnoun los_pnoun Ballesteros_pnoun	Z2
@@ -3915,18 +4553,18 @@ Sant_pnoun Ramon_pnoun	Z2
 Sant_pnoun Sadurní_pnoun D'anoia_pnoun	Z2
 Sant_pnoun Sadurní_pnoun D'osormort_pnoun	Z2
 Sant_pnoun Salvador_pnoun de_pnoun Guardiola_pnoun	Z2
+Sant_pnoun Vicent_pnoun del_pnoun Raspeig_pnoun	Z2
 Sant_pnoun Vicenç_pnoun de_pnoun Castellet_pnoun	Z2
 Sant_pnoun Vicenç_pnoun de_pnoun Montalt_pnoun	Z2
 Sant_pnoun Vicenç_pnoun de_pnoun Torelló_pnoun	Z2
 Sant_pnoun Vicenç_pnoun Dels_pnoun Horts_pnoun	Z2
-Sant_pnoun Vicent_pnoun del_pnoun Raspeig_pnoun	Z2
 Santa_pnoun Amalia_pnoun	Z2
 Santa_pnoun Ana_pnoun	Z2
 Santa_pnoun Ana_pnoun de_pnoun Pusa_pnoun	Z2
 Santa_pnoun Ana_pnoun la_pnoun Real_pnoun	Z2
-Santa_pnoun Bàrbara_pnoun	Z2
 Santa_pnoun Bárbara_pnoun de_pnoun Casa_pnoun	Z2
 Santa_pnoun Brígida_pnoun	Z2
+Santa_pnoun Bàrbara_pnoun	Z2
 Santa_pnoun Cecilia_pnoun	Z2
 Santa_pnoun Cecília_pnoun de_pnoun Voltregà_pnoun	Z2
 Santa_pnoun Cecilia_pnoun del_pnoun Alcor_pnoun	Z2
@@ -4080,12 +4718,12 @@ Santiurde_pnoun de_pnoun Toranzo_pnoun	Z2
 Santiuste_pnoun de_pnoun Pedraza_pnoun	Z2
 Santiuste_pnoun de_pnoun San_pnoun Juan_pnoun Bautista_pnoun	Z2
 Santo_pnoun Adriano_pnoun	Z2
+Santo_pnoun Domingo-Caudilla_pnoun	Z2
 Santo_pnoun Domingo_pnoun	Z2
 Santo_pnoun Domingo_pnoun de_pnoun la_pnoun Calzada_pnoun	Z2
 Santo_pnoun Domingo_pnoun de_pnoun las_pnoun Posadas_pnoun	Z2
 Santo_pnoun Domingo_pnoun de_pnoun Pirón_pnoun	Z2
 Santo_pnoun Domingo_pnoun de_pnoun Silos_pnoun	Z2
-Santo_pnoun Domingo-Caudilla_pnoun	Z2
 Santo_pnoun Tomé_pnoun	Z2
 Santo_pnoun Tomé_pnoun de_pnoun Zabarcos_pnoun	Z2
 Santo_pnoun Tomé_pnoun del_pnoun Puerto_pnoun	Z2
@@ -4093,9 +4731,7 @@ Santo_pnoun Tomé_pnoun y_pnoun Príncipe_pnoun	Z2
 Santovenia_pnoun de_pnoun la_pnoun Valdoncina_pnoun	Z2
 Santovenia_pnoun de_pnoun Pisuerga_pnoun	Z2
 Santurde_pnoun de_pnoun Rioja_pnoun	Z2
-São_pnoun Luís_pnoun	Z2
 Sao_pnoun Paulo_pnoun	Z2
-São_pnoun Paulo_pnoun	Z2
 Sara_pnoun Álvarez_pnoun	Z2
 Sara_pnoun Moro_pnoun	Z2
 Sara_pnoun Pérez_pnoun Sala_pnoun	Z2
@@ -4118,9 +4754,20 @@ Segura_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Segura_pnoun de_pnoun León_pnoun	Z2
 Segura_pnoun de_pnoun los_pnoun Baños_pnoun	Z2
 Segura_pnoun de_pnoun Toro_pnoun	Z2
+selección_noun manual_*	A1.1.1
+semilla_noun de_prep sésamo_noun	F1
+semilla_noun de_prep soja_noun	F1
+semillas_noun de_prep lino_noun	F1/L3
+semillas_noun de_prep sésamo_noun	X3.1/X3.5/F1/L3
+semillas_noun de_prep soja_noun US_pnoun	X3.1/X3.5/F1/L3
+sémola_noun de_prep maíz_noun	F1/L3
+sémola_noun de_prep soja_noun	F1/L3
 Sena_pnoun de_pnoun Luna_pnoun	Z2
 Senés_pnoun de_pnoun Alcubierre_pnoun	Z2
 Sequera_pnoun de_pnoun Fresno_pnoun	Z2
+ser_* diferente_adj	A6.1-
+ser_* frecuentes_adj	A1.1.1
+Ser_noun una_* constante_adj	A1.1.1
 ser_verb agua_noun pasada_verb	T1.1.1
 Ser_verb el_art capitán_noun Araña_pnoun	A5.2
 ser_verb la_art cabeza_noun de_prep turco_adj	S1.2 G2.2 A5
@@ -4143,6 +4790,7 @@ Serra_pnoun de_pnoun Daró_pnoun	Z2
 Serradilla_pnoun del_pnoun Arroyo_pnoun	Z2
 Serradilla_pnoun del_pnoun Llano_pnoun	Z2
 Serranillos_pnoun del_pnoun Valle_pnoun	Z2
+servir_verb preferentemente_adv	T1.3
 Ses_pnoun Salines_pnoun	Z2
 Setenil_pnoun de_pnoun las_pnoun Bodegas_pnoun	Z2
 Sevilla_pnoun la_pnoun Nueva_pnoun	Z2
@@ -4160,12 +4808,24 @@ Silvia_pnoun Bonastre_pnoun Peremateu_pnoun	Z2
 Silvia_pnoun Muñoz_pnoun	Z2
 Silvia_pnoun Muñoz_pnoun Escudé_pnoun	Z2
 Simat_pnoun de_pnoun la_pnoun Valldigna_pnoun	Z2
+sin_prep gluten_noun	B2/A1.1.1
+sin_prep huevo_noun	B2/A1.1.1
+sin_prep lácteos_*	B2/A1.1.1
+sin_prep lactosa_noun	B2/A1.1.1
+sin_prep pasteurizar_verb	O4.1
+sirope_noun de_prep arroz_noun integral_adj	F1/L3
+sirope_noun de_prep azúcar_noun	F1/L3
+sirope_noun de_prep maíz_noun	F1/L3
+sirope_noun de_prep malta_noun	F1/L3
+sobre_* lías_verb	A1.1.1
+soja_noun no_adv transgénica_adj	F1
 Solana_pnoun de_pnoun Ávila_pnoun	Z2
 Solana_pnoun de_pnoun los_pnoun Barros_pnoun	Z2
 Solana_pnoun de_pnoun Rioalmar_pnoun	Z2
 Solana_pnoun del_pnoun Pino_pnoun	Z2
 Solanillos_pnoun del_pnoun Extremo_pnoun	Z2
 Solera_pnoun de_pnoun Gabaldón_pnoun	Z2
+someter_verb a_prep crianza_noun	F2/T3/A1.1.1
 Son_pnoun Servera_pnoun	Z2
 Sonia_pnoun Abejón_pnoun	Z2
 Sonia_pnoun Blanco_pnoun	Z2
@@ -4177,6 +4837,8 @@ Sonia_pnoun Reyes_pnoun	Z2
 Soraluze-Placencia_pnoun de_pnoun las_pnoun Armas_pnoun	Z2
 Soraya_pnoun García_pnoun	Z2
 Soraya_pnoun Sáenz_pnoun de_pnoun Santamaría_pnoun	Z2
+sorbato_noun de_prep potasio_noun	F1
+sorbato_noun potásico_adj	F1
 Sorihuela_pnoun del_pnoun Guadalimar_pnoun	Z2
 Sos_pnoun del_pnoun Rey_pnoun Católico_pnoun	Z2
 Sot_pnoun de_pnoun Chera_pnoun	Z2
@@ -4194,18 +4856,30 @@ Soto_pnoun y_pnoun Amío_pnoun	Z2
 Sotobañado_pnoun y_pnoun Priorato_pnoun	Z2
 Sri_pnoun Lanka_pnoun	Z2
 Sudán_pnoun del_pnoun Sur_pnoun	Z2
+suero_noun de_prep leche_noun	O1/O1.1/O2
+suero_noun de_prep leche_noun deshidratado_adj	O1/O1.1/O2
+suero_noun de_prep leche_noun en_prep polvo_noun	O1/O1.1/O2
+suero_noun en_prep polvo_noun	O1/O1.1/O2
+suero_noun en_prep polvo_noun lácteo_*	O1/O1.1/O2
+suero_noun láctico_adj	O1/O1.1/O2
+sugerencias_noun de_prep presentación_noun	Q2.2
 Sultanato_pnoun de_pnoun Omán_pnoun	Z2
 Sultanía_pnoun de_pnoun Omán_pnoun	Z2
+sumidad_noun florida_adj	F1/L3
 Susana_pnoun Fraile_pnoun	Z2
 Susana_pnoun Pareja_pnoun	Z2
 Susana_pnoun Romero_pnoun	Z2
 Susana_pnoun Romero_pnoun Steensma_pnoun	Z2
 Susinos_pnoun del_pnoun Páramo_pnoun	Z2
 Svilen_pnoun Ivanov_pnoun	Z2
+São_pnoun Luís_pnoun	Z2
+São_pnoun Paulo_pnoun	Z2
+tabaco_noun de_prep pipa_noun	X3.5
 Tabanera_pnoun de_pnoun Cerrato_pnoun	Z2
 Tabanera_pnoun de_pnoun Valdavia_pnoun	Z2
 Tabanera_pnoun la_pnoun Luenga_pnoun	Z2
 Tabera_pnoun de_pnoun Abajo_pnoun	Z2
+tabla_noun de_prep quesos_noun	F1/O2
 Talamanca_pnoun de_pnoun Jarama_pnoun	Z2
 Talant_pnoun Dujshebaev_pnoun	Z2
 Talavera_pnoun de_pnoun la_pnoun Reina_pnoun	Z2
@@ -4217,6 +4891,10 @@ Támara_pnoun de_pnoun Campos_pnoun	Z2
 Tamarite_pnoun de_pnoun Litera_pnoun	Z2
 Tamariz_pnoun de_pnoun Campos_pnoun	Z2
 Tania_pnoun Gener_pnoun	Z2
+taninos_noun catéquicos_adj	F2/O1/O1.1/O2/X3.1/O4.5/
+taninos_noun hidrolizables_adj	F2/O1/O1.1/O2/X3.1/O4.5/
+tanque_noun de_prep acero_noun inoxidable_adj	A1.1.1/F2/T3/O2/N3.2/N3.5/F1/O4.6
+tanques_noun de_prep acero_noun inoxidable_adj	A1.1.1/F2/T3/O2/N3.2/N3.5/F1/O4.6
 Tapia_pnoun de_pnoun Casariego_pnoun	Z2
 Tarazona_pnoun de_pnoun Guareña_pnoun	Z2
 Tarazona_pnoun de_pnoun la_pnoun Mancha_pnoun	Z2
@@ -4225,9 +4903,24 @@ Tarroja_pnoun de_pnoun Segarra_pnoun	Z2
 Tatiana_pnoun Rouba_pnoun	Z2
 Tavernes_pnoun Blanques_pnoun	Z2
 Tavernes_pnoun de_pnoun la_pnoun Valldigna_pnoun	Z2
+té_noun amarillo_adj	F2/L3/A4
+té_noun azul_adj	F2/L3/A4
+té_noun bancha_noun	F2/L3/F1
+té_noun chai_pnoun	F2/L3/A4
+té_noun Darjeeling_noun	F2/L3/A4
+té_noun de_prep Assam_pnoun	F2/L3/A4
+té_noun de_prep Ceilán_pnoun	F2/L3/A4
+té_noun kombucha_noun	F2/L3/F1
+té_noun kukicha_noun	F2/L3/F1
+té_noun negro_adj	F2/L3/A4
+té_noun rojo_adj	F2/L3/A4
+té_noun sencha_noun	F2/L3/A4
+té_noun verde_adj	F1
+te_pron blanco_adj	F2/L3/A4
 Tejeda_pnoun de_pnoun Tiétar_pnoun	Z2
 Tejeda_pnoun y_pnoun Segoyuela_pnoun	Z2
 Tel_pnoun Aviv_pnoun	Z2
+temperatura_noun ambiente_noun	O4.6
 templar_verb gaitas_noun	A1.6 S3
 tener_verb buenas_adj tragaderas_noun	X2.1 A1.3
 tener_verb las_art espaldas_noun muy_adv anchas_adj	S1.2.5
@@ -4235,16 +4928,25 @@ tener_verb más_adj moral_noun que_conj el_art alcoyano_adj	E4.1 X2
 tener_verb más_adv conchas_noun que_conj un_art galápago_noun	X9
 tener_verb más_adv espolones_noun que_conj un_art gallo_noun	T1 T2
 tener_verb redaños_noun	E5 A12
+tensión_noun alta_adj	B2
 Teresa_pnoun de_pnoun Cofrentes_pnoun	Z2
 Terradillos_pnoun de_pnoun Esgueva_pnoun	Z2
 Thais_pnoun Henríquez_pnoun	Z2
 Thais_pnoun Henríquez_pnoun Torres_pnoun	Z2
+Thymus_noun vulgaris_noun	F1/L3
 Tiebas-Muruarte_pnoun de_pnoun Reta_pnoun	Z2
+tiempo_noun de_prep caducidad_noun	T1.3
+tienda_noun de_prep queso_noun	I2.2/F1
+tienda_noun estival_adj	Z99
+tiendas_noun al_prep+art por_prep menor_adj	I2.2
 Timor_pnoun Oriental_pnoun	Z2
 Tina_pnoun Fuentes_pnoun	Z2
 Tinieblas_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
+típico_adj de_prep la_art variedad_noun	X3.5/X3.1
+tipo_noun de_prep pasta_noun	O4.1
 Tommy_pnoun Robredo_pnoun	Z2
 Tommy_pnoun Robredo_pnoun Garcés_pnoun	Z2
+toque_noun de_prep	X3.1
 Toral_pnoun de_pnoun los_pnoun Guzmanes_pnoun	Z2
 Toral_pnoun de_pnoun los_pnoun Vados_pnoun	Z2
 Toril_pnoun y_pnoun Masegoso_pnoun	Z2
@@ -4324,18 +5026,39 @@ Tórtola_pnoun de_pnoun Henares_pnoun	Z2
 Tórtoles_pnoun de_pnoun Esgueva_pnoun	Z2
 Tossa_pnoun de_pnoun Mar_pnoun	Z2
 trabajar_verb a_prep destajo_noun	S1.2.5 X9
+trazas_noun de_prep	O1.1/O2
+trazas_noun de_prep frutos_noun secos_adj	O1.1/O2
+trazas_noun de_prep leche_noun	O1.1/O2
+trazas_noun de_prep soja_noun	O1.1/O2
 Tremedal_pnoun de_pnoun Tormes_pnoun	Z2
 Tres_pnoun Cantos_pnoun	Z2
+trifosfato_adj pentasódico_adj	F1
 Trigueros_pnoun del_pnoun Valle_pnoun	Z2
 Trinidad_pnoun y_pnoun Tabago_pnoun	Z2
 Trinidad_pnoun y_pnoun Tobago_pnoun	Z2
+tripa_noun de_prep colágeno_noun	F1
+tripa_noun natural_adj porcina_adj	F1
+tripa_noun vacuna_* de_prep colágeno_noun	F1
+tripa_noun vacuna_* natural_adj	F1
+trufa_noun blanca_*	X3.5/X3.1/F1/L3
+trufa_noun negra_adj	X3.5/X3.1/F1/L3
 Tubilla_pnoun del_pnoun Agua_pnoun	Z2
 Tubilla_pnoun del_pnoun Lago_pnoun	Z2
 Tudela_pnoun de_pnoun Duero_pnoun	Z2
 Uharte_pnoun Arakil_pnoun	Z2
 Ulán_pnoun Bator_pnoun	Z2
 Uleila_pnoun del_pnoun Campo_pnoun	Z2
+un_* chorrito_noun de_prep	N3/N3.4
+un_* poco_pron de_prep	N3/N3.4
+un_* sorbo_verb de_prep	N3/N3.4
+un_* toque_noun a_prep	N3/N3.4
+un_* toque_noun de_prep	N3/N3.4
 un_art jamón_noun con_prep chorreras_noun	A12
+una_* cucharadita_noun al_prep+art ras_noun	N5
+una_* cucharadita_noun colmada_verb	N5
+una_* cucharadita_noun de_prep	N5
+una_* pizca_verb de_prep	N5
+uña_noun de_prep gato_noun	F2/L3/F1
 Uña_pnoun de_pnoun Quintana_pnoun	Z2
 Unai_pnoun Elorriaga_pnoun	Z2
 Unai_pnoun Elorriaga_pnoun Zubiaur_pnoun	Z2
@@ -4350,6 +5073,10 @@ Urraul_pnoun Bajo_pnoun	Z2
 Urrea_pnoun de_pnoun Gaén_pnoun	Z2
 Urrea_pnoun de_pnoun Jalón_pnoun	Z2
 Úrsula_pnoun Ruiz_pnoun	Z2
+uso_noun generalizado_verb	A6.2+
+uva_noun madura_adj	X3.5/X3./F1/L3
+uva_noun pasa_noun	F1
+uvas_noun pasas_*	X3.1/X3.5/F1/L3
 Vadillo_pnoun de_pnoun la_pnoun Guareña_pnoun	Z2
 Vadillo_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Val_pnoun de_pnoun San_pnoun Lorenzo_pnoun	Z2
@@ -4391,6 +5118,7 @@ Vall_pnoun de_pnoun Gallinera_pnoun	Z2
 Vallarta_pnoun de_pnoun Bureba_pnoun	Z2
 Vallbona_pnoun D'anoia_pnoun	Z2
 Vallbona_pnoun de_pnoun Les_pnoun Monges_pnoun	Z2
+valle_noun de_prep un_* río_noun	Z2
 Valle_pnoun de_pnoun Abdalajís_pnoun	Z2
 Valle_pnoun de_pnoun Arana_pnoun	Z2
 Valle_pnoun de_pnoun Bardají_pnoun	Z2
@@ -4477,6 +5205,7 @@ Velilla_pnoun de_pnoun la_pnoun Sierra_pnoun	Z2
 Velilla_pnoun de_pnoun los_pnoun Ajos_pnoun	Z2
 Velilla_pnoun de_pnoun San_pnoun Antonio_pnoun	Z2
 Velilla_pnoun del_pnoun Río_pnoun Carrión_pnoun	Z2
+vendimia_noun manual_*	A1.1.1
 Venta_pnoun de_pnoun Baños_pnoun	Z2
 Venta_pnoun del_pnoun Moro_pnoun	Z2
 Ventas_pnoun de_pnoun Huelma_pnoun	Z2
@@ -4485,8 +5214,14 @@ Ventosa_pnoun del_pnoun Río_pnoun Almar_pnoun	Z2
 Ventosilla_pnoun y_pnoun Tejadilla_pnoun	Z2
 ver_verb el_art cielo_noun abierto_adj	E2 S7.4
 Vera_pnoun de_pnoun Moncayo_pnoun	Z2
+verbascum_noun thapsus_noun	F1/L3
+verbena_noun de_prep Indias_noun	F1/L3
+Verbena_noun officinalis_noun	F1/L3
+verde_adj lima_noun	X3.5/X3.1/O4.3
+verde_adj oliva_noun	O4.3
 Verónica_pnoun Ruiz_pnoun	Z2
 Verónica_pnoun Ruiz_pnoun Domínguez_pnoun	Z2
+vertido_verb a_prep mano_noun	O4.1
 Vespella_pnoun de_pnoun Gaià_pnoun	Z2
 vestir_verb despacio_adv que_conj tener_verb prisa_noun	A1.3 T1
 Viacamp_pnoun y_pnoun Litera_pnoun	Z2
@@ -4503,6 +5238,7 @@ Víctor_pnoun Tomás_pnoun	Z2
 Víctor_pnoun Tomás_pnoun González_pnoun	Z2
 Victoria_pnoun Escarlata_pnoun	Z2
 Victoria_pnoun Escarlata_pnoun Bernard_pnoun	Z2
+vid_noun roja_adj	F1/L3
 Vielha_pnoun E_pnoun Mijaran_pnoun	Z2
 Vila_pnoun de_pnoun Cruces_pnoun	Z2
 Vila_pnoun Joiosa_pnoun	Z2
@@ -4780,9 +5516,16 @@ Vilobí_pnoun del_pnoun Penedès_pnoun	Z2
 Viloria_pnoun de_pnoun Rioja_pnoun	Z2
 Vilviestre_pnoun del_pnoun Pinar_pnoun	Z2
 Vimbodí_pnoun I_pnoun Poblet_pnoun	Z2
+vinagre_noun balsámico_adj	F1
 Viñegra_pnoun de_pnoun Moraña_pnoun	Z2
 Viniegra_pnoun de_pnoun Abajo_pnoun	Z2
 Viniegra_pnoun de_pnoun Arriba_pnoun	Z2
+vino_noun blanco_adj	F1
+vino_noun de_prep Jérez_pnoun	F1
+vino_noun de_prep oporto_pnoun	F1
+vino_noun de_prep Oporto_pnoun blanco_adj	F1
+vino_noun de_prep postre_noun	F1
+vino_noun tinto_*	F1
 Vinyols_pnoun I_pnoun Els_pnoun Arcs_pnoun	Z2
 Viran_pnoun Morros_pnoun	Z2
 Virginia_pnoun Beach_pnoun	Z2
@@ -4790,9 +5533,17 @@ Virginia_pnoun Ruano_pnoun	Z2
 Virginia_pnoun Ruano_pnoun Pascual_pnoun	Z2
 Viso_pnoun del_pnoun Marqués_pnoun	Z2
 Vistabella_pnoun del_pnoun Maestrat_pnoun	Z2
+vitamina_noun A_prep	O1/O1.1/O2
+vitamina_noun B12_noun	O1/O1.1/O2
+vitamina_noun B1_sym	O1/O1.1/O2
+vitamina_noun B2_sym	O1/O1.1/O2
+Vitamina_noun B6_sym	O1/O1.1/O2
+vitamina_noun C_noun	O1/O1.1/O2
+vitamina_noun E_noun	O1/O1.1/O2
 Vivel_pnoun del_pnoun Río_pnoun Martín_pnoun	Z2
 Viver_pnoun I_pnoun Serrateix_pnoun	Z2
 Vivi_pnoun Ruano_pnoun	Z2
+volver_verb a_prep empezar_verb	T2+/N6+
 Washington_pnoun D.C._pnoun	Z2
 Xabier_pnoun Fernández_pnoun	Z2
 Xabier_pnoun Fernández_pnoun Gaztañaga_pnoun	Z2
@@ -4837,14 +5588,17 @@ Zarzuela_pnoun del_pnoun Monte_pnoun	Z2
 Zarzuela_pnoun del_pnoun Pinar_pnoun	Z2
 Zhiwen_pnoun He_pnoun	Z2
 Zhiwen_pnoun He_pnoun Cheng_pnoun	Z2
+zingiber_noun officinale_noun	L3
 Zizur_pnoun Mayor_pnoun	Z2
 Zizur_pnoun Nagusia_pnoun	Z2
+zonas_noun de_prep producción_noun autorizadas_verb	A5.4
 Zorita_pnoun de_pnoun la_pnoun Frontera_pnoun	Z2
 Zorita_pnoun de_pnoun los_pnoun Canes_pnoun	Z2
 Zorita_pnoun del_pnoun Maestrazgo_pnoun	Z2
 Zotes_pnoun del_pnoun Páramo_pnoun	Z2
 Zulema_pnoun Fuentes-Pila_pnoun	Z2
 Zulema_pnoun Fuentes-Pila_pnoun Ortiz_pnoun	Z2
+zumo_noun de_prep limón_noun concentrado_adj	F1/L3
+zumo_noun de_prep naranja_noun concentrado_adj	F1/L3
 Zuriñe_pnoun Rodríguez_pnoun	Z2
 zurrar_verb la_art badana_noun	S1.2.5 G2
-

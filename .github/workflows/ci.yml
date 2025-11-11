@@ -1,5 +1,8 @@
 name: CI
 
+permissions:
+  contents: read
+
 on:
   push:
   pull_request:
@@ -8,33 +11,36 @@ jobs:
   checks:
     name: checks
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: true
-          fetch-depth: 0
+      - uses: actions/checkout@v5
 
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v6
+        id: python-install
         with:
-          python-version: 3.9
-      
-      - name: Cache pip
-        uses: actions/cache@v2
-        with:
-          path: ${{ env.pythonLocation }}
-          key: ${{ env.pythonLocation }}-pip-${{ hashFiles('**/requirements.txt') }}
+          python-version: 3.12
+          cache: 'pip'
+          cache-dependency-path: '**/requirements.txt'
+
+      - name: check python cache is working
+        if: steps.python-install.outputs.cache-hit == 'true'
+        run: echo "python cache was restored"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
+      
+      - name: Check that the current TSV files are valid
+        run: |
+          python test_all_collections.py
 
       - name: Convert text files to TSV and run TSV checks
+        if: ${{ github.event_name == 'push' }}
         run: |
-          echo "Push to branch ${{ github.head_ref || github.ref_name }}"
-          python txt_to_tsv.py
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           echo "git status:"
@@ -43,9 +49,11 @@ jobs:
           git branch -r
           echo "git remote -v:"
           git remote -v
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git status; git push -u origin ${{ github.head_ref || github.ref_name }}; fi
+          python txt_to_tsv.py
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git status; git push origin ${{ github.ref }}; fi
 
       - name: Create lexicon statistics table
+        if: ${{ github.event_name == 'push' }}
         run: |
           python lexicon_statistics.py > ./lexicon_statistics.md
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref }}; fi
