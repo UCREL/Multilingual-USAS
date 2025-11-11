@@ -33,11 +33,15 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+      
+      - name: Check that the current TSV files are valid
+        run: |
+          python test_all_collections.py
 
       - name: Convert text files to TSV and run TSV checks
+        if: ${{ github.event.name }} == 'push'
         run: |
           echo "Push to branch ${{ github.head_ref || github.ref_name }}"
-          python txt_to_tsv.py
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           echo "git status:"
@@ -46,9 +50,11 @@ jobs:
           git branch -r
           echo "git remote -v:"
           git remote -v
+          python txt_to_tsv.py
           if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git status; git push -u origin ${{ github.head_ref || github.ref_name }}; fi
 
       - name: Create lexicon statistics table
+        if: ${{ github.event.name }} == 'push'
         run: |
           python lexicon_statistics.py > ./lexicon_statistics.md
           if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref_name }}; fi
