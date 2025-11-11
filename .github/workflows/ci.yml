@@ -41,6 +41,9 @@ jobs:
       - name: Convert text files to TSV and run TSV checks
         run: |
           echo "Push to branch ${{ github.event.push }}"
+          echo "Pull request ${{ github.event.pull_request }}"
+          echo "event name ${{ github.event_name }}"
+          echo "Push to ref ${{ github.ref }}"
           echo "Push to branch head ref ${{ github.ref_name }}"
           echo "Push to branch ref name ${{ github.head_ref }}"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
