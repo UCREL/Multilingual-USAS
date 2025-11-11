@@ -39,13 +39,8 @@ jobs:
           python test_all_collections.py
 
       - name: Convert text files to TSV and run TSV checks
+        if: ${{ github.event_name == 'push' }}
         run: |
-          echo "Push to branch ${{ github.event.push }}"
-          echo "Pull request ${{ github.event.pull_request }}"
-          echo "event name ${{ github.event_name }}"
-          echo "Push to ref ${{ github.ref }}"
-          echo "Push to branch head ref ${{ github.ref_name }}"
-          echo "Push to branch ref name ${{ github.head_ref }}"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           echo "git status:"
@@ -55,10 +50,10 @@ jobs:
           echo "git remote -v:"
           git remote -v
           python txt_to_tsv.py
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git status; git push -u origin ${{ github.head_ref || github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Converted TXT to TSV"; git status; git push origin ${{ github.ref }}; fi
 
       - name: Create lexicon statistics table
-        if: ${{ github.event.name }}
+        if: ${{ github.event_name == 'push' }}
         run: |
           python lexicon_statistics.py > ./lexicon_statistics.md
-          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref_name }}; fi
+          if [ $? -eq 0 ] && [ $(git status -s | wc -l) -gt 0 ]; then git add -A; git commit -m "Updated lexicon statistics table"; git push origin ${{ github.ref }}; fi
