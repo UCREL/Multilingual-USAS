@@ -10,25 +10,22 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: true
-          fetch-depth: 0
+      - uses: actions/checkout@v5
 
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v6
+        id: python-install
         with:
-          python-version: 3.9
-      
-      - name: Cache pip
-        uses: actions/cache@v2
-        with:
-          path: ${{ env.pythonLocation }}
-          key: ${{ env.pythonLocation }}-pip-${{ hashFiles('**/requirements.txt') }}
+          python-version: 3.12
+          cache: 'pip'
+          cache-dependency-path: '**/requirements.txt'
+
+      - name: check python cache is working
+        if: steps.python-install.outputs.cache-hit == 'true'
+        run: echo "python cache was restored"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Convert text files to TSV and run TSV checks
