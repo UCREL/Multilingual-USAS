@@ -39,9 +39,10 @@ jobs:
           python test_all_collections.py
 
       - name: Convert text files to TSV and run TSV checks
-        if: ${{ github.event.push }}
         run: |
-          echo "Push to branch ${{ github.head_ref || github.ref_name }}"
+          echo "Push to branch ${{ github.event.push }}"
+          echo "Push to branch head ref ${{ github.ref_name }}"
+          echo "Push to branch ref name ${{ github.head_ref }}"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           echo "git status:"
