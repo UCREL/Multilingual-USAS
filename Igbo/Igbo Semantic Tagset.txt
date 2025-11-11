@@ -1,9 +1,9 @@
-Translating the Igbo Semantic Tagset
+# Translating the Igbo Semantic Tagset
 
-The English term “tagset” can be rendered in Igbo as:
+# The English term “tagset” can be rendered in Igbo as:
 
-seti mkpado
-(“seti” = set / collection; “mkpado” = tags). So, “tagset” → “seti mkpado”.
+# seti mkpado
+# (“seti” = set / collection; “mkpado” = tags). So, “tagset” → “seti mkpado”.
 
 
 from docx import Document

@@ -28,7 +28,8 @@
 					   "redhat.vscode-yaml",
 					   "tamasfe.even-better-toml",
 					   "github.vscode-github-actions",
-					   "mechatroner.rainbow-csv"],
+					   "mechatroner.rainbow-csv",
+					   "mathematic.vscode-pdf"],
 		"settings": {
 			"python.defaultInterpreterPath": "/usr/local/bin/python"
 		}
