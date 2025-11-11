@@ -15,3 +15,4 @@ MWE = Multi Word Expression
 11. Removed `ID` column in the [Urdu semantic lexicon file](./Urdu/Urdu_Semantic_Lexicon.tsv), as the ID only represented line number and nothing else.
 12. Added [CONTRIBUTING guidelines](./CONTRIBUTING.md) for contributing a lexicon resource.
 13. Added [GitHub action](./.github/workflows/ci.yml) which will convert the lexicon resources created in text file format, following [CONTRIBUTING guidelines](./CONTRIBUTING.md), to TSV format. After conversion it will check that TSV files are formatted correctly, and if so it will add and commit the TSV files into the repository.
+14. Added a [dev container](./.devcontainer/devcontainer.json) to allow developers to easily setup a working environment. The Dev container only contains Python 3.12.
