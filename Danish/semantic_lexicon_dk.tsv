@@ -33410,8 +33410,6 @@ mytologi	NOUN	S9/Q2.2 A5.2-/Q2.2
 Mythrin	PROPN	Z3c
 n	SYM	Z5
 ikke	PART	Z6
-	X	Q1.2
-	X	Q1.2
 N/S	NOUN	F3-
 og	PART	Z5
 NAAFI	PROPN	Z3c
@@ -33470,7 +33468,6 @@ Namibia	NOUN	Z2/S2mf
 Namibianere	NOUN	Z2/S2mf
 navngivning	NOUN	Q2.2
 navngivning	VERB	Q2.2
-	NOUN	S4f
 nana	NOUN	S4f
 Nancy	PROPN	Z1f Z2
 nanine	NOUN	S2.1f
@@ -34585,7 +34582,6 @@ guldklump	NOUN	O4.4
 nuggets	NOUN	O4.4
 plage	NOUN	E6-
 NUJ	PROPN	Z3c
-	ADJ	N1 Z6
 ophæve	VERB	T2-/G2.1 Z6
 følelsesløs	ADJ	B1 E5-
 følelsesløs	VERB	B1 E5-
