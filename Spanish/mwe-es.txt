@@ -431,7 +431,7 @@ armar_verb un_art cisco_noun	E8 A2
 Armuña_pnoun de_pnoun Almanzora_pnoun	Z2
 Armuña_pnoun de_pnoun Tajuña_pnoun	Z2
 aroma_noun artificial_adj	F1/O1
-aroma_noun de_prep *_noun X3.5
+aroma_noun de_prep *_noun	X3.5
 aroma_noun natural_adj de_prep vainilla_noun	X3.5
 aromatizado_verb con_prep	X3.5
 aromatizante_noun artificial_adj	F1
