@@ -194,8 +194,8 @@ type_NOUN ting_NOUN	Df
 *_NOUN klog_ADJ	Df
 *_NOUN arbejde_NOUN	Df
 *_NOUN fabrik_NOUN	Df/H1c
-"*_NUM citattegn_NOUN	T1.3
-*_NUM citattegn_NOUN *_NUM """"_PUNCT"""	N3.3 N3.7
+*_NUM citattegn_NOUN	T1.3
+"*_NUM citattegn_NOUN *_NUM ""_PUNCT"	N3.3 N3.7
 tal_NUM adjektiv_ADJ	N1
 tal_NUM adjektiv_ADJ af_ADP proprium_PROPN	T1.2
 tal_NUM substantiv_NOUN en_DET determinator_DET substantiv_NOUN	N6
