@@ -85,11 +85,9 @@ substantiv_NOUN substantiv_NOUN proprium_PROPN	Z2
 *_NOUN Theatre_NOUN *_NOUN	Z3c
 *_NOUN Ward_NOUN *_NOUN	Z3c
 *_NOUN Wharf_NOUN *_NOUN	Z2
-*_NOUN a_DET ADJ/INTJ *_NOUN	N6
 *_NOUN accident_NOUN *_NOUN	A1.4/Df
 *_NOUN ache_NOUN *_NOUN	B2-
 *_NOUN addict_NOUN *_NOUN	Df/X5.2++mfn
-*_NOUN after_ADP ADJ/INTJ *_NOUN	N6+
 *_NOUN age_NOUN times_NOUN *_NOUN	T1.1.1
 *_NOUN siden_ADV	T1.1.1
 *_NOUN lidelse_NOUN	B2-
@@ -200,7 +198,6 @@ type_NOUN ting_NOUN	Df
 *_NUM citattegn_NOUN *_NUM """"_PUNCT"""	N3.3 N3.7
 tal_NUM adjektiv_ADJ	N1
 tal_NUM adjektiv_ADJ af_ADP proprium_PROPN	T1.2
-tal_NUM konjunktion_CCONJ tal_NUM adjektiv/INTJ_ADJ/INTJ gange_NOUN en_DET adjektiv/INTJ_ADJ/INTJ substantiv_NOUN	N6+
 tal_NUM substantiv_NOUN en_DET determinator_DET substantiv_NOUN	N6
 tal_NUM substantiv_NOUN i_ADP forvejen_NOUN	T4+
 tal_NUM substantiv_NOUN i_ADP rækkefølge_NOUN	N6+
@@ -239,23 +236,6 @@ nummer_NUM en_DET substantiv_NOUN	N5
 *_NUM til_ADV side_NOUN	K5.1
 *_NUM seng_NOUN semi-detached_ADJ	H1
 *_NUM soveværelse_NOUN lejlighed_NOUN	H1
-NUM_ADJ soveværelse_NOUN bungalow_NOUN	H1
-NUM_ADJ soveværelser_NOUN	H2/N5
-NUM_ADJ soveværelser_NOUN lejlighed_NOUN	H1
-NUM_ADJ køje_NOUN	N3.2
-NUM_ADJ bremsehestekræfter_NOUN	N3.1/M3
-NUM_ADJ dollars_NOUN	I1
-NUM_ADJ kalorier_NOUN	N3.1
-NUM_ADJ dage_NOUN om_ADP *_NOUN	N6
-NUM_ADJ grader_NOUN	O4.6+ M6
-NUM_ADJ dimensionel_ADJ	O4.4
-NUM_ADJ gange_NOUN	N5
-NUM_ADJ fod_NOUN	N3.7 N3.3
-NUM_ADJ fod_NOUN NUM_ADJ	N3.7 N3.3
-NUM_ADJ fod_NOUN intet_PRON	N3.7 N3.3
-NUM_ADJ tusind_NOUN	I1 N1
-NUM_ADJ hundrede_NUM	N1 T1.2
-NUM_ADJ hundrede_NUM og_CCONJ NUM_ADJ pund_NOUN	I1
 hundrede_NUM procent_NOUN	N5.1+
 *_NUM inch*_NOUN tomme_NOUN	N3.3
 *_NUM kilo_NOUN	N3.5
@@ -582,7 +562,6 @@ Egenavn_PROPN et_* al_*	P1/Q1.2 Q1.2/S2mf
 Egenavn_PROPN udgravning_NOUN	Y1
 Egenavn_PROPN front_NOUN	Z2
 Egenavn_PROPN i_ADP Egenavn_PROPN	Z2
-Egenavn_PROPN i_ADP Adjektiv/Interjektion_ADJ/INTJ Egenavn_PROPN	Z2
 Egenavn_PROPN frokost_NOUN	F1/T1.3
 Egenavn_PROPN på_ADP Egenavn_PROPN	Z2
 Egenavn_PROPN på_ADP Hav_NOUN	Z2
@@ -820,7 +799,6 @@ En_DET Vej_NOUN	M3
 Omsorg_NOUN Care_NOUN	Z3c
 Plus_ADP Plus_*	Z3c
 A_PROPN til_ADP Z_PROPN	Z3
-Abbed_NOUN af_ADP [Sted]_PROPN	Z1m
 Bliv_VERB hos_ADP mig_PRON	Z3
 Absolut_ADV fantastisk_ADJ	Z3c
 Abu_PROPN Dhabi_PROPN	Z2
@@ -908,11 +886,8 @@ arabiske_ADJ befolkning_NOUN	Z2/S5+c
 arabiske_ADJ verden_NOUN	Z2
 Arabica_PROPN bønner_NOUN	F1 A4.1
 Arborio_PROPN ris_NOUN	F1
-ærkebiskop_NOUN af_ADP [sted]_PROPN	Z1mf
 Polarcirklen_NOUN Circle_NOUN	Z2
 Ark_PROPN Royal_PROPN	Z3fn
-hær_NOUN [adjektiv]_ADJ korps_NOUN	Z3c
-hær_NOUN [substantiv]_NOUN korps_NOUN	Z3c
 Hærens_PROPN lærlingekollegium_NOUN	G3/P1c
 Hærens_PROPN juridiske_ADJ tjenester_NOUN	Z3
 hærens_PROPN træningsregiment_NOUN	Z3c
@@ -937,7 +912,6 @@ Aston_PROPN Villa_NOUN Football_NOUN Club_NOUN	Z3c
 Justitsminister_PROPN General_ADJ	S7.1+/S2mf
 Au_PROPN Pair_PROPN Amerika_PROPN	Z3c
 Audi_PROPN 100_NUM Coupe_PROPN	Z3fn
-Tante_PROPN [Navn]_PROPN	Z1f
 Austin_PROPN 7_NUM	Z3fn
 Austin_PROPN A35_PROPN	Z3fn
 Austin_PROPN A40_PROPN	Z3fn
@@ -961,13 +935,8 @@ BTEC_NOUN National_ADJ	P1
 BTec_PROPN Første_ADJ Diplom_NOUN	P1
 B_NOUN &_CONJ B_NOUN	H4
 B_PROPN Tec_PROPN Første_ADJ Diplom_NOUN	P1
-B_*_X og_CCONJ Q_*_X	Z3c
-B_*_X og_CCONJ Q_*_X stormagasin*_NOUN	Z3c
-B_*_X vej*_NOUN	M7
-B_*_X status_NOUN	A9/S7.1
 Babe_PROPN Ruth_PROPN	Z1mf
 Babson_PROPN College_NOUN	Z3c/P1
-Baby_*_X Bio_*_X	Z3
 Baby_NOUN Det_DET er_VERB Virkelig_ADV Gratis_ADJ	Z3
 Bachelor_NOUN of_ADP Arts_NOUN	P1mfn
 Bachelor_NOUN of_ADP Education_NOUN	P1mfn
@@ -983,8 +952,6 @@ Banqueting_NOUN House_NOUN	Z2
 Baptist_ADJ kirke_NOUN	S9/H1 S9/A4.1
 Basmati_PROPN ris_NOUN	F1
 Baskerlandet_PROPN Country_NOUN	M7
-Slaget_NOUN ved_ADP [Sted]_PROPN	Z3
-Bugten_NOUN ved_ADP [Sted]_PROPN	Z2
 Biscayabugten_PROPN of_ADP Biscay_PROPN	Z2 M7
 Bayeux-tapetet_PROPN Tapestr*_NOUN	Z3
 The_DET Beach_PROPN Boys_PROPN	Z3
@@ -1021,10 +988,8 @@ BioMed_PROPN Central_PROPN	Z3/Q4.2/B3
 Birmingham_PROPN Hippodrome_NOUN	Z2
 Birmingham_PROPN Fire_NUM	Z3c
 Fødsler_NOUN og_CCONJ Dødsfald_NOUN Registrering_NOUN Lov_NOUN	Z3
-Biskop_NOUN af_ADP [Sted]_PROPN	Z1mf
 Biskop_NOUN Briggs_PROPN	Z2
 Biskop_NOUN Stortford_PROPN	Z2
-Biskop_PROPN af_ADP [Sted]_PROPN	Z1mf
 Schwarzwald_PROPN Forest_NOUN	Z2
 Schwarzwaldkage_NOUN Forest_NOUN gateau*_NOUN	F1
 Sort_ADJ Hest_NOUN	Z3c
@@ -1152,7 +1117,6 @@ Caernarfon_PROPN bymure_NOUN	Z2
 Caerphilly_PROPN borg_NOUN	Z2
 Caerwent_PROPN romersk_ADJ by_NOUN	Z2
 Cafe_NOUN Americano_PROPN	F2
-Cafe_NOUN [Egenavn_PROPN]	Z3c
 Calavan_PROPN og_CCONJ Ferdinand_PROPN	Z3
 Callard_PROPN og_CCONJ Bowsers_PROPN	Z3c
 Callas_PROPN og_CCONJ Pegasus_PROPN	Z3c
@@ -1287,7 +1251,6 @@ Borgerrådgivningen_NOUN '_PART Advice_NOUN Bureau_NOUN	S8+/S5+c Z3
 Bygrænser_NOUN Limits_*	Z3c
 Byhospital_NOUN Hospital_NOUN	Z3c
 Byuniversitet_NOUN University_NOUN	Z3c
-Byen_PROPN [Proper_Noun_PROPN]	Z2 Z3fn
 Borgerhus_NOUN Hall_NOUN	H1/G1.1
 Luftfartsmyndigheden_NOUN Aviation_NOUN Authority_NOUN	Z3/M5
 Klassisk_ADJ præstation_NOUN	Z3c
@@ -1371,7 +1334,6 @@ Cotton_NOUN and_CCONJ Allied_ADJ Facility_NOUN Training_NOUN Board_NOUN	Z3c
 Rådet_NOUN for_ADP kristne_ADJ og_CCONJ jøder_NOUN	S9/S5+c
 Landejendomme_NOUN Homes_NOUN	Z3c
 Landliv_NOUN Living_*	Z3c
-Amt_NOUN [Egenavn_PROPN]	Z2
 Amtsret_NOUN Court*_NOUN	G2.1c
 Amtshuset_NOUN Hall_PROPN	G1.1c G1.1/H1
 Domstolens_NOUN haver_NOUN	Z2
@@ -1423,10 +1385,8 @@ Den_DET Demokratiske_ADJ Republik_NOUN Congo_PROPN	Z2
 Denbigh_PROPN Castle_NOUN	Z2
 Denbigh_PROPN Kloster_NOUN	Z2
 Denbigh_PROPN Bymure_NOUN	Z2
-Undervisnings_NOUN-_PUNCT og_CCONJ Videnskabsministeriet_NOUN	Z3c
 Beskæftigelsesministeriet_NOUN of_ADP Employment_NOUN	Z3c
 Sundhedsministeriet_NOUN of_ADP Health_NOUN	Z3c
-Sundheds_NOUN-_PUNCT og_CCONJ Socialsikringsministeriet_NOUN	Z3c
 Institut_NOUN for_ADP Lingvistik_NOUN	Z3c
 Socialsikringsministeriet_NOUN of_ADP Social_ADJ Security_NOUN	Z3c
 Handelsministeriet_NOUN of_ADP Trade_NOUN	Z3c
@@ -1496,10 +1456,7 @@ ECS_PROPN kaffetjeneste_NOUN	Z3c
 Eagle_PROPN Star_PROPN	Z3c
 Eagles_PROPN Nest_PROPN	Z2
 Ealing_PROPN Broadway_PROPN	Z2
-Earl_PROPN of_ADP [Name]_PROPN	Z1m
 Earls_PROPN Court_PROPN	Z2
-East_PROPN [Name]_PROPN	Z2c
-East_PROPN [Name]_PROPN 6th_ADJ Form_NOUN College_NOUN	Z3c
 Østafrika_PROPN Africa_PROPN	Z2
 Østafrikansk_ADJ African*_NOUN	Z2/S2mf
 East_PROPN Anglia_PROPN	Z2 Z3c
@@ -1609,7 +1566,6 @@ Færing_NOUN Islander*_NOUN	Z2/S2mf
 Skæbne_NOUN og_CCONJ Skæbne_NOUN	Z3
 Father*_NOUN Kirkefader_NOUN the_DET Church_NOUN	S9/S2m
 Julemanden_NOUN Christmas_NOUN	Z1m/S9
-Fader_PROPN [Navn]_PROPN	Z1m
 Federal_ADJ Bureau_NOUN of_ADP Investigation_NOUN	G1.1
 De_DET Fødererede_ADJ Stater_NOUN i_ADP Mikronesien_PROPN	Z2
 Ferrari_PROPN 456_NUM	Z3fn
@@ -1893,10 +1849,8 @@ Indy_PROPN 500_NUM	K5.1/M3
 Indy_PROPN Car_NOUN	K5.1/M3
 Arveafgift_NOUN Tax_*	G1.1/I1.2
 Inland_PROPN Revenue_NOUN	Z3c
-Indre_ADJ [Egenavn_PROPN]	Z2
 Indvendig_ADJ historie_NOUN	Z3
 Inspector_PROPN Morse_PROPN	Z3 Z1m
-Inspektør_PROPN [Egenavn_PROPN]	Z1mf
 Institut_NOUN for_ADP Kemikere_NOUN	Z3c
 Institut_NOUN for_ADP Lingvister_NOUN	Z3c
 Institut_NOUN for_ADP Lingvister_NOUN Mellemliggende_ADJ Diplom_NOUN	Z3
@@ -2006,8 +1960,6 @@ La_PROPN Defence_PROPN	Z3c
 La_PROPN Fayette_PROPN	Z2
 Labatts_PROPN Blue_ADJ	Z3
 Labour_PROPN Party_NOUN	Z3c
-Lady_PROPN [Navn_PROPN]	Z1f Z3fn
-Sø_NOUN [Navn_PROPN]	Z2
 Lake_NOUN District_NOUN	M7
 Landet_NOUN med_ADP midnatssolen_NOUN	Z2
 Land_NOUN 's_PART End_NOUN	Z2
@@ -2075,12 +2027,10 @@ Lloyds_PROPN British_ADJ	Z3c
 Lloyds_PROPN Chemists_NOUN	Z3c
 Lloyds_PROPN of_ADP London_PROPN	Z3c
 Lokal_ADJ regeringsmedarbejder_NOUN	G1.1/S2mf
-Loch_NOUN [Navn_PROPN]	Z2
 Lock_PROPN Park_NOUN Club_NOUN	Z3c
 London_PROPN Transport_NOUN	Z3c
 London_PROPN Wall_NOUN	Z2
 London_PROPN Boat_NOUN Show_NOUN	Z3
-London_PROPN Borough_NOUN of_ADP [Navn_PROPN]	Z3c Z2
 London_PROPN Central_ADJ YMCA_NOUN	Z3c
 London_PROPN Coliseum_NOUN	Z3c
 Long_PROPN Beach_PROPN	Z2
@@ -2145,7 +2095,6 @@ Matrix_NOUN Churchill_PROPN	Z3c
 Skærtorsdag_PROPN Thursday_PROPN	T1.3/S9
 Max_PROPN Factor_NOUN	Z3c
 1._NUM maj_NOUN	T1.3
-Borgmester_NOUN i_ADP [By]_PROPN	Z1m/S7.1+
 Maskiningeniører_NOUN Engineers_NOUN	Z3
 Lægeattest_NOUN om_ADP dødsårsag_NOUN	L1-/Q1.2
 Medicinsk_ADJ forskningscenter_NOUN	Z3c
@@ -2176,7 +2125,6 @@ Michael_PROPN Jackson_PROPN Day_NOUN	Z1/T1.3
 Michael_PROPN Jackson_PROPN samlingen_NOUN	Z1/O2
 Michael_PROPN Jackson_PROPN fan_NOUN	Z1/E2+mf
 Mickey_PROPN Mouse_PROPN	Z3mn O4.2-
-Mid_PROPN [Proprium_PROPN]	Z2
 Mellemøsten_PROPN East_*	Z2
 Mellemøstlig_ADJ Easterner*_NOUN	Z2/S2mf
 Middelengelsk_PROPN English_NOUN	Q3/Z2
@@ -2190,15 +2138,10 @@ Milton_PROPN Keynes_PROPN	Z2 Z3c
 Milwaukee_PROPN Brace_NOUN	Z2
 Mind_VERB Your_DET Language_NOUN	Z3c
 Mini_PROPN Special_ADJ	Z3fn
-Ministry_NOUN of_ADP [something]_NOUN	Z3c
 Miracle_NOUN on_ADP 34th_ADJ Street_NOUN	Z3
-Miss_PROPN [name]_PROPN [surname]_PROPN	Z1f
-Miss_PROPN [name]_PROPN	Z1f
 Miss_PROPN Goody_PROPN Two_NUM Shoes_NOUN	Z1f
 Miss_PROPN Julie_PROPN	Z3
 Miss_PROPN Saigon_PROPN	Z3
-Mistress_PROPN [name]_PROPN	Z1f
-Mistress_PROPN [name]_PROPN [surname]_PROPN	Z1f
 Mistress_PROPN Overdone_PROPN	Z1f
 Mistress_PROPN Quickly_PROPN	Z1f
 Misuse_NOUN of_ADP Drugs_NOUN Act_NOUN	Z3
@@ -2498,9 +2441,6 @@ Princes_PROPN Scottish_ADJ Youth_NOUN Business_NOUN Trust_NOUN	F2
 Princes_PROPN Trust_NOUN	F2/O4.5
 Prinsens_PROPN Ungdomsforretningstillid_NOUN	Z2
 Prinsens_PROPN Ungdomstillid_NOUN	Z3
-Prinsesse_NOUN af_ADP [Navn_PROPN]	Z2
-Prinsesse_NOUN [Navn_PROPN]'s_PART Hospital_NOUN	T1.1.1
-Prinsesse_PROPN [Navn_PROPN]	K5.1/S5+
 Fange_NOUN Celle_NOUN Blok_NOUN H_PROPN	Z2
 Privy_PROPN Council_NOUN	Z3c
 Pro_ADJ Printer_NOUN	Z3
@@ -2541,13 +2481,8 @@ Rabbiner_PROPN Annes_PROPN 's_PART Battery_NOUN	Z3c
 Rabbiner_PROPN Mary_PROPN College_NOUN	Z3c
 Race_NOUN Ligheds_NOUN Råd_NOUN	Z1f
 Race_NOUN Retfærdigheds_NOUN Råd_NOUN	Z3c
-Radio_NOUN [nummer]_NUM	Z3c
 Radio_NOUN Leicester_PROPN	Z2
 Radio_NOUN Times_PROPN	Z2
-Radio_NOUN [adjektiv/interjektion]_ADJ [nummer]_NUM	Z3c
-Radio_NOUN [adjektiv/interjektion]_ADJ [egennavn]_PROPN	Z3c
-Radio_NOUN [adjektiv/interjektion]_ADJ Ayre_NOUN	Z3c
-Radio_NOUN [adjektiv/interjektion]_ADJ Leeds_PROPN	Z3
 Radipole_PROPN Naturreservat_NOUN	Z3
 Raglan_PROPN Slot_NOUN	Z3c
 Ragu_NOUN Bolognese_NOUN	Z3c
@@ -2582,7 +2517,6 @@ Renault_PROPN 5_NUM	Z2/S2mf
 Renault_PROPN 5_NUM Campus_NOUN	Z3c
 Renegade_NOUN Industries_NOUN	Z3
 Rental_NOUN Research_NOUN	Z3c
-Republikken_NOUN [Land]_PROPN	Z3c
 Republikken_NOUN Korea_PROPN	Z1c Z3c
 Republikken_NOUN Moldova_PROPN	Z1c Z3c
 Republikken_NOUN Palau_PROPN	Z3c
@@ -2596,7 +2530,6 @@ Richard_PROPN III_PROPN	Z3
 Richard_PROPN II_PROPN	T1.3/X2.2+/S7.2+
 Rising_ADJ Sun_NOUN	Z3
 River_NOUN House_NOUN	Z3fn
-Flod_NOUN [Egennavn_PROPN]	Z3c
 Flod_NOUN af_ADP Blod_NOUN	Z3c
 Vejtrafik_NOUN lov_NOUN	Z2c
 Vejtransportindustriens_NOUN Uddannelsesråd_NOUN	Z2
@@ -2668,7 +2601,6 @@ Russiske_ADJ Føderation_NOUN	Z3c
 SA_PROPN 20_NUM	Z3c
 SA_PROPN 40_NUM	Z3c
 SRI_PROPN Seksten_NUM Tusind_NOUN	Z3c
-SS_PROPN [Navn]_PROPN	Z3c
 S_SYM og_CCONJ S_SYM	K5.2
 Saab_PROPN Ni_NUM Tusind_NUM	Z2
 Sachet_NOUN og_CCONJ Sachet_NOUN	K5.1 Z3c
@@ -2677,8 +2609,6 @@ Saddleworth_PROPN Seals_NOUN	Z2
 Sahara_PROPN Club_NOUN	Z3c
 Sahariske_ADJ Arabiske_ADJ Demokratiske_ADJ Republik_NOUN	Z3c
 Sainsbury_PROPN 's_PART Sunflower_NOUN Spread_NOUN	Z2
-Saint_NOUN [Navn]_PROPN	Z3c
-Saint_NOUN [Navn]_PROPN 's_PART	Z3c
 Saint_PROPN Lucia_PROPN	Z2
 Saint_PROPN Vincent_PROPN og_CCONJ Grenadinerne_PROPN	Z3
 Frelsens_PROPN Hær_NOUN	I2.1/G3
@@ -2752,11 +2682,7 @@ Silver_PROPN Sands_NOUN	Z3c
 Simply_ADV Red_ADJ	Z3c
 enlig_ADJ forældreydelse_NOUN	Z2
 Sinn_PROPN Fein_PROPN	S9/S2mf
-Sir_PROPN [Navn_PROPN]	Z3c
-Sir_PROPN [Fornavn_PROPN] [Efternavn_PROPN]	Z3c
-Sir_PROPN [Fornavn_PROPN] [Mellemnavn_PROPN] [Efternavn_PROPN]	Z3c
 Sister_PROPN Act_PROPN II_NUM	Z2/S2mf Z2
-Søster_PROPN [Navn_PROPN]	Z3
 Seks_NUM O'Clock_ADV Live_ADJ	Z2
 Himmel_NOUN Skyer_NOUN	Z3c
 Sky_PROPN Sports_NOUN	Z2
@@ -3097,13 +3023,10 @@ University_NOUN College_NOUN	G1.1/H1
 University_NOUN Funding_NOUN Council_NOUN	G1.1/H1
 University_NOUN Hospital_NOUN	Z3c
 University_NOUN Training_NOUN Initiative_NOUN	Z3c
-University_NOUN of_ADP [Name]_PROPN	Z3
 University_NOUN of_ADP Western_PROPN Australia_PROPN	Z3c
-University_NOUN of_ADP [Name]_PROPN [Location]_PROPN	Z2c
 University_NOUN of_ADP Central_ADJ England_PROPN	Z2c
 University_NOUN of_ADP Central_ADJ Lancashire_PROPN	Z3c
 University_NOUN of_ADP East_ADJ Anglia_PROPN	Z2c
-University_NOUN of_ADP Western_ADJ [Name]_PROPN	Z2c
 University_NOUN of_ADP the_DET Third_ADJ Age_NOUN	Z3c
 University_NOUN of_ADP the_DET West_NOUN of_ADP England_PROPN	Z2
 VAT_NOUN return_NOUN	Z3c
@@ -3379,7 +3302,6 @@ ulykkessag_NOUN cotton_NOUN	O1.1
 ulykkeskrav_NOUN syndrome_NOUN	B2-
 ulykkesforsikring_NOUN art_NOUN	C1
 ulykkesforebyggelse_NOUN expressionism_NOUN	C1 K2 Q4.1 Q1.2
-ulykkesudsat_ADJ noun_NOUN	Q3
 indkvarteringsdrift_NOUN advisor_NOUN	P1/S8+/S2mf
 indkvarteringsplatform_NOUN communit*_NOUN	P1/S5+c
 ifølge_ADP dean_NOUN	P1/S7.1+
@@ -3966,18 +3888,9 @@ så_ADV meget_DET {ADJ/INTJ/Np} *_* som_SCONJ *_* kan_AUX	Z5
 så_ADV tæt_ADV som_SCONJ pokker_NOUN	Z5
 som_SCONJ sædvanlig_ADJ	A6.1-
 samt_CCONJ regards_ADP	Z5
-som_SCONJ [pronomen_PRON] [verbum_VERB] [adverbium_ADV] sagt_VERB	Z4
-som_SCONJ [pronomen_PRON] [verbum_VERB] [adverbium_ADV] siger_VERB	Z4
-som_SCONJ [pronomen_PRON] vil_VERB	M6
-som_SCONJ [pronomen_PRON] [adverbium_ADV] sagt_VERB	Z4
-som_SCONJ [pronomen_PRON] [adverbium_ADV] sagt_VERB tidligere_ADV	Z5
-som_SCONJ [pronomen_PRON] [adverbium_ADV] siger_VERB	Df/A6.2+
 som_SCONJ jeg_PRON bliver_VERB ved_ADV med_ADP at_PART sige_VERB	Df/A6.2+
 som_SCONJ jeg_PRON sagde_VERB for_ADP et_DET øjeblik_NOUN siden_ADV	Df+++
 som_SCONJ noget_PRON	Df+++
-som_SCONJ vidt_ADV [pronomen_PRON] ved_VERB	Df+++
-som_SCONJ vidt_ADV [pronomen_PRON/navneord_NOUN] angår_VERB	A6 A13.4
-som_SCONJ vidt_ADV [pronomen_PRON/navneord_NOUN] går_VERB	Z4
 som_SCONJ helvede_NOUN	A6.1+
 som_SCONJ om_SCONJ	A13.4
 som_SCONJ det_PRON er_VERB	Z4
@@ -5504,7 +5417,6 @@ suse_VERB rundt_ADV	I2.1/H1
 suse_VERB rundt_ADV	I3.1/S2mf
 ved_ADP Jupiter_PROPN	P1/I2.1c
 på_ADP ingen_DET måde_NOUN	I2.1/P1
-af_ADP [pronomen_PRON]	I2.1/M1
 ved_ADP Gud_PROPN	I2.1
 ved_ADP Jesus_PROPN	A1.1.2
 bust*_* {PRON/ADV/Np} selvfølgelig_ADV	S3- A1.1.2 E3-
@@ -5790,7 +5702,6 @@ kardinaltal_NOUN licence_NOUN	M3/Q1.2
 kardinalpunkt_NOUN park*_NOUN	M3/M7
 dødssynd_NOUN parking_NOUN	M3
 kardiothorakal_ADJ phone*_NOUN	Q1.3
-social-_og_sundhedshjælper_NOUN port*_NOUN	M3/H2
 plejehjem_NOUN radio*_NOUN	Q4.3/M3
 ligeglad_ADJ rental*_NOUN	I2.2/M3
 hjælpelinje_NOUN ride*_NOUN	M3
@@ -7909,8 +7820,6 @@ dø_VERB ud_ADV	M4
 dø_VERB for_ADP	A1.1.2
 dø_VERB for_ADP	A5.4-/T1.3
 e-mail-adresse_NOUN shave_NOUN	B4
-hver_DET [substantiv_NOUN]	K5.1/M7
-hver_DET til_ADP [sin_DET egen_DET]	M3
 hinanden_PRON honours_NOUN	P1
 øre_NOUN ,_PUNCT næse_NOUN og_CCONJ halsafdeling_NOUN	B2-/S1.2
 øre_NOUN ,_PUNCT næse_NOUN og_CCONJ halslæge_NOUN	B5
@@ -8056,9 +7965,7 @@ forlovelsesring_NOUN agencies_NOUN	I3.1/I2.1
 maskinrum_NOUN agency_NOUN	I3.1/I2.1c
 ingeniørmetallurg_NOUN building_NOUN	H1/I3.1
 ingeniørskole_NOUN market*_NOUN	I3.1
-nyde_VERB [pronoun_PRON]	M2
 empty*_* {PRON/ADV/Np} informationsskranke_NOUN	M2
-komme_VERB [pronoun_PRON] i_ADP tanker_NOUN	M2
 erhvervsstøtte_NOUN headed_*	X9.1-
 underholdningsleder_NOUN brush*_NOUN	C1
 underholdningsofficer_NOUN suite_*	A1.8+
@@ -8115,23 +8022,13 @@ siden_ADV da_ADV	G1.2
 lige_ADV siden_ADP	L2/H1c
 meget_ADV septicaemia_NOUN	B2-
 erode*_VERB {PRON/ADV/Np} meget_ADV	A1.1.2
-hvert_DET [nummer_NUM] til_ADP [nummer_NUM] [navneord_NOUN]	A1.1.2
 hele_ADJ tiden_NOUN	B1/S3.2
-hver_DET så_ADV mange_DET [navneord_NOUN]	A1.1.1/S2mf
 hvert_DET halve_ADJ time_NOUN	K4/S2mf
 af_ADP og_CCONJ til_ADP	F2/O4.3
-hvert_DET [adj_ADJ] [navneord_NOUN]	P1/X4.2
-hvert_DET [navneord_NOUN] gud_NOUN sender_VERB	H1/I2.1
-hvert_DET [nummer_NUM] [navneord_NOUN]	H1/I2.1
-hvert_DET [egennavn_PROPN]	H1/S2mf
-hvert_DET [egennavn_PROPN] [navneord_NOUN]	M3fn
 enhver_DET mulig_ADJ	F4
-hvert_DET par_NOUN af_ADP [navneord_NOUN]	Z4
 af_ADP og_CCONJ til_ADP	Z4
 af_ADP og_CCONJ til_ADP	B5
 enhver_DET group*_NOUN	S5+c
-hvert_DET andet_ADJ [egennavn_PROPN]	S5+/N5-
-hvert_DET andet_ADJ [adj/intj_ADJ/INTJ] [navneord_NOUN]	S5+/N5-c
 hver_DET eneste_ADJ	G1.2
 hver_DET eneste_ADJ en_PRON	M2
 alt_NOUN under_ADP himlen_NOUN	A6.1+/A2.1
@@ -12740,7 +12637,6 @@ oh_INTJ min_DET Gud_PROPN	M6
 oh_INTJ nej_INTJ	G2.2-
 oh_INTJ virkelig_ADV	A10-
 oh_INTJ nå_INTJ	A10-
-oh_INTJ [pronomen]_PRON Gud_PROPN	K4/Q4.1
 olie_NOUN baseret_ADJ	N6+
 olie_NOUN felt_NOUN	B5
 olie_NOUN filter_NOUN	N3.8+
@@ -16414,11 +16310,7 @@ telefonnummer_NOUN training_NOUN course*_NOUN	P1
 teleprintoperatør_NOUN hospital*_NOUN	B3/P1c
 tv_NOUN ingeniør_NOUN	P1/S2mf
 tv_NOUN side_NOUN	P1
-tv_NOUN-program_NOUN practice*_NOUN	P1
 fjernsyn_NOUN qualification*_NOUN	P1
-tv_NOUN-station_NOUN game*_NOUN	K5.1/S5+
-tv_NOUN-studie_NOUN leader*_NOUN	S7.1+/S2mf
-tv_NOUN-seer_NOUN mate*_NOUN	S5+/S2mf
 fortælle_VERB sandheden_NOUN	S5+
 spå_VERB work_NOUN	I3.1/S5+ A1.1.1/S5+
 tear*_* {PRON/ADV/Np} lyve_VERB	E4.1- A1.1.2 A6.1-
@@ -16427,12 +16319,8 @@ skælde_VERB ud_ADV	M2 E3-
 afslørende_ADJ tegn_NOUN	A1.1.2
 fortælle_VERB dig_PRON sandheden_NOUN	A1.1.2
 fortælle_VERB dig_PRON hvad_PRON	G3/O1.3
-tv_NOUN-afhængig_ADJ jerker*_NOUN	E4.1-
-tv_NOUN-program_NOUN college*_NOUN	P1/H1c
 afholdssal_NOUN drawing_NOUN	C1/Y1
-ti_NUM-pins_NOUN bowling_NOUN	K4
 ti_NUM en_DET øre_NOUN	Q3
-ti_NUM-pins_NOUN bowling_NOUN	Y1/A9-
 ti_NUM tommelfingre_NOUN	K6
 lejer_NOUN hus_NOUN	K6mfn
 blid_ADJ kærlig_ADJ omsorg_NOUN	K2/S2.2m
@@ -17195,26 +17083,15 @@ tv_NOUN skærm_NOUN	Q4.3
 tune*_VERB enogtyvende_ADJ	Q4.3
 digital_ADJ 24_NUM timer_NOUN	O4.1
 24_NUM timer_NOUN i_ADP døgnet_NOUN	Q4.3
-to_NUM gange_NOUN en_DET [navneord_NOUN]	B2-/X3.4 A4.2+/N5.2+
 dobbelt_ADJ så_ADV mange_DET	M2
-dreje_VERB [det_DET] [adj/INTJ] fingre_NOUN	K5.1/S2mf
 krøllet_ADJ stykke_NOUN	A1.9
-parre_VERB [pron/ADV/Np] op_ADV	A1.1.1
 turn*_* *_DET {ADJ/INTJ} nose*_NOUN venskabsby_NOUN at_ADP	E2-
 turn*_* tvillingsøster_NOUN blind_ADJ eye_NOUN	S7.4+ X3.4-
-dreje_VERB [pron/ADV/Np] rundt_ADV	A2.1+
-manipulere_VERB [pron/ADV/Np] rundt_ADP [det_DET] lille_ADJ finger_NOUN	T1.1.1
 tveægget_ADJ sværd_NOUN	M1 S1.1.1 T2+ A2.1+
 to_NUM æg_NOUN kort_ADJ af_ADP en_DET seks_NUM pakke_NOUN	A2.1+
 turn*_* {PRON/ADV/Np} tvehovedet_ADJ	M1 M2 A2.1+
 to_NUM en_NUM	M1 M2 A2.1+
 to_NUM eller_CCONJ tre_NUM	M1 M2 A2.1+
-binde_VERB [pron/ADV/Np] tilbage_ADV	X7- A1.1.1 X3.2-/A2.1
-binde_VERB [pron/ADV/Np] ned_ADV	M1 M2 B1 G2.1 S1.2.1-
-binde_VERB [pron/ADV/Np] af_ADV	A2.1+
-binde_VERB [pron/ADV/Np] over_ADV	A1.1.1 O4.2- M1 M2
-binde_VERB [pron/ADV/Np] under_ADV	A1.1.1 S3.2
-indtaste_VERB [pron/ADV/Np] i_ADV	A1.1.1 A8 N5+/S1.1.3 M1 M2
 skrive_VERB hurtigt_ADV	M2 M1 I1 F1 G2.1- X2.4
 slags_NOUN af_ADP ting_NOUN	M1 A2.1+ M2
 skrive_VERB ud_ADV	A2.1+
@@ -17261,7 +17138,6 @@ under_ADP læge_NOUN	Q1.2/S2mf Q1.2
 under_ADP tommelfinger_NOUN	Q1.2
 under_ADP vand_NOUN	Q1.2
 under_ADP pres_NOUN	B2-
-under_ADV [nummer]_NUM	A3- A10- A9-
 i_ADP gang_NOUN	X2.2-
 underjordisk_ADJ passage_NOUN	X2.2-
 utænkelig_ADJ *_NUM	T3 T3/S2mf
