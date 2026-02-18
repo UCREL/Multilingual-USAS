@@ -776,7 +776,7 @@ halvtreds_NUM halvtreds_NUM	N5 A7
 fem_NUM mands_NOUN fodbold_NOUN	K5.1
 fem_NUM stjernet_ADJ	A5.1+
 sjette_ADJ form_NOUN	P1/S2mf
-7_NUM & C_PROPN	Z3c
+7_NUM &_PUNCT C_PROPN	Z3c
 9_NUM til_ADP 5_NUM	T1.3
 En_DET Bye_PROPN Pass_NOUN	Z2
 En_DET Omfartsvej_NOUN	Z2
@@ -1280,11 +1280,11 @@ College_NOUN af_ADP St._PROPN Michael_PROPN og_CCONJ St._PROPN John_PROPN	Z3c
 College_NOUN af_ADP Himmelfarten_NOUN	Z3c
 Collie_NOUN redning_NOUN	Z3c
 Collis_PROPN af_ADP Walton_PROPN Street_PROPN	Z3c
-Oberst_PROPN *	Z1mf
+Oberst_PROPN *_*	Z1mf
 Oberst_PROPN Blimp_PROPN	Z1m Z3c
 Kombinerede_ADJ sækkepiber_NOUN og_CCONJ trommer_NOUN fra_ADP de_DET skotske_ADJ regimenter_NOUN	Z3
 Komikklub_NOUN Club_NOUN	Z3c
-Kommandør_PROPN *	Z1mf
+Kommandør_PROPN *_*	Z1mf
 Kommandoofficer_NOUN Officer*_NOUN	G3/S2mf
 Kommandobrigade_NOUN Brigade_NOUN	G3c
 Kommandosoldat_NOUN ingeniører_NOUN	G3
@@ -1370,7 +1370,7 @@ Danish_ADJ Liecke_NOUN	F1
 Wienerbrød_NOUN pastry_NOUN	F1
 Darley_PROPN Dale_PROPN	Z2
 David_PROPN Morgans_PROPN	Z3c
-David_PROPN White_PROPN & Sons_NOUN	Z3c
+David_PROPN White_PROPN &_PUNCT Sons_NOUN	Z3c
 Davies_PROPN Cup_NOUN	Z3
 Dommedag_NOUN of_ADP Judgement_NOUN	S9
 Sjakalens_NOUN dag_NOUN	Z3
@@ -1932,10 +1932,10 @@ Kongens_NOUN hoved_NOUN	Z3c
 Kongens_NOUN tårn_NOUN	Z2
 Kongens_NOUN *_* hospital_NOUN	Z3c
 Kong_NOUN *_* hospital_NOUN	Z3c
-Konge_NOUN af_ADP *	Z1m/S7.1+
-Konge_PROPN *	Z1m Z3fn
-Konge_PROPN *_* *	Z1m
-Konge_PROPN *_* *	Z1m Z3fnc
+Konge_NOUN af_ADP *_*	Z1m/S7.1+
+Konge_PROPN *_*	Z1m Z3fn
+Konge_PROPN *_* *_*	Z1m
+Konge_PROPN *_* *_*	Z1m Z3fnc
 Konge_PROPN Edwards_PROPN	Z3c F1
 Konge_PROPN James_PROPN Version_NOUN	S9/Q4.1
 Konge_PROPN Lear_PROPN	Z3
@@ -2565,7 +2565,7 @@ Royal_ADJ Bank_NOUN of_ADP Scotland_PROPN	Z3c
 Royal_ADJ British_ADJ Legion_NOUN	Z3c
 Royal_ADJ British_ADJ Legion_NOUN Poppy_NOUN Appeal_NOUN	Z2
 Royal_ADJ Collection_NOUN	Z3c
-Kongelig_ADJ Kollegium_NOUN af_ADP *	Z3c
+Kongelig_ADJ Kollegium_NOUN af_ADP *_*	Z3c
 Royal_ADJ College_NOUN of_ADP Defence_NOUN Studies_NOUN	Z3c
 Royal_ADJ College_NOUN of_ADP Surgeons_NOUN	Z3c
 Kongeligt_ADJ korps_NOUN af_ADP *_NOUN	Z3c
@@ -2781,7 +2781,7 @@ Sankt_PROPN Quentin_PROPN 's_PART Slot_NOUN ,_PUNCT Llanblethian_PROPN	Z3c
 Sankt_PROPN Seiriol_PROPN 's_PART Kilde_NOUN	Z3c Z2
 Sankt_PROPN Winefride_PROPN 's_PART Kapel_NOUN	T1.3/S9
 Sankt_PROPN Winefride_PROPN 's_PART Kapel_NOUN og_CONJ Hellig_ADJ Kilde_NOUN	Z2
-Sankt_NOUN *PROPN	Z2c
+Sankt_NOUN *_PROPN	Z2c
 St_PROPN *'s_PART Kirke_NOUN	Z3c
 St_PROPN *'s_PART Hotel_NOUN	Z2
 St_PROPN *_PROPN *_ADJ Skole_NOUN	Z2
@@ -2800,7 +2800,7 @@ St_PROPN Patricks_PROPN Dag_NOUN	Z2
 St_PROPN Pauls_PROPN Katedral_NOUN	Z2
 St_PROPN Valentine_PROPN Dag_NOUN	Z2
 St_PROPN *_PROPN	Z2 Z3c
-St_PROPN *_PROPN 'PART Domstol_NOUN	Z3c
+St_PROPN *_PROPN '_PART Domstol_NOUN	Z3c
 St_PROPN Catharine_PROPN 's_PART Dok_NOUN	Z3c
 St_PROPN Katharine_PROPN Docks_NOUN	Z3c
 St_PROPN Ives_PROPN	Z3c
@@ -3192,7 +3192,7 @@ et_DET par_NOUN *_* siden_ADV	N5++ N6++
 et_DET par_NOUN *_* tilbage_ADV	N5++ N6++ A13.3
 et_DET par_NOUN hundrede_NUM	F1
 et_DET par_NOUN gange_NOUN	N6+
-et_DET par_NOUN gange_NOUN om_ADP *	T1.1.1
+et_DET par_NOUN gange_NOUN om_ADP *_*	T1.1.1
 et_DET hak_NOUN over_ADP	Z5
 en_DET djævel_NOUN til_ADP	A2.2
 et_DET dusin_NUM tilbage_ADV	A13.6 A13.7
@@ -7791,7 +7791,7 @@ dobbelt_ADJ personlighed_NOUN	F3/S2mf
 hertuginde_NOUN satin_NOUN	F3
 næbdyr_NOUN baron*_NOUN	F3/S2mf G2.1-/S2mf
 and_NOUN suppe_NOUN	F3
-forventet_ADJ *_* *	F3/S2mf
+forventet_ADJ *_* *_*	F3/S2mf
 forfaldsdato_NOUN dependency_NOUN	F3/S6+
 på_ADP grund_NOUN af_ADP	F3/A6.2+
 gravet_VERB *_* ud_ADV	F3/S2mf
@@ -7880,8 +7880,8 @@ earn*_* æggefarm_NOUN {ADJ/INTJ} living_NOUN	I3.1
 eas*_* {PRON/ADV/Np} æggeblomme_NOUN	M2 N5-/A2.1 E3-/A2.1
 ease*_VERB {PRON/ADV/Np} ego-trip_NOUN	N5-/A2.1
 edderfugl_NOUN said_VERB than_SCONJ done_VERB	A12-
-el cheapo_ADJ	N5-/A2.1
-el supremo_ADJ	Z2
+el_* cheapo_ADJ	N5-/A2.1
+el_* supremo_ADJ	Z2
 albuefedt_NOUN Sunday_PROPN	T1.3/S9
 albueled_NOUN going_*	E3+ A12+ S1.2.1+
 hyldebærvin_NOUN chair*_NOUN	H5
@@ -8530,7 +8530,7 @@ for_ADP en_DET start_NOUN	G3/S2mf
 for_ADP real_ADJ	K5.1/S7.3
 i_ADP nogen_DET tid_NOUN	M2
 for_ADP den_DET *_* tid_NOUN	A1.1.1
-for_ADP livet_NOUN af_ADP *	Q1.2/K4
+for_ADP livet_NOUN af_ADP *_*	Q1.2/K4
 for_ADP øjeblikket_NOUN	S1.1.1
 for_ADP resten_NOUN af_ADP *_* liv_NOUN	K2
 for_ADP dets_PRON skyld_NOUN	A6.1+
@@ -12017,7 +12017,7 @@ mental_ADJ institution_NOUN	I2.2/H1c
 mental_ADJ sygeplejerske_NOUN	S1.2.3+/S2mf
 mentalt_ADJ sted_NOUN	S5+
 mental_ADJ retardering_NOUN	O4.2-/A2.1
-mellow*_* {PRON/ADV/Np} mental	S1.2.1+/A2.1 X3.1
+mellow*_* {PRON/ADV/Np} mental_*	S1.2.1+/A2.1 X3.1
 mentalt_ADV handicappet_ADJ	O4.6+
 mentalt_ADV svag_ADJ	O4.6+ S5+
 mentalt_ADV syg_ADJ	A6.3+
