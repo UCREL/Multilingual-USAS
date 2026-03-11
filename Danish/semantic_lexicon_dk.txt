@@ -1671,7 +1671,7 @@ ameloblast	NOUN	B1 O2
 amelogenese	NOUN	A1.1.1/B1
 amen	INTJ	Z4
 imødekommenhed	NOUN	O4.2+
-medgørlig	X	Z99 JJ O4.2+
+medgørlig	X	Z99 O4.2+
 medgørlig	ADJ	X7+ A6.1+
 ændringer	NOUN	A2.1+
 ændrer	VERB	A2.1+
@@ -2953,7 +2953,7 @@ skævt	ADJ	O4.1
 spørger	ADJ	I1.3
 spørger	NOUN	Q2.2 I1.3
 spørger	VERB	Q2.2 I1.3
-skråtstillet	ADJ	o4.1
+skråtstillet	ADJ	O4.1
 skråtstillet	ADV	O4.1
 ASLI	PROPN	Z3c
 ASM	PROPN	K4/S2mf
@@ -3476,7 +3476,6 @@ afvist	VERB	Q2.2
 avers	ADJ	E2-
 aversion	NOUN	E2-
 afværge	VERB	A1.9 M6/X3.4
-omvendt	ADV	BLAH
 AVI	NOUN	Y2
 voliere	NOUN	L2/H1
 ivrig	ADJ	X5.2+
@@ -3550,7 +3549,7 @@ akser	NOUN	O2
 akser	VERB	T2-
 aksial	ADJ	A4.2+
 aksiom	NOUN	X2.1 N2
-aksiomatisk	X	Z99 JJ X2.1 N2
+aksiomatisk	X	Z99 X2.1 N2
 aksiomatisk	ADJ	A5.2+ N2
 Aksiomer	NOUN	X4.1
 akse	NOUN	M1 W3
@@ -3852,7 +3851,7 @@ Balcombe	PROPN	Z2
 altan	NOUN	H2
 skaldet	ADJ	B1
 skaldet	NOUN	A5.2- S1.2.6-
-skaldethed	NOUN	B1 04.1 O4.2-
+skaldethed	NOUN	B1 O4.1 O4.2-
 balle	NOUN	O2
 balle	VERB	A1.1.1
 ballet	VERB	A1.1.1
@@ -9657,7 +9656,7 @@ komfortabelt	ADV	O4.2+
 trøste	NOUN	S8+/S2mf S8+/O2 S9 L2
 trøstende	ADJ	E3+
 trøstende	ADV	E3+
-trøstesløs	ADJ	S8- 04.2-
+trøstesløs	ADJ	S8- O4.2-
 behageligt	ADJ	O4.2+
 tegneserie	ADJ	E4.1+
 komisk	ADJ	E4.1+
@@ -15576,7 +15575,7 @@ indlysende	ADJ	A11.2+
 ond	ADJ	G2.2-
 ond	NOUN	G2.2-
 ondsindet	NOUN	G2.2-/S2mf
-ildelugtende	ADJ	A5/1-/X3.5 E2-/X3.5
+ildelugtende	ADJ	A5/X3.5 E2-/X3.5
 Evo	PROPN	Z3c
 fremkaldelse	NOUN	A2.2 C1
 stemningsfuldt	ADJ	A6.1+
@@ -19807,10 +19806,10 @@ transport	NOUN	M3
 trukket	ADJ	M2
 huk	NOUN	B1/L2
 tilholdssted	NOUN	M7
-tilholdssted	VERB	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+tilholdssted	VERB	S9 E6- M1/N6+ S9 E6- M1/N6+
 hjemsøgt	VERB	S9 E6-
 hjemsøgende	NOUN	M7 S9 E6- M1/N6+
-hjemsøgende	VERB	S9 E6- M1/N6+ VVZ S9 E6- M1/N6+
+hjemsøgende	VERB	S9 E6- M1/N6+ S9 E6- M1/N6+
 hjemsøger	NOUN	M7
 hjemsøger	VERB	S9 E6- M1/N6+
 Hauptstede	PROPN	Z1mf
@@ -20089,7 +20088,7 @@ Helvetica	PROPN	Z3
 søm	NOUN	B5
 søm	VERB	B5
 halvkugle	NOUN	W3 B1
-hemline	NOUN	B5/02
+hemline	NOUN	B5/O2
 hæmning	NOUN	B5
 hæmning	VERB	B5
 Hemmings	PROPN	Z3c
@@ -35559,7 +35558,6 @@ kradse	VERB	B2- A1.1.1 A1.1.2
 ridser	ADJ	B2- A1.1.1 A1.1.2
 ridser	NOUN	B2- A1.1.1 A1.1.2
 skrattende	ADJ	O4.5 E3- X3.2
-skrattende	ADV	SENSE
 skrible	VERB	Q1.2
 skriblede	VERB	Q1.2
 skriblerier	NOUN	Q1.2
@@ -39749,7 +39747,6 @@ undervisning-læring	ADJ	X2.3+/P1
 undervisningsorienteret	ADJ	P1
 undervisningsrelateret	ADJ	P1
 lære-at-lære	ADJ	P1/X2.3+
-Teagus	PROPN	3c
 teaktræ	NOUN	O1.1
 krikand	ADJ	O4.3
 hold	NOUN	S5+c K5.1/S5+c

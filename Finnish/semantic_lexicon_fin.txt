@@ -12405,7 +12405,8 @@ jättäytyjä	Noun	S1.1.3-/S2
 jättäytyminen	Noun	S1.1.3-
 jättäytyä	Verb	S1.1.3-
 jättää	Verb	A9- M2 A2.2 A1.9 T2- A1.1.1
-jättö	Noun	A9- M2 A2.2 A1.9 T2-jättöpäivä Noun S6+/T1.1
+jättö	Noun	A9- M2 A2.2 A1.9 T2-
+jättöpäivä Noun S6+/T1.1
 jäyketä	Verb	O4.5
 jäykistyminen	Noun	O4.5
 jäykistys	Noun	O4.5
@@ -13899,7 +13900,7 @@ kateellisuus	Noun	S1.2.2+
 kateenkorva	Noun	L2 F1
 kategoria	Noun	A4.1
 kateissa	Adverb	A9- A10-
-katekismus	Noun	S9/Q.1
+katekismus	Noun	S9/Q1
 Katepal	Proper	Z3
 Katerma	Proper	Z2
 katerpillari	Noun	M3
@@ -34268,7 +34269,7 @@ sammas	Noun	B2-
 sammastulehdus	Noun	B2-
 Sammatti	Proper	Z2 Z1
 sammua	Verb	O4.6- W2- A1.1.1- T2- B2-
-sammuksiin	Adverb	O4.6- W2- b2-
+sammuksiin	Adverb	O4.6- W2- B2-
 sammuksissa	Adverb	O4.6- W2- B2-
 sammuminen	Noun	O4.6- W2- A1.1.1- T2- B2-
 sammutin	Noun	O2/O4.6-
