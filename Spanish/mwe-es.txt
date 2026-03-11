@@ -706,7 +706,7 @@ Caldas_pnoun de_pnoun Reis_pnoun	Z2
 Caldes_pnoun D'estrac_pnoun	Z2
 Caldes_pnoun de_pnoun Malavella_pnoun	Z2
 Caldes_pnoun de_pnoun Montbui_pnoun	Z2
-calentar_verb hasta_prep que_conj hierva_verb	F2/A1.1.1/04.6
+calentar_verb hasta_prep que_conj hierva_verb	F2/A1.1.1/O4.6
 Calera_pnoun de_pnoun León_pnoun	Z2
 Calera_pnoun y_pnoun Chozas_pnoun	Z2
 Callosa_pnoun D'en_pnoun Sarrià_pnoun	Z2
@@ -1600,7 +1600,7 @@ Eneritz_pnoun Iturriaga_pnoun	Z2
 enfermedades_noun tumorales_adj	B2
 enrollar_verb a_prep mano_noun	A1.1.1/C1
 ensalada_noun verde_adj	F1
-entrada_noun en_prep boca_noun	X3.1/O4.5/MWU
+entrada_noun en_prep boca_noun	X3.1/O4.5
 entrar_verb a_prep hurtadillas_noun	A10 X9
 Entrín_pnoun Bajo_pnoun	Z2
 envejecer_verb en_prep barrica_noun	F2/T3/A1.1.1
@@ -3727,7 +3727,7 @@ problemas_noun cardiovasculares_adj	B2
 problemas_noun de_prep digestión_noun	B2
 problemas_noun digestivos_adj	B2
 procesos_noun degenerativos_adj	B2
-profesional_adj de_prep la_art salud_noun	I.3.2
+profesional_adj de_prep la_art salud_noun	I3.2
 proteína_noun aislada_verb de_prep soja_noun	F1/L3
 proteína_noun de_prep la_art leche_noun	F1/O1
 proteínas_noun de_prep la_art leche_noun	F1
