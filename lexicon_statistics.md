@@ -7,7 +7,7 @@
 | Danish (dk)              | semantic_lexicon_dk.tsv        | 44,198                          | :heavy_check_mark:           | :x:                          |
 | Danish (dk)              | mwe-dk.tsv                     | :x:                             | :x:                          | 17,853                       |
 | Dutch, Flemish (nl)      | semantic_lexicon_dut.tsv       | 4,220                           | :heavy_check_mark:           | :x:                          |
-| Finnish (fi)             | semantic_lexicon_fin.tsv       | 46,226                          | :heavy_check_mark:           | :x:                          |
+| Finnish (fi)             | semantic_lexicon_fin.tsv       | 46,227                          | :heavy_check_mark:           | :x:                          |
 | French (fr)              | semantic_lexicon_fr.tsv        | 2,724                           | :heavy_check_mark:           | :x:                          |
 | Italian (it)             | semantic_lexicon_ita.tsv       | 33,091                          | :heavy_check_mark:           | :x:                          |
 | Italian (it)             | mwe-ita.tsv                    | :x:                             | :x:                          | 5,622                        |
