@@ -12692,7 +12692,7 @@ anatomy	NOUN	B1 O4.1 Y1
 ancestor	NOUN	S4/T1.1.1 N4
 ancestors	NOUN	S4/T1.1.1 N4
 ancestral	ADJ	S4/T1.1.1 N4
-ancestry	NOUN	S4T1.1.1 N4
+ancestry	NOUN	S4/T1.1.1 N4
 anchor	NOUN	M4/O2 Q4.3/S2mf
 anchor	VERB	A1.7+ M4
 anchorage	NOUN	M7/M4 M8
@@ -52433,7 +52433,7 @@ unprompted	ADJ	Q2.2 A2.2- N3.8+
 unprotected	ADJ	S8-/A15- A10+ S3.2/A15-
 unprovided	ADJ	A9-/Z6
 unprovoked	ADJ	A2.2-
-unpurified	ADJ	B4 QA1.1.1
+unpurified	ADJ	B4 A1.1.1
 unqualified	ADJ	A1.2-/I3.2 A1.7-
 unquestionably	ADV	A7+
 unquestioning	ADJ	S7.1-
