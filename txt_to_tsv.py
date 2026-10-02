@@ -39,7 +39,7 @@ def read_comment_txt_file(txt_file_path: str) -> Iterable[str]:
                 tab_pattern.search(line) is None):
                 continue
 
-            comment_error = ('\n\nA comment line cannot conain a tab.\n\n'
+            comment_error = ('\n\nA comment line cannot contain a tab.\n\n'
                              f'This occurred on line number: {line_number}\n\n'
                              f'In the following file: {txt_file_path}\n\n'
                              f'The line contains the following: {line}\n\n')

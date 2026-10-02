@@ -1,0 +1,20 @@
+{
+    "Code": "code",
+    "Abbrev": "abbrev",
+    "Noun": "noun",
+    "Noun ": "noun",
+    "CompPart": "CompPart",
+    "Adjective": "adj",
+    "Verb": "verb",
+    "Interjection": "intj",
+    "Adverb": "adv",
+    "Preposition": "prep",
+    "Conjunction": "conj",
+    "Proper": "pnoun",
+    "proper": "pnoun",
+    "Numeral": "num",
+    "Pronoun": "pron",
+    "Adverb ": "adv",
+    "Aux": "verb",
+    "der": "der"
+}

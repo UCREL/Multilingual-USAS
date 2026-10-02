@@ -47,6 +47,25 @@
         }
         
     },
+    "dk" : {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Danish/semantic_lexicon_dk.tsv"
+            },
+	    {
+                "data type": "mwe", 
+                "file path": "./Danish/mwe-dk.tsv"
+            }
+
+        ],
+        "language data": {
+            "description": "Danish",
+            "macrolanguage": "dk",
+            "script": "Latn"
+        }
+        
+    },
     "nl" : {
         "resources":[
             {
@@ -230,6 +249,38 @@
         "language data":{
             "description": "Welsh",
             "macrolanguage": "cy",
+            "script": "Latn"
+        }
+        
+    },
+    "id": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./Indonesian/semantic_lexicon_id.tsv"
+            }
+        ],
+        "language data":{
+            "description": "Indonesian",
+            "macrolanguage": "ms",
+            "script": "Latn"
+        }
+        
+    },
+    "en": {
+        "resources":[
+            {
+                "data type": "single", 
+                "file path": "./English/semantic_lexicon_en.tsv"
+            },
+            {
+                "data type": "mwe", 
+                "file path": "./English/mwe-en.tsv"
+            }
+        ],
+        "language data":{
+            "description": "English",
+            "macrolanguage": "en",
             "script": "Latn"
         }
         

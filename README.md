@@ -367,13 +367,168 @@ To run this script:
 python create_pos_tagsets.py
 ```
 
+### Mapping column values
+
+Given a column/header name, mapping file, and a lexicon file path it will map the values within the column name in the lexicon file using the mapping file. The resulting lexicon file will then be saved to the given output file path.
+
+Example:
+
+In this example we will map the values in `pos` column of `Finnish/semantic_lexicon_fin.tsv` using the mapper specified as a dictionary within `pos_mapper.json` and save the new lexicon file with these mapped values, all other columns and data will remain the same, to the new lexicon file named `Finnish/mapped_semantic_lexicon_fin.tsv`.
+
+``` bash
+python map_column_values.py Finnish/semantic_lexicon_fin.tsv pos pos_mappers/Finnish_pos_mapper.json Finnish/pos_mapped_semantic_lexicon_fin.tsv
+```
+
+### Convert all tabs to spaces after a given column header name
+
+This script assumes that the semantic tags in the INPUT_FILE have been separated by tabs rather than spaces, this script will reverse this process and output the spaced version into a new OUTPUT_FILE. Both files are expected to be in TSV format. This is useful when data entered for USAS tags has been tab separated rather than space separated, e.g.:
+
+```
+lemma\tsemantic_tags
+test\tZ1\tZ2
+```
+
+After running this script it will be converted to:
+
+```
+lemma\tsemantic_tags
+test\tZ1 Z2
+```
+
+To run the script:
+
+``` bash
+python tabs_to_spaces.py INPUT_FILE_NAME OUTPUT_FILE_NAME
+```
+
+Example:
+
+``` bash
+python tabs_to_spaces.py Finnish/semantic_lexicon_fin.tsv Finnish/new_semantic_lexicon_fin.tsv
+```
+
+### Spaces to tabs
+
+This script converts a file that contains only spaces to a file that separates fields/columns by tabs instead of spaces. For MWE files the optional POS tag argument is not used.
+
+For single word lexicon files we expect a POS field, further if you provide a JSON formatted POS tagset file where the object keys are the valid POS tags in the tagset then the POS field values will be checked against the given POS tagset.
+
+
+Example:
+
+This converts a MWE file that contains only spaces (`idioms_utf8.c7`) and converts it to tab separated by outputting it into the file `mwe-en.txt`.
+
+``` bash
+python spaces_to_tabs.py idioms_utf8.c7 mwe-en.txt mwe
+```
+
+This converts a single word lexicon file that contains only spaces (`lexicon_utf8.c7`) and converts it to tab separated by outputting it into the file `semantic_lexicon_en.txt` while also ensuring that all POS tags in the POS field conform to the POS tagset defined by the key values in the dictionary object within the `./pos_mappers/c7_to_upos.json` file.
+
+``` bash
+python spaces_to_tabs.py lexicon_utf8.c7 semantic_lexicon_en.txt single --pos-tagset-file ./pos_mappers/c7_to_upos.json
+```
+
+### Duplicate entries identification and statistics
+
+This script finds duplicate entries within either a single word and MWE lexicon file and displays how many duplicates there are.
+
+Single word lexicon example:
+
+``` bash
+python duplicate_entires.py English/semantic_lexicon_en.txt single
+```
+
+MWE lexicon example:
+
+``` bash
+python duplicate_entires.py English/mwe-en.txt mwe
+```
+
+If you want to output the stdout data into a TSV file you can provide an optional `output-file` argument to save the data to a given TSV file, in this example we save it to `duplicate_single_word_lexicon_english_upos.tsv` file:
+
+``` bash
+python duplicate_entires.py English/semantic_lexicon_en.txt single --output-file duplicate_single_word_lexicon_english_upos.tsv
+```
+
+### Extract Unique POS Values from MWE File
+
+This script finds all of the unique POS values within a MWE lexicon file, including POS values that are part of a curly brace discontinues MWE expression. By default the unique POS values are output to stdout.
+
+If the optional `output-file` argument is passed the unique POS values are also saved to the `output-file` in TSV format. If another optional argument, `pos-mapper-file`, is given it will try to map the unique POS values given the JSON POS mapper file, any values it cannot map it will leave blank, and add a new column called `mapped` with all the POS values it could map.
+
+
+Example:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt
+# Output
+II22
+N*2
+NNO*
+MC1
+IF
+UH*
+NN1*
+CSN
+DA1
+BCL21
+DDQV
+...
+```
+
+This example shows how to use the optional `output-file` argument, whereby in this case the output will be print to stdout like before but also saved to the `output-file` in TSV format:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt --output-file unique_pos_values_mwe_en.tsv 
+```
+
+This example show how to use the optional `pos-mapper-file` argument:
+
+``` bash
+python extract_unique_pos_values_from_mwe_file.py English/mwe-en.txt --output-file unique_pos_values_mwe_en.tsv --pos-mapper-file pos_mappers/c7_to_upos.json
+# Output
+Unique POS Values:
+VBZ     VERB
+VVD     VERB
+NN132
+RRT     ADV
+NP*
+RT      ADV
+V*
+...
+```
+
+### POS Mapping for MWE files
+
+This maps POS values within a MWE lexicon file given a POS mapper, the mapped MWE lexicon file will be saved to the given output file.
+
+``` bash
+python mwe_pos_mapping.py English/mwe-en.txt pos_mappers/mwe_c7_to_upos.json English/mapped-mwe-en.txt
+```
+
+
 ### Python Requirements
+
+If you prefer to use a Dev Container see the section below.
 
 This has been tested with Python >= `3.7`, to install the relevant python requirements:
 
 ``` bash
 pip install -r requirements.txt
 ```
+
+#### Dev Container
+
+A [dev container](https://containers.dev/) uses a docker container to create the required development environment. To run it locally it requires docker to be installed, you can also run it in a cloud based code editor, for a list of supported editors/cloud editors see [the following webpage.](https://containers.dev/supporting)
+
+To run for the first time on a local VSCode editor (a slightly more detailed and better guide on the [VSCode website](https://code.visualstudio.com/docs/devcontainers/tutorial)):
+1. Ensure docker is running.
+2. Ensure the VSCode [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension is installed in your VSCode editor.
+3. Open the command pallete `CMD + SHIFT + P` and then select `Dev Containers: Rebuild and Reopen in Container`
+
+You should now have everything you need to develop, `python` and `git`, for VSCode various extensions like `Pylance`, etc.
+
+If you have any trouble see the [VSCode website.](https://code.visualstudio.com/docs/devcontainers/tutorial).
 
 ## Citation
 
