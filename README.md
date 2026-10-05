@@ -361,6 +361,9 @@ intj	6
 *	2
 ```
 
+> [!NOTE]
+> All POS tags are lower cased before counting and when saved are saved in their lower cased format, i.e. for [UPOS tags](https://universaldependencies.org/u/pos/) instead of being `X` it will be `x`
+
 To run this script:
 
 ``` bash
