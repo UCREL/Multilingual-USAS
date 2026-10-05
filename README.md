@@ -120,7 +120,7 @@ Below is an extract of the [./language_resources.json](./language_resources.json
             }, 
             {
                 "data type": "pos", 
-                "file path": "./Chinese/simplified-pos-tagset-chi.txt"
+                "file path": "./Chinese/pos_tagset.tsv"
             }
         ],
         "language data": {
@@ -207,11 +207,11 @@ turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 
 ## POS Tagset File Format
 
-A POS tagset file is a user created `tsv` file that states the POS tagset used within a language's lexicon files. **Note** at the moment these files are not used to check the lexicon files, nor are they used to check the output of the [generated POS tagsets](#generated-pos-tagsets), however this is likely to change in the future. It has a header and two required columns:
+A POS tagset file is a user created `tsv` file, named `pos_tagset.tsv` and stored within the language's folder e.g. `./Welsh/pos_tagset.tsv`, that states the POS tagset used within a language's lexicon files. **Note** at the moment these files are not used to check the lexicon files, nor are they used to check the output of the [generated POS tagsets](#generated-pos-tagsets), however this is likely to change in the future. It has a header and two required columns:
 
 | Header name | Required | Value | Example |
 | ------------|----------|-------|---------|
-| `Tag` | :heavy_check_mark: | The unique POS tag value, each tag can only occur once within the file. | `pnoun` |
+| `Tag` | :heavy_check_mark: | The unique POS tag value, each tag can only occur once within the file. The tags are case sensitive. | `pnoun` |
 | `Definition` | :heavy_check_mark: | The definition of the POS tag value. | `proper noun` |
 
 Example POS tagset file:
