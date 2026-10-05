@@ -36,6 +36,10 @@ The table within [./lexicon_statistics.md markdown file](./lexicon_statistics.md
 python lexicon_statistics.py > ./lexicon_statistics.md
 ```
 
+### Generated POS Tagsets
+
+Each language folder also contains an automatically generated POS tagset file named `generated_pos_tagset.tsv`, which lists the POS tags used within that language's single and MWE lexicon files and how often each tag is used. These files are not listed in [./language_resources.json](./language_resources.json), as the `pos` resource type file within that `language_resources.json` are POS tag definition files. The format of the generated files, and how to regenerate them, is explained in the [Create Pos Tagsets section](#create-pos-tagsets).
+
 ### USAS Lexicon Meta Data
 
 The [./language_resources.json](./language_resources.json) is a JSON file that contains meta data on what each lexicon resource file contains in this repository per language. The structure of the JSON file is the following:
@@ -80,7 +84,7 @@ The [./language_resources.json](./language_resources.json) is a JSON file that c
     * `data type` value can be 1 of 3 values:
       1. `single` - The `file path` value has to be of the **single word lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
       2. `mwe` - The `file path` value has to be of the **Multi Word Expression lexicon** file format as described in the [Lexicon File Format section](#lexicon-file-format).
-      3. `pos` - The `file path` value has to be of the **POS tagset** file format as described in the [POS Tagset File Format section].
+      3. `pos` - The `file path` value has to be of the **POS tagset** file format as described in the [POS Tagset File Format section](#pos-tagset-file-format).
     * `file path` - value is always relative to the root of this repository, and the file is in the format specified by the associated `data type`.
   * `language data` - this is data that is associated with the `BCP 47` language code. To some degree this is redundant as we can look this data up through the `BCP 47` code, however we thought it is better to have it in the meta data for easy lookup. All of this data can be easily found through looking up the `BCP 47` language code in the [BCP47 language subtag lookup tool](https://r12a.github.io/app-subtags/)
     * `description` - The `description` of the language code.
@@ -116,7 +120,7 @@ Below is an extract of the [./language_resources.json](./language_resources.json
             }, 
             {
                 "data type": "pos", 
-                "file path": "./Chinese/simplified-pos-tagset-chi.txt"
+                "file path": "./Chinese/pos_tagset.tsv"
             }
         ],
         "language data": {
@@ -199,6 +203,24 @@ Example multi word expression lexicon file:
 mwe_template	semantic_tags
 turn*_* {N*/P*/R*} on_RP	A1 A1.6 W2
 *_* Ocean_N*1	Z2 Z0
+```
+
+## POS Tagset File Format
+
+A POS tagset file is a user created `tsv` file, named `pos_tagset.tsv` and stored within the language's folder e.g. `./Welsh/pos_tagset.tsv`, that states the POS tagset used within a language's lexicon files. **Note** at the moment these files are not used to check the lexicon files, nor are they used to check the output of the [generated POS tagsets](#generated-pos-tagsets), however this is likely to change in the future. It has a header and two required columns:
+
+| Header name | Required | Value | Example |
+| ------------|----------|-------|---------|
+| `Tag` | :heavy_check_mark: | The unique POS tag value, each tag can only occur once within the file. The tags are case sensitive. | `pnoun` |
+| `Definition` | :heavy_check_mark: | The definition of the POS tag value. | `proper noun` |
+
+Example POS tagset file:
+
+``` tsv
+Tag	Definition
+noun	noun
+pnoun	proper noun
+adj	adjective
 ```
 
 ## Scripts
@@ -338,6 +360,36 @@ python compare_headers_between_lexicons.py Russian/semantic_lexicon_rus.tsv Russ
 Number of unique values in lexicon file 1 17396
 Number of unique values in lexicon file 2 7637
 Number of unique values in common between the two files:3169
+```
+
+### Create Pos Tagsets
+
+The script creates a POS tagset per language stated within the [./language_resources.json](./language_resources.json) meta data file, which is explained in the [USAS Lexicon Meta Data section](#usas-lexicon-meta-data), and creates a POS tagset based on the POS tags used within the language's single and MWE semantic lexicon files. The POS tagset generated is then saved within each language's folder under the file name `generated_pos_tagset.tsv`. Each generated tagset has two fields `POS`, and `Count`, the `POS` field represents the POS tags, and the `Count` represents the number of times the associated tag has been used within the language's lexicon file(s). An example of this generated POS tagset is shown below, taken from the Welsh language folder:
+
+``` tsv
+POS	Count
+verb	130197
+adv	123
+art	7
+conj	87
+pron	67
+prep	293
+noun	4358
+pnoun	6572
+adj	1542
+fw	40
+num	36
+intj	6
+*	2
+```
+
+> [!NOTE]
+> All POS tags are lower cased before counting and when saved are saved in their lower cased format, i.e. for [UPOS tags](https://universaldependencies.org/u/pos/) instead of being `X` it will be `x`
+
+To run this script:
+
+``` bash
+python create_pos_tagsets.py
 ```
 
 ### Mapping column values

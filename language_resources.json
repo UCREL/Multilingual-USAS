@@ -24,7 +24,7 @@
             }, 
             {
                 "data type": "pos", 
-                "file path": "./Chinese/simplified-pos-tagset-chi.txt"
+                "file path": "./Chinese/pos_tagset.tsv"
             }
         ],
         "language data": {
@@ -74,7 +74,7 @@
             },
             {
                 "data type": "pos", 
-                "file path": "./Dutch/simplified-pos-tagset-dut.txt"
+                "file path": "./Dutch/pos_tagset.tsv"
             }
         ],
         "language data":{
@@ -156,7 +156,7 @@
             },
             {
                 "data type": "pos", 
-                "file path": "./Portuguese/pt-common-pos-tagset.txt"
+                "file path": "./Portuguese/pos_tagset.tsv"
             }
         ],
         "language data":{
@@ -199,7 +199,7 @@
             },
             {
                 "data type": "pos", 
-                "file path": "./Spanish/spanish-simplified-pos-tagset.txt"
+                "file path": "./Spanish/pos_tagset.tsv"
             }
         ],
         "language data":{

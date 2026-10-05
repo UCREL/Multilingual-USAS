@@ -1,4 +1,4 @@
-#This is simplified POS tagset used in the Dutch semantic tagger
+Tag	Definition
 noun	noun
 verb	verb
 adj	adjective
@@ -6,10 +6,7 @@ adv	adverb
 num	number
 interj	interjection
 prep	preposition
-conj	conjuction
+conj	conjunction
 art	article
 pron	pronoun
-punc	puctuation
-sent	sentence marker
-
-
+punc	punctuation
