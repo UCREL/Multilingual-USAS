@@ -767,7 +767,7 @@ amasado	adj	A2.1
 amasadora	noun	O3 O2
 amasar	verb	A2.1
 Amavida	pnoun	Z2
-amazona	adj	Z2 S2.1 f
+amazona	adj	Z2 S2.1
 Amazonas	noun	S2.1f M7 Z2
 ambar	adj	O1.1
 ambarino	adj	O4.3
@@ -1049,7 +1049,6 @@ Arellano	pnoun	Z2
 arena	noun	A1.1.1 O1.1 W3
 Arenas	pnoun	Z2
 Arenillas	pnoun	Z2
-arenoso	adj	4.5
 Ares	pnoun	Z2
 Areso	pnoun	Z2
 Aretxabaleta	pnoun	Z2
@@ -1597,7 +1596,7 @@ Beas	pnoun	Z2
 Beasain	pnoun	Z2
 beber	verb	A1.1.1 F2
 bebida	noun	A1.1.1/F2
-bebé	noun	NN1 T3-- Q2.1 T3-- T3-- S2mf E2+mfn
+bebé	noun	T3-- Q2.1 T3-- T3-- S2mf E2+mfn
 beca	noun	P1 B5 O2
 becario	adj	S2.1 S2.2 P1 S5
 Becedas	pnoun	Z2
@@ -2832,7 +2831,7 @@ Chipre	noun	Z2 M7 O1.2
 Chipre	pnoun	Z2
 chipriota	adj	Z2 S2.1 S2.2
 Chirivel	pnoun	Z2
-chispa	noun	O4.6+ O3 A2.2 N5- X5.2+ S2 mf
+chispa	noun	O4.6+ O3 A2.2 N5- X5.2+ S2mf
 chispeante	adj	X3.1 O4.5
 Chittagong	pnoun	Z2
 Chiva	pnoun	Z2
@@ -2884,11 +2883,11 @@ Cihuela	pnoun	Z2
 Cihuri	pnoun	Z2
 Cijuela	pnoun	Z2
 cilantro	noun	F1 L3 B3
-cilindro	noun	O.4.4
+cilindro	noun	O4.4
 Cillaperlata	pnoun	Z2
 Cilleros	pnoun	Z2
 Cillán	pnoun	Z2
-cilíndrico	adj	O.4.4
+cilíndrico	adj	O4.4
 Cimballa	pnoun	Z2
 cinchar	adj	X8+
 Cincinnati	pnoun	Z2
@@ -3523,7 +3522,7 @@ cruce	noun	F4 M6
 crudo	adj	F1 F2 O4 O4.1 O4.6-
 crujiente	adj	O4.5 O4.2- X3.2
 crustáceo	noun	F1 L2 A4.1
-cruz	noun	Z1 E 6H5
+cruz	noun	Z1 E6 H5
 cruzado	adj	S9 S2.1 S2.2 G3
 cruzado	noun	S9 S2.1 S2.2 G3
 cruzar	verb	M1 M6 S8- A1.8+ A6.3+ F4 L2 O4.4 Q1.2 E3- S1.1.1 S9
@@ -3629,7 +3628,6 @@ cura	noun	S9 S2.1 E1
 curación	noun	T3+ A2.1
 curado	adj	F1 T3+ O4.1 X3.5 X3.1 B3
 curar	verb	A2.1 B3
-curioso	adj	XXXXXX
 Curitiba	pnoun	Z2
 curricular	adj	X7+ P1
 curry	noun	F1 L3
@@ -3698,7 +3696,7 @@ D.	noun	N4
 D.	num	N4
 d.	noun	N4
 d.	num	N4
-d.o.	abbr	A4.1/I1/F1 4.1/I1F2
+d.o.	abbr	A4.1/I1/F1 A4.1/I1/F2
 da	verb	A3 S3 A9+
 Daca	pnoun	Z2
 dación	noun	I1.2 A9- I1.1/I3.1
@@ -4407,8 +4405,8 @@ emergencia	noun	A11.1+
 emergente	adj	A11.1+
 emigrar	verb	M1 M7
 emisión	noun	Q4.3 Q1.3
-emitido	adj	Q4.3 Q2 A2.2 K4 K5.1 K1 W2/w5
-emitir	verb	Q4.3 Q2 A2.2 K4 K5.1 K1 W2 w5
+emitido	adj	Q4.3 Q2 A2.2 K4 K5.1 K1 W2/W5
+emitir	verb	Q4.3 Q2 A2.2 K4 K5.1 K1 W2 W5
 emocional	adj	E1
 emoliente	adj	B3
 emoliente	noun	O1 B3
@@ -4563,7 +4561,7 @@ Enériz	pnoun	Z2
 EPA	abbr	Z3c I3
 epicatequina	noun	O1
 epigalocatequina	noun	O1
-epígrafe	noun	Q1 .2 Q2.1
+epígrafe	noun	Q1.2 Q2.1
 equilibrado	adj	X3.1 O4.5 A5+
 equilibrar	verb	O4.1 B1 A6.1+ A11.1 I1.1
 equilibrio	noun	O4.1 B1 A6.1+ A11.1 I1.1 S7.3
@@ -4626,7 +4624,7 @@ escoger	verb	X7
 escogido	adj	X7
 escolapio	adj	S2.1 S2.2 P1
 escolar	adj	P1 S2.1 S2.2 T1.3
-escolaridad	noun	P1 S.1 A5 T1.3
+escolaridad	noun	P1 S1 A5 T1.3
 escondido	adj	A10-
 Escopete	pnoun	Z2
 Escorca	pnoun	Z2
@@ -4900,7 +4898,7 @@ exagerado	adj	N5.2+ Q2.2
 exagerar	verb	N5.2+ Q2.2
 examen	noun	P1 X2.4 X2.5 Q1.1 A5.1
 examinar	verb	A5
-examinarse	verb	P1 X22.4 X2.5
+examinarse	verb	P1 X2.2.4 X2.5
 excedencia	noun	N5.2+
 excedente	adj	N5.2+
 excelencia	noun	A5.1+++
@@ -5067,7 +5065,7 @@ febrero	noun	T1.3
 fecha	noun	T1.1
 federación	noun	S5+c
 federal	adj	G1.2
-fehacientemente	adv	A.7+
+fehacientemente	adv	A7+
 Felanitx	pnoun	Z2
 felicidad	noun	E4.1+
 felicitar	verb	Q2.2
@@ -5550,7 +5548,7 @@ Gatika	pnoun	Z2
 gato	noun	L2 M3 A1.9
 Gaubea	pnoun	Z2
 Gaucín	pnoun	Z2
-gauna	noun	H5 S9 01.1
+gauna	noun	H5 S9 O1.1
 Gavarda	pnoun	Z2
 Gavilanes	pnoun	Z2
 Gavà	pnoun	Z2
@@ -6366,7 +6364,7 @@ infusión	noun	F2 O4.6
 ingeniero	noun	S7.1+ A1.1.1 Y1 I3.2 S2mf
 Ingenio	pnoun	Z2
 ingesto	noun	B1/F1 A1.1.1 F1/N5 A9+
-Inglaterra	noun	Z2 Z1mf O
+Inglaterra	noun	Z2 Z1mf
 inglés	adj	Z2 Q3
 ingrediente	noun	O1 F1 F2
 ingresar	verb	M1 I1.3.1 I1.1 A2.1 B2
@@ -7883,7 +7881,7 @@ Miraveche	pnoun	Z2
 Miravet	pnoun	Z2
 miricetina	noun	O1
 Mironcillo	pnoun	Z2
-mirra	noun	S9 01.1
+mirra	noun	S9 O1.1
 mirto	noun	L3
 mirtáceas	noun	L3
 mis	adj	Z5 A8 A9+
@@ -8259,7 +8257,7 @@ método	noun	X4.2
 México	noun	Z2 Z3c S2mf M7
 México	pnoun	Z2
 méxico	pnoun	Z2
-mínimo	adj	N5--- A.137+
+mínimo	adj	N5---
 mínimo	noun	N5--- A13.7+
 mío	pron	A9 Z8
 mística	noun	X2.1 X3 X5.2+ S9
@@ -8480,7 +8478,7 @@ noroeste	adj	Z2 W3 M6 M7
 norte	noun	M6 W3
 Noruega	noun	Z2 Z3c O4.6-
 Noruega	pnoun	Z2
-Noruego	adj	Z2 Z2 Q3 S1.1 S.1.2mf
+Noruego	adj	Z2 Z2 Q3 S1.1 S1.2mf
 nos	pron	Z5 Z8 A9
 nosotras	pron	Z5f Z8f
 nosotros	pron	Z8m
@@ -9124,7 +9122,7 @@ pechuga	noun	B1 F1 F1
 peculiar	adj	A6.2-
 pecuniaria	adj	I1
 pedagogo	noun	S2.1 S2.2 P1 S5
-pedagogía	noun	X.2 P1
+pedagogía	noun	X2 P1
 pedagógicamente	adv	X2.3 P1
 pedagógico	adj	X2.3 P1
 pedazo	noun	N5
@@ -9429,7 +9427,7 @@ plántago	noun	L3 B3
 plástico	adj	O1.1 O4.5
 plástico	noun	O1.1
 plátano	noun	L3 F1
-población	noun	S2 N5c G1 S2 Mt
+población	noun	S2 N5c G1 S2
 poblado	adj	S2 H4
 poblador	adj	M7/S2
 Poblete	pnoun	Z2
@@ -9759,7 +9757,7 @@ profuso	adj	O4.5 X3.1 X3.5
 programa	noun	G1 T2 Y2 P1 K1 K2 K4 X7+ Q4.3 Q1.2 I2.2 S1.1.1
 programadamente	adv	T2 Z5
 programar	verb	A1.1.1
-programas	noun	T2 G P1
+programas	noun	T2 P1
 progresar	verb	A5.1+ A2.1 T2++ A2.1+ M1
 progresivamente	adv	A5.1+/A2.1 T2++ A2.1+ M1
 progresivo	adj	G1.2 T3--- N3.8- Q3 G1.2 S2mf
@@ -10387,7 +10385,7 @@ retíralir	verb	N5-/M1
 reunir	verb	S5+
 reunión	noun	S5 A1.8+
 Reus	pnoun	Z2
-revelación	noun	A10+ S)
+revelación	noun	A10+
 revelar	verb	A10+
 Revellinos	pnoun	Z2
 rever	verb	X3.4 N6 S1.1.1 N6
@@ -12472,7 +12470,7 @@ verano	noun	T1.3
 verbena	noun	L3 F2 B3
 verbo	noun	Q3 X4.1 S9
 verdad	noun	A5.2+ S9 A5.4+ X2.2 X4.1
-verdaderamente	adv	A5.2 + A5.4+ X2.2 X4.1
+verdaderamente	adv	A5.2+ A5.4+ X2.2 X4.1
 verdadero	adj	A5.2 N5-
 verde	adj	O4.3
 verdoso	adj	O4.3

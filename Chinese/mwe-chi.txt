@@ -16,7 +16,7 @@ mwe_template	semantic_tags
 一_adv 跃_verb 而过_verb	M1 T1.2
 一_adv 跳_verb 距离_noun	M1 N5+/A2.1
 一_adv 辨_verb 示_verb 的_part 青铜_noun 币_noun	I1
-一_num 丝_msr 不_adv 苟_verb	A4.2+ A1.3/N5.2+ common mwes are OK
+一_num 丝_msr 不_adv 苟_verb	A4.2+ A1.3/N5.2+
 一_num 丝_msr 光线_noun	X2.6+ E4.1+
 一_num 个_msr	N3.1
 一_num 个_msr 人_noun	S2mf/N5---
@@ -135,7 +135,7 @@ mwe_template	semantic_tags
 一_num 等_msr 秘书_noun	I3.2
 一_num 篓_msr	N3.1
 一_num 篓_msr 的_part 量_noun	N5
-一_num 级_msr	a5.1++
+一_num 级_msr	A5.1++
 一_num 线_msr 微光_noun	W2 X2.6+
 一_num 群_msr	N5/S2 N3.1/S2
 一_num 角_msr	N3.1/I1

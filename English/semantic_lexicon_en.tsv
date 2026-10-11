@@ -165,7 +165,7 @@ lemma	pos	semantic_tags
 45-year-old	ADJ	T3
 450K	NOUN	I1
 47-store	ADJ	I2.2/H1c
-4Fs	X	ZZ2
+4Fs	X	Z2
 4th	ADJ	N4
 5	NUM	N1
 5-a-side	ADJ	K5.1
@@ -2477,7 +2477,7 @@ Chinagraph	NOUN	Z3
 Chinatown	PROPN	Z2
 Chinese	NOUN	Z2/Q3 Z2/S2mf
 Chinese-American	ADJ	Z2/S2mf
-Chinese-American	NOUN	Z2/Smf2
+Chinese-American	NOUN	Z2/S2mf
 Chinese-language	ADJ	Z2/Q3
 Chinese-tea	ADJ	F2/Z2
 Chingford	PROPN	Z2
@@ -24875,7 +24875,7 @@ emphasized	VERB	A11.1+
 emphatic	ADJ	E6+
 emphatically	ADV	E6+
 emphysema	NOUN	B2-
-empire	NOUN	G1.1 I2.1/S+
+empire	NOUN	G1.1 I2.1/S1.1.1+
 empire-building	NOUN	S7.1+
 empirical	ADJ	X2.4
 employ	VERB	I3.1 A1.5.1
@@ -30734,7 +30734,7 @@ humbleness	NOUN	S1.2.3-
 humbling	ADJ	S1.2.3-/A2.2
 humbling	NOUN	S1.2.3-/A2.2
 humbling	VERB	S1.2.3-/A2.2
-humbly	ADJ	S.1.2.3-
+humbly	ADJ	S1.2.3-
 humbly	ADV	S1.2.3-
 humbug	NOUN	F1 S1.2.6- A5.2-
 humdrum	ADJ	A6.2+
@@ -52433,7 +52433,7 @@ unprompted	ADJ	Q2.2 A2.2- N3.8+
 unprotected	ADJ	S8-/A15- A10+ S3.2/A15-
 unprovided	ADJ	A9-/Z6
 unprovoked	ADJ	A2.2-
-unpurified	ADJ	B4 QA1.1.1
+unpurified	ADJ	B4 A1.1.1
 unqualified	ADJ	A1.2-/I3.2 A1.7-
 unquestionably	ADV	A7+
 unquestioning	ADJ	S7.1-
