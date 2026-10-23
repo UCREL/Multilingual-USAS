@@ -1,0 +1,447 @@
+lemma	pos	semantic_tags
+**** Papa	verb	A1.1.1
+**** abrupto	verb	M6
+**** abóbora	verb	M2 N5- T2- A1.1.2 S7.1+
+*****  acabamento	adj	T2-
+**** accão	verb	A1.1.1
+**** adversário	adv	M6
+**** adversário	prep	Z5
+**** aerofólio	verb	A10+
+****afiado	adv	N3.8+ T4
+**** aflito	verb	E6- E4.1- B2-
+**** afluente	verb	N5+ A2.1+
+****afogardo	verb	L1- N5.2+ A10- X9.2-
+**** afora	verb	A1.8-
+**** ainda	noun	C1 F2/O2
+**** ainda	verb	E3+/A2.1 E6+
+**** algodão	verb	X2.3+
+**** almofada	verb	O4.1 M1
+****alto	verb	A11.1++ N5++ A5.1++ A1.1.1 L1-
+****amostra	verb	X3.1 X8+ K2
+****amplamente	adj	N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@
+****amplamente	noun	K5.1
+**** amplíe	verb	N3.2+/A2.1 A4.2+/Q2.1
+****ancinho	verb	A1.1.1
+****andorinha	verb	B1 X2.1/A7+ A10-/E1
+**** anel	verb	Q1.3 X3.2 A8 O4.4
+****anfitrião	verb	S1.1.1
+****apreensão	verb	G2.1
+****ar	verb	B4 Q2.1
+****areia	verb	A1.1.1
+****armadilha	verb	A1.7+ A9+ S3.2%
+**** armário	adj	A10-
+****armário	verb	A12- W4
+****aroma	verb	X3.1 F1
+**** arreio	verb	L2 A1.5.1
+**** arte	verb	A1.1.1 C1
+****artigo	verb	A1.1.1 S7.1+ A11.1+ G2.1/P1
+****artimanha	verb	Q2.2
+****ascendente	verb	M1 M6/N3.7+ X9.2+/A2.1
+****aspas	verb	Q2.2 I1.3
+****assento	verb	M2 N3.2/H1
+****assustador	verb	E5-
+****atenção	verb	X5.1+
+****atualmente	noun	T1.1.2
+****até	verb	F4
+****aumente	verb	N5+/A2.1
+****aumento	verb	M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4
+****ausência	verb	A1.9
+****autocarro	verb	M3
+****avaliador	verb	X6+ X2.4
+****avançado	adv	M6 T1.1.3
+****aversão	verb	O4.2-
+****aviso	verb	X2.2+/A15- A1.3+ X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
+*** avulso	adv	A1.7-
+*** avulso	verb	A1.7- A9- A6.1- S3.1-
+****aço	verb	S1.2.5+
+****açougueiro	verb	L1- F1%
+****açúcar-cristal	verb	F1 O4.6-
+****babado	verb	M1 E3-
+****baboseira	verb	B1 X7+
+****bamboleio	verb	M1
+****banco	verb	I1.1 X2.6+ M1
+****bandagem	verb	B3
+****bandeira	verb	O4.3 A2.1+ Q1.1 N5-/A2.1 B2-/A2.1 H1
+****bando	verb	M1/N5+
+****baralhamento	verb	M1 A2.1+
+****barbotina	verb	M1 A9- A2.1+ A5.1-/A2.1
+****barca	verb	M1/E3-
+****barcaça	verb	M1/E3-
+****barco	verb	M4
+****barragem	verb	H1/M4 N5+
+****barulho	verb	E3- Q2.2
+****bastão	verb	G2.1 K5.1
+****batida	verb	X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1
+****bengala	verb	G2.1
+****berço	verb	M2 Q1.2/A10-
+****besouro	verb	A1.1.1 M1
+****besteira	verb	Q2.1/A5.2-
+****bexiga	verb	O4.5 X3.2 A1.1.1 E1
+****bilhete	verb	Q1.2
+****bojo	verb	K5.1 M2
+****bola	verb	O4.4
+****bolha	verb	B2- A1.1.1 O4.5 X3.2 E1
+****boliche	verb	K5.1 M2
+****bolo	verb	O4.1
+****bolsa	verb	B1
+****bolso	verb	A9+ K5.2%
+****bomba	verb	M2 A1.1.1 A9- Q2.2 S8+ B3
+****boneca	verb	B5
+****borde	verb	B5 Q2.2
+****bunda	verb	E3-
+****buraco	verb	M1 A1.1.1
+****busque	noun	M2
+****busque	verb	M2 I1.3
+****bétula	verb	G2.1
+****bêbedo	verb	F2/B1
+****bílis	verb	E3-
+****camelô	verb	I2.2
+****caminho	verb	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8
+****caminhão	verb	M3 
+****camisa	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
+****campanha	verb	X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3
+****campeão	verb	S8+
+****campo	verb	K5.1 A1.1.1 S3.2 X7+
+****canaleta	verb	M2 A2.1+
+****candente	verb	O4.6+ E1 A1.5.1
+****caneta	verb	Q1.2
+****carreto	verb	X9.2
+****carrilhão	verb	X3.2
+****carrinho	verb	M2 M3
+****carro	verb	M2 M3
+****carroça	verb	G2.2- M4 A1.1.1
+****carta	verb	I2.2 I3.2%
+****cartaz	verb	Q1.2
+****cartão	verb	B5
+****carícia	verb	A1.1.1
+****casca	verb	F1/L3 A1.1.1 B1
+****certo	verb	A5.3+/A2.1
+****cessação	verb	T2-
+****cesse	verb	T2-
+****cessão	verb	S7.1- A2.1+ A1.1.1 A9-
+****chama	verb	Q2.2 S1.1.1 Q1.3 
+****chance	verb	A1.4
+****chato	verb	X5.2- A1.1.1
+****chave	verb	A1.1.1 M2
+****clava	verb	K1 E3- S5+
+****cliente	verb	Q2.2
+****clube	verb	K1 E3- S5+
+****clubes	verb	K1 E3- S5+
+****cláusula	verb	A9-
+****coberto	verb	B5 O4.1
+****cobre	verb	I1.1 O4.3
+****cocô	verb	B1
+****começo	verb	T2+ E5- E3-
+****comoção	verb	A1.1.1 M1
+****companheiro	verb	S3.2
+****conduta	verb	A1.1.1 S1.1.1 K2 O4.1
+****confiança	verb	I1.1 X2.1 A9- E6+ X2.6
+****confuso	verb	X2.5-
+****confíe	verb	Q2.2/A10+
+****contrito	intj	Z4
+****controvérsia	verb	M2 M1 A2.2@
+****contíguo	noun	M6 A1.8+
+****costela	verb	E4.1+
+****costumeiro	verb	A6.2+
+****cotovelo	verb	E3-
+****cotovia	verb	E4.1+
+****couro	verb	A10- E3- M1/N3.8+
+****coxim	verb	S8+
+****coxo	verb	B2- A1.1.2
+****cozido	verb	F1 E6-
+****cozinheiro	verb	F1
+****cérebro	verb	E3-
+****cócegas	verb	A1.1.1 X3.3 E2+
+****cúpula	verb	M1 K5.1
+****cútis	verb	A1.1.1/L2
+****dados	verb	A15-
+****dardo	verb	M1/N3.8+
+****depressa	noun	F1-
+****depressa	verb	F1-
+****deque	verb	O4.1
+****derradeiro	noun	O2
+****derradeiro	verb	T2++ T1.3
+****derrame	adj	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
+****derrame	verb	A1.1.1 A1.1.1/O1.2 W4 M1/N5+
+****derrotar	verb	S7.1+
+****desafio	verb	A6.1- S7.3+ Q2.2
+****desvaneça-se	noun	Q4.3
+****desvantagem	verb	A5.1-
+****desvíe	verb	M2 X5.1-
+****detalhada	adv	A1.8+
+****detalhado	noun	P1
+****determinante	verb	A2.2 A7+ X6+
+****deva	verb	I1.2 S6+ T1.1.3
+****distriba	verb	A9-
+****dito	verb	Q2.1
+****divida	verb	A6.1- A9-/N5.1 N2
+****divulgado	adj	Q4.3
+****divã	verb	M6 Q2.2
+****diz-que-diz-que	noun	Q2.2
+****diz-que-diz-que	verb	Q2.2
+****eclipse	verb	A10- N5.2+
+****edite	noun	Q1.2 Q4
+****edite	verb	Q1.2 Q4
+****edito	noun	Q2.2 G2.1
+****edito	verb	Q2.2
+****edição	verb	A9-
+****empresa	verb	X8+
+****empréstimo	verb	A9-
+****encaixe	verb	A1.1.1 K2
+****encargo	verb	I1.3 O3 G2.1 M1 G3%
+****encarregado	verb	I2.2 A9-
+****entendimento	adj	X2.2+
+****entrada	verb	O4.2+ Y2 M2
+****entre	adv	M6
+****entre	prep	M6 N4 Z5
+****enxada	verb	F4/O2
+****escola	verb	P1
+****escopo	verb	X7+
+****escora	verb	A1.1.1
+****escore	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5%
+****escravo	verb	A1.1.1
+****escritor	verb	Q1.2 Q4.1
+****escrivão	verb	B3/P1
+****escudo	verb	F1 G3
+****escultura	verb	C1
+*****espingarda	verb	A1.1.1
+****espoleta	verb	O3 A1.8+
+****esponja	verb	B4 I1.1/A9+
+****esporte	verb	A10+
+****espreita	verb	M1/A10-
+****espécie	adj	S1.2/S8+ S1.2.2-
+****espécie	verb	A4.1 A1.1.1 Y2
+****espécime	adj	A5.4-
+****espírito	verb	M2
+****estrada	verb	M2 M6
+****estrago	verb	A1.1.2
+****estrague	verb	X9.2-
+****estrebaria	verb	L2/H4
+****exercício	verb	A1.1.1 K5.1 A1.5.1
+****exerça	verb	A1.1.1 S7.1+
+****exigente	verb	X7+
+****exigência	verb	Q2.2 S6+ X7+
+****expedição	verb	M2
+****experimento	verb	X2.4
+****experiência	verb	A2.1+/A3+ X3
+****falado	verb	Q2.1
+****falcão	verb	I2.2
+****falecido	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+****falsidade	verb	M1 M6 A5.2-
+****falso	adv	A5.2-
+****falta	verb	A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- A9-
+****falência	verb	A1.1.2 I1.1---
+****fantasma	verb	A10-/Q4.1
+****fardo	verb	A1.1.1
+****fila	adj	N5.2+ O4.2- N5++%
+****fila	verb	A5.1 S7.1++ E3- M4 Q1.2 A1.1.1
+****fileira	verb	E3- M4
+****filé	verb	F1
+****fim	adj	N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4
+****finalização	adj	A1.1.1 A10- T2-
+****finalizar	verb	A1.1.1 A10- T2-
+****financiador	verb	N2
+****financiamento	adj	I1
+****finanças	verb	I1
+****finja	verb	A5.4-
+****firma	verb	O4.5
+****fita	verb	A1.1.1 A2.1+
+****fixo	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
+****flagrante	verb	X3.4 O4.3
+****flama	verb	O4.6+ Q2.2%
+****flanco	verb	G3
+****flor	verb	L3 X9.2+
+****flutuador	verb	M1 T2+ I2.2
+****flutuação	verb	M1
+****foda	verb	S3.2/B1 E6+
+****fofinho	verb	O4.4/A2.1+ X7+
+****fogo	verb	I3.1- G3 M2 A2.2 Q2.2
+****fogueira	verb	A1.4
+****foguete	verb	N5+/A2.1
+****fole	verb	Q2.2/E3-
+****folha	verb	A1.1.1
+****fora	verb	S3.2
+****formulário	verb	T2+ A2.1+ A1.8+ A3+ A1.1.1
+****formão	verb	A1.1.1
+****fornada	verb	A4.1
+****fotografia	verb	C1
+****fulgor	verb	O4.3
+****fundo	verb	A9+ I1.1
+****função	verb	A1.1.1
+****fusca	verb	A1.1.1 M1
+****fusível	verb	O3 A1.8+
+****fácil	adv	A12+
+****fã	adj	O4.3
+****fã	verb	B4
+****féria	verb	A1.1.1
+****férias	verb	K1/T1.3
+****gaguejo	verb	Q2.2/B2-
+****gaiola	verb	A1.7+ X3.2/L2
+****galho	verb	X2.5+
+****galinha	verb	E5-
+****galo	verb	G3 M2
+****gengiva	verb	A1.7+
+****giz	verb	Q1.2 A9+ I1.3
+****grosseirão	verb	E4.1+
+****grosso	adv	X3.3 O4.5 B2 E3- S1.2.4- O4.2- A4.2- A12- W4
+****grosso	verb	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
+****grânulo	verb	A1.1.1
+****grão	verb	A1.1.1 B1 F4 K5.1
+****gêmeo	verb	A6.1+ S5+/M7
+****gêmeos	verb	S5+
+****hemorragia	verb	B2-
+****história	verb	Q2.2
+****holofote	verb	O3/W2
+****impedido	verb	S8-
+****inferno	verb	O4.6+ E3- A11.2+
+****infinita	adv	T2+++
+****interior	adv	M6 G2.1@
+****interior	prep	Z5
+****interprete	verb	X2.5+ Q3
+****interrogatório	verb	Q2.2
+****interruptor	verb	A2.1+
+****intervalo	verb	N3.6 M1 N3.7+/A2.1 A4.2-/A2.1 T1.3 A12- A2.1+ X8+
+****irresistível	noun	E1 S7.1+
+****irresistível	verb	X9.2+/S7.3 X9.2+/G3 S7.1+ E1
+****irresoluto	verb	A7- A5.1-
+****jarro	verb	O2 F1
+****jaula	verb	A1.7+
+****jeito	verb	M2 M1 O4.4 A2.1+
+****lama	verb	A1.1.1
+****lançamento	adj	M2 A2.2 Q2.2 A1.1.1 X2.5- M1 L2 T2+
+****lançamento	verb	I2.2 Q2.2 K4 A4.1 M2 G1.2 S9 A9- A1.1.1 F1 M1
+****lapso	verb	T2+ T2- S9
+****leque	verb	A1.1.1
+****lesma	verb	E3-
+****letra	verb	Q1.2
+****levantamento	verb	Q1.2/W3 N2
+****levantou-se	noun	L3 F2
+****leve	adv	N3.5- O4.3
+****leve	verb	S1.2.4- W2 O4.6+
+****lingua	verb	Q2.1
+****madeira	verb	M1/N3.8-
+****madeiro	verb	E4.1+ W2 Q4.3
+****maldade	verb	B1 W4 X3.2
+****maledicência	verb	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
+****maleta	verb	M2 X7- T2-
+****maravilha	verb	E2+ X2.1
+****marcador	verb	N3.1
+****marketing	verb	I2.2
+****marrom	verb	O4.3
+****mau	adv	A5.1- G2.2- O4.2- B2-
+*****mediano	noun	Q4 X4.2 O1 S9/S2mf
+****medidor	verb	N3.1
+****medo	verb	E5- E6-
+****meio-fio	verb	A1.7+
+****meio-termo	verb	Q1.1 X7+
+****mensalmente	adj	N6+
+****mesa	verb	Q2.2
+****mestre	verb	S7.1+ X9.1+
+****minuto	verb	Q1.2
+****momento	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
+****multidão	verb	N5++
+****negativo	adv	Z6
+****nenhum	adj	Z6 Z6/Z8c
+****nenhum	adv	Z6
+****nenhum	noun	S8-
+****ninhada	verb	E6- L2
+****ninharia	verb	E4.1+
+****ninho	verb	L2 M6
+****novilho	verb	M2 A2.2
+****nó	verb	A1.1.1
+****nódoa	verb	O4.2- G2.2- O4.3 A1.1.2
+****padre	verb	S4/B1
+****panela	verb	F4 K5.2 L1- Q4.3/M1 Q2.2
+****pau	verb	M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+% Q1.2
+****pinheiro	verb	E4.1-
+****pino	verb	O3 A1.1.1 I2.2/Q2.2
+****plumagem	verb	A1.1.1
+****ponto	adv	A14
+****ponto	verb	A1.1.1 B5 A10+ M6 H1 X3.4 B4 P1
+****porca	verb	F4 A2.2
+****porco	verb	A9+/T1.3+
+****pouco	noun	B1 N3.2-
+****pouco	verb	B1
+****prateleira	verb	E6-
+****prego	verb	A1.1.1
+****prejuízo	verb	A1.1.2
+****proeza	verb	G2.2- A1.5.1
+****prol	verb	A5.1+
+****prosa	verb	Q2.1
+****pátio	verb	S3.2 X7+
+****pânico	verb	E5-
+****pão	verb	A1.9- X5.2-
+****pãozinho	verb	M1 M2 A1.1.1
+****pé	verb	I1.2 N4 L2/A1.1.1 M1/N3.8+
+****pérola	verb	C1
+****pó	verb	B4 A1.1.1
+****quadro	verb	A1.1.1 X6+ Q2.1 G2.1/A5.2- X2.1 C1 Q1.2 Q2.2
+****real	adv	A13.3
+****recesso	verb	T1.2/T2-
+****relação	verb	Q1.1 S1.1.1
+****rendimento	verb	S7.1- A2.1+ A1.1.1 A9-
+****rendição	verb	S7.1- A9-
+****renuncíe	verb	X2.1 Q2.2 T2-
+****renúncia	verb	M1 T2- A9- E1%
+****reparo	verb	A2.1+ A5.1+/A2.1 S8+/A1.1.2- M1
+****repartição	verb	A6.1-
+****revelação	verb	Q2.2 Q2.1 X3 A10+
+****reversão	verb	A6.1- G3
+****salto	verb	B5 L2 M1 N5+/A2.1 A1.9
+****sarna	verb	B2- X7+
+****sessão	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
+****sex	verb	L2
+****sexo	verb	L2
+****sexta-feira	pnoun	T1.3
+****seção	verb	A1.1.1 B3/X1
+****show	verb	E6-
+****silhueta	verb	O4.4
+****sob	adj	M6 S7.1- B1
+****sob	adv	A13.6 M6
+****soco	verb	E3- A1.1.1 M2
+****solo	verb	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 M4 Q2.2 P1 A1.7+ A2.2
+****submeta	verb	A9- S7.1-
+****submisso	verb	E3+/S7.1+
+****sueto	verb	K1/T1.3
+****suporte	verb	M6 Q3
+****sétimo	adj	N1
+****sócio	verb	A6.1+/X2.1 S3.1
+****talhe	adj	A1.2+ B2+ O4.1 N5-/A2.1 T2-
+****talho	verb	C1 A1.1.1
+****tambor	verb	X3.2 A1.1.1 Q2.2 K2
+****telha	verb	H1
+****termo	verb	Q2.2
+****termos	verb	Q2.2
+****toca	verb	A1.1.1
+****tolo	verb	G2.2- E4.1+
+****tom	verb	B4 O4.3 A2.1+ B1 M2 K5.1 X7+ M1 X3.2 H1
+****tomada	verb	A1.1.1 A9+ T1.3 C1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ G3 K5.1 Q4.3 A1.1.2 Q1.2 S1.2.6-%
+****topo	verb	A1.1.1 O4.6-/A1.1.1
+****toque	verb	X3.3 M6 Q2.2 E1 E2-
+****travão	verb	M8
+****tributário	noun	W3/M4
+****trombeta	verb	X3.2
+****trouxa	verb	A1.1.1 N5+ A1.8+ B3
+****turma	verb	M4
+****turno	verb	M2 M1 A2.1+ I2.2 N5 H4
+****túnel	verb	A1.1.1
+****urso	verb	M2 E2+ A8 A9+ A1.1.1 M6 B1@
+****vara	verb	I3.1
+****varredura	verb	B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+
+****veloz	adv	N3.8+
+****veloz	noun	F1- L1+ W3/M4
+****veloz	verb	F1-
+****verruma	adj	X5.1+
+****verruma	verb	X5.2- A1.1.1
+****vestuário	verb	B5
+****vão	verb	A1.8+ T1.3 N3.3 N3.7
+****véu	verb	A10-
+****vídeo	verb	Q4.3
+****vómito	verb	B2-
+****xampu	verb	B4
+****zoom	adj	N3.3+
+****zoom	verb	M1/N3.8+ A2.1/N5+ N3.3+
+****ávido	verb	A9+ X2.5+
+****órfão	verb	S4-
+****último	adv	 K5.1 N4
+****único	verb	A4.2+ B5

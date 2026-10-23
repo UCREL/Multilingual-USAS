@@ -20,6 +20,8 @@ if __name__ == '__main__':
     provide a JSON formatted POS tagset file where the object keys are the valid
     POS tags in the tagset then the POS field values will be checked against the
     given POS tagset.
+
+    Autotag lexicon files are currently not supported.
     '''
 
     file_type_help = ('single for single word lexicon file format or '

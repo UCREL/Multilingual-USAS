@@ -156,7 +156,7 @@ aktivera	vb	A1.1.1/A2.1 T2+
 aktiverad	av	A1.1.1/A2.1 T2+
 aktivism	nn	G1.2/X7/A2.1
 aktivist	nn	G1.2/S2mf
-aktivitet 	nn	A1.1.1 S1.1.3
+aktivitet	nn	A1.1.1 S1.1.3
 aktivt	ab	A1.1.1 S1.1.3+
 aktning	nn	S7.2+
 aktör	nn	K4/S2.2m A1.1.1/S2mf
@@ -330,7 +330,7 @@ amputera	vb	B3
 amulett	nn	B5/A10-/S9
 än	ab	T1.1 N6+ A13 A2.2-
 än	kn	Z5 A6
-än 	pp	Z5 A6 A14
+än	pp	Z5 A6 A14
 anakronism	nn	T3++ N4- A5.2-
 analfabet	nn	Q1.2/X2.2-/S2mf
 analfabetism	nn	Q1.2/X2.2-/S2mf
@@ -2523,7 +2523,7 @@ cystisk	av	B2-
 cytologi	nn	B3 Y1/L1
 d	nn	Q3 K2
 då	sn	T1.1.1 A2.2
-då 	ab	T1.1.1 T1.1.3 Z4 Z5
+då	ab	T1.1.1 T1.1.3 Z4 Z5
 däck	nn	O2/M3 M4
 dåd	nn	G2.1-/A1.1.2
 dadda	vb	A1.1.1/T3--
@@ -2606,7 +2606,7 @@ datorprogram	nn	Y2
 datum	nn	T3
 datummärka	vb	T3/Q1.2
 dåvarande	av	T1.1.1/T1.2
-de 	pn	Z8
+de	pn	Z8
 deadline	nn	T1.2
 debatt	nn	Q2.2 G1.2
 debattera	vb	Q2.2 G1.2
@@ -2943,7 +2943,7 @@ dotterbolag	nn	I2.1/S5+
 dotterdotter	nn	S4f
 dotterson	nn	S4m
 döv	av	B1/X3.2-
-dra 	vb	M2 A9+ M1 X4.2 Q2.1 A1.5.1 A1.1.1- T1.3/A3+
+dra	vb	M2 A9+ M1 X4.2 Q2.1 A1.5.1 A1.1.1- T1.3/A3+
 drabba	vb	A1.1.1 A2.1+ A11.2+
 drag	nn	A1.1.1 K5.2 S1.2 L2/M1 F1/L2/A15- T1/A13.4 M5 N3.8
 dragen	av	F2++ S3.2
@@ -3254,7 +3254,7 @@ en	ab	A13.4 A5.3-
 en	nn	L3
 en	al	Z5
 en	pn	Z8
-en 	nl	N1 Z8
+en	nl	N1 Z8
 ena	vb	S5+
 ena	pn	Z8 A4.2
 enad	av	S5+
@@ -3493,7 +3493,7 @@ eyeliner	nn	B4
 f	nn	Q3 K2
 få	av	N5-
 fä	nn	L2mfn E3-/S2mf
-få 	vb	A9+ S7.4+ S6 A2.2 A2.1 Z5
+få	vb	A9+ S7.4+ S6 A2.2 A2.1 Z5
 fabricera	vb	A1.1.1
 fabrik	nn	F4 M2
 fabrikant	nn	A1.1.1/S2mfc
@@ -5018,7 +5018,7 @@ fysiologi	nn	Y1 B1
 fysiologisk	av	B1
 fysisk	av	A1.6+
 g	nn	Q3 K2
-gå 	vb	M1 N3.3 A2.1+ A1.5.2+ A1.1.1 A3 I2.2 N3.4 S3.2
+gå	vb	M1 N3.3 A2.1+ A1.5.2+ A1.1.1 A3 I2.2 N3.4 S3.2
 gabardin	nn	O1.1
 gadd	nn	B2- G2.2-
 gädda	nn	L2mfnc F1 G3
@@ -5594,9 +5594,9 @@ gytter	nn	O4.2- X2.5-
 gyttja	nn	W3 O4.2-
 gyttjig	av	O1.1
 gyttjiga	av	O1.1
-h 	nn	Q3 K2
-ha 	vb	A9+ A1.1.1 A2.2 S6 E1 Z5
-ha 	in	Z4
+h	nn	Q3 K2
+ha	vb	A9+ A1.1.1 A2.2 S6 E1 Z5
+ha	in	Z4
 habil	av	X9.1+
 hack	nn	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3
 häck	nn	B1 M6
@@ -5651,7 +5651,7 @@ håll	nn	N3.3 M6 A1.7+ B2
 häll	nn	M1 M2 E5- K2
 hallå	in	Z4
 hälla	vb	A1.1.1/O1.2 W4 M1/N5+
-hålla 	vb	M2 S8- A9+ T2++ A1.7+ S7.1+ Q2.1 A7+ X7+ M8 O1
+hålla	vb	M2 S8- A9+ T2++ A1.7+ S7.1+ Q2.1 A7+ X7+ M8 O1
 hallåman	nn	Q2.2/S2mf Q4.3/S2mf
 hållare	nn	O2 A9+/S2mf
 hållbar	av	T2++ T1.3
@@ -6238,7 +6238,7 @@ hyvel	nn	A1.1.1/O4.5 M1
 hyvla	vb	X3.3 O4.5 A12+/A2.1
 i	ab	M6 Z5 A13
 i	nn	Q3
-i 	pp	Z5 M6 T1.3 E1 A13
+i	pp	Z5 M6 T1.3 E1 A13
 iaktta	vb	X3.4 Q2.1 S7.1-@
 iaktta	vb	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 iakttaga	vb	X3.4 Q2.1 S7.1-@
@@ -6375,7 +6375,7 @@ improvisera	vb	A1.4 K2
 impuls	nn	X7++ O3@
 impulsiv	av	A1.3-
 in	pn	Z5
-in 	ab	Z5 M6 
+in	ab	Z5 M6 
 inaktiv	av	A1.1.1-
 inåt	pp	M6
 inåtriktad		S1.2.1-
@@ -8391,7 +8391,7 @@ lån	nn	A9-
 län	nn	M7
 låna	vb	A9-
 låna	vb	A9+
-land 	nn	G1.1/W3 F4/M7 W3
+land	nn	G1.1/W3 F4/M7 W3
 landa	vb	M1 M2 M5 M4 A9+ A2.2
 länder		M7
 landminor	nn	G3
@@ -9391,7 +9391,7 @@ melon	nn	F1 L3
 memoarer	nn	Q4.1
 memorera	vb	X2.2+
 men	nn	B2- A1.1.2 E1
-men 	kn	Z5 A13.6
+men	kn	Z5 A13.6
 mena	vb	Q1.1 X7+
 mena	vb	X7+
 menande	av	X2.2+ S3.2/B1%
@@ -10178,7 +10178,7 @@ nougat	nn	F1
 november	nn	T1.3
 novis	nn	X9.1-/S2mf
 nu	nn	T1.1.2
-nu 	ab	T1.1.2 Z4
+nu	ab	T1.1.2 Z4
 nubb	nn	A1.1.1 B5 M4%
 nubbe	nn	X3.2 C1 T1.3 A1.7+/B5
 nudda	vb	X3.3 M6 Q2.2 E1 E2-
@@ -10616,9 +10616,9 @@ olydnad	nn	S8-
 olympisk	av	Z3c
 öm	av	B2-
 öm	av	I2.2 A9-
-om 	ab	M1/M6 M6 N6+ A2.1+ Z4 S8+
-om 	pp	M6 N6 T2- Q2.2/X2.2+ A2.2 Z5 N3.2
-om 	sn	Z7 Z5
+om	ab	M1/M6 M6 N6+ A2.1+ Z4 S8+
+om	pp	M6 N6 T2- Q2.2/X2.2+ A2.2 Z5 N3.2
+om	sn	Z7 Z5
 omaka	av	A6.2- N6- A13.4
 omänsklig	av	G2.2-
 omänsklighet	nn	G2.2-
@@ -11269,8 +11269,8 @@ oxideras	vb	O4.1
 oxidering		Y1
 ozon	nn	O1.3
 p	nn	Q3
-på 	pp	M6 Z5 A1.1.1 T1.1 N3.2/A5.3-
-på 	ab	Z5 T2++
+på	pp	M6 Z5 A1.1.1 T1.1 N3.2/A5.3-
+på	ab	Z5 T2++
 påbjuda	vb	Q2.2
 påbörja	vb	T2+
 påbörjad		T2+
@@ -11531,7 +11531,7 @@ pentry	nn	F1/H2
 pep		M2
 peppar	nn	F1 N5
 peppra	vb	F1 N5
-per 	pp	S1.1.2+ N5.1- M6 A2.2
+per	pp	S1.1.2+ N5.1- M6 A2.2
 perception	nn	X3 X2.5+
 perenn	av	L3
 perenn	nn	L3
@@ -12950,7 +12950,7 @@ så	nn	O2
 så	in	X2.6- S8+
 så	kn	Z5 A2.2
 så	pn	Z8
-så 	ab	Z5 A13.3 A2.2 T4-
+så	ab	Z5 A13.3 A2.2 T4-
 sabba	vb	A1.1.2 I1.1---
 sabbat	nn	T1.3/S9
 sabel	nn	G3
@@ -13222,7 +13222,7 @@ satslära	nn	Q3
 satsning	nn	M1 X8+ A15- Q2.2
 satt	av	M1 H4
 satt		M8 C1 P1 G1.1 G2.1 M6 A9+
-sätt 	nn	A1.1.1 S1.1.1 X4.2 N5
+sätt	nn	A1.1.1 S1.1.1 X4.2 N5
 sätta	vb	M2 M6 F4 Q1.2/Q4.1/Q4.2
 satte		M2 Q2.1 Q2.2 A1.1.1
 sättning	nn	N5.1+ K2 A2.1/W3 Q1.2/Q4.1/Q4.2
@@ -13258,7 +13258,7 @@ Schweiz	pm	Z2
 schweizisk	av	Z2 Z2/S2mf
 schyst		A5.1+ G2.2+ O4.2+
 schysta	av	O4.6-/A2.1 X5.2-/A2.1
-se 	vb	X3.4+ X3.4/M6 X2.5 X2.1 A7-
+se	vb	X3.4+ X3.4/M6 X2.5 X2.1 A7-
 sebra	nn	L2mfnc
 sed	nn	A6.2+ S1.1.1 I2.2
 sedan	nn	M3/O2
@@ -13576,7 +13576,7 @@ sjunka	vb	M1 M2 M4 N5-/A2.1 X3.2-/A2.1 A2.1+ E4.1- A1.1.1 F2 K5.1@
 sjuttio	nl	N1 T3 T1.2
 sjutton	nl	N1 T3 T1.2
 ska	vb	A1.1.1/T1.1.3 T1.1.3 S6 A7+
-ska 	nn	K2
+ska	nn	K2
 skabrös	av	S1.2.4- G2.2-
 skada	nn	A1.1.2 A5.1-
 skada	vb	B2- A1.1.2
@@ -15476,7 +15476,7 @@ systerlig	av	S4/S6+
 systerskap	nn	S2.1f
 t	nn	Q3
 tå	nn	B1
-ta 	vb	A9+ A1.5 X3.3 X9.2+ N3.6 N3.2 T1.1 M6 M1 A1.1.1 S1.1.1 A5 A2.2 N3.1
+ta	vb	A9+ A1.5 X3.3 X9.2+ N3.6 N3.2 T1.1 M6 M1 A1.1.1 S1.1.1 A5 A2.2 N3.1
 tabbe	nn	A5.3-
 tabell	nn	Q2.2
 tablå	nn	Q2.2
@@ -16970,7 +16970,7 @@ urusel	av	A5.1-
 urval	nn	X7+
 urval	nn	X7+ A6.3+
 usel	av	O4.2-
-ut 	ab	M6 A1.1.1/T2- A13.2/N3.4 T2+ X9.2- T2- A10+ A2.2
+ut	ab	M6 A1.1.1/T2- A13.2/N3.4 T2+ X9.2- T2- A10+ A2.2
 utagerad	av	M8 X9.2+ I1.2 H4 E4.2+ X6+
 utan	pp	A13.6
 utan	ab	M6

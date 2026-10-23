@@ -168,11 +168,11 @@ adagio	Noun	K2
 Adam	Proper	Z1m
 Adamstown	Proper	Z2
 adaptaatio	Noun	A2.1+
-adapteri 	Noun	O3
+adapteri	Noun	O3
 adaptio	Noun	A2.1+
-adaptoida 	Noun	A2.1+
-adaptoiminen 	Noun	A2.1+
-adaptoitua 	Noun	A2.1+
+adaptoida	Noun	A2.1+
+adaptoiminen	Noun	A2.1+
+adaptoitua	Noun	A2.1+
 addikti	Noun	F3/S2 X5.2+++/S2
 addiktio	Noun	B2-/F3 X5.2+++
 addiktoitua	Verb	F3/A2.1 X5.2+++/A2.1
@@ -188,9 +188,9 @@ ADHD	Abbrev	B2-/X5.1-
 Adidas	Proper	Z3
 adjektiivi	Noun	Q3
 adjektiivilauseke	Noun	Q3
-adjektiivinen 	Adjective	Q3
-adjektiivisesti 	Adverb	Q3
-adjektiivisuus 	Noun	Q3
+adjektiivinen	Adjective	Q3
+adjektiivisesti	Adverb	Q3
+adjektiivisuus	Noun	Q3
 adjutantti	Noun	S7.1-/S2
 adjöö	Interjection	Z4
 Adler	Proper	Z1
@@ -219,13 +219,13 @@ adverbiaali	Noun	Q3
 adverbiaalikonjunktio	Noun	Q3
 adverbiaalilause	Noun	Q3
 adverbiaalimäärite	Noun	Q3
-adverbiaalinen 	Adjective	Q3
-adverbiaalisesti 	Adverb	Q3
-adverbiaalisuus 	Noun	Q3
+adverbiaalinen	Adjective	Q3
+adverbiaalisesti	Adverb	Q3
+adverbiaalisuus	Noun	Q3
 adverbilauseke	Noun	Q3
-adverbinen 	Adjective	Q3
-adverbisesti 	Adverb	Q3
-adverbisuus 	Noun	Q3
+adverbinen	Adjective	Q3
+adverbisesti	Adverb	Q3
+adverbisuus	Noun	Q3
 aerobic	Noun	K5.1
 aerodynaaminen	Adjective	O4.4
 aerodynaamisesti	Adverb	O4.4
@@ -341,7 +341,7 @@ ahmimishäiriö	Noun	B2-/X1
 ahminta	Noun	F1/B1
 ahnaasti	Adverb	S1.2.2+
 ahnas	Adjective	S1.2.2+
-ahnaus 	Noun	S1.2.2+
+ahnaus	Noun	S1.2.2+
 ahne	Adjective	S1.2.2+
 ahneesti	Adverb	S1.2.2+
 ahneus	Noun	S1.2.2+
@@ -419,10 +419,10 @@ aikaansaamaton	Adjective	X5.2-
 aikaansaamattomasti	Adjective	X5.2-
 aikaansaamattomuus	Noun	X5.2-
 aikaansaaminen	Noun	A2.2
-aikaansaannos 	Noun	X9.2
+aikaansaannos	Noun	X9.2
 aikaansaanti	Noun	A2.2
 aikaansaapa	Adjective	X9.2+
-aikaansaava 	Adjective	X9.2+
+aikaansaava	Adjective	X9.2+
 aikaileminen	Noun	T4-
 aikailija	Noun	T4-/S2
 aikailla	Verb	T4-
@@ -966,7 +966,7 @@ alipaino	Noun	N3.5-
 alipainoinen	Adjective	N3.5-
 alipainoinen	Noun	N3.5-/S2
 alipainoisuus	Noun	N3.5-
-alipalkattu 	Adjective	I1.1/N5.2-
+alipalkattu	Adjective	I1.1/N5.2-
 alipalkkainen	Adjective	I1.1/N5.2-
 alipääsihteeri	Noun	S7.1+/S2
 Alison	Proper	Z1f
@@ -1289,7 +1289,7 @@ Amiga	Proper	Z3
 amiini	Noun	O1
 Amin	Proper	Z1
 aminohappo	Noun	O1
-amir 	Abbrev	G3/S2
+amir	Abbrev	G3/S2
 amiraali	Noun	G3/S2
 amiraaliperhonen	Noun	L2
 amissi	Noun	S9/S2
@@ -1532,9 +1532,9 @@ anomus	Noun	Q2.1
 anonymiteetti	Noun	A10-
 anonyymi	Adjective	A10-
 anonyymipalvelin	Noun	Y2
-anonyymisti 	Adverb	A10-
-anonyymius 	Noun	A10-
-anonyymiys 	Noun	A10-
+anonyymisti	Adverb	A10-
+anonyymius	Noun	A10-
+anonyymiys	Noun	A10-
 anoppi	Noun	S4f
 anorakki	Noun	B5
 anoreksia	Noun	B2-/X1
@@ -5379,7 +5379,7 @@ essu	Noun	B5
 este	Noun	S8- K5.1
 esteellinen	Adjective	S8-
 esteellisyys	Noun	S8-
-esteetikko 	Noun	O4.2+/X2.1/S2
+esteetikko	Noun	O4.2+/X2.1/S2
 esteettinen	Adjective	O4.2+/C1
 esteettisesti	Adverb	O4.2+/C1
 esteettisyys	Noun	O4.2+/C1
@@ -5397,7 +5397,7 @@ Ester	Proper	Z1f
 esteratsastus	Noun	K5.1/L2
 esteratsastuskilpailu	Noun	S7.3/K5.1/L2
 Esteri	Proper	Z1f
-estetiikka 	Noun	O4.2+/X2.1
+estetiikka	Noun	O4.2+/X2.1
 Esther	Proper	Z1f
 estimaatio	Noun	A5.1
 estimoida	Verb	A5.1
@@ -5599,7 +5599,7 @@ euroviisu	Noun	K2
 Eurovision	Proper	Z3
 eurytmia	Noun	K5.1
 eutanasia	Noun	L1-/A2.2
-ev 	Abbrev	G3/S2
+ev	Abbrev	G3/S2
 Eva	Proper	Z1f
 evakko	Noun	M2
 evakuoida	Verb	M2
@@ -5632,7 +5632,7 @@ Evijärvi	Proper	Z2
 Ewing	Proper	Z1
 Evira	Proper	Z3/G1.1
 E-vitamiini	Noun	O1
-evl 	Abbrev	G3/S2
+evl	Abbrev	G3/S2
 evoluutio	Noun	A2.1+
 evä	Noun	L2
 eväjalkainen	Noun	L2
@@ -7184,9 +7184,9 @@ Harden	Proper	Z1
 hardware	Noun	Y2
 Hardy	Proper	Z1
 harha	Noun	A5.4-
-harhaannuttaa 	Verb	A5.2-
-harhaannuttaja 	Noun	A5.2-/S2
-harhaannuttaminen 	Noun	A5.2-
+harhaannuttaa	Verb	A5.2-
+harhaannuttaja	Noun	A5.2-/S2
+harhaannuttaminen	Noun	A5.2-
 harhaileminen	Noun	M1
 harhailija	Noun	M1/S2
 harhailla	Verb	M1
@@ -11247,7 +11247,7 @@ jaksotella	Verb	A6.1-
 jaksottaa	Verb	A6.1-
 jaksottaminen	Noun	A6.1-
 jaksotteleminen	Noun	A6.1-
-jaksottelu 	Noun	A6.1-
+jaksottelu	Noun	A6.1-
 jaksotus	Noun	A6.1-
 jalankulkija	Noun	M3/S2
 jalanselkä	Noun	B1
@@ -13520,10 +13520,10 @@ kapseli	Noun	O2 M5
 kapseloida	Verb	A1.1.1
 kapseloiminen	Noun	A1.1.1
 kapselointi	Noun	A1.1.1
-kapt 	Abbrev	G3/S2
+kapt	Abbrev	G3/S2
 kapteeni	Noun	M4/S2 G3/S2 S7.1+/S2
 kapteeniluutnantti	Noun	G3/S2
-kaptl 	Abbrev	G3/S2
+kaptl	Abbrev	G3/S2
 kapuaja	Noun	M1/S2
 kapuaminen	Noun	M1
 kapula	Noun	O2
@@ -13584,7 +13584,7 @@ Karinainen	Proper	Z2 Z1
 Kariniemi	Proper	Z2 Z1 Z3
 kariseminen	Noun	M1 A10-
 karisma	Noun	S1.2 S9
-karismaatikko	Noun 	S9/S2
+karismaatikko	Noun	S9/S2
 karismaattinen	Adjective	S1.2 S9
 karismaattisesti	Adverb	S1.2 S9
 karismaattisuus	Noun	S1.2 S9
@@ -14595,12 +14595,12 @@ kennel	Noun	L2/H1
 Kenneth	Proper	Z1m
 Kenny	Proper	Z1
 kenoviiva	Noun	Q3
-kenr 	Abbrev	G3/S2
+kenr	Abbrev	G3/S2
 kenraali	Noun	G3/S2 K4
 kenraaliluutnantti	Noun	G3/S2
 kenraalimajuri	Noun	G3/S2
-kenrl 	Abbrev	G3/S2
-kenrm 	Abbrev	G3/S2
+kenrl	Abbrev	G3/S2
+kenrm	Abbrev	G3/S2
 Kent	Proper	Z2 Z1 Z3
 kentauri	Noun	S9
 kentiapalmu	Noun	L3
@@ -16495,7 +16495,7 @@ kolumbialais	CompPart	Z2
 Kolumbus	Proper	Z1
 kolumni	Noun	Q4.2 Q1.2
 kolumnisti	Noun	Q4.2/S2
-kom 	Abbrev	G3/S2
+kom	Abbrev	G3/S2
 Komatsu	Proper	Z2 Z3/M3
 komdri	Abbrev	G3/S2 M4/S2
 komea	Adjective	O4.2+
@@ -16509,7 +16509,7 @@ komeilla	Verb	S1.2.3+
 komennus	Noun	S7.1+ I3.1
 komentaa	Verb	S7.1+ I3.1
 komentaja	Noun	G3/S2 S7.1+/S2
-komentajakapteeni 	Noun	G3/S2
+komentajakapteeni	Noun	G3/S2
 komentaminen	Noun	S7.1+ I3.1
 komento	Noun	S7.1+ Y2 A1.1.1
 komero	Noun	H5
@@ -16521,7 +16521,7 @@ komissaari	Noun	G1.2/S2
 komissio	Noun	G1.2/S5+
 komitatiivi	Noun	Q3
 komitea	Noun	S7.1+/S5+
-komkapt 	Abbrev	G3/S2
+komkapt	Abbrev	G3/S2
 kommandiittiyhtiö	Noun	I2.1
 kommandojoukko	Noun	G3/S5+
 kommandomies	Noun	G3/S2.2m
@@ -16564,7 +16564,7 @@ kompastua	Verb	M1 A12-
 kompastuja	Noun	M1/S2
 kompastuminen	Noun	M1 A12-
 kompastus	Noun	M1 A12-
-kompastuskivi	Noun 	A12-
+kompastuskivi	Noun	A12-
 kompensaatio	Noun	S8+
 kompensoida	Verb	S8+
 kompensoiminen	Noun	S8+
@@ -16726,7 +16726,7 @@ kontio	Noun	L2
 Kontiola	Proper	Z1 Z2
 Kontiolahti	Proper	Z2 Z1
 Kontiomäki	Proper	Z2 Z1
-kontra-amir 	Abbrev	G3/S2
+kontra-amir	Abbrev	G3/S2
 kontra-amiraali	Noun	G3/S2
 kontrapunkti	Noun	K2
 kontraseptiivinen	Adjective	B3/S3.2
@@ -19734,7 +19734,7 @@ lauleleminen	Noun	K2 X3.2/L2 X3.2
 laulelija	Noun	K2/S2
 laulella	Verb	K2 X3.2/L2 X3.2
 laulelma	Noun	K2
-laulelu 	Noun	K2 X3.2/L2 X3.2
+laulelu	Noun	K2 X3.2/L2 X3.2
 lauleskeleminen	Noun	K2
 lauleskelija	Noun	K2/S2
 lauleskella	Verb	K2
@@ -22327,7 +22327,7 @@ maittava	Noun	X3.1+
 maittavasti	Noun	X3.1+
 maittavuus	Noun	X3.1+
 Maj	Proper	Z1f
-maj 	Abbrev	G3/S2
+maj	Abbrev	G3/S2
 maja	Noun	H1
 majaileminen	Noun	H4
 majailla	Verb	H4
@@ -24598,7 +24598,7 @@ mutanaamio	Noun	B4
 mutka	Noun	O4.4 M6 A12-
 mutkainen	Adjective	O4.4 A12-
 mutkaisesti	Adverb	O4.4 A12-
-mutkaisuus	Noun 	O4.4 A12-
+mutkaisuus	Noun	O4.4 A12-
 mutkallinen	Adjective	A12- O4.4
 mutkallisesti	Adverb	A12- O4.4
 mutkaton	Adjective	A12+ A1.2.1+ O4.4
@@ -25831,7 +25831,7 @@ nolaus	Noun	E4.1-/A2.2
 Noljakka	Proper	Z2
 nolla	Noun	A11.1-/S2
 nolla	Numeral	N1
-nollaaminen 	Noun	A2.1+ X2.2-
+nollaaminen	Noun	A2.1+ X2.2-
 nollata	Verb	A2.1+ X2.2-
 nollaus	Noun	A2.1+ X2.2-
 nolo	Adjective	E4.1-
@@ -30419,7 +30419,7 @@ Priscilla	Proper	Z1f
 prisma	Noun	O2
 Prisma	Proper	Z3
 privilegio	Noun	S7.4+
-prkenr 	Abbrev	G3/S2
+prkenr	Abbrev	G3/S2
 pro_gradu	Noun	P1/Q1.2
 probiootti	Noun	O1
 Problems	Proper	K2/S5+
@@ -34578,9 +34578,9 @@ saunotus	Noun	B4
 sauramo	Noun	L3
 Sauro	Proper	Z1
 sauva	Noun	O2 K5.1
-sauvakävelijä 	Noun	K5.1/S2
+sauvakävelijä	Noun	K5.1/S2
 sauvakävellä	Verb	K5.1
-sauvakävely 	Noun	K5.1
+sauvakävely	Noun	K5.1
 sauvasekoitin	Noun	O3/F1
 Sauvo	Proper	Z2
 sauvoa	Verb	K5.1
@@ -34838,7 +34838,7 @@ seksikäs	Adjective	S3.2
 seksilinja	Noun	S3.2/Q1.3
 seksipommi	Noun	S3.2/S2.1f
 seksisymboli	Noun	S3.2/S2
-seksittömyys 	Noun	S3.2-
+seksittömyys	Noun	S3.2-
 seksitön	Adjective	S3.2-
 seksologi	Noun	S3.2/S2
 seksologia	Noun	S3.2
@@ -35585,7 +35585,7 @@ silmätysten	Adverb	S1.1.3+
 silmävamma	Noun	B2-
 silmävoide	Noun	B3
 silmäys	Noun	X3.4
-silmäähivelevä 	Adjective	O4.2+
+silmäähivelevä	Adjective	O4.2+
 silokallio	Noun	W3
 silpoherne	Noun	L3 F1
 silsa	Noun	B2-
@@ -36219,7 +36219,7 @@ sokaista	Verb	X3.4-/A2.2 S1.2.6-/A2.2
 sokaisu	Noun	X3.4-/A2.2 S1.2.6-/A2.2
 sokea	Adjective	B2-/X3.4 X2.5- A13.3 S7.1-
 sokea	Noun	B2-/X3.4/S2
-sokeasti	Adverb 	B2-/X3.4 X2.5- A13.3 S7.1-
+sokeasti	Adverb	B2-/X3.4 X2.5- A13.3 S7.1-
 sokeri	Noun	F1
 sokeriherne	Noun	L3 F1
 sokerihäät	Noun	S4/T1.2
@@ -37483,7 +37483,7 @@ suututtaa	Verb	E3-/A2.2
 suututtaminen	Noun	E3-/A2.2
 suuvesi	Noun	B4
 suvaita	Verb	S7.4+ A1.1.1
-suvaitsematon 	Adjective	S7.4-
+suvaitsematon	Adjective	S7.4-
 suvaitsemattomasti	Adverb	S7.4-
 suvaitsemattomuus	Noun	S7.4-
 suvaitseminen	Noun	S7.4+ A1.1.1
@@ -37836,7 +37836,7 @@ syöstä	Verb	M1 A1.1.1
 Syöte	Proper	Z2
 syötellä	Verb	K5.1
 syötteleminen	Noun	K5.1
-syöttely 	Noun	K5.1
+syöttely	Noun	K5.1
 syöttäjä	Noun	K5.1/S2 A9-/F1/S2 Y2/S2 A1.1.1/S2
 syöttäminen	Noun	A9-/F1 Y2 K5.1 Q2.2/A5.2- A1.1.1
 syöttää	Verb	A9-/F1 Y2 K5.1 Q2.2/A5.2- A1.1.1
@@ -41487,7 +41487,7 @@ töniminen	Noun	M2
 töniä	Verb	M2
 töppäileminen	Noun	S1.2.6-
 töppäilijä	Noun	S1.2.6-/S2
-töppäillä 	Verb	S1.2.6-
+töppäillä	Verb	S1.2.6-
 töppäily	Noun	S1.2.6-
 töppönen	Noun	B5
 töpöhäntä	Noun	L2
@@ -45714,7 +45714,7 @@ ylikäyttäminen	Noun	A1.5.1/N5++
 ylikäyttää	Verb	A1.5.1/N5++
 ylikäyttö	Noun	A1.5.1/N5++
 ylil	Abbrev	G3/S2
-yliluutnantti 	Noun	G3/S2
+yliluutnantti	Noun	G3/S2
 ylilääkäri	Noun	B3/S2
 ylimielinen	Adjective	S1.2.3+
 ylimielisesti	Adverb	S1.2.3+

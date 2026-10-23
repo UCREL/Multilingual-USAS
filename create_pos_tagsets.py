@@ -58,7 +58,7 @@ if __name__ == '__main__':
                 resource_file_path = resource['file path']
 
                 
-                if resource_type == 'single':
+                if resource_type in ('single', 'autotag'):
                     if not contains_pos_information(resource_file_path):
                         continue
                     pos_label_counts += single_lexicon_pos_count(resource_file_path)
@@ -68,7 +68,8 @@ if __name__ == '__main__':
                 with Path(Path(resource_file_path).parent, 'generated_pos_tagset.tsv').open('w', newline='') as pos_tagset_fp:
                     csv_writer = csv.DictWriter(pos_tagset_fp, fieldnames=['POS', 'Count'], delimiter='\t')
                     csv_writer.writeheader()
-                    for label, count in pos_label_counts.items():
+                    # Sorted so that the output does not depend on the order of the lexicon entries.
+                    for label, count in sorted(pos_label_counts.items()):
                         csv_writer.writerow({'POS': label, 'Count': count})
     
                     

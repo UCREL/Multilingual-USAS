@@ -11,22 +11,30 @@ def string_to_path(string_argument: str) -> Path:
 if __name__ == '__main__':
 
     description = '''
-    This script finds duplicate entries within either a single word or MWE 
-    lexicon file and displays how many duplicates there are.
+    This script finds duplicate entries within either a single word, autotag, 
+    or MWE lexicon file and displays how many duplicates there are.
+
+    For single word and autotag lexicon files an entry is a duplicate if 
+    another entry has the same `lemma` and `pos` values. For autotag files 
+    the `lemma` and `pos` patterns are compared as written, e.g. `*-year-old` 
+    and `*-year-old` are duplicates, but patterns that would match the same 
+    words but are written differently, e.g. `[0-9]*ish` and `[0-9]*[0-9]*ish`, 
+    are not.
 
     Optionally you can have an `output-file` argument whereby it will save the
     duplicate entires and the number of times they are duplicated to the
     `output-file` in TSV format.
     '''
 
-    file_type_help = ('single for single word lexicon file format or '
+    file_type_help = ('single for single word lexicon file format, '
+                      'autotag for autotag lexicon file format, or '
                       'mwe for multi word expression file format')
 
     parser = argparse.ArgumentParser(description=description,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('input_file', type=string_to_path)
     parser.add_argument('--output-file', type=string_to_path)
-    parser.add_argument('file_type', type=str, choices=['single', 'mwe'], 
+    parser.add_argument('file_type', type=str, choices=['single', 'autotag', 'mwe'], 
                         help=file_type_help)
     args = parser.parse_args()
 
@@ -42,7 +50,7 @@ if __name__ == '__main__':
         
         duplicate_entries: Dict[str, int] = {}
         output_file_field_names = []
-        if file_type == 'single':
+        if file_type in ('single', 'autotag'):
             for values in csv_reader:
                 lemma = values.get('lemma')
                 pos_tag = values.get('pos', '')

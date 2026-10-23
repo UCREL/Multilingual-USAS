@@ -16390,7 +16390,6 @@ Bronzealderen_NOUN analys*_NOUN	Q3
 Eurotunnelen_NOUN book*_NOUN	Q4.1
 Kanaløerne_PROPN messaging_NOUN	Q1.3
 Fællesmarkedet_NOUN mining_NOUN	Y2/Q3
-Sankt_PROPN *_* _PROPN kors_NOUN	Y2/Q3
 Uafhængighedserklæringen_NOUN conservator*_NOUN	C1/S2mf
 Deep_PROPN South_PROPN	C1
 Østindien_PROPN designer*_NOUN	C1/S2mf

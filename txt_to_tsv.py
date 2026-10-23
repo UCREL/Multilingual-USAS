@@ -82,7 +82,7 @@ if __name__ == '__main__':
     description = """
     This script does the following:
 
-    1. Converts all lexicon files (single and MWE) from text file format to TSV. The 
+    1. Converts all lexicon files (single, autotag, and MWE) from text file format to TSV. The 
        lexicon files are found through the meta data file (language_resources.json).
     2. Checks that the TSV files are formatted correctly:
         1. The minimum header names exist, 
@@ -96,7 +96,7 @@ if __name__ == '__main__':
     arguments.parse_args()
 
     json_data = Path(__file__, '..', 'language_resources.json').resolve()
-    valid_resource_types = set(['single', 'mwe'])
+    valid_resource_types = set(['single', 'autotag', 'mwe'])
     
     with json_data.open('r') as json_fp:
         data = json.load(json_fp)

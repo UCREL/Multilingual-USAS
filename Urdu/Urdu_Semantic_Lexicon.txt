@@ -6,7 +6,7 @@ lemma	pos	semantic_tags
 کو	RP	M6
 یہ	TO	Z5
 ہے	PPH1	Z8
-سے 	VBZ	A3+ Z5
+سے	VBZ	A3+ Z5
 تھا	TO	Z5
 میں	VBDZ	A3+ Z5
 کے- لئے	PPIS1	Z8mf
@@ -51,7 +51,7 @@ lemma	pos	semantic_tags
 ایک	PNQS	Z8
 پس	PN1	Z8
 اوپر	RR	Z5 A13.3
- جیسا-کے	VV0	N5+/A2.1
+جیسا-کے	VV0	N5+/A2.1
 ان	RG	A13
 کچھ	PPHO2	Z8mfn
 کب	RR	A13.5
@@ -195,7 +195,7 @@ lemma	pos	semantic_tags
 دیکھو	RT	N4
 اگلے	VV0	A8 X3.4 X2.4 X7+ Z4
 کب	MD	N4
-مقدمہ 	RRQ	Z5
+مقدمہ	RRQ	Z5
 آخر	NN1	A4.1 O2 G2.1 B3 X4.1 Q3
 چیزیں	VV0	T2-
 سماجی	NN2	O2 X4.1 A7- S2mf L2mf
@@ -209,7 +209,7 @@ lemma	pos	semantic_tags
 ہر	VV0	K1/S1.1.3+
 رفاقت	AT1	N5.1+
 خواتین	NN1	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c
-کہنا 	NN2	S2.1f
+کہنا	NN2	S2.1f
 اہم	VVZ	Q2.1
 لیا	JJ	A11.1+
 زیادہ سے زیادہ	VVD	A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
@@ -235,7 +235,7 @@ lemma	pos	semantic_tags
 لیا	VV0	S6+
 کیا	VVN	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
 حق	VDN	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5
- رکھنا	VV0	A5.3+/A2.1
+رکھنا	VV0	A5.3+/A2.1
 چیز	VHG	A9+ Z5 A2.2 S4
 دیکھا	NN1	O2 X4.1 A7- S2mf L2mf
 لندن	VVN	A8 X3.4 X2.4 X7+
@@ -1137,7 +1137,7 @@ lemma	pos	semantic_tags
 مستقبل	VVN	A1.1.1 A2.2 E1
 دیگر	NN1	T1.1.3
 شروع	NN1	A6.1-/Z8
- ریاست	VV0	T2+ E5- E3-
+ریاست	VV0	T2+ E5- E3-
 کوئی نہیں	NP2	Z2
 فروخت	PN	Z6/Z8c
 مشین	VVN	I2.2
@@ -1381,7 +1381,7 @@ lemma	pos	semantic_tags
 لاشیں	JJ	X7+
 پیغام	NN2	B1 O2 S5+
 وسط	NN1	Q1.1 Q1.3/Y2
- جمع	NN1	M6 N5 N4 T1.2
+جمع	NN1	M6 N5 N4 T1.2
 فراہمی	NN1	A5.1+ N2
 جنسی	VV0	A9-
 جلد	JJ	S3.2
@@ -1391,7 +1391,7 @@ lemma	pos	semantic_tags
 مکمل طور پر	VVG	A9-
 سامنے	RR	A13.2
 گھریلو	VV0	M6 S7.1+ Q4.3
- ضرورت	NN1	B4/S2mf
+ضرورت	NN1	B4/S2mf
 ثابت	VV0	X7+ S6+
 اظہار	JB	A5.2+ X2.4
 علاج	VVD	Q1.1 B1%
@@ -1431,7 +1431,7 @@ lemma	pos	semantic_tags
 چہرہ	JJ	A5.1+++
 امیر	VV0	M6 S1.1.1 X2.1 B5
 تشخیص	JJ	I1.1+ O4.1 N5+ X5.2+ E4.1+
- بچانے	NN1	A5.1 G1.1/I1.2 P1
+بچانے	NN1	A5.1 G1.1/I1.2 P1
 الیکشن کمیشن	VV0	I1.1 B3 A9+ S8+ A1.9 K5.1 S9
 فون	NP1	Z2c
 منصفانہ	VV0	Q1.3
@@ -1539,7 +1539,7 @@ lemma	pos	semantic_tags
 کوئی نہیں	CS	Z5
 شکل	PN1	Z8/Z6cmf
 ابتدائی	VV0	O4.4 A2.2
- ضروری	VV0	Q1.2
+ضروری	VV0	Q1.2
 کہا جاتا ہے	JJ	N3.2+ O4.1%
 جاتے ہیں	VVN	Q2.2 Q1.2
 سیٹ	VV0	A6.2+ A8 S8+ X5.1+
@@ -1950,7 +1950,7 @@ lemma	pos	semantic_tags
 زائرین	NN2	G2.1 S6+
 رہائی	NN2	S1.1.1/S2mf M1/S2mf
 دریں اثنا	VV0	A1.7- A9-
- پختہ	RR	T1.1.2
+پختہ	RR	T1.1.2
 امتحان	JJ	A7+ S9@
 دروازے	NN1	P1 X2.4 B3
 قیادت	NN2	H2
@@ -1958,7 +1958,7 @@ lemma	pos	semantic_tags
 نیچے	VV0	S8+
 سفر	RL	M6
 دودھ	VV0	M1
-بیان 	VV0	F4 A9+
+بیان	VV0	F4 A9+
 اسی لیے	JB	Q2.1
 آئی بی ایم	RR	A2.2
 متاثر	NP1	Z3c
@@ -1989,7 +1989,7 @@ lemma	pos	semantic_tags
 وسیع	NP1	Z2
 ہموار	JJ	N3.2+ N5+
 رہنمائی	RR	O4.4 N5- A6.1+ K2
- چلا نا	VV0	S8+
+چلا نا	VV0	S8+
 حیران	VV0	M3 A1.1.1 X5.2+ M2 S7.1+
 مسیح	VVN	X2.6-
 آسان	NP1	Z1m Z4

@@ -1,0 +1,171 @@
+# adaptation of autotag rules for SEMTAG from the - 13 Jun 96
+# converted, extended and modified from the CLAWS C7 tagset to the UPOS tagset
+
+# if first column matches original word form
+# and second column matches original UPOS tag
+# then tag word as directed by semantic tag list
+# list is processed in order, so ONLY first matching entry has any effect
+
+lemma	pos	semantic_tags
+
+# amount of money: 54p = pence
+
+*[0-9]p	NOUN	I1
+*pence	NOUN	I1
+*pence	NUM	I1
+
+# money unlikely to be matched without MWE
+
+£[0-9][0-9]*	NOUN	I1
+£[0-9][0-9,.]*	NUM	I1
+£[0-9][0-9,.]*k	NUM	I1
+£[0-9][0-9,.]*m	NUM	I1
+£[0-9][0-9,.]*bn	NUM	I1
+
+$[0-9][0-9]*	NOUN	I1
+$[0-9][0-9,.]*	NUM	I1
+$[0-9][0-9,.]*k	NUM	I1
+$[0-9][0-9,.]*m	NUM	I1
+$[0-9][0-9,.]*bn	NUM	I1
+
+# numbers with a unit suffix (50k, 50M, 100,000B)
+
+*[0-9]k	NUM	N1
+*[0-9]K	NUM	N1
+*[0-9]M	NUM	N1
+*[0-9]B	NUM	N1
+
+# fractions: only the numeric form, e.g. 3/4
+# (was * MF*)
+
+[0-9][0-9]*/[0-9][0-9]*	NUM	N5
+
+# ordinals restricted to digit forms, e.g. 21st
+
+[0-9][0-9]*st	ADJ	N4 T1.3
+[0-9][0-9]*st	NOUN	N4 T1.3
+[0-9][0-9]*nd	ADJ	N4 T1.3
+[0-9][0-9]*nd	NOUN	N4 T1.3
+[0-9][0-9]*rd	ADJ	N4 T1.3
+[0-9][0-9]*rd	NOUN	N4 T1.3
+[0-9][0-9]*th	ADJ	N4 T1.3
+[0-9][0-9]*th	NOUN	N4 T1.3
+
+# percentages unlikely to be matched without MWE
+
+*[0-9]%	NOUN	N5
+*[0-9]%	NUM	N5
+
+# times
+
+[0-9][0-9]*ish	ADJ	T3 N1
+[0-9][0-9]*ish	NUM	T3 N1
+
+# temperature
+
+*[0-9]'C	NOUN	O4.6
+*[0-9]'C	NUM	O4.6
+*[0-9]'F	NOUN	O4.6
+*[0-9]'F	NUM	O4.6
+*[0-9]°C	NOUN	O4.6
+*[0-9]°C	NUM	O4.6
+*[0-9]°F	NOUN	O4.6
+*[0-9]°F	NUM	O4.6
+
+# weights and measures
+
+*[0-9]KBps	NOUN	N3.8/Y2 N3.8/Q1.3
+*[0-9]KBps	NUM	N3.8/Y2 N3.8/Q1.3
+*[0-9]MBps	NOUN	N3.8/Y2 N3.8/Q1.3
+*[0-9]MBps	NUM	N3.8/Y2 N3.8/Q1.3
+*[0-9]GBps	NOUN	N3.8/Y2 N3.8/Q1.3
+*[0-9]GBps	NUM	N3.8/Y2 N3.8/Q1.3
+
+*[0-9]KB	NOUN	N3.2/Y2
+*[0-9]KB	NUM	N3.2/Y2
+*[0-9]MB	NOUN	N3.2/Y2
+*[0-9]MB	NUM	N3.2/Y2
+*[0-9]GB	NOUN	N3.2/Y2
+*[0-9]GB	NUM	N3.2/Y2
+
+*[0-9]MW	NOUN	N3/O3
+*[0-9]MW	NUM	N3/O3
+
+*[0-9]acre	NOUN	N3.6
+*[0-9]acre	NUM	N3.6
+
+*[0-9]cm	NOUN	N3.3 N3.7
+*[0-9]cm	NUM	N3.3 N3.7
+*[0-9]cms	NOUN	N3.3 N3.7
+*[0-9]cms	NUM	N3.3 N3.7
+*[0-9]mm	NOUN	N3.3 N3.7
+*[0-9]mm	NUM	N3.3 N3.7
+
+*[0-9]ha	NOUN	N3.6
+*[0-9]ha	NUM	N3.6
+
+*[0-9]hectare	NOUN	N3.6
+*[0-9]hectare	NUM	N3.6
+
+*[0-9]kph	NOUN	N3.8
+*[0-9]kph	NUM	N3.8
+*[0-9]mph	NOUN	N3.8
+*[0-9]mph	NUM	N3.8
+
+*[0-9]cc	NOUN	N3.4
+*[0-9]cc	NUM	N3.4
+
+*[0-9]ft	NOUN	N3.3 N3.7
+*[0-9]ft	NUM	N3.3 N3.7
+*[0-9]gr	NOUN	N3.5
+*[0-9]gr	NUM	N3.5
+*[0-9]in	NOUN	N3.3 N3.7
+*[0-9]in	NUM	N3.3 N3.7
+*[0-9]ins	NOUN	N3.3 N3.7
+*[0-9]ins	NUM	N3.3 N3.7
+
+*[0-9]kg	NOUN	N3.5
+*[0-9]kg	NUM	N3.5
+*[0-9]kgs	NOUN	N3.5
+*[0-9]kgs	NUM	N3.5
+*[0-9]lb	NOUN	N3.5
+*[0-9]lb	NUM	N3.5
+*[0-9]lbs	NOUN	N3.5
+*[0-9]lbs	NUM	N3.5
+
+*[0-9]oz	NOUN	N3.5
+*[0-9]oz	NUM	N3.5
+*[0-9]ozs	NOUN	N3.5
+*[0-9]ozs	NUM	N3.5
+
+*[0-9]km	NOUN	N3.3 N3.7
+*[0-9]km	NUM	N3.3 N3.7
+
+*[0-9]m	NOUN	N3.3 N3.7
+*[0-9]m	NUM	N3.3 N3.7
+*[0-9]m2	NOUN	N3.6
+*[0-9]m2	NUM	N3.6
+*[0-9]m3	NOUN	N3.4
+*[0-9]m3	NUM	N3.4
+
+# times formula
+
+[0-9][0-9]*x[0-9][0-9]*	NUM	N1 N3.3
+
+# road numbers
+
+A[0-9][0-9]*	PROPN	Z2
+B[0-9][0-9]*	PROPN	Z2
+M[0-9][0-9]*	PROPN	Z2
+
+# forties, fifties, 1940s, '90s ...
+
+[0-9][0-9]*s	NOUN	T1.3 N1 T3
+[0-9][0-9]*s	NUM	T1.3 N1 T3
+'[0-9][0-9]*s	NOUN	T1.3 N1 T3
+'[0-9][0-9]*s	NUM	T1.3 N1 T3
+*ties	NUM	T1.3 N1 T3
+
+# all other numbers
+
+*	NUM	N1 T1.2 T3 T1.3 N3.2

@@ -28,37 +28,6 @@ puha	INTJ	Z4
 'un	NUM	N1
 har	VERB	A9+ A2.2 Z5
 *	X	Z5
-*%	NUM	N5
-*'C	NOUN	O4.6
-*-hektar	NOUN	N3.6
-*-seng	ADJ	N3.2/H4
-*-medarbejder	ADJ	N3.2 N5
-*-fod	ADJ	N3.7
-*-fuld	ADJ	N3.4
-*-time	ADJ	T1.3
-*-tommer	NOUN	N3.7
-*-måler	NOUN	N3.7
-*-mil	NOUN	N3.3
-*-minut	ADJ	T1.3
-*-måned	ADJ	T1.3
-*-måned	NOUN	T1.3
-*-ulige	ADJ	N5 T3
-*-side	ADJ	Q1.2
-*-plus	ADJ	N5 T3
-*-punkt	ADJ	N3.1
-*-noget	NOUN	N5 T3
-*-etagers	ADJ	H1/N3.7
-*-stærk	ADJ	N3.2
-*-ugentlig	ADJ	N6+
-*-år	ADJ	T1.3 T3
-*-årige	NOUN	T3
-*hektar	NOUN	N3.6
-*cms	NOUN	N3.7
-*ha	NOUN	N3.6
-*KBps	NOUN	N3.8/Y2 N3.8/Q1.3
-*kph	NOUN	N3.8
-*MB	NOUN	N3.2/Y2
-*MW	NOUN	N3/O3
 +	ADP	Z5
 -baseret	ADJ	M6 A2.2
 -opført	ADJ	I2.1

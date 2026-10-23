@@ -1,0 +1,2 @@
+mwe_template	semantic_tags
+Sankt_PROPN *_* _PROPN kors_NOUN	Y2/Q3

@@ -29,42 +29,6 @@ lemma	pos	semantic_tags
 'un	NUM	N1
 've	VERB	A9+ A2.2 Z5
 *	X	Z5
-*%	NUM	N5
-*'C	NOUN	O4.6
-*-a-year	NOUN	N5 I1
-*-acre	NOUN	N3.6
-*-bed	ADJ	N3.2/H4
-*-employee	ADJ	N3.2 N5
-*-foot	ADJ	N3.7
-*-full	ADJ	N3.4
-*-hour	ADJ	T1.3
-*-inch	NOUN	N3.7
-*-metre	NOUN	N3.7
-*-mile	NOUN	N3.3
-*-minute	ADJ	T1.3
-*-month	ADJ	T1.3
-*-month	NOUN	T1.3
-*-odd	ADJ	N5 T3
-*-page	ADJ	Q1.2
-*-plus	ADJ	N5 T3
-*-point	ADJ	N3.1
-*-something	NOUN	N5 T3
-*-somethings	NOUN	N5 T3
-*-storey	ADJ	H1/N3.7
-*-strong	ADJ	N3.2
-*-weekly	ADJ	N6+
-*-year	ADJ	T1.3 T3
-*-year-old	ADJ	T3
-*-year-old	NOUN	T3
-*-year-olds	NOUN	T3
-*KBps	NOUN	N3.8/Y2 N3.8/Q1.3
-*MB	NOUN	N3.2/Y2
-*MW	NOUN	N3/O3
-*acre	NOUN	N3.6
-*cms	NOUN	N3.7
-*ha	NOUN	N3.6
-*hectare	NOUN	N3.6
-*kph	NOUN	N3.8
 +	ADP	Z5
 -Reuter	PROPN	Z3c Z1mf
 -based	ADJ	M6 A2.2

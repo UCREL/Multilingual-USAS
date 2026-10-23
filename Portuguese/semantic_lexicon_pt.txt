@@ -243,7 +243,6 @@ Palestina	pnoun	Z2
 Panamá	pnoun	Z2 B5
 Papa	noun	F1
 Papa	pnoun	S7.1+/S9m
-**** Papa	verb	A1.1.1
 Paquistão	pnoun	Z2
 Paraguai	pnoun	Z2
 Peixes	pnoun	S9 S9/S2mf
@@ -388,7 +387,6 @@ abril	pnoun	T1.3 Z1f
 abruptamente	adv	N3.8+ S1.2.1-
 abrupto	adj	A14 N5+ O4.1 O4.4 N3.8+ S1.2.1-
 abrupto	adv	N5+
-**** abrupto	verb	M6
 absenteísmo	noun	S1.1.3-
 absentismo	noun	S1.1.3-
 absentista	noun	S1.1.3-/S2mf
@@ -422,10 +420,8 @@ abusivo	adj	E3-/S1.2 S1.2.4-
 abuso	noun	E3- Q2.2 G2.2- A1.5.1/A5.1-
 abóbada	noun	H2 O4.4
 abóbora	noun	L3 S2/N5+ K5.1 F2
-**** abóbora	verb	M2 N5- T2- A1.1.2 S7.1+
 acabado	adj	N5.1+ A1.3+ X9.1+
 acabado	verb	T2- 
-*****  acabamento	adj	T2-
 acabamento	noun	T2- A1.5.1/N5.1+ A1.1.1 X9.2-
 academia	noun	K5.1/H1 P1/H1 S5+c P1
 académico	adj	P1/S2mf
@@ -447,7 +443,6 @@ acatamento	noun	G2.1+
 accionista	noun	I1.1/S2mf
 acção	noun	A1.1.1 G3
 ação	noun	A1.1.1 G3
-**** accão	verb	A1.1.1
 aceiro	verb	A6.1- X3.2++
 aceitação	noun	A9+ X2.5+ S1.2.1+ S7.4+
 aceite	noun	A9+ X2.5+ S1.2.1+ S7.4+
@@ -626,9 +621,7 @@ adutora	noun	O2/M4 O3
 advento	noun	S9/T1.3 T2+
 adversidade	noun	A12-
 adversário	adj	A6.1- S7.3+ S1.2.1-
-**** adversário	adv	M6
 adversário	noun	A6.1- S7.3+/S2mf S1.2.1-/S2mf S7.3/S2mf
-**** adversário	prep	Z5
 advirta	verb	X2.2+/A15- A1.3+
 advogado	noun	G2.1/I3.2/S2mf G2.1/S2mf Q2.2/S2mf
 advogado	verb	Q2.2
@@ -638,7 +631,6 @@ adúltero	noun	S4/G2.2-/S2mf
 aerodinâmica	noun	M5/P1
 aerodinâmico	adj	N3.2-/A2.1
 aerofólio	noun	M6 O2 A10+
-**** aerofólio	verb	A10+
 aeronave	noun	M5
 aeroporto	noun	M5/M7
 aeródromo	noun	M5/M7c
@@ -663,7 +655,6 @@ afetação	noun	O4.1/B1 A5.4- S1.2
 afetar	verb	A2.1+ A2.2+
 afeto	noun	E3+ B2-
 afiado	adj	O4.4 A10+ X9.1+ X5.1+ N3.8+ B2- X3.1 E3- A5.3+ A5.1+ T4 X5.2+
-****afiado	adv	N3.8+ T4
 afiado	noun	O4.4 K2
 afilhada	noun	S4f
 afilhado	noun	S4m S4mf
@@ -677,17 +668,13 @@ afinidade	noun	E2+ A6.1+
 afirmação	noun	Q2.2
 afirme	verb	Q2.2 S1.2.3+
 aflito	adj	E4.1- E6- B2-
-**** aflito	verb	E6- E4.1- B2-
 aflição	pnoun	Z1
 afluente	noun	S5+c L3 A4.1
-**** afluente	verb	N5+ A2.1+
 afogado	adj	A15 X9.2-
-****afogardo	verb	L1- N5.2+ A10- X9.2-
 afogar	verb	A15 X9.2-
 afora	adv	Z5
 afora	conj	Z5
 afora	prep	Z5
-**** afora	verb	A1.8-
 aforismo	noun	Q2.2/A5.2+ Q1.2/A5.2+
 africano	adj	Z2 Z2/S2mf
 africano	noun	Z2/S2mf
@@ -752,8 +739,6 @@ ai	intj	Z4
 aide-de-acampamento	noun	G3/S8+/S2mf
 ainda	adj	M8 E3+ O4.5
 ainda	adv	C1 F2/O2 E3+/A2.1 E6+ M8 E3+ O4.5 T1.1.2 T2++ Z4 Z5
-**** ainda	noun	C1 F2/O2
-**** ainda	verb	E3+/A2.1 E6+
 aipo	noun	F1 L3
 ajuda	noun	S8+
 ajudante	noun	S8+ S8+/S2mf
@@ -830,7 +815,6 @@ algo	noun	Z8 N1
 algo	num	N1 T3 T1.2
 algo	pron	Z8
 algodão	noun	O1.1
-**** algodão	verb	X2.3+
 algoritmo	noun	N2
 algum	adj	A13.5 N5 Z5
 algum	adv	A13.3 A13.5
@@ -870,7 +854,6 @@ alma	noun	S9 E1 S2mf K2
 almanaque	noun	T1/Q1.2
 almirante	noun	G3/S7.1+/S2mf
 almofada	noun	O2 
-**** almofada	verb	O4.1 M1
 almofariz	noun	O1.1 G3
 almoxarifado	noun	H2/A9+
 almoço	noun	F1
@@ -896,7 +879,6 @@ altitude	noun	N3.7
 alto	adj	E4.1+ F3 M6 N4 N5.1+ O2 B5 K6 N5.1- A11.1+++ S7.1+++ X9.1+++ A5.1+++ N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ I1.3+ O4.2- O4.6+ S9 X3.2+ O4.3
 alto	adv	N3.7+ N5+ X3.2 X3.2+
 alto	noun	E4.1+ F3 M6 N4 N5.1+ O2 B5 K6 N5.1-
-****alto	verb	A11.1++ N5++ A5.1++ A1.1.1 L1-
 alto-falante	noun	O3
 altruísmo	noun	S1.2.2-
 altura	noun	N3.7 N5.1+ S7.1+
@@ -978,19 +960,15 @@ amorfo	adj	O4.4 A4.1- W3
 amoroso	adj	E2+ T3- O4.5 B2- F1 I2.2 A9- X3.1 O4.2+
 amortecedor	noun	M3 O1 S8+ S2.2m
 amostra	noun	A4.1 B3 X7+ A4.1/L3 A4.1/L2 A6.2+
-****amostra	verb	X3.1 X8+ K2
 amostragem	adj	X2.4
 amostragem	noun	X2.4
-****amplamente	adj	N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@
 amplamente	adv	N3.7+ A4.2- 
-****amplamente	noun	K5.1
 ampliar	verb	N3.2+/A2.1 A4.2+/Q2.1 X3.2 A4.2+/A2.1
 ampliação	noun	C1/N3.2++ X3.2 A4.2+/A2.1 N3.2+/A2.1
 amplificador	noun	O3
 amplitude	noun	N3 N3.3 K2 A6.3+ N5 A4.1 M7/K5.1 M7/G3 N2 W3 F1/O2
 amplo	adj	A1.8++ A4.2- A6.3+ N3.7+ N5+ Q3 N3.2+/N3.6+ N3.6+ S2.1f W3
 amplo	noun	S2.1f W3
-**** amplíe	verb	N3.2+/A2.1 A4.2+/Q2.1
 ampère	noun	O3
 amálgama	noun	A6.3+ O1.1
 amásia	noun	S2.1f/X9.1-
@@ -1017,16 +995,13 @@ ancestral	adj	S4/T1.1.1 N4
 ancestral	noun	S4/T1.1.1 N4
 anchova	noun	F1 L2
 ancinho	noun	O2 S2/G2.2-m% O4.4%
-****ancinho	verb	A1.1.1
 andaime	noun	H1 G2.1
 andamento	adj	T2++
 andamento	noun	A5.1+/A2.1 T2++ A2.1+ M1%
 andar	noun	H2 S5+ M1 N3.7 N5 A5.1 X9.1 A4.1 S7.1
 andar	verb	K5.1/L2 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
 andorinha	noun	B1 L2mfn
-****andorinha	verb	B1 X2.1/A7+ A10-/E1
 anel	noun	Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%
-**** anel	verb	Q1.3 X3.2 A8 O4.4
 anemia	noun	B2- X5.2-
 anestesia	noun	B3
 anestesiologia	noun	B3 Y1
@@ -1036,7 +1011,6 @@ anexo	noun	S5 A2.2
 anfiteatro	noun	K4/H1
 anfitriã	noun	M5/S2.1f S2.1/S1.1.1f
 anfitrião	noun	S2mf B1@ Y2@ S9%
-****anfitrião	verb	S1.1.1
 angelical	adj	A5.1+ S9
 angina	noun	B2-
 anglo-saxão	adj	Q3
@@ -1193,7 +1167,6 @@ apreciação	noun	A5.1 Q2.2 E2+ X2.5+ S1.1.1 I1.1++
 apreenda	verb	A9+ X9.2+/G3 S7.1+
 apreender	verb	G2.1 A1.7+ A9+ A1.1.1 
 apreensão	noun	A9+ E6- G2.1
-****apreensão	verb	G2.1
 aprendido	adj	X2.3+
 aprendido	verb	X2.3+ P1
 aprendiz	noun	P1/I3.1
@@ -1244,7 +1217,6 @@ adquirir	verb	A9+ I2.2 A1.8+
 aquário	noun	L2/H1 L2/O2
 aquático	adj	M4 K5.1/M4 O1.2 O1.2/N5.2+ S1.2.5- B1
 ar	noun	O1.3 A8 W1 Q4.3 
-****ar	verb	B4 Q2.1
 ar-condicionado	noun	O4.6
 arado	noun	F4 O2/F4
 arado	verb	F4 M1 I1.1
@@ -1271,7 +1243,6 @@ ardente	adj	O4.6+ O4.3 E1 X5.2+
 arder	verb	B2- G2.2-
 ardor	noun	X5.2+
 areia	noun	O1.1
-****areia	verb	A1.1.1
 arena	noun	K5.1/H1 K1/H1 M7 X4.1
 arenga	noun	Q2.1
 arenga	verb	Q2.1
@@ -1293,7 +1264,6 @@ aritmética	noun	N2
 arma	noun	B1 S5+c G3 O2 B5 X4.1 O3
 arma	verb	G3
 armadilha	noun	A1.7+ A15
-****armadilha	verb	A1.7+ A9+ S3.2%
 armado	adj	G3 B1
 armadura	noun	G3 O2 S8+
 armamento	noun	G3
@@ -1304,11 +1274,8 @@ armazém	noun	A9+/H1 N5+
 armazenar	verb	A9+/H1
 armação	noun	C1/O2
 arminho	noun	O1.1 L2
-**** armário	adj	A10-
 armário	noun	O2 H5 
-****armário	verb	A12- W4
 aroma	noun	O4.1 X3.5
-****aroma	verb	X3.1 F1
 aromático	adj	X3.5 A5.1+
 arqueiro	noun	G3/S2.2m K5.1/S2mf
 arqueológico	adj	Y1
@@ -1343,7 +1310,6 @@ arrecadar	verb	A9+ I1.1 B3 S8+ A1.9 K5.1 S9
 arrecadação	noun	A9+ I1 B5 I1.1 B3 S8+ A1.9 K5.1 S9
 arredor	noun	M7
 arreio	noun	O2
-**** arreio	verb	L2 A1.5.1
 arreios	noun	O2
 arrelíe	noun	G2.2-/S2mf
 arrelíe	verb	E3- A1.1.1
@@ -1373,7 +1339,6 @@ arrumar	verb	S7.1+ A1.1.1
 arsenal	noun	G3 G3/H1 N5+
 arsenal	pnoun	Z2 Z3
 arte	noun	C1 I3.1 X9.1+ 
-**** arte	verb	A1.1.1 C1
 arteriosclerose	noun	B2-
 artesão	noun	C1/S2mf
 articulado	adj	Q3 Q2.2/X9.1+ B1 A7+ A4.2+
@@ -1385,12 +1350,10 @@ artifício	noun	G2.1- G2.2- X9.1+ O2 X4.2 Q1.1
 artigo	adj	S7.1-
 artigo	adv	Z4
 artigo	noun	O2 Q4 X4.1 Q4.2 Q3 G2.1/P1@ C1/S2mf P1 S7.1-/S2mf O1
-****artigo	verb	A1.1.1 S7.1+ A11.1+ G2.1/P1
 artilharia	noun	G3 G3/S5c
 artilheiro	noun	G3/S2mf
 artimanha	adj	X9.1+
 artimanha	noun	A6.2- Q2.2 X9.1+
-****artimanha	verb	Q2.2
 artista	noun	C1/S2mf K4/S2mf K2/S2mf
 artrite	noun	B2-
 artéria	noun	B1 M3
@@ -1404,7 +1367,6 @@ asa	noun	L2 M5 H2 S5+c K5.1/S2 M3 A10- O2
 asa	verb	A1.1.1 S7.1+ X9.2+ E3-
 ascendente	adj	M6 N5+/A2.1
 ascendente	adv	M6 N5+/A2.1
-****ascendente	verb	M1 M6/N3.7+ X9.2+/A2.1
 ascender	verb	M1 M6/N3.7+ X9.2+/A2.1
 ascensão	noun	N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4 S9 M1 T2+/S7.1+ A1.8+
 asceta	noun	E4.1-/S2mf S9/S2mf
@@ -1419,7 +1381,6 @@ asneira	noun	O1.1 X9.2-
 asneira	verb	X9.2-
 aspargo	noun	F1 L3
 aspas	noun	Q2.2 I1.3
-****aspas	verb	Q2.2 I1.3
 aspecto	noun	A4.1 A8 M6 M4/M7 F2
 aspirar	verb	B1
 aspiração	noun	X7+ Q3 S3.2
@@ -1445,7 +1406,6 @@ assente	adj	M8 X6+
 assentimento	noun	M1
 assentar	verb	M2- M8
 assento	noun	H5 B5 S1.1.3+ S7.1+ M7 O4.4 O2 B2- N5- Q4.3
-****assento	verb	M2 N3.2/H1
 assessor	noun	B3/S2mf Q2.1/S8+/S2mf S8+/S2mf I2.2/S2mf
 assim	adv	A13.3 Z5 Z5/A2.2
 assimétrico	adj	A6.1-
@@ -1469,7 +1429,6 @@ assombrado	verb	S9 E6-
 assombro	noun	X2.6-
 assunto	noun	I2.1 A1.1.1 A5.1+++ X4.1 C1/S2mf Q3 P1 S7.1-/S2mf
 assustador	adj	E5-
-****assustador	verb	E5-
 assustar	verb	E5-
 asséptico	adj	B3 B4
 assíncrono	adj	T1.1.2-
@@ -1510,7 +1469,6 @@ atentado	verb	E3- G3 X8+
 atento	adj	A1.3+ E6- X2.2+/A15- X2.6+/A15- X5.1+ S8+ X2.2+
 atenuar	verb	A12+/A2.1 N5-/A2.1
 atenção	noun	X5.1+ S8+
-****atenção	verb	X5.1+
 aterragem	noun	H2 M4 M5 G3 A9+ A2.2
 aterramento	noun	P1 M4 Q2.2 A1.7+ A2.2
 aterro	noun	M7/M4 M7/O2/X7- W5
@@ -1560,14 +1518,12 @@ atualizado	adj	T1.1.2
 atualização	noun	T1.1.2 T1.1.2/Q1.1
 atualizar	verb	T1.1.2 X2.2
 atualmente	adv	T1.1.2
-****atualmente	noun	T1.1.2
 atum	noun	F1 L2mfnc
 atuário	noun	I3.2/S2mf
 atávico	noun	T1.1.1
 até	conj	Z5
 até	noun	I1/O2
 até	prep	A13.1 A6.1+ O4.4 A1.4 N1 T1.3 Z5
-****até	verb	F4
 atómico	adj	Y1
 atômico	adj	Y1
 audaz	adj	E5+
@@ -1590,9 +1546,7 @@ aula	noun	P1 S9/Q4.1 P1c A4.1 S5+c O4.2+
 aumentado	verb	N5+/A2.1
 aumentar	verb	N5+/A2.1 A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 
 aumente	noun	Q3
-****aumente	verb	N5+/A2.1
 aumento	noun	N3.2+/A2.1 A5.1+/A2.1 L3 B2- N5+/A2.1
-****aumento	verb	M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4
 aura	noun	O4.1 E1
 aurora	noun	T1.2
 ausente	adj	A3- A10- A9- S1.1.3-
@@ -1607,12 +1561,10 @@ australiano	pnoun	Z1m
 austríaco	adj	Z2 Z2/S2mf
 austríaco	noun	Z2/S2mf
 ausência	noun	A1.9 A6.2+ S1.1.3- A3-
-****ausência	verb	A1.9
 autenticidade	noun	A5.4+
 auto-controle	noun	O4.1
 auto-destrutivo	adj	L1- A15-
 autocarro	noun	M3fn
-****autocarro	verb	M3
 autoconfiante	adj	S1.2.3+
 autocrata	noun	S7.1+/S2mf
 automaticamente	adv	O2/S5- X2.1- X7-
@@ -1648,13 +1600,11 @@ aval	noun	A7+/Q2.2
 avalizar	verb	A7+/Q2.2
 avalanche	noun	W4 N5+
 avaliador	noun	A5.1/S2mf N3.1/O2 N3.1
-****avaliador	verb	X6+ X2.4
 avaliar	verb	X2.4/A5 P1 I1.3 X6+
 avaliação	noun	A5.1 N2 X2.4/A5 P1 I1.3 X6/A7- N2/A7-
 avalista	noun	A7+/S2mf
 avaliável	adj	S7.2+
 avançado	adj	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 T3- A5.1+ Y1 A12- T4- T3+ M6 A5.1+/A2.1 S1.2.3+ O4.2+ X9.1+ X2.6+
-****avançado	adv	M6 T1.1.3
 avançado	noun	K5.1/S2mf
 avançar	verb	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 M2
 avanço	noun	I1.1 M1/G3 S3.2 A5.1+/A2.1+ S8+/X9.2+
@@ -1676,7 +1626,6 @@ aventureiro	noun	M1/X5.2+/S2mf G2.2-/S2mf
 avermelhado	adj	O4.3
 averso	adj	X7-
 aversão	noun	E2-
-****aversão	verb	O4.2-
 avesso	adj	A6.1- S8-
 avesso	noun	A6.1-
 avestruz	noun	L2mfn
@@ -1686,12 +1635,9 @@ avidez	noun	S1.2.2+ X5.2+
 avisar	verb	Q2.2/S8+ Q2.1/X2.2+ X2.2+ X2.4 Q2.1
 aviso	adj	X2.2+/A15- A1.3+
 aviso	noun	Q1.2 Q2.2 I3.1/Q2.2 G2.1/Q1.2 Q2.2/S8+ X2.2+/A15- A1.3+
-****aviso	verb	X2.2+/A15- A1.3+ X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 avião	noun	M5 M5fn M5fnc
 avulso	adj	N3.1+ A4.2- 
-*** avulso	adv	A1.7-
 avulso	noun	A1.7-
-*** avulso	verb	A1.7- A9- A6.1- S3.1-
 avó	noun	S4f
 avô	noun	S4m
 axial	adj	A4.2+
@@ -1715,21 +1661,16 @@ azáfamar	verb	A1.1.1 A13.3
 azafamar	verb	A1.1.1 A13.3
 açafrão	noun	L3
 aço	noun	O1.1 O2 S1.2.5+ O4.3
-****aço	verb	S1.2.5+
 açougueiro	noun	F1/S2mf L1-/S2mf
-****açougueiro	verb	L1- F1%
 ação	noun	A1.1.1
 açúcar	noun	F1 
 açúcarar	verb	F1 A5.1-/A2.1
 açúcar-cristal	noun	O1.1 F1
-****açúcar-cristal	verb	F1 O4.6-
 aéreo	adj	M5 Q1.3
 aí	adv	M6 T1.2 Z5
 babar	verb	B1
-****babado	verb	M1 E3-
 babador	noun	B5
 baboseira	noun	A5.2- F1 S1.2.6-
-****baboseira	verb	B1 X7+
 babuíno	noun	L2mfn
 bacalhau	noun	F1 L2mfnc
 bacanal	noun	E4.1+ S1.1.3+/F2 S1.1.3+/F2/S2mf S3.2
@@ -1790,7 +1731,6 @@ balão	noun	M5 K6 O4.4
 balão	verb	N3.2+/A2.1 M5%
 balé	noun	K4
 bamboleio	noun	M1
-****bamboleio	verb	M1
 bambu	noun	L3
 banal	adj	X5.2- A6.2+
 banalidade	noun	A6.2+++
@@ -1799,18 +1739,14 @@ banca	noun	H5 G2.1c S7.1+/S5+c O2 O1.1 H4 P1 K5.1
 bancada	noun	H5 G2.1c Y2%
 bancarrota	noun	I1.2+ A5.1-
 banco	noun	H5 B1% I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 G2.1c
-****banco	verb	I1.1 X2.6+ M1
 bancário	noun	I1.1 X2.6+ M1 H1 I1.1/S2mf
 banda	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 K2c O2
 banda	verb	S5+
 bandagem	noun	B3/O2 Q2.1%
-****bandagem	verb	B3
 bandeira	noun	O2 O4.3 Q1.1 O2/H1
-****bandeira	verb	O4.3 A2.1+ Q1.1 N5-/A2.1 B2-/A2.1 H1
 bandeja	noun	F1 O2
 bandido	noun	G2.1-/S2mf
 bando	noun	G3/S5+ S5+ L2/S5+c S9/S5+c S5+c H5% K2c A4.1 O2 A4.1c B3%
-****bando	verb	M1/N5+
 bandolim	noun	K2
 banha	adj	N3.2+ N5+ O4.4 O4.2
 banha	noun	F1 O1
@@ -1824,7 +1760,6 @@ baque	noun	X3.2 X9.2- A5.1-
 bar	noun	F2/H1 F2/H1c M3fn H2 F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2
 bar	verb	F2
 baralhamento	noun	M1 A2.1+
-****baralhamento	verb	M1 A2.1+
 barata	noun	L2 L2mfnc
 barato	adj	I1.3- A5
 barato	noun	I1.3-
@@ -1835,14 +1770,10 @@ barbearia	noun	B4/H1
 barbeiro	noun	B4/S2mf
 barbitúrico	noun	F3 B3
 barbotina	noun	A5.3- Q1.2 B5 C1/O1.2@
-****barbotina	verb	M1 A9- A2.1+ A5.1-/A2.1
 barbudo	adj	O4.2
 barca	noun	M4fn
-****barca	verb	M1/E3-
 barcaça	noun	M4fn
-****barcaça	verb	M1/E3-
 barco	noun	M4fn
-****barco	verb	M4
 baronesa	noun	S7.1+/S2.1f
 baronete	noun	S7.1+/S2.2m
 barra	noun	F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 N3.6 M7 C1 B5/K5.1 O4.3 S7.1+/O4.3
@@ -1852,7 +1783,6 @@ barraca	noun	H1 I2.2/H5 L2/H1 H5
 barraca	verb	M8 T1.3
 barraco	noun	H1 L2/O2
 barragem	noun	G3 N5+ H1/M4 F4 S8- A10- O2 S1.2.1-
-****barragem	verb	H1/M4 N5+
 barreira	noun	S8- A10- O2 S1.2.1-
 barriga	noun	B1 O2
 barro	noun	O1.1 E2-/Q2.2
@@ -1861,7 +1791,6 @@ barroco	noun	C1 K2
 barulhentamente	adv	X3.2+
 barulhento	adj	E3-
 barulho	noun	E3- X2.5- X5.2+ Q2.2 X3.2
-****barulho	verb	E3- Q2.2
 barão	noun	S7.1+/S2.2m
 barítono	noun	K2/S2.2m X3.2
 barómetro	noun	W4/N3.1
@@ -1877,7 +1806,6 @@ bastar	verb	N5
 bastidores	adj	M6/K4
 bastidores	adv	M6
 bastão	noun	K5.1/O2 L2mfn S2.1f/T3+ L3 O2 G2.1
-****bastão	verb	G2.1 K5.1
 batalha	noun	A1.1.1 G3 X8+ E3- O2
 batalhar	verb	A1.1.1 X8+ G3 E3-
 batalhão	noun	G3/S5+c
@@ -1891,7 +1819,6 @@ batente	noun	O2
 bater	verb	X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1
 bateria	noun	K2 A1.1.1 O3 G3 G3/S5+c F4
 batida	noun	X3.2 K2 M6 M7
-****batida	verb	X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1
 batido	adj	O4.1
 batina	noun	B5/S9
 batismal	adj	S9
@@ -1946,7 +1873,6 @@ benefício	noun	S8+ I1.1/G1.1
 beneficiar	verb	S8+
 benevolente	adj	S8+
 bengala	noun	L3 O2 G2.1
-****bengala	verb	G2.1
 benigno	adj	S1.2.1+ B2+ E3+
 bens	noun	I2.2/O2 O2
 benzeno	noun	O1.2
@@ -1954,18 +1880,14 @@ bergamota	noun	F1
 beringela	noun	L3 F1
 berinjela	noun	L3 F1
 berço	noun	H5 O2 M7/T2+ M7 Q1.2/A10- K5.2
-****berço	verb	M2 Q1.2/A10-
 berçário	noun	P1/H1c F4 H2
 besouro	noun	L2mfn K5.2
-****besouro	verb	A1.1.1 M1
 besta	noun	L2mfn E3-/S2mf
 besteira	noun	Q2.1/A5.2-
-****besteira	verb	Q2.1/A5.2-
 beta	noun	Q3
 beterraba	noun	L3
 betume	noun	O1.2
 bexiga	noun	B1 O2 E1
-****bexiga	verb	O4.5 X3.2 A1.1.1 E1
 bezerro	noun	L2mfn B1 O1.1
 bibliografia	noun	Q4.1 Q4.2
 biblioteca	noun	Q4.1/H1c
@@ -1986,7 +1908,6 @@ bigode	noun	B1
 bigorna	noun	O2
 bilateral	adj	S5+
 bilhete	noun	Q1.2
-****bilhete	verb	Q1.2
 bilheteira	adj	Q4.3
 bilhão	noun	N1 I1
 bilhão	num	N1 I1
@@ -2047,35 +1968,27 @@ boiadeiro	noun	F4/S2.2m
 boicote	verb	S1.1.3- A1.8-
 boina	noun	B5
 bojo	noun	O2 X3.2
-****bojo	verb	K5.1 M2
 bojudo	adj	N3.2+
 bola	noun	O2/O4.4 K5.1 B1 K1
-****bola	verb	O4.4
 bolacha	adj	S3.2/B1
 bolacha	noun	F1 O4.3 G3 S3.2/S2.1f
 bolero	noun	K1 B5
 boletim	noun	Q4.3 Q4.2
 bolha	noun	B2- O2
-****bolha	verb	B2- A1.1.1 O4.5 X3.2 E1
 boliche	adj	K5.1
 boliche	noun	K5.1
-****boliche	verb	K5.1 M2
 bolinho	noun	F1
 boliviano	adj	Z2
 boliviano	noun	Z2/S2mf
 bolo	noun	F1 
-****bolo	verb	O4.1
 bolorento	adj	O4.2- O4.1
 bolota	noun	L3
 bolsa	noun	B5 O2 B5/I1
-****bolsa	verb	B1
 bolso	noun	B5 O2 I1.1 
-****bolso	verb	A9+ K5.2%
 bom	adj	A5.1+ G2.2+ A1.5.2+ O4.2+ N3.2+ S1.2.1+
 bom	adv	A5.1+ G2.2+ O4.2+
 bom	noun	A5.1+ G2.2+ A1.5.2+
 bomba	noun	G3 O2 
-****bomba	verb	M2 A1.1.1 A9- Q2.2 S8+ B3
 bomba-A	noun	G3
 bombardear	verb	G3 N5+ Q2.2 A1.1.1
 bombardeiro	noun	M5/G3fn G2.1-/S2mf
@@ -2088,7 +2001,6 @@ bonde	noun	M3fn
 bondoso	adj	S1.2.4+ O4.2+
 bondoso	intj	Z4
 boneca	noun	K6
-****boneca	verb	B5
 boneco	noun	K6
 bonificação	noun	I1.1 I1.3 A11.1+
 bonito	adj	A13.5 O4.2+ N5+
@@ -2098,7 +2010,6 @@ boquiaberto	adj	E5- O4.1
 borboleta	noun	L2mfn M4 O2
 borda	noun	B1 O2 S1.2.4- I1/H1 I1.1/I2.1c W3/M4 A9+/H1 M6 N5 Q1.2 N5.2+ M7 A6.2- T1.2 S7.1+@
 bordar	verb	A1.1.1 C1
-****borde	verb	B5 Q2.2
 bordel	noun	S3.2/H1c
 bordo	noun	B1 O2 S1.2.4- L3
 borracha	noun	O1.1 Q1.2/O2 I1.2% O2
@@ -2211,12 +2122,10 @@ bulbo	noun	O3 L3 O2
 bulevar	noun	M3/H3
 bumerangue	noun	O2
 bunda	noun	O2 F3 B1 E3- S7.1-@ S1.2.6-/S2mfn L2mfn B1@
-****bunda	verb	E3-
 buquê	adj	S1.2.3+
 buquê	noun	L3 X3.1 X3.5
 buraco	adj	O4.1 X9.2-
 buraco	noun	W3 H4/L2 M7/O4.2- K5.2
-****buraco	verb	M1 A1.1.1
 burgo	noun	M7c G1.1c
 burguês	adj	G1.2 E2-
 burleta	noun	S7.2-/Q1.2 S7.2-/K4
@@ -2227,8 +2136,6 @@ burro	adj	L2mfn S1.2.6-/S2mf E4.1+/S2mf F1 S1.2.6-/S2mfn B1@
 burro	noun	L2mfn S1.2.6-/S2mf E4.1+/S2mf F1 S1.2.6-/S2mfn B1@
 busca	noun	X2.4
 buscar	verb	X2.4
-****busque	noun	M2
-****busque	verb	M2 I1.3
 butano	noun	O1.3
 buzina	noun	O2/X3.2
 bálsamo	noun	B3/O1.1 B4/O1.1
@@ -2241,14 +2148,11 @@ béquer	noun	O2
 bérbere	adj	Z2 Z2/Q3
 bérbere	noun	Z2/S2mf
 bétula	noun	L3 L2mfnc
-****bétula	verb	G2.1
 bêbedo	adj	F2++
 bêbedo	noun	F2+++/S2mf
-****bêbedo	verb	F2/B1
 bênção	noun	S9/Q2.2 S8+
 bígamo	noun	G2.1-/S2mf
 bílis	noun	B1 E3- S1.2.3+
-****bílis	verb	E3-
 bóia	noun	M4/O2 O2 I1 M3 F2 M4
 boiar	verb	M1 A1.1.1
 bórax	noun	O1.1 B4
@@ -2381,31 +2285,24 @@ cambalhota	verb	M1
 cambista	noun	O2 Y2
 camelo	noun	L2mfn
 camelô	noun	I2.2/S2mf
-****camelô	verb	I2.2
 caminhada	noun	B1 K5.1 N3.3 M1 L2 X9.2+/A12+
 caminhar	verb	B1/L2 M1 K5.1%
 caminho	noun	K5.1 X9.2+ Q1.2 W3 S3.2 M3 M1 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3
-****caminho	verb	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8
 caminhão	noun	M3fn O2
-****caminhão	verb	M3 
 camionete	noun	M3fn
 camisa	noun	B5 O2 A10- Q4.1 I1.1 H5
-****camisa	verb	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
 camiseta	noun	B5 F1@
 camisinha	noun	B3/O2 O1.1 Q1.2/O2 I1.2%
 camisola	noun	B5
 camomila	noun	F2 L3
 campainha	noun	O2/X3.2 O4.4
 campanha	noun	X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 
-****campanha	verb	X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3
 campanário	noun	H2 S9/H2
 campeonato	noun	K5/S7.3+ S7.1+/K5 S8+@
 campestre	adj	F4/M7 A6.2+ O4.2- X9.1-
 campestre	noun	F4/S2mf C1-/S2mf
 campeão	noun	X9.2+/S7.3/S2mf S7.3/S2mf
-****campeão	verb	S8+
 campo	noun	F4 W3 M7 K5.1/M7 G3@ A4.1 G2.1 H3 M7/K5.2 W3/L3 G1.1c F4/M7 K2
-****campo	verb	K5.1 A1.1.1 S3.2 X7+
 camponês	adj	F4/S2mf C1-/S2mf O4.2-/S2mf
 camponês	noun	F4/S2mf C1-/S2mf O4.2-/S2mf
 camuflar	verb	A10-
@@ -2415,7 +2312,6 @@ canadense	noun	Z2/S2mf
 canal	noun	W3/M4 B1 X4.2 Q4.3 Q1.3 O2 Z2
 canaleta	noun	W3/M4 X4.2 Q4.3 Q1.3 O2
 canaleta	pnoun	Z2
-****canaleta	verb	M2 A2.1+
 canalha	noun	L2
 cancela	noun	K5.1
 cancelamento	noun	T2-
@@ -2426,13 +2322,11 @@ candeeiro	noun	O2/W2 O3
 candeia	noun	O2/W2 O3
 candente	adj	O4.6+ X5.2+ A11.1+ E3-
 candente	noun	O4.6+ E1 A1.5.1
-****candente	verb	O4.6+ E1 A1.5.1
 candidato	adj	A7+ A1.2+
 candidato	noun	G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ X7+/S2mf
 candidatura	noun	G1.2
 canela	noun	B1/L2 F1
 caneta	noun	Q1.2/O2 
-****caneta	verb	Q1.2
 canguru	noun	L2mfn
 canhão	noun	G3
 canibal	noun	F1/S2/S2mf L2
@@ -2551,21 +2445,14 @@ carretel	verb	M2
 carretilha	noun	O2 K2%
 carretilha	verb	M1/E3- E4.1-
 carreto	noun	I1.3/M3 M3/S2mf F1
-****carreto	verb	X9.2
 carrilhão	noun	X3.2
-****carrilhão	verb	X3.2
 carrinho	noun	M3fn K6
-****carrinho	verb	M2 M3
 carriça	noun	L2mf
 carro	noun	M3 M3fn
-****carro	verb	M2 M3
 carrossel	noun	K1 K6
 carroça	noun	M3fn M4/H1 B5
-****carroça	verb	G2.2- M4 A1.1.1
 carta	noun	Q1.2 Q3
-****carta	verb	I2.2 I3.2%
 cartaz	noun	Q1.2 Q1.1
-****cartaz	verb	Q1.2
 carteira	noun	B5/I1
 carteiro	noun	Q1.2/I3.2/S2.2m
 cartel	noun	I2.1/S5+c
@@ -2573,7 +2460,6 @@ cartomante	noun	T1.1.3/S9/S2mf
 cartucho	noun	O2
 cartunista	noun	C1/S2mf
 cartão	noun	Q1.2 I1/O2/Q1.1 
-****cartão	verb	B5
 caruncho	noun	L2c
 carvalho	noun	O1.1 L3
 carvão	noun	O1.1
@@ -2581,7 +2467,6 @@ carácter	noun	S1.2 S2mf K4/S2mf S2mf/A6.2- Q1.2 A4.1 O4.2+
 carência	noun	S6+
 carícia	adj	T3-
 carícia	noun	A1.1.1 E2
-****carícia	verb	A1.1.1
 casa	adv	H4 M6
 casa	noun	H1 P1/S5+c G1.1c H4/H1c M6
 casa	verb	H4 M1/M6
@@ -2591,7 +2476,6 @@ casamenteiro	noun	S3.2/S2mf
 casamento	noun	S4
 casamento	verb	S4
 casca	noun	B1 F1/L3 L2/X3.3 L3/O1 L3 F1
-****casca	verb	F1/L3 A1.1.1 B1
 cascalho	noun	O1.1 O2
 cascata	noun	O1.2/W3 N5+
 casco	noun	L2 B1@
@@ -2762,16 +2646,12 @@ certo	adj	A13.3 A13.2 A4.2+ A7+ A5.3+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 Z4 S7.4+ G
 certo	adv	A13.3 A13.2 A4.2+ A7+ A5.3+ A1.2+ G2.2+ M6 N3.2+ A5.3+/A2.1 Z4 S7.4+ G1.2 A5.2+ A5.4+
 certo	intj	Z4
 certo	noun	A7+ S7.4+ G2.2+ M6 G1.2
-****certo	verb	A5.3+/A2.1
 cerveja	noun	F2
 cervos	noun	L2mfnc
 cerâmica	adj	O1.1
 cerâmica	noun	C1 O1.1
 cessar	verb	T2-
 cessação	noun	T2- I1.3
-****cessação	verb	T2-
-****cesse	verb	T2-
-****cessão	verb	S7.1- A2.1+ A1.1.1 A9-
 cesta	noun	O2 K5.1 O4.4
 cesto	noun	O2 K5.1
 cetim	noun	B5
@@ -2782,7 +2662,6 @@ chama	noun	G3 O4.6+ A11.2+ X5.2+ S3.2 E2+ S9@ S3.2/S2mf Q2.2%
 chamar	verb	Q2.2 S1.1.1 Q1.3 A11.2+
 chamado	adj	A8 Q2.2
 chamado	noun	Q2.2 S1.1.1 Q1.3 X7+ S9%
-****chama	verb	Q2.2 S1.1.1 Q1.3 
 chamador	noun	Q1.3/S2mf S1.1.1/S2mf Q2.2/S2mf K1/S2mf
 chaminé	noun	H2
 champanha	noun	F2 O4.3
@@ -2790,7 +2669,6 @@ champanha	pnoun	Z2
 champanhe	noun	F2 O4.3
 champanhe	pnoun	Z2
 chance	noun	A1.4 A7+
-****chance	verb	A1.4
 chanceler	noun	S7.1+/S2mf
 chantagem	noun	G2.1-
 chantagear	verb	G2.1- A2 X2
@@ -2803,10 +2681,8 @@ chassi	noun	M3
 chatice	noun	X5.2-
 chato	adj	E3- O4.2- X5.2- A1.1.1@ S1.2
 chato	noun	E2 X5.2-/S2mf X5.2- 
-****chato	verb	X5.2- A1.1.1
 chave	adj	A11.1+
 chave	noun	E4.1- O2 X9.2+ Q1.2
-****chave	verb	A1.1.1 M2
 chaveiro	noun	C1/S2mf
 chefe	adj	S7.1+
 chefe	noun	F1/S2mf S7.1+ S7.1+/I3.1/S2.2m S7.1+/G2.1/S2.2m S7.1+/S2mf
@@ -2963,12 +2839,10 @@ claustro	noun	H3/S9 S9/S5- S9/H1
 claustro	verb	S5-
 claustrofobia	noun	B2-/X1
 clava	noun	O2 G3
-****clava	verb	K1 E3- S5+
 clavícula	noun	B1
 clerical	adj	Q1.2 S9
 clero	noun	S9c
 cliente	noun	I1 I1.3 I2.1 Q2.2 Y2 I2.2/S2mf
-****cliente	verb	Q2.2
 clima	noun	W4 A1.1.1 E1
 climático	adj	W4
 clique	noun	X3.2 Y2
@@ -2977,13 +2851,10 @@ clone	noun	A6.1+mfn
 cloro	noun	O1.3
 club	noun	S5+c O2
 clube	noun	S5+c O2
-****clube	verb	K1 E3- S5+
 clubes	noun	S5+ O2 K5.2@
-****clubes	verb	K1 E3- S5+
 clássico	adj	A4.1 A5.1+ T3+ K2 Q4.1
 clássico	noun	A4.1 Q4.1 K2
 cláusula	noun	A9- A9+ N4 G2.1 Q1.2 Q3
-****cláusula	verb	A9-
 clérigo	noun	S9/S2.2m
 clímax	noun	X5.2+ S3.2
 clínica	noun	B3 B3/H1
@@ -2994,7 +2865,6 @@ coador	noun	O2
 coalizão	noun	S5+c
 cobardia	noun	E5-/S1.2
 coberto	adj	A10- M1 N3.6 I1.1 A1.8+ N5 Q2.1 S8+ A1.1.1
-****coberto	verb	B5 O4.1
 cobertor	adj	N5.1+
 cobertor	noun	H5 O2 N5.2+
 cobertura	noun	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1
@@ -3004,14 +2874,12 @@ cobrança	noun	A9+ I1 B5
 cobrar	verb	I1.3 O3 G2.1 M1 G3%
 cobre	adj	O4.3
 cobre	noun	O1.1 I1.1 G2.1/S2mf
-****cobre	verb	I1.1 O4.3
 cocaína	noun	O1
 cocheiro	noun	M3/S2.2m
 cochilo	noun	B1
 cochilar	verb	B1 A1.1.1
 coco	noun	F1 L3
 cocô	noun	B1
-****cocô	verb	B1
 codificação	noun	Q1.1 Y2 Y1/B1
 codificar	verb	Q1.1 Y2 Y1/B1
 codorniz	noun	L2
@@ -3134,7 +3002,6 @@ comestível	adj	F1
 cometa	noun	W1
 começar	verb	T2+ E5- E3-
 começo	noun	T2+ E5-
-****começo	verb	T2+ E5- E3-
 comida	noun	F1
 comissionamento	noun	I2.2 G3/S7.1+
 comissionar	verb	I2.2 S7.1+
@@ -3148,11 +3015,9 @@ como	conj	A13 A6.1+ E2+ Z4 Z5 A13.3
 como	prep	Z5
 comodidade	noun	A1.2+ A1.5.2 O2
 comoção	noun	E1
-****comoção	verb	A1.1.1 M1
 compacto	adj	B4/O2 N3.2- N5+ A12- X9.1-
 compaixão	noun	E4.1-
 companheiro	noun	I3.2/S2mf S3.1/S2mf S2.2m P1/S2mf S3.1/S2.2m S3.2/S2mf S4/S2mf M4/S2.2m K5.2
-****companheiro	verb	S3.2
 companhia	noun	I2.1/S5+c S5+c S3.1 K4/S5+c
 comparativamente	adv	A6
 comparativo	adj	A6 Q3
@@ -3286,7 +3151,6 @@ condimento	noun	F1
 condição	noun	O4.1 S6+ B2- B2+ Z7
 condomínio	noun	H1
 conduta	noun	S1.1.1 A1.1.1
-****conduta	verb	A1.1.1 S1.1.1 K2 O4.1
 conduto	noun	 M3 M4 M5 
 condutor	noun	A15+/I3.2/S2mf O2 K2/S2mf I3.2/M3/S2mf O3 M3/S2mf O2 S7.1+/S2mf  A5.1+++/S2mf Q4.2 G2.1/S2mf
 condutor	adj	A1.1.1 M2
@@ -3301,7 +3165,6 @@ conferência	noun	S1.1.3+
 confiante	adj	E6+ S2mf S7.1-
 confiante	noun	S2mf
 confiança	noun	A5.1+ I1.1 X2.1 P1 S7.1- E6+ A10- S5+c B3/H1c
-****confiança	verb	I1.1 X2.1 A9- E6+ X2.6
 confiar	verb	Q2.2/A10+ X2.1 A9- E6+ 
 confiavelmente	adv	A5.1+ A5.3+
 confidencial	adj	A10- S5- G1.1-
@@ -3329,11 +3192,9 @@ confraria	noun	S5+c P1
 confronto	noun	A6.1- G3 S1.1.1/E3- B3
 confundir	verb	X2.5-
 confuso	adj	A7- X2.5- O4.1
-****confuso	verb	X2.5-
 confusão	adj	A1.3-
 confusão	adv	A1.3-
 confusão	noun	A1.1.1 K5.2 X2.5-
-****confíe	verb	Q2.2/A10+
 congelado	adj	O4.6-
 congelado	verb	O4.6- M8 T2- E5-
 conhaque	noun	F2
@@ -3500,11 +3361,9 @@ contribuinte	noun	A9-/S2mf Q4.1/S2mf I1.1/S2mf
 contribuição	noun	A9- A2.2 S1.1.3+
 contributo	noun	A9- A2.2 S1.1.3+
 contrito	adj	Z4 E4.1- O4.2-
-****contrito	intj	Z4
 controle	noun	M6 S7.1+ A1.7+ O2
 controlo	noun	S7.1+ A1.7+ O2
 controvérsia	noun	Q2.1 Q2.2
-****controvérsia	verb	M2 M1 A2.2@
 contrário	adj	A6.1- S1.2.1-/S2mfc S8-
 contrário	noun	A6.1- S1.2.1-/S2mfc S8-
 contudo	adv	A13.1 Z4 Z5
@@ -3513,7 +3372,6 @@ contundente	noun	I3.1-/G1.2 E3- A1.1.1 A11.2+ A8 E2+ X3.2
 contusão	noun	B2- A1.1.2
 contundir	verb	B2- A1.1.2
 contíguo	adj	S5 M6
-****contíguo	noun	M6 A1.8+
 contínuo	adj	O1.1 O4.5 A5.1+ A5.3+ T2++ N6+
 contínuo	noun	O1.1
 convencidamente	adv	S1.2.3+
@@ -3655,11 +3513,9 @@ costa	verb	S5-
 costado	noun	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2
 costado	verb	S5+
 costela	noun	B1 F1 
-****costela	verb	E4.1+
 costeleta	noun	F1
 costume	noun	A6.2+ S1.1.1 I2.2 B5@
 costumeiro	adj	A6.2+
-****costumeiro	verb	A6.2+
 costumes	noun	A6.2+ G2.1/I2.2
 costura	adj	C1 A1.1.1
 costura	noun	B3 B1 B5 W3 C1 A1.1.1
@@ -3671,12 +3527,9 @@ cotidiano	adj	T1.1.2 A6.2+
 cotovelada	noun	A1.1.1 B1 M2 
 cotovelar	verb	A1.1.1
 cotovelo	noun	B1
-****cotovelo	verb	E3-
 cotovia	noun	L2mfn E4.1+ A1.1.1
-****cotovia	verb	E4.1+
 couraçado	adj	O4.1 G3
 couro	noun	L2 B1 O1.1
-****couro	verb	A10- E3- M1/N3.8+
 cousa	noun	O2 X4.1 A7- S2mf L2mf
 couve	noun	F1
 couve-flor	noun	F1 L3
@@ -3687,17 +3540,13 @@ covardia	noun	E5-/S1.2
 coxa	noun	B1
 coxia	noun	H2
 coxim	noun	H5 
-****coxim	verb	S8+
 coxo	adj	B2-
 coxo	noun	B2-/S2mf
-****coxo	verb	B2- A1.1.2
 cozer	verb	A1.1.1 A2.2 F1 O4.6
 cozido	adj	F1 O4.1
 cozido	noun	F1
-****cozido	verb	F1 E6-
 cozinha	noun	F1/H2
 cozinheiro	noun	F1/S2mf
-****cozinheiro	verb	F1
 craquelada	adj	B2-/X1
 cratera	noun	W3
 cravo	noun	B2- L3
@@ -3872,7 +3721,6 @@ célebre	adj	A11.1+/S2mf S7.2+
 célebre	noun	A11.1+/S2mf
 célula	noun	B1 G2.1/H2 S9/H2 S5+c O3
 cérebro	noun	B1 X2 X9.1+ X9.1+/S2mf
-****cérebro	verb	E3-
 céu	noun	S9 E2+ W1
 cílios	noun	B1
 címbalo	noun	K2
@@ -3882,7 +3730,6 @@ círculo	noun	O4.4 S5+c
 circular	verb	M1
 cível	adj	G1.1 S1.2.4+ G2.1 H1%
 cócegas	noun	X3.3
-****cócegas	verb	A1.1.1 X3.3 E2+
 código	noun	G2.1 A10-/Q1.1 G2.2 Q1.2 Y2@ 
 codificar	verb	A10-/Q1.1 A4.1 Y2@ 
 cólera	noun	E3- B2-
@@ -3904,9 +3751,7 @@ cônjuge	noun	S4mf
 cônsul	noun	G1.1/S2mf
 cúmplice	noun	G2.2-/S2.2m S8+/S2mf
 cúpula	noun	H2 M1 K5.1 O4.4
-****cúpula	verb	M1 K5.1
 cútis	noun	B1 
-****cútis	verb	A1.1.1/L2
 da	prep	Z5
 dactilógrafa	noun	Q1.2/S2mf
 dado	adj	A4.2+ A9-
@@ -3914,7 +3759,6 @@ dado	noun	K5.2 O2
 dado	prep	Z5
 dar	verb	A9- A1.1.1 
 dados	noun	K5.2 O2 X2.2/X2.4 Q1.1 Y2
-****dados	verb	A15-
 dama	noun	S2.1f S7.1+/S2.1f S3.2/S2.2m K5.2
 danificado	adj	A1.1.2
 dano	noun	A1.1.2 I1.1+/G2.1
@@ -3923,7 +3767,6 @@ dançarina	adj	K1
 dançarino	noun	K1/S2mf
 daqui	adv	A2.2
 dardo	noun	O2 K5.1 
-****dardo	verb	M1/N3.8+
 data	noun	T1.2 S3.2 S3.2/S2mf
 datilógrafo	noun	Q1.2/S2mf
 dazassete	num	N1 T3 T1.2
@@ -4090,24 +3933,17 @@ depreciação	noun	I1.3-
 depredação	noun	A1.1.2
 depressa	adj	N3.8+
 depressa	adv	F1- N3.8+
-****depressa	noun	F1-
-****depressa	verb	F1-
 depressão	noun	E4.1- B2-/X1 I2.1/N5- O4.4 W4
 deputado	adj	A6.2+ G1.1 A4.1 S1.1.3
 deputado	noun	Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 S7.1-/S2mf
 depósito	noun	A9+/H1 I1.1 M7 M2 N5 
 depositar	verb	M2 I1.1 I2.2/I1.3- S3.1- 
 deque	noun	M6 M4 O2
-****deque	verb	O4.1
 derivado	adj	A2.2 Q3
 derivado	noun	A2.2 Q3
-****derradeiro	noun	O2
 derradeiro	adj	N4
-****derradeiro	verb	T2++ T1.3
 derramar	verb	A1.1.1
-****derrame	adj	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
 derrame	noun	B2 A2.1 A2.1 
-****derrame	verb	A1.1.1 A1.1.1/O1.2 W4 M1/N5+
 derrapagem	noun	M1 O2
 derrapar	verb	M1
 derretido	adj	O4.5/O4.6+
@@ -4115,7 +3951,6 @@ derrocada	noun	O4.2- B2-/S2mf E1/S2mf
 derrocar	verb	A1.1.2
 derrota	noun	X9.2-
 derrotar	verb	X9.2+/G3 X9.2+/S7.3 A12-
-****derrotar	verb	S7.1+
 derrubar	verb	A1.1.2 F1
 desabrigado	adj	H4-
 desabrigado	noun	H4-/S2c
@@ -4126,7 +3961,6 @@ desafiante	adj	X2.5-
 desafiante	noun	X2
 desafiar	verb	X2 S7.3+ Q2.2
 desafio	noun	A12- A6.1- S7.3+ E3- A2.2 S8-
-****desafio	verb	A6.1- S7.3+ Q2.2
 desagrado	noun	E2- E4.2-
 desagradar	verb	E2-
 desagradável	adj	O4.2-
@@ -4351,21 +4185,16 @@ desumanidade	noun	G2.2-
 desumano	adj	E3-
 desvalorização	noun	A11.1-/A2.1 I1.1-/A2.1
 desvanecimento	adj	O4.2- O4.1
-****desvaneça-se	noun	Q4.3
 desvanecer	verb	O4.3 A10- N5-/A2.1
 desvantagem	noun	A5.1- 
-****desvantagem	verb	A5.1-
 desvantajoso	adj	A5.1-
 desvario	noun	A2.1 X2 
 desvariar	verb	A2.1 X2
 desviar	verb	A2.1  M1 M6 A6.1- X5.1-
 desvio	noun	M3
-****desvíe	verb	M2 X5.1-
 desânimo	noun	E6-
 desanimar	verb	E6-
-****detalhada	adv	A1.8+
 detalhado	adj	A4.2+
-****detalhado	noun	P1
 detalhe	noun	A4.2+ 
 detalhar	verb	A4.2+ Q2.2
 detective	noun	G2.1/S2mf
@@ -4378,7 +4207,6 @@ determinado	adj	A1.7+ A2.1- X6+ A7+ A2.2 A4.2+
 determinar	verb	A1.7+ X6+ A5.3+ A7+
 determinante	adj	A11.1+ A11.2+ X6+ A7+
 determinante	noun	N2
-****determinante	verb	A2.2 A7+ X6+
 determinação	noun	X6+ A2.2 A7+
 detestar	verb	E2-
 detetive	noun	G2.1/S2mf
@@ -4386,7 +4214,6 @@ detrás	adv	B1 M6 A6.1- Z5
 deturpação	noun	A5.3-
 deus	noun	Z4 S9
 deusa	noun	S9/S2.1f
-****deva	verb	I1.2 S6+ T1.1.3
 devagar	adv	N3.8- T1.3+ X9.1- A5.3-/T1
 devaneio	noun	X5.1-
 devastação	noun	A1.1.2 E4.1-
@@ -4574,7 +4401,6 @@ distorcido	adj	Q2.2/S1.2.4- O4.4
 distorção	noun	A2.1+
 distração	noun	X5.1-
 distraído	adj	S1.2.3+ X5.1-
-****distriba	verb	A9-
 distribuir	verb	A9- M2
 distribuidor	noun	I2.2/S2mf O3/M3
 distribuição	noun	A9- N5
@@ -4586,7 +4412,6 @@ ditado	noun	Q2.1
 ditador	noun	S7.1+/S2mf Q2.2/S2mf
 ditadura	noun	S7.1+
 ditame	noun	Q2.2
-****dito	verb	Q2.1
 ditoso	adj	O4.2+
 diurético	adj	B1
 diurético	noun	B1/O1
@@ -4605,7 +4430,6 @@ divertimento	adj	E4.1+
 divertimento	noun	E4.1+
 divertir	verb	K1 S1.1.1 S7.4+
 divida	noun	A6.1-/E3- T1.2/A2.1+ W3
-****divida	verb	A6.1- A9-/N5.1 N2
 dividendo	noun	I1.1 S8+
 dividido	adj	S8-
 dividido	adv	A6.1-
@@ -4617,15 +4441,11 @@ divisória	noun	A6.1- H2
 dividir	verb	A1.1.1 N2 A6.1-
 divulgado	adj	Q4.3
 divulgado	noun	Q4.3
-****divulgado	adj	Q4.3
 divulgar	verb	Q2.2 Q4.3
 divulgação	noun	F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2 Q2.2 S7.1- Q4
 divã	noun	H5
-****divã	verb	M6 Q2.2
 divórcio	noun	S4 A6.1-
 divorciar	verb	S4 S5- A6.1-
-****diz-que-diz-que	noun	Q2.2
-****diz-que-diz-que	verb	Q2.2
 dizer	verb	Q2.1 Z4%
 diácono	noun	S9/S2mf
 diáfano	adj	O4.1
@@ -4802,7 +4622,6 @@ echarpe	noun	B5
 eclesiástico	adj	S9
 eclesiástico	noun	S9/S2mf
 eclipse	noun	W1 W3
-****eclipse	verb	A10- N5.2+
 eclusa	noun	H2/O1.2 A1.7+
 eco	noun	X3.2
 ecoar	verb	X3.2 Q2
@@ -4819,17 +4638,12 @@ edificação	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 O2 X2.1
 edifício	noun	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1
 edital	noun	G2.1
 editar	verb	Q1.2 Q3 Q4
-****edite	noun	Q1.2 Q4
-****edite	verb	Q1.2 Q4
-****edito	noun	Q2.2 G2.1
-****edito	verb	Q2.2
 editor	noun	Q4.1/S2mf Q4/I3.2/S2mf Y2
 editoria	noun	N5.1- S5+c B3 Y1 C1/H1@
 editoriar	verb	A1.1.1 X2
 editorial	adj	Q1.2 Q4 Q4.2
 editorial	noun	Q4.2
 edição	noun	Q4 X4.1 Q4.2 S4 A9-
-****edição	verb	A9-
 edredom	noun	H5 O1.1 L2
 educacional	adj	P1
 educado	adj	P1 S1.2.4+
@@ -5003,12 +4817,10 @@ empregador	noun	I3.1/S2mf
 emprego	noun	I3.1 A1.1.1 
 empregar	verb	I3.1 A1.1.1 
 empresa	noun	I2.1 A1.1.1 A5.1+++ I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c X8+
-****empresa	verb	X8+
 emprestar	verb	A9- I1
 empresário	noun	I2.1/S2mf
 empréstimo	adj	A9-
 empréstimo	noun	A9- I1.2
-****empréstimo	verb	A9-
 empurrão	noun	M2 M1 E3
 empurrar	verb	M2 M1 E3
 empático	adj	S1.2.1+
@@ -5020,7 +4832,6 @@ encafifado	noun	E5- X9.2
 encafifar	verb	E5- S1.2.1- X9.2
 encaixar	verb	A9+ A1.2+ S5+
 encaixe	noun	O2 N3.6 M7 T1.3 B5 O3
-****encaixe	verb	A1.1.1 K2
 encalço	noun	A1.1.1 X8+ X2.4 M1
 encanador	noun	H2/S2mf
 encanamento	noun	H5
@@ -5033,13 +4844,11 @@ encaracolado	noun	O4.4
 encardido	adj	O4.2- O4.3
 encardir	verb	O4.2- O4.3
 encargo	noun	I1.3 S6+ G1.1/I1.3 
-****encargo	verb	I1.3 O3 G2.1 M1 G3%
 encarnado	adj	O4.3 G1.2 S9 A3+
 encarnado	noun	O4.3 G1.2/S2mf
 encarnação	noun	S9 A3+
 encarregado	adj	A2.2 S6+ S7.1 S1.2.6+ X6+ E2+ T3- O4.5 B2-
 encarregado	noun	I2.2
-****encarregado	verb	I2.2 A9-
 encarregar	verb	A9- S7.1+ S7.4+
 encarte	noun	O2
 encartar	verb	A1.1.1
@@ -5168,7 +4977,6 @@ enteado	noun	S4m
 entediado	adj	X5.2- O4.1@
 entendido	adj	X2.5+
 entender	verb	X2.5+ X2
-****entendimento	adj	X2.2+
 entendimento	noun	X2.2+ X2.3+ T1.3/T1.1.1 X2.5+
 enterro	noun	L1-
 enterrar	verb	A10- L1-
@@ -5177,10 +4985,7 @@ entonação	noun	Q3
 entorpecido	adj	E1
 entorpecer	verb	E1 A1.1.1
 entrada	noun	H2 Y2 M7 M1 T2+ Q1.2 S7.3 O2 Q2.2 A1.1.1 S5+c% W3/M4 S7.4+/M1 P1 I1.3
-****entrada	verb	O4.2+ Y2 M2
 entrar	verb	M1 S5+ T2+ A1.8+ Y2
-****entre	adv	M6
-****entre	prep	M6 N4 Z5
 entreato	noun	T1.3
 entrega	noun	M2 Q2.1 X9.2+ B3 S9%
 entregar	verb	A9- A1.1.1
@@ -5212,7 +5017,6 @@ envolvente	noun	K6 M3
 envolvido	adj	A1.8+ A12- X5.2+
 envolvimento	noun	A1.8+ S3.2
 enxada	noun	F4/O2
-****enxada	verb	F4/O2
 enxaguadura	noun	O1.2
 enxaguadura	verb	B4
 enxaqueca	noun	B2-
@@ -5328,7 +5132,6 @@ esclarecimento	noun	A7+/Q2.2 Q2.2/A7+ A2.2
 esclerose	noun	B2-
 escocês	noun	Z2/S2.2m Z2/S2mf
 escola	noun	P1/H1c S5+c L2%c
-****escola	verb	P1
 escolar	adj	P1
 escolha	adj	A5.1+ S1.2.4- A6.1- N6
 escolha	noun	A6.1- X7+ A6.3+
@@ -5341,10 +5144,7 @@ esconder	verb	A10-
 escondido	adj	A10-
 escopeta	noun	G3
 escopo	noun	A1.7- A4.1 X7+ A2.2 A1.5.1
-****escopo	verb	X7+
 escora	noun	O2  
-****escora	verb	A1.1.1
-****escore	noun	K5 A5.1 N3.1 O2 K2 X4.1 N5%
 escorar	verb	A1.1.1 S8+
 escorpião	noun	L2mfn
 escorredor	noun	I4/S2mf O2
@@ -5354,25 +5154,20 @@ escova	verb	B4 A1.1.1
 escovinha	verb	M2 A1.1.1
 escravidão	noun	A1.7+ S3.2@ S7.1-
 escravo	noun	S7.1-/S2mf
-****escravo	verb	A1.1.1
 escriba	noun	Q1.2/S2mf/T1.1.1 S9/T1.1.1
 escrita	noun	Q1.2 I2.1
 escrito	adj	Q1.2 Q4
 escrito	noun	Q1.2 I2.1 Q4
 escrever	verb	Q1.2 I3 A1.1.1 Q4.1 Q4.2 Q3 Q1
 escritor	noun	Q4.1/S2mf Q1.2/S2mf
-****escritor	verb	Q1.2 Q4.1
 escritório	noun	H5 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+
 escrivão	noun	I2.1/S2mf G1.1/S2mf
-****escrivão	verb	B3/P1
 escrupuloso	adj	A1.3+ A4.2+
 escrúpulo	noun	G2.2+
 escudo	noun	L2 O2 G3 S8+/A15+ A10-
-****escudo	verb	F1 G3
 escultor	noun	C1/S2mf I4/S2mf O2 M4fn
 escultora	noun	C1/S2.1f
 escultura	noun	C1
-****escultura	verb	C1
 escuma	noun	O1.1 O4.2-/S2mf
 escurecer	verb	O4.3 E4.1- W2-
 escuridão	noun	W2- O4.3
@@ -5482,7 +5277,6 @@ espeto	verb	A1.1.1 E3-
 espetáculo	noun	X3.4 O2/X3.4 K4
 espinafre	noun	F1
 espingarda	noun	O2 G3
-*****espingarda	verb	A1.1.1
 espinha	noun	B1 H1 Q4.1 N3.1 B2-
 espinho	noun	B1 H1 Q4.1 N3.1 L3
 espinhoso	adj	O4.1 S1.2 A12-
@@ -5499,9 +5293,7 @@ esplendor	noun	O4.2+ O4.3 W2 X5.2+
 esplendoroso	adj	S1.2.3+
 esplendoroso	noun	S1.2.3+
 espoleta	noun	O3
-****espoleta	verb	O3 A1.8+
 esponja	noun	O1.1 B4 L2mfn F1
-****esponja	verb	B4 I1.1/A9+
 esponjoso	adj	O4.1
 espontaneamente	adv	N5+ A1.7- A5.2+ A12+ X5.2+
 espontaneidade	noun	X7-
@@ -5509,25 +5301,19 @@ espontâneo	adj	X7-
 espora	noun	K5.1/O2 
 esporear	verb	A1.1.1 A2.2
 esporte	noun	K5.1
-****esporte	verb	A10+
 esportivo	adj	A10+ K5.1 G2.2+
 esporádico	adj	N6-
 esposa	noun	S4f
 esposo	noun	S4m S4mf S5+/S2mf
 esposar	verb	S3.1 E2 A1.1.1
 espreita	noun	M1/A10-
-****espreita	verb	M1/A10-
 espreitar	verb	X2.4/X7-
 espuma	noun	O1.2
 espumar	verb	O1.2 E3+
 espátula	noun	O2
-****espécie	adj	S1.2/S8+ S1.2.2-
 espécie	noun	A4.1 A6.2+ S1.2 Q1.2 A4.1c L2c Y2
-****espécie	verb	A4.1 A1.1.1 Y2
-****espécime	adj	A5.4-
 espécime	noun	A4.1/L3 A4.1/L2 A4.1 B3 A6.2+ Q1.1 I1 Q3
 espírito	noun	S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+
-****espírito	verb	M2
 espíritos	noun	S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+
 espólio	noun	A6.1- A9+/S4 A9+/N4
 espoliar	verb	A1.1.2 S7 S7.4
@@ -5645,11 +5431,8 @@ estorvo	noun	S8-
 estrabismo	noun	B2- X3.4
 estrabismo	verb	X3.4
 estrada	noun	M3 M1 X4.2 M6
-****estrada	verb	M2 M6
 estragar	verb	A1.1.2 S1.2.2+
 estrago	noun	A1.1.2 I1.1+/G2.1
-****estrago	verb	A1.1.2
-****estrague	verb	X9.2-
 estrangeiro	adj	A6.2- M7 X2.2-/S2mf Z2/S2mf I3.1/S2mf
 estrangeiro	noun	M7/S2mf W1/S2mf Z2/S2mf I3.1/S2mf X2.2-/S2mf
 estrangulamento	noun	E3- B2-
@@ -5664,7 +5447,6 @@ estratégico	adj	X7+ G3
 estrear	verb	T2+
 estrebaria	adj	A2.1- S1.2 O4.1
 estrebaria	noun	L2/H1
-****estrebaria	verb	L2/H4
 estreia	noun	N4 T2+
 estreitamento	noun	E3- F2 O4.6- Z2/S2mf%
 estreitar	verb	A1.1.1 M1 S3.1
@@ -5827,16 +5609,12 @@ exemplificar	verb	A5.4- A10+ C1
 exemplo	noun	A4.1 T1.2
 exercer	verb	A1.1.1 A1.5.1 S7
 exercício	noun	A1.1.1 I3.1/S5+c K5.1 P1 G3@
-****exercício	verb	A1.1.1 K5.1 A1.5.1
-****exerça	verb	A1.1.1 S7.1+
 exibir	verb	A10+
 exibição	noun	A10+/S1.1.3+ A10+ I1% Q4.3 S1.1.1
 exigente	adj	A12- Q2.2/N6+ T2++ S1.2.5+ Q2.2
 exigente	noun	X7+
-****exigente	verb	X7+
 exigir	verb	Q2.2 S6+ X7+
 exigência	noun	Q2.2 S6+ X7+
-****exigência	verb	Q2.2 S6+ X7+
 existencial	adj	X4.1 E5- E6-
 existente	adj	A3+
 existência	noun	A3+
@@ -5849,15 +5627,12 @@ expedicionário	adj	M1
 expedidor	noun	M2/S2mf
 expediente	noun	A1.1.1/A1.5.2+ G2.2-
 expedição	noun	M1 Q1.2 M2
-****expedição	verb	M2
 experiente	adj	X2.2+ X9.1+ I3.2
 experimental	adj	X2.4 Y1
 experimentação	noun	G2.1 X2.4 E6- A12- K5.1
 experimentar	verb	X8  X2.4
 experimento	noun	Y1 X2.4
-****experimento	verb	X2.4
 experiência	noun	X2.2+ X2.4+ X9.1+ I3.2 X3
-****experiência	verb	A2.1+/A3+ X3
 experto	adj	X9.1+
 experto	noun	X2.2+/S2mf X9.1+/S2mf
 expida	verb	N3.8+
@@ -5968,33 +5743,26 @@ faixa	noun	B5 O2 W3 E3- K5.1 K3 Q4.3 Y2 A1.1.2 K2c A4.1 S5+c N5.1- B3 Y1 C1/H1@ 
 faixa	verb	E3- M1/N3.8+ K3 Q4.3 A1.7+ S5+
 fala	noun	Q2.1 Q3
 falado	noun	O2
-****falado	verb	Q2.1
 falante	noun	Q2.1
 falar	verb	Q2.1
 falaz	adj	A5.2-
 falcão	noun	L2mfn I2.2/S2mf
-****falcão	verb	I2.2
 falecer	verb	L1- T2-
 falecido	adj	L1- L1-/S2mfc T4- T1.1
 falecido	adv	T4- T1.1
-****falecido	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
 falha	noun	A5.1- A1.1.2 A5.3- A2.2 W3% X9.2- A5.1-/A2.1 A9-
 falhar	verb	X9.2- A5.1-
 falido	adj	I1.2+ A5.1-
 falido	noun	I1.2+/S2mf
 falir	verb	I1.2+ I2.1
 falsidade	noun	A5.2- M1 M6
-****falsidade	verb	M1 M6 A5.2-
 falsificado	adj	A5.4-
 falsificador	noun	A5.4- G2
 falsificar	verb	A5.4- G2
 falso	adj	A5.2- A5.4- G2.2-
-****falso	adv	A5.2-
 falta	noun	A5.3- N5- S1.1.3-
-****falta	verb	A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- A9-
 faltar	verb	A5.3- S1.1.3- N5-
 falência	noun	A1.1.2 I1.1--- H1/A1.1.2 I1.2+ A5.1- X9.2- A5.1-/A2.1
-****falência	verb	A1.1.2 I1.1---
 falível	adj	A5.3-
 fama	noun	I3.2 A5.1 X2.2+ X9.2+
 familiar	adj	S9
@@ -6009,7 +5777,6 @@ fantasia	noun	X2.6+ X7+ X2.1 B5 A5.2-
 fantasiar	verb	X2.6+ X7+ X2.1 B5 A5.2-
 fantasma	adj	A5.4-
 fantasma	noun	S9mfn G2.1-/S2mf Q4.3
-****fantasma	verb	A10-/Q4.1
 fantoche	noun	K6 K4
 fantástico	adj	A5.1+ N5++ A6.2- A5.2- A7-
 fanático	adj	X5.2+++
@@ -6017,7 +5784,6 @@ fanático	noun	X5.2+++/S2mf
 farda	adj	A6.1+
 farda	noun	B5
 fardo	noun	O2
-****fardo	verb	A1.1.1
 farejador	noun	F3/S2mf
 farelo	noun	F1
 farinha	noun	F1
@@ -6189,12 +5955,9 @@ figura	noun	N5 N1 B1 S2mf C1 O4.4 O2 Q1.2/N2 Q1.2/W1 Q1.2/K3 K4/S2mf S1.2 S2mf/A
 figurar	verb	X2.1 X2.5+
 figurativamente	adv	Q3
 figurativo	adj	Q3 Q1.1 C1
-****fila	adj	N5.2+ O4.2- N5++%
 fila	noun	N4 N5+ M7 M3/H3 M4 E3- N4c Q4.3c O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ O2/Q1.2 O2 Y2 S5+/N4 S7.1+ S5+ M3 A5.1
-****fila	verb	A5.1 S7.1++ E3- M4 Q1.2 A1.1.1
 filamentos	noun	L2/O2
 fileira	noun	N4 N5+ M7 M3/H3 M4 E3- S7.1+ S5+ M3 A5.1
-****fileira	verb	E3- M4
 filha	noun	S4f
 filho	adj	S7.1-- T3--
 filho	noun	S2mf/T3- S4mf S4m T3--/S2mf S7.1--/S2mf G2.1/S2mf
@@ -6207,31 +5970,23 @@ filosófico	adj	A1.6 E6+ P1
 filtro	noun	O2
 filtrar	verb	A1.1.1
 filé	noun	F1
-****filé	verb	F1
 filósofo	noun	X2.1/S2mf
-****fim	adj	N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4
 fim	noun	M3/H3 A10- M6 T2- O2 X7+ N4 A2.2 A1.5.1 O4.1
 finalizar	verb	A1.1.1 A10- T2- X9.2-
 final	adj	K5.1 M6 T2- N4 
 final	noun	K4/T2- T2- M5/H1 M4/H1 O3 Y2 K5.1 M6 O2 X7+ N4
 finalidade	noun	X7+ N4 
-****finalização	adj	A1.1.1 A10- T2-
 finalização	noun	A1.1.1 A10- T2-
-****finalizar	verb	A1.1.1 A10- T2-
 finalmente	adv	N4 Z4
 financeiro	adj	I1 I1/G1.1
 financeiro	noun	G2.1/S2mf
 financiador	noun	A2.2 A4.1 N2 I2.1/S2mf@
-****financiador	verb	N2
-****financiamento	adj	I1
 financiamento	noun	I1
 financiar	verb	I1
 finanças	noun	I1
-****finanças	verb	I1
 fingimento	noun	A6.1+
 fingir	verb	A5.4-
 finito	adj	A1.7+
-****finja	verb	A5.4-
 finlandês	noun	Z2/S2mf
 finlandês	pnoun	Z1mf
 fino	adj	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2- G2.1 G2.1/I1.3 N3.7- B1 N5- A5.1- X3.2% N5-/A2.1 O4.1/A2.1 Z4
@@ -6240,7 +5995,6 @@ fio	verb	A1.1.1 A1.7+ O3 Q1.3
 firma	adj	O4.5 A7+ A1.7+
 firma	adv	A7+
 firma	noun	I2.1/S5+c
-****firma	verb	O4.5
 firmar	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- M8 X9.2+ I1.2 H4 E4.2+
 firme	adj	A7+ I2.1/S5+c O4.5 A1.7+ M8
 firmemente	adj	N3.2- A1.7+ N5+ O4.4 S5+ A12- F2+ S1.2.2+
@@ -6252,23 +6006,18 @@ fiscal	noun	G2.1/S2mf S7.1+/S2mf O2
 fiscalizar	verb	S7.1+ X2.4/A5.3
 fiscalização	noun	X2.4/A5.3
 fita	noun	B5 O2 K3 Q4.3 Y2
-****fita	verb	A1.1.1 A2.1+
 fivela	noun	B5 O4.4 O2
 fivela	verb	A1.7+ B5 O4.4
 fixar	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
 fixação	noun	A2.1- M7 Q2.2 I1.2
 fixo	adj	A1.7+ A2.1- X6+
-****fixo	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2-
 flagelo	noun	A1.1.2
 flagrante	adj	A11.2+
 flagrante	noun	X3.4 O4.3
-****flagrante	verb	X3.4 O4.3
 flama	noun	O4.6+ S3.2/S2mf Q2.2%
-****flama	verb	O4.6+ Q2.2%
 flamejante	adj	O4.6+ O4.3 E3- Z4
 flamejante	intj	Z4
 flanco	noun	N1 M6 G3
-****flanco	verb	G3
 flanela	noun	B5 Q2.2
 flashback	noun	X2.2+
 flatulência	noun	B2-
@@ -6280,7 +6029,6 @@ flexibilidade	noun	O4.5 A2.1+
 flexível	adj	O1.2 A2.1+ O4.5
 flexível	noun	G3 O1.2
 flor	noun	L3 
-****flor	verb	L3 X9.2+
 flora	noun	L3c
 floral	adj	L3 Q3
 floresta	noun	O1.1 W3/L3 Z3
@@ -6292,10 +6040,8 @@ fluidez	noun	M1 A2.1+ O1.2
 fluido	noun	O1.2
 fluorescente	adj	O4.3
 flutuador	noun	O2 I1 M3 F2 M4
-****flutuador	verb	M1 T2+ I2.2
 flutuar	verb	A2.1+
 flutuação	noun	M4/O2 X5.2+ I1/K5.1
-****flutuação	verb	M1
 fluxo	noun	A2.1+ M4 M1 N5
 fluência	noun	Q3/X9.1+
 fobia	noun	E5-
@@ -6304,28 +6050,21 @@ foca	verb	A1.7+ X6+ F1
 focal	adj	A11.1+
 foco	noun	X5.1+ X3.4 A4.2+ A11.1+
 focar	verb	X5.1+ X3.4 A4.2+
-****foda	verb	S3.2/B1 E6+
 fofinho	adj	O4.4 O4.2
 fofinho	noun	O4.4 O4.2
-****fofinho	verb	O4.4/A2.1+ X7+
 fofo	adj	O4.5 S3.2
 fofoca	noun	Q2.1
 fofoqueiro	noun	Q2.1/S2mf
 fogo	noun	O4.6+
-****fogo	verb	I3.1- G3 M2 A2.2 Q2.2
 fogueira	noun	O2 O4.6+
-****fogueira	verb	A1.4
 foguete	noun	G3 Y1/W1fn Q2.2 F1 L3 G3/K1
-****foguete	verb	N5+/A2.1
 fogão	noun	O2/F1
 foice	noun	O2 O2/F4
 fole	noun	I4
-****fole	verb	Q2.2/E3-
 folga	noun	E3+ K1 T2-/T1.3 O2 N5.1- A1.1.1/N6+ N3.6 W1 T1.3 Q1.2
 folga	verb	E3+ M6 A3+ A2.2 N6
 folgado	adj	O4.4
 folha	noun	B5 O2 Q1.2 N5 L3 T1.3 S7.1-/S2.2m
-****folha	verb	A1.1.1
 folhagem	noun	L3
 folheto	noun	Q4.1
 folia	noun	E4.1+ K1 N5.2+ A1.1.1
@@ -6339,7 +6078,6 @@ fora	adj	K5.1 M6 A11.2+ S5-
 fora	adv	M6 A1.1.1% S5-
 fora	noun	K5.1 M6 S1.1.3-
 fora	prep	Z5
-****fora	verb	S3.2
 foragido	noun	A1.7-/S2mf
 forca	noun	G2.1/L1-
 forcado	noun	O2 O4.4
@@ -6361,11 +6099,8 @@ formigão	verb	A1.1.1 A7+/A2.1
 formoso	adj	O4.2+ S3.2
 formoso	noun	S3.2
 formulário	noun	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@
-****formulário	verb	T2+ A2.1+ A1.8+ A3+ A1.1.1
 formão	noun	O2
-****formão	verb	A1.1.1
 fornada	noun	N5
-****fornada	verb	A4.1
 fornalha	noun	O4.6+
 fornecedor	noun	A9-/S2mf I2.2/S2mf I2.2/S2mfc A9-/S2mfc
 fornecer	verb	A9-
@@ -6388,7 +6123,6 @@ fosso	noun	H2 M7 O2 M7/G3
 fosso	verb	A9-
 foto	noun	C1
 fotografia	noun	C1  
-****fotografia	verb	C1
 fotográfico	adj	C1
 fotogênico	adj	O4.2+
 fotógrafo	noun	C1/S2mf
@@ -6478,7 +6212,6 @@ fuga	noun	A1.7- O2 M5 M1 H2 M1/N3.8+ X2.4 M7
 fugir	verb	X2.4 M2 S7.1-
 fugitivo	noun	A1.7- H4-/S2mf A1.7-/S2mf
 fulgor	noun	O4 O4.3
-****fulgor	verb	O4.3
 fuligem	noun	O1.1
 fumaça	noun	O1.3 F3@
 fumo	noun	O1.3 F3@
@@ -6506,13 +6239,11 @@ fundição	noun	O4.6+
 fundição	verb	O4.6+
 fundo	adj	N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 N4 M6 B1 A5.1---
 fundo	noun	A9+ K5.1/S2mf I1.1 M7 S1.2.1- G3/S2mf I1.3@ N4 M6 B1 A5.1--- T1.1.1 A2.2 S1.1.1 P1 A11.1- A1.8- W3/M4 N5+ B1@ T2+ H2 S5+c A5.2+ B4
-****fundo	verb	A9+ I1.1
 funeral	adj	L1-/S1.1.1
 funeral	noun	L1-/S1.1.1
 fungo	noun	L3
 funil	noun	O2
 função	noun	A1.5.1 A1.1.1 S1.1.3+ A2.2 N2 Y2
-****função	verb	A1.1.1
 fura-greve	noun	I4/S2mf
 furacão	noun	W4
 furacão	pnoun	Z3
@@ -6525,10 +6256,8 @@ furtivo	adj	A10-
 furto	noun	A1.6
 furtar	verb	G2.1-/A9+ A9+
 fusca	noun	L2mfn K5.2
-****fusca	verb	A1.1.1 M1
 fusão	noun	A1.8+ Y1 S5+
 fusível	noun	O1 O3
-****fusível	verb	O3 A1.8+
 futebol	noun	K5.1 K5.2
 futuro	adj	T1.1.3
 futuro	noun	T1.1.3
@@ -6537,15 +6266,10 @@ fábrica	noun	I4/H1c H1c A1.1.1 N5.1+ Q4 O2 G2.1/A5.2- K5.1@
 fábrica	verb	A1.1.1 X6+ Q2.1 G2.1/A5.2- I3.1 X9.2+ A2.2
 fábula	noun	Q2.1 X4.1 Q4
 fácil	adj	A12+
-****fácil	adv	A12+
-****fã	adj	O4.3
 fã	noun	E2+/S2mf X5.2+/S2mf
-****fã	verb	B4
 fé	noun	E6+ S9 X2.1
 féria	noun	K1/T1.3 T1.3/P1- K1
-****féria	verb	A1.1.1
 férias	noun	K1/T1.3 T1.3/P1- K1
-****férias	verb	K1/T1.3
 férreo	adj	A2.1-
 fértil	adj	O4.1 B1 X9.2+
 fêmea	adj	S2.1
@@ -6573,21 +6297,16 @@ gafe	noun	X9.2- A5.3-
 gagueira	noun	Q2.2/B2- Q3
 gaguejar	verb	Q2.2/B2-
 gaguejo	noun	Q2.2/B2-
-****gaguejo	verb	Q2.2/B2-
 gaiola	noun	H1/L2
-****gaiola	verb	A1.7+ X3.2/L2
 gaivota	noun	L2mfn
 gajo	noun	S2mf
 galante	adj	G2.2+
 galanteador	noun	S7.2+/Q2.2/S2mf
 galeria	noun	C1/H1 H2
 galho	noun	L3 S5+c A4.1
-****galho	verb	X2.5+
 galinha	adj	E5-
 galinha	noun	L2fn L2mfn F1 E5-/S2mf L2mfnc
-****galinha	verb	E5-
 galo	noun	L2mn B1 Z4 O2
-****galo	verb	G3 M2
 galático	adj	W1
 galáxia	noun	W1
 galão	noun	N3.4
@@ -6671,7 +6390,6 @@ generoso	adj	N5+ S1.2.2-
 gengibre	adj	O4.3 F1
 gengibre	noun	F1 Z1mf
 gengiva	noun	B1
-****gengiva	verb	A1.7+
 genioso	adj	E1 E4.1- E3-
 genital	noun	B1/S3.2
 genitor	noun	S4mf A9+
@@ -6730,7 +6448,6 @@ giro	noun	M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2% M1/K1 N5+ O2
 giro	verb	M1 M2 M1/K1 Q2.1/N5+ N3.2+/A2.1
 giroscópio	noun	O2
 giz	noun	O1.1
-****giz	verb	Q1.2 A9+ I1.3
 glicose	noun	O1
 global	adj	W3 M7 A1.8+ O4.4
 globalização	noun	A1.8+
@@ -6852,12 +6569,9 @@ groselha	noun	F1 L3 S3.2/S2mf
 grosseiro	adj	I2.1 O4.2- S1.2.1- S1.2.4- A12+ O1.2 O4.5 O4.1
 grosseiro	noun	O1.2
 grosseirão	noun	E4.1+/S2mf K1/S2mf S1.2.6-/S2mf
-****grosseirão	verb	E4.1+
 grosseria	noun	S1.2.4-
 grosso	adj	N3.7 O4.5 N3.7+ N3.2+ N5+ X9.1- A10- A11.2+ O4.3@ O4.2-@ S1.2.4- O4.1 A12+ X3.3 B2 E3- O4.2- A4.2- A12- W4
-****grosso	adv	X3.3 O4.5 B2 E3- S1.2.4- O4.2- A4.2- A12- W4
 grosso	noun	M7/K5.1 A4.2- E3-/S2mf
-****grosso	verb	X3.3 O4.5 E3- S1.2.4- O4.2- A4.2- A12- E3-/K5.2
 grota	noun	M7
 grotesco	adj	A6.2- O4.2-
 grou	noun	O2 L2@mfn
@@ -6881,9 +6595,7 @@ grátis	verb	S6- A1.7-
 grávida	adj	B1 A11.1+%
 grávido	adj	B1 A11.1+%
 grânulo	noun	O2 N3.2-
-****grânulo	verb	A1.1.1
 grão	noun	L3 T2+ K5.1/S2mf N5- F1 O4.5 O1.1
-****grão	verb	A1.1.1 B1 F4 K5.1
 grêmio	noun	S5+c
 guarda	noun	A15+/I3.2/S2mf O2/A15+ S8+ G1.1/S8+ B3 A1.3 E6- G2.1/I3.2/S2.2m L2/S2mf H1/S2mf K5.1/S2mf X3.4/A15+/S2.2m
 guarda-chuva	noun	B5
@@ -6929,9 +6641,7 @@ género	noun	A4.1 A6.2+ S1.2 Q1.2
 génio	noun	S1.2 E3-/S1.2
 gêmeo	adj	A6.1+++ S5+
 gêmeo	noun	S4mf A6.1+
-****gêmeo	verb	A6.1+ S5+/M7
 gêmeos	noun	S4mf
-****gêmeos	verb	S5+
 gênero	noun	Q4/A4.1 S2
 gênio	adj	A5.1+
 gênio	noun	S9/S2.2m X9.1+/S2mf X9.1+
@@ -6964,7 +6674,6 @@ hectare	noun	N3.6
 hegemonia	noun	S7.1+
 helicóptero	noun	M5
 hemisfério	noun	W3 B1
-****hemorragia	verb	B2-
 hemorróida	noun	B2-
 hepatite	noun	B2-
 hepático	adj	B1 O4.3 L3
@@ -7012,14 +6721,12 @@ hispânico	adj	Z2
 histeria	noun	E1/A1.7- B2-/X1
 historiador	noun	P1/T1.1.1/S2mf
 história	noun	I1 I1.3 I2.1 Q2.2 Y2 O1.1 Q2.1 T1.1.1 P1/T1.1.1 B2 X4.1 Q4
-****história	verb	Q2.2
 histórico	adj	T1.1.1 T3+
 hoje	adv	T1.1.2
 hoje	noun	T1.1.2
 holandês	adj	Z2 Z2/Q3 Z2/S2mfnc
 holocausto	noun	E3-
 holofote	noun	O3/W2
-****holofote	verb	O3/W2
 holístico	adj	N5.1+
 homem	noun	S2.2m P1/S2mf
 homem	verb	I3.1
@@ -7201,7 +6908,6 @@ imparcialidade	noun	G2.2+
 impasse	noun	A12-
 impassível	adj	A2.1- E1- M8 E3+
 impedido	adj	A10- S8- K5.1
-****impedido	verb	S8-
 impedimento	noun	S8- G3
 impedir	verb	S8-
 imperador	noun	S7.1+/S2mf
@@ -7481,11 +7187,9 @@ inferior	adj	A13.6 M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 M6 N3.7-- N5-- 
 inferior	noun	S7.1--/S2mf A5.1--/S2mf
 inferno	intj	Z4
 inferno	noun	O4.6+ S9 E3- 
-****inferno	verb	O4.6+ E3- A11.2+
 infertilidade	noun	B2-/S4
 infiel	adj	S9
 infiel	noun	S9/S2mf
-****infinita	adv	T2+++
 infinitamente	adv	A13.2 A1.7-
 infinitivo	noun	Q3
 infinito	adj	T2++ T2+++ N2
@@ -7683,9 +7387,7 @@ interesse	noun	A2.2 E6- I2.1 X5.2+ I1.1 S8+ S1.1.3+
 interesse	verb	E6- A1.8+ S1.1.3+ X5.2+
 interferência	noun	S1.1.3+ N4 S1.1.3+++ O3
 interior	adj	H2 M6
-****interior	adv	M6 G2.1@
 interior	noun	M6 H2
-****interior	prep	Z5
 interligação	noun	Q1.1 S1.1.1 Y2
 interligar	verb	Q1.1 S1.1.1
 interlocutor	noun	Q2.1/S2mf G1.1/S2mf O3 Q2.2/S2mf
@@ -7702,18 +7404,14 @@ interno	adj	H2 M6 A10- G1.1
 interno	noun	K5.1 O2/M6 M6 A10- G1.1
 interpretar	verb	A1.1.1 T1.1.2 A8 K4
 interpretação	noun	X2.5+ K2 Q3
-****interprete	verb	X2.5+ Q3
 interrogar	verb	Q2.2
 interrogatório	adj	Q2.2
 interrogatório	noun	Q2.2
-****interrogatório	verb	Q2.2
 interrogação	noun	Q2.2 X4.1
 interruptor	noun	O3 A2.1+
-****interruptor	verb	A2.1+
 interrupção	noun	Q2.2 X7- T2-
 interromper	verb	H4 T1.3+
 intervalo	noun	N3.6 T1.3 G2.1 K5.1@
-****intervalo	verb	N3.6 M1 N3.7+/A2.1 A4.2-/A2.1 T1.3 A12- A2.1+ X8+
 intervenção	noun	S1.1.3+ S8
 intimação	noun	G2.1 Q2.2
 intimar	verb	G2.1 Q2.2
@@ -7816,10 +7514,7 @@ irrelevante	adj	A1.2- A11.1-
 irrelevância	noun	A1.2- A1.5.2-
 irreparável	adj	A1.1.2
 irresistível	adj	S7.1+ N5+ S1.2.3+ X9.2+/S7.3 X9.2+/G3 E1 N5+++
-****irresistível	noun	E1 S7.1+
-****irresistível	verb	X9.2+/S7.3 X9.2+/G3 S7.1+ E1
 irresoluto	adj	A7- A5.1-
-****irresoluto	verb	A7- A5.1-
 irresponsável	adj	S1.2.6- X2.5- A7-
 irrestrito	adj	A1.7-
 irreverente	adj	S1.2.4-
@@ -7878,13 +7573,10 @@ jardinagem	verb	F4
 jardineiro	noun	F4/S2mf
 jargão	noun	Q3
 jarro	noun	O2 
-****jarro	verb	O2 F1
 jaula	noun	H1/L2
-****jaula	verb	A1.7+
 jazz	noun	K2
 jeans	noun	B5
 jeito	noun	O4.4 M2 A2.1+ K1 S1.1.1 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3
-****jeito	verb	M2 M1 O4.4 A2.1+
 jejum	adj	N3.8+
 jejum	adv	N3.8+
 jejum	noun	F1-
@@ -7998,7 +7690,6 @@ lagosta	noun	L2 F1
 laia	noun	A4.1
 laje	noun	H1 O2
 lama	noun	O1.1 O1.2
-****lama	verb	A1.1.1
 lamaçal	noun	M1 E4.1- L2
 lamaísmo	noun	S9
 lamber	verb	B1 S7.1+
@@ -8018,12 +7709,9 @@ lanterninha	verb	S1.1.1
 lanudo	noun	B5
 lança	noun	G3 O2
 lançar	verb	G3 A1.1.1 I2.2 K4 G1.2 M5
-****lançamento	adj	M2 A2.2 Q2.2 A1.1.1 X2.5- M1 L2 T2+
 lançamento	noun	I2.2 Q4 M5 T2+ Q2.2 K4 G1.2 
-****lançamento	verb	I2.2 Q2.2 K4 A4.1 M2 G1.2 S9 A9- A1.1.1 F1 M1
 lapela	noun	B5
 lapso	noun	A5.1-/A2.1 X5.1- T1.3
-****lapso	verb	T2+ T2- S9
 lar	noun	H4/H1c M6
 laranja	adj	O4.3
 laranja	noun	F1 O4.3
@@ -8111,29 +7799,22 @@ lençol	noun	B5 O2 Q1.2 N5
 leoa	noun	L2f
 leopardo	noun	L2
 leque	noun	A1.7- A4.1 N3.3 K2 A6.3+ N5 M7/K5.1 M7/G3 N2 W3 F1/O2 E2+/S2mf O2 O4.4
-****leque	verb	A1.1.1
 lero-lero	noun	A5.2- S1.2.6-
 lesbianismo	noun	S3.2/S2.1
 lesma	noun	L2mfn G3 F2 E3-
-****lesma	verb	E3-
 leste	adj	M6
 leste	noun	M6
 lesão	noun	B2- A1.1.2 E1
 letal	adj	L1-
 letra	noun	Q1.2 Q3
-****letra	verb	Q1.2
 letrista	noun	Q4.1/S2mf
 levadiço	adj	M2
 levantamento	noun	G3 Q1.2/W3 N2
-****levantamento	verb	Q1.2/W3 N2
 levantou-se	adj	L3 O4.3
-****levantou-se	noun	L3 F2
 levantar	verb	M1 A2.1 
 levar	verb	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@
 leve	adj	B1 N3.5- F1 O4.2+
-****leve	adv	N3.5- O4.3
 leve	noun	S1.2.4- W2 O3/W2 M3 O4.6+ X4.1 E1
-****leve	verb	S1.2.4- W2 O4.6+
 levemente	adv	N6- N3.5- E3+ 
 leveza	noun	W2 N3.5- O4.2+ A11.1-
 leviandade	noun	E4.1+/S1.2.6-
@@ -8206,7 +7887,6 @@ lindo	adj	O4.2+
 linear	adj	N4 O4.4
 lingote	noun	O2
 lingua	noun	B1 F1 B5 O2%
-****lingua	verb	Q2.1
 linguado	noun	L2mfn F1
 linguado	verb	X9.2-
 linguagem	noun	Q3 Y2
@@ -8403,9 +8083,7 @@ maconha	noun	F3
 madame	noun	S2.1f S3.2/S2.1f 
 madeira	noun	L3 O1.1 O2/H1 W3/L3
 madeira	pnoun	Z1
-****madeira	verb	M1/N3.8-
 madeiro	noun	W2 Y1 H2 O2/K5.1
-****madeiro	verb	E4.1+ W2 Q4.3
 madrasta	noun	S4f
 madrinha	noun	S4f
 madrugada	noun	T1.2
@@ -8448,11 +8126,8 @@ malabarismo	verb	K5.2 A2.1+ A1.1.1
 malandro	noun	G2.2-/S2mf
 malcriado	adj	G2.2- S1.2.4-
 maldade	noun	B1 O2 W3 E3- O4.2-
-****maldade	verb	B1 W4 X3.2
 maledicência	noun	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
-****maledicência	verb	Q2.2/A5.2- Q2.2/A1.1.2 G2.1-
 maleta	noun	F1 X7-
-****maleta	verb	M2 X7- T2-
 malha	adj	N5 O4.5 B5
 malha	noun	B5 O2 S5+ A1.3+ S5+c Q4.3 Y2
 malhar	verb	A9+ I1.1 Q4.3 Y2 S1.1.1
@@ -8537,7 +8212,6 @@ maranhão	verb	Q2.1
 maratona	noun	K5.1 T1.3+
 maravilha	adj	A5.1+ A6.2-
 maravilha	noun	O4.2+ X2.6- A5.1+
-****maravilha	verb	E2+ X2.1
 maravilhoso	adj	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3
 maravilhoso	adv	A5.1+
 maravilhoso	noun	S7.2+/S2mf P1%
@@ -8545,7 +8219,6 @@ marca	noun	A4.1 Q1.2 O2 A1.1.1 I1.2/G1.1 A4.2+ I1 O4.2- A5/P1 N3.1 Q1.1
 marcar	verb	O4.1 A1.1.1 A2.2 Q1.2 A5/P1 
 marcado	adj	A11.2+ A15- M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 N5 N2 K4 O3 S5+c K5.1%
 marcador	noun	N3.1/O2 O2/M6 Q1.2/O2 A5/P1/S2mf
-****marcador	verb	N3.1
 marcante	adj	A11.1+ X2.2+ A11.2+
 marcação	noun	N3.1 O4.2- Q1.2 A5/P1 Q1.1
 marceneiro	noun	C1/S2mf
@@ -8575,14 +8248,12 @@ mariposa	noun	L2mfn
 marisco	noun	F1 L2c
 marital	adj	S4
 marketing	noun	I2.2
-****marketing	verb	I2.2
 marmelada	noun	F1
 marombeiro	noun	K5.1/S2mf
 marquise	noun	H1
 marquês	noun	S7.1+/S2.1f
 marrom	adj	O4.3
 marrom	noun	O4.3
-****marrom	verb	O4.3
 marrom-escuro	adj	O4.3
 marta	noun	L2 B5
 martelo	noun	O2
@@ -8635,7 +8306,6 @@ maturidade	noun	T3+
 matéria	noun	O1 B5 O2 X2.2 S1.2 X4.1
 matéria	verb	A11.1+
 mau	adj	A5.1- G2.2- O4.2- S1.2.1-
-****mau	adv	A5.1- G2.2- O4.2- B2-
 mau	noun	G2.2-
 maxila	noun	B1
 maxila	verb	Q2.1
@@ -8657,7 +8327,6 @@ mediador	adj	S8+
 mediador	noun	S8+/S2mf T1.1.2/S2mf
 mediana	adj	N2
 mediano	adj	N3.1 O4.1
-*****mediano	noun	Q4 X4.2 O1 S9/S2mf
 mediante	prep	M6 Z5
 medicamento	noun	B3
 medicação	noun	B3
@@ -8665,14 +8334,12 @@ medicina	noun	B3
 medida	noun	F1 I1 N3.1/O2 N3.1 M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ F2 K2
 medir	verb	M1 S1.1.3+ X6+ X2.4 N3.1
 medidor	noun	N3.1/O2 N3.3 N3.7
-****medidor	verb	N3.1
 medieval	adj	T1.1.1
 mediocridade	noun	A5.1 A5.1-/S2mf
 meditativo	adj	X2.1 
 meditação	noun	X2/S9 X2.1
 medição	noun	N3.1
 medo	noun	E5- E6-
-****medo	verb	E5- E6-
 medroso	adj	E5-
 medíocre	adj	A5.1 A6.2+
 megalomaníaco	noun	S7.1+/S2mf
@@ -8687,10 +8354,8 @@ meio	det	N5
 meio	noun	I2.2/S5+c G1.1c M6 N5 N4 T1.2 N5c N2 X4.2 I1.1 M3/H3 N3.3 A4.1 A1.1.1 T1.3
 meio-dia	noun	T1.2
 meio-fio	noun	A1.7+ M3/H3
-****meio-fio	verb	A1.7+
 meio-termo	adj	S1.2.2+ S1.2.1- 
 meio-termo	noun	N2
-****meio-termo	verb	Q1.1 X7+
 meios	noun	H1 O2 S8+ X9.1+
 mel	noun	F1
 melancolia	adj	E4.1-
@@ -8728,7 +8393,6 @@ menos	prep	Z5
 mensageiro	noun	M1/N3.8+/S2mf K5.1/S2mf K5.1/L2mf I3.1/S2mf O2 L3 Q2.1/S2mf
 mensagem	noun	Q1.1 Q1.3/Y2
 mensal	adj	N6+ Q4.2
-****mensalmente	adj	N6+
 mensalmente	adv	N6+
 mensalmente	noun	Q4.2
 menstruação	noun	M4 M1 N5
@@ -8762,7 +8426,6 @@ mergulho	noun	M4 M1 N5-/A2.1 H1/O4.2-
 mergulho	verb	M4 M1 N5-/A2.1
 mero	adj	A11.1-
 mesa	noun	H5 
-****mesa	verb	Q2.2
 mesmo	adj	A6.1+++
 mesmo	noun	S5-
 mesmos	adj	A6.1+++
@@ -8774,7 +8437,6 @@ mesquita	noun	S9/H1
 mestiço	noun	L2mfn
 mestre	intj	Z4
 mestre	noun	P1/I3.2/S2mf S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m
-****mestre	verb	S7.1+ X9.1+
 meta	noun	K5.1 X7+
 metade	noun	N5c
 metaforicamente	adv	Q3
@@ -8851,7 +8513,6 @@ minucioso	noun	Q1.2 T1.3
 minuciar	verb	Q1.1
 minuto	adj	N3.2-
 minuto	noun	T1.3
-****minuto	verb	Q1.2
 minutos	noun	T1.3 Q1.2
 minério	noun	O1 O1.1
 minúsculo	adj	N3.2-
@@ -8942,7 +8603,6 @@ molusco	noun	L2
 molécula	noun	O1
 momentaneamente	adv	T1.2 N3.8+
 momento	noun	T1.2 T1.1.2 
-****momento	verb	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%
 momentâneo	adj	T1.2
 monarca	noun	S7.1+/S2mf
 monarquia	noun	S7.1+
@@ -9064,7 +8724,6 @@ multa	intj	Z4
 multa	noun	G2.1/I1.3
 multa	verb	G2.1
 multidão	noun	N5+ S5+ S5+c N5++
-****multidão	verb	N5++
 multimídia	noun	Y2
 multinacional	adj	M7
 multinacional	noun	I2.1/M7
@@ -9237,7 +8896,6 @@ negativa	adv	Z6
 negativa	noun	C1
 negativamente	adv	Z6 S8- A5.1-
 negativo	adj	C1 Z6 S8- A5.1-
-****negativo	adv	Z6
 negativo	noun	C1 N2 A5.1-
 negativo	prep	Z5
 negação	noun	Q2.2/Z6 A1.1.2 S7.4-
@@ -9258,11 +8916,8 @@ negue	verb	Q2.2/Z6 S7.4-
 negócio	noun	I1.3- I2.1 A1.1.1 A5.1+++ N5 Q2.2 I2.2 K5.2 F3/I2.2 O2 X4.1 A7- S2mf L2mf
 negócio	verb	A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 Q2.2
 nem	conj	Z6 Z8/Z6 Z5/Z6
-****nenhum	adj	Z6 Z6/Z8c
-****nenhum	adv	Z6
 nenhum	det	Z6
 nenhum	intj	Z4
-****nenhum	noun	S8-
 nenhum	pron	Z6/Z8c
 nenhuns	adv	Z6
 nenhuns	det	Z8/Z6 Z5/Z6
@@ -9302,11 +8957,8 @@ ninfa	noun	S9 L2
 ninguém	noun	A10-/Q1.2 N2 X3.2/N6+ A11.1- S7.1-/S2mf A11.1-/S2mf Z6/Z8
 ninguém	pron	Z6/Z8cmf Z8/Z6cmf
 ninhada	noun	L2 N5
-****ninhada	verb	E6- L2
 ninharia	noun	A11.1- F1
-****ninharia	verb	E4.1+
 ninho	noun	M7 L2/H4 H4
-****ninho	verb	L2 M6
 nipônico	noun	Z2/S2mfnc
 nitidamente	adv	O4.2+
 nitrato	noun	O1.3 O1.2
@@ -9373,7 +9025,6 @@ novembro	pnoun	T1.3
 noventa	num	N1 T3
 novidade	noun	T3- X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3
 novilho	noun	L2mn
-****novilho	verb	M2 A2.2
 novo	adj	A6.2- T3- O4.2+ B1 W4 S1.2.3+
 novo	noun	Q4.1
 noz	noun	F1 O2 B2-/S2mf X5.2+/S2mf B1
@@ -9419,9 +9070,7 @@ nítido	adj	A4.2+ A7+ A10+ O4.3 O4.1 N5.1+ W4 K5.1/X9.2+ M2 I1.1 B4 N3.8+ T4 O4.
 nível	noun	N3.7 N5 A5.1 S7.1
 níveo	adj	O4.3 W4
 nó	noun	O2 B1 B2- X2.5- N3.8
-****nó	verb	A1.1.1
 nódoa	noun	O4.2- G2.2- O4.3
-****nódoa	verb	O4.2- G2.2- O4.3 A1.1.2
 nódulo	noun	B2- O2
 nórdico	adj	Z2
 nós	pron	Z8
@@ -9756,7 +9405,6 @@ padeiro	noun	F1/S2mf
 padiola	noun	B3 N3.7+/O2
 padrasto	noun	S4m
 padre	noun	S4m S9/S2.2m S9/S2mf
-****padre	verb	S4/B1
 padrinho	noun	S4mf
 padrão	adj	A6.2+
 padrão	noun	A5.1 G2.2 Q1.1 O2@ X4.2 O4.1 O4.3 B5/Q1.2
@@ -9811,7 +9459,6 @@ pancada	noun	E3- S1.1.3+ I1.2 X3.2 A1.1.1 S3.2/B1 X9.2+ A1.1.2 K5.1 K3 G3 S8- E4
 pancada	verb	A1.1.1 X3.2 S3.2/B1 A1.1.2 E3- Q2.2
 pandorga	noun	K6 L2mfn
 panela	noun	O2 O1.1 I1.1 F3
-****panela	verb	F4 K5.2 L1- Q4.3/M1 Q2.2
 panfleto	noun	Q1.2 Q4.1
 panfletar	verb	Q1.2 Q1
 panificação	noun	F1/H1
@@ -9964,7 +9611,6 @@ patético	adj	A5.1- E4.1- S1.2.6-
 patê	noun	F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2
 patê	verb	A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3
 pau	noun	O1.1 L3 O2 
-****pau	verb	M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+% Q1.2
 pau-rosa	noun	O1.1
 pausa	noun	E3+ K1 T2-/T1.3 O2 N5.1-
 pauta	noun	Q1.2/X7+ S8+
@@ -10260,9 +9906,7 @@ pimenta-malagueta	noun	F1
 pimentões	noun	F1 L3
 pincel	noun	C1
 pinheiro	noun	L3
-****pinheiro	verb	E4.1-
 pino	noun	O3 O2 I2.2/Q2.2
-****pino	verb	O3 A1.1.1 I2.2/Q2.2
 pintainho	noun	L2mfn S2.1f
 pintarroxo	noun	L2mfn
 pintor	noun	C1/S2mf
@@ -10340,7 +9984,6 @@ pletora	noun	N5+
 plugue	noun	O3 O2 I2.2/Q2.2
 plugue	verb	O3 A1.1.1 I2.2/Q2.2
 plumagem	noun	L2
-****plumagem	verb	A1.1.1
 plural	adj	Q3 A6.3+
 plural	noun	Q3
 plutônio	noun	O1.1
@@ -10412,9 +10055,7 @@ pontapé	noun	E3- E4.1+ A1.1.1
 pontapé	verb	E3- A1.1.1 T2-
 ponte	noun	H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2
 ponte	verb	M1 A2.2/S3.1
-****ponto	adv	A14
 ponto	noun	B5 B2- B3 O4.1 S6+ B2+ Z7 O4.4 O2 M7 N5- Q4.3 Q2.1 X4.1 A5.1 A1.5.2 T1.2 O3 K5 T1.3 B1 Q3 P1/T1.3
-****ponto	verb	A1.1.1 B5 A10+ M6 H1 X3.4 B4 P1
 ponto-de-vista	noun	X2.1 X4.1 X3.4/M7
 pontual	adj	T4
 pontualidade	noun	N3.8+
@@ -10435,13 +10076,11 @@ populoso	adj	N5+/S2
 por	adv	M6
 por	prep	A5.1+ S8+ M6 Z5
 porca	noun	L2fn
-****porca	verb	F4 A2.2
 porcas	intj	Z4
 porcas	noun	F1 O2 B2-/S2mf X5.2+/S2mf B1
 porcelana	noun	O1.1 O2
 porcentagem	noun	N5 N5
 porco	noun	F1 L2mf O4.2-/S2mf A12- L2mfn
-****porco	verb	A9+/T1.3+
 porco-espinho	noun	L2
 pormenor	noun	A4.2+ S5+c B5
 pormenor	verb	Q2.2
@@ -10522,8 +10161,6 @@ potência	noun	S7.1+ O3 S1.2.5+ N2@ B3
 poucas	adj	N5-
 pouco	adj	N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- N3.3- T1.3-
 pouco	adv	A13.7 N3.2-
-****pouco	noun	B1 N3.2-
-****pouco	verb	B1
 poucos	adj	N5-
 poupança	noun	I1.1
 poupar	verb	A9+ A9- A1.9 E3+ L1+
@@ -10556,7 +10193,6 @@ prata	adj	O4.3
 prata	noun	O1.1 I1 O2
 prataria	noun	O2
 prateleira	noun	H5 O2 
-****prateleira	verb	E6-
 praticamente	adv	A13.4 A1.6
 praticável	adj	A7+
 prato	adv	Z4
@@ -10605,13 +10241,11 @@ prefixo	verb	N4 Q3 X6+
 prefácio	noun	Q4.1 T2+ T2+/Q2.1
 pregar	verb	A1.1.1
 prego	noun	O2 B1
-****prego	verb	A1.1.1
 preguiça	noun	L2 X5.2-
 preguiçoso	adj	X5.2- X5.2-/S1.2
 prejudicar	verb	A15-
 prejudicial	adj	A1.1.2 S8- S5+
 prejuízo	noun	A1.1.2 I1.1+/G2.1 I1.2 
-****prejuízo	verb	A1.1.2
 preliminar	adj	N4
 prelúdio	noun	N4 K2
 prematuro	adj	T4+
@@ -10771,7 +10405,6 @@ produção	noun	A1.1.1 A10+ K4 K3 Q4.3
 prodígio	noun	X9.1+/S2mf
 proeminente	adj	A11.1+ A11.2+ A5.1++ I1.2 A1.9
 proeza	noun	A1.1.1
-****proeza	verb	G2.2- A1.5.1
 profecia	noun	Q2.2/T1.1.3/S9 X2.6+
 proferir	verb	Q2.1 Z4%
 professe	verb	Q2.2/A5.2
@@ -10815,7 +10448,6 @@ projetar	verb	A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1
 projetor	noun	O3
 projétil	noun	O2
 prol	noun	A5.1+ K5.2
-****prol	verb	A5.1+
 prole	noun	S4mf
 proletariado	noun	S5+c
 proletário	adj	G1.2
@@ -10863,7 +10495,6 @@ propício	adj	A5.1+ S8+
 propósito	noun	I3.1 K4 S1.1.1 A1.1.1 X7+ O4.1% A2.2 A1.5.1
 prorrogação	noun	H1 T1.3+/A2.1 N3.2+/A2.1 N5+/A2.1 Q1.3 B4
 prosa	noun	Q2.1 Q3
-****prosa	verb	Q2.1
 prosaico	adj	A6.2+
 prospecto	noun	Q1.2
 prosperidade	noun	I1.1+ N5++ I2.1/N5++ X3.2 O2 S8+ I1 G1.1c
@@ -11033,22 +10664,16 @@ pássaro	noun	L2mfn S2.1f
 pássaros	noun	L2mfn S2.1f
 pátina	noun	O4.2+ A5.1+
 pátio	noun	H3 M7 H2 H1 
-****pátio	verb	S3.2 X7+
 pátria	noun	M7
 pâncreas	noun	B1
 pânico	noun	E5-
-****pânico	verb	E5-
 pântano	noun	W3
 pão	noun	F1 I1.1
-****pão	verb	A1.9- X5.2-
 pãozinho	noun	O2 F1 Q1.2 M1
-****pãozinho	verb	M1 M2 A1.1.1
 pé	noun	B1 O2 N3.3 L2 B1@ N3.7
-****pé	verb	I1.2 N4 L2/A1.1.1 M1/N3.8+
 pé-de-cabra	noun	O2 A2.2
 pérgula	noun	H1/L3
 pérola	noun	O1.1
-****pérola	verb	C1
 pés	noun	B1 O2 N3.3
 pétala	noun	L3
 pétreo	adj	O4.1 O1.1
@@ -11061,7 +10686,6 @@ pêssego	adj	O4.3
 pêssego	noun	F1 L3 O4.3 O4.2+
 pílula	noun	B3
 pó	noun	O1.1 B4 G3
-****pó	verb	B4 A1.1.1
 pódio	noun	O2
 pólen	noun	L3
 pólo	noun	O2 W3 A6.1-
@@ -11083,7 +10707,6 @@ quadril	adj	O4.2+
 quadril	noun	B1
 quadrilha	noun	L2/N5+ S5+
 quadro	noun	O3 O2 Q4.3 
-****quadro	verb	A1.1.1 X6+ Q2.1 G2.1/A5.2- X2.1 C1 Q1.2 Q2.2
 qual	adj	Z5 Z8
 qualidade	noun	A5.1 A5.1+ O4.1
 qualificado	adj	A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3 A1.2+/I3.2+
@@ -11300,7 +10923,6 @@ reação	noun	A1.1.1 B2- S1.1.2
 reagir	verb	A1.1.1 A6.1- B2- Y1
 reajuste	noun	A2.1+ N6+/A2.1
 real	adj	A3+ A5.2+ A5.4+ A13.3 A14 S7.1+/S2mf
-****real	adv	A13.3
 real	noun	A5.4+ 
 realçar	verb	A5.1+/A2.1
 realeza	noun	S7.1+ I1.1
@@ -11356,7 +10978,6 @@ receptor	noun	A9+/S2mf Q1.3 Q4.3 G2.1-/S2mf I2.1/S2mf
 receptáculo	noun	O2
 recepção	noun	H2 S1.1.1 Q4.3 S1.1.3+ T3- Q2.1 S1.1.2+
 recesso	noun	I2.1/N5- K1
-****recesso	verb	T1.2/T2-
 recessão	noun	I2.1/N5-
 recheio	adj	N5.1+/F1
 recheio	noun	B3 F1 O1 O2 I3.1 Q1.2@
@@ -11523,7 +11144,6 @@ relaxado	adj	A1.3-
 relaxante	adj	E3+
 relaxe	verb	E3+ K1 A1.7-
 relação	noun	A2.2 S1.1.1 S3 S3.2 S4 
-****relação	verb	Q1.1 S1.1.1
 relevante	adj	A1.2+ A1.5.2+
 relevo	noun	A1.2+ A1.5.2+ E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1%
 relevância	noun	A1.2+ A1.5.2+
@@ -11567,22 +11187,16 @@ renascimento	noun	A2.1+ T1.1.1/T1.3 T2+/N6+
 renda	noun	I1.1
 render	verb	A9+/I1 S1.1.4+
 rendimento	noun	I1 I1.1+ A9
-****rendimento	verb	S7.1- A2.1+ A1.1.1 A9-
 rendição	noun	S7.1- A9-
-****rendição	verb	S7.1- A9-
 renitente	adj	E4.1-
 renome	noun	X2.2+
 renovação	noun	A5.1+/A2.1/H1 T2+/A2.1
 renunciar	verb	X2.1 Q2.2 T2-
-****renuncíe	verb	X2.1 Q2.2 T2-
 renúncia	noun	A1.7- A1.3- A9- Q2.2 S7.1- I3.1
-****renúncia	verb	M1 T2- A9- E1%
 reparar	verb	A1.7+ X6+ S8+/A1.1.2- A5.1+/A2.1 X5.1+ G2.2- X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1
 reparação	noun	A5.1+/A2.1 I1.2
 reparo	noun	A5.1+/A2.1 S8+/A1.1.2-
-****reparo	verb	A2.1+ A5.1+/A2.1 S8+/A1.1.2- M1
 repartição	noun	A6.1- H2 A9- N5 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+
-****repartição	verb	A6.1-
 repassar	verb	A2.1+ P1
 repelente	adj	O4.2-
 repelente	noun	O1.2
@@ -11739,7 +11353,6 @@ reunião	verb	S3.1 M6 A1.1.1 X9.2+ A6.1+ S5+ A9+ N5+/A2.1 X2.5+ A1.1.1%
 revelar	verb	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1
 revelação	adj	X9.2+ A10+
 revelação	noun	A10+ A2.1+ A5.1+/A2.1 Q2.1 Q2.2 
-****revelação	verb	Q2.2 Q2.1 X3 A10+
 revenda	noun	I2.2/N6+
 rever	verb	X2.4 B3 P1
 reverberação	noun	X3.2
@@ -11747,7 +11360,6 @@ reverso	adj	A6.1-
 reverso	noun	A6.1- M6 X9.2-
 reverso	verb	M6 A2.1+/A6.1- M1
 reversão	noun	A2.1+/A6.1- G2.1 M6
-****reversão	verb	A6.1- G3
 reversível	adj	A2.1+
 reverter	verb	A2.1+
 reverência	noun	O4.1/B1/S7.2+ S1.2.4+ B5 G3 K2 M4
@@ -11999,7 +11611,6 @@ salsão	noun	F1 L3
 saltar	verb	S7.1+ A2.2 M2 A1.1.1
 salteador	noun	G2.1-/S2mf
 salto	noun	B1 B5 M1 N5+/A2.1 A2.1+
-****salto	verb	B5 L2 M1 N5+/A2.1 A1.9
 salutar	adj	A1.5.2+
 salva	noun	G3 K5.1 N5+
 salvação	conj	Z5
@@ -12046,7 +11657,6 @@ sardinha	noun	L2mfn F1
 sargento	noun	G3/S7.1+/S2mf G2.1/S2mf
 sarjeta	noun	H2
 sarna	noun	B2- X7+
-****sarna	verb	B2- X7+
 satisfatório	adj	A5.1+
 satisfação	noun	E4.1+ E4.2+ Q2.2 S1.2.4+
 satisfação	verb	E4.1+
@@ -12246,7 +11856,6 @@ serviço	noun	S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@
 serviço	verb	A1.1.1 S8+
 sessenta	num	N1 T3
 sessão	noun	T1.3 T1.3/G1.1 T1.3/G2.1 T1.3/K1
-****sessão	verb	M8 C1 P1 G1.1 G2.1 M6 A9+
 sesta	noun	B1
 seta	noun	G3 O4.4 A5.1+/O2
 sete	num	N1 T3 T1.2
@@ -12260,20 +11869,15 @@ seus	det	Z8f
 seus	pron	Z8 Z8f
 severo	adj	A5.1- S1.2.5+ S1.2.1- O4.2-
 sex	noun	S2 S3.2
-****sex	verb	L2
 sexagésima	num	N4
 sexo	noun	S2 S3.2
-****sexo	verb	L2
 sexta	num	N1
 sexta-feira	noun	T1.3
-****sexta-feira	pnoun	T1.3
 sexto	adj	N1
 sexto	num	N1
 sexual	adj	S3.2
 seção	noun	N5.1- S5+c B3 Y1 C1/H1@
-****seção	verb	A1.1.1 B3/X1
 show	noun	K2
-****show	verb	E6-
 si	conj	Z7
 sido	verb	A3+ Z5
 sigilo	noun	A10-
@@ -12290,7 +11894,6 @@ signifique	verb	Q1.1 A11.1+
 silenciosamente	adv	X3.2-
 silencioso	adj	X3.2- A10-
 silhueta	noun	O4.4
-****silhueta	verb	O4.4
 silicone	noun	O1
 silvo	noun	X3.2 Q2.2
 silvo	verb	X3.2 Q2.2
@@ -12355,8 +11958,6 @@ slide	noun	Q1.2 O4.3 C1
 smoking	noun	B5
 soalho	noun	H2 S5+
 soalho	verb	X9.2- E3-
-****sob	adj	M6 S7.1- B1
-****sob	adv	A13.6 M6
 sob	prep	M6 S7.1- Z5
 soberania	noun	G1.1c S7.1+ S7.4+ X2.2+
 soberano	adj	I1 S7.1+ S7.1+/S2mf
@@ -12397,7 +11998,6 @@ sociologia	noun	S1.1.1
 sociologista	noun	S1.1.1/S2mf
 sociável	adj	E4.1+ S1.2.1+
 soco	noun	E3- A1.1.1
-****soco	verb	E3- A1.1.1 M2
 socorrer	verb	A1.7- A9- S8+ G3 B3%
 socorro	noun	E4.1+ A1.7- S8+ G3 B3 I1.1 I3.1/S2mf C1%
 soda	noun	O1.1 F2
@@ -12434,7 +12034,6 @@ solista	noun	K2/S2mf
 solitário	adj	S5-
 solo	adj	S5-
 solo	noun	M6 W3 M7 O3 X2.1 O1.1/W3 F4
-****solo	verb	A1.1.1 X3.2 M2 F1 A1.1.1/O4.5 X8+ K1 M4 Q2.2 P1 A1.7+ A2.2
 soltar	verb	A1.7-
 solteira	noun	I3.1/B4/S2.1f S2.1f%
 solteiro	adj	S4
@@ -12516,10 +12115,8 @@ submarino	adj	M4fn
 submarino	noun	M4fn
 submerso	adj	M6
 submerso	verb	M2 M1 X5.1+
-****submeta	verb	A9- S7.1-
 submeter	verb	A9- S7.1-
 submisso	adj	E3+ A12+
-****submisso	verb	E3+/S7.1+
 submissão	noun	S7.1- Q1.2
 submundo	noun	G2.1-c S9
 subordinado	adj	S7.1- S7.1-/S2mf
@@ -12574,7 +12171,6 @@ suco	noun	F2 O1.2 L3 S1.2.5-/S2mf
 suco	verb	N5-/A2.1
 suculento	adj	A5.1+/F1 L3
 sueto	noun	K1/T1.3
-****sueto	verb	K1/T1.3
 suficiente	adj	N5 N5+ A1.2+ A5.1+
 suficientemente	adv	A13.5
 suficiência	noun	N5.1+ O1.1
@@ -12633,7 +12229,6 @@ suplementar	verb	N5++ A2.1
 suplência	noun	I3.1/T2--
 suportar	verb	M2 E2+ A8 A9+ A1.1.1 M6 B1@ S8+ K5.1 I1.1 A10+
 suporte	noun	O2 A4.1 Q3 A9+/S2mf S8+ I1.1 B5%
-****suporte	verb	M6 Q3
 suposição	noun	X2.1
 suposto	adj	Q2.2/A5.2 S6+ X7+
 supremacia	noun	X9.1+ S7.1+
@@ -12696,7 +12291,6 @@ séptico	adj	B2-
 série	noun	N4c Q4.3c
 sério	adj	A11.1+ A15- E4.1- A5.2+ A5.1- S1.2.5+ S1.2.1- O4.2-
 sétima	num	N1
-****sétimo	adj	N1
 sétimo	num	N1
 sêmen	noun	B1
 sífilis	noun	B2-
@@ -12714,7 +12308,6 @@ sóbrio	adj	F2 S1.2.6+ O4.2
 sóbrio	verb	F2 S1.2.6+
 sócio	adj	S5+
 sócio	noun	S3.1/S2mf S5+/S2mf S3.1mf I2.1
-****sócio	verb	A6.1+/X2.1 S3.1
 sódio	noun	O1.1
 sólido	adj	O1.1 O4.5 A5.1+ A5.3+ T2++
 sólido	noun	O1.1
@@ -12748,11 +12341,9 @@ talco	noun	B4
 talento	noun	X9.1+
 talhadeira	noun	O2
 talhadeira	verb	A1.1.1
-****talhe	adj	A1.2+ B2+ O4.1 N5-/A2.1 T2-
 talhe	noun	A1.1.1 B5 
 talhar	verb	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 N3.2/A5.1+ N3.2 A1.2+ M2 B2-
 talho	noun	C1 A1.1.1
-****talho	verb	C1 A1.1.1
 talismã	noun	S9
 talo	noun	L3 O2
 talvez	adv	A7
@@ -12760,7 +12351,6 @@ talvez	noun	A7
 tamanho	noun	N3.2 N5 N3.1 O4.1
 tamanho	verb	N3.2 N3.1
 tambor	noun	K2 O2
-****tambor	verb	X3.2 A1.1.1 Q2.2 K2
 tamborete	noun	H5 B1%
 tamboril	noun	K2
 também	adv	N5++ N5.2+ A13.3
@@ -12827,7 +12417,6 @@ telemetria	noun	Q1.3
 telescópio	noun	O2/Y1
 televisão	noun	Q4.3
 telha	noun	O2 W3
-****telha	verb	H1
 telhado	noun	H2 B1 M3
 telhado	verb	H2
 telheiro	noun	H1
@@ -12893,9 +12482,7 @@ terminar	verb	T2- A1.5.1/N5.1+ A1.1.1 X9.2-
 termine	verb	T2-
 terminologia	noun	Q3
 termo	noun	H1/M3 Q3 T1.3 S6+
-****termo	verb	Q2.2
 termos	noun	Q3 
-****termos	verb	Q2.2
 termostato	noun	O4.6
 termômetro	noun	O4.6
 terno	adj	B5 G2.1 K5.2 I2.2 E2+
@@ -12985,7 +12572,6 @@ toalete	adj	S1.1.2+ A10-
 toalete	noun	B4/H2 B4/H5 B4/H1
 toalha	noun	B5
 toca	noun	A10-/M7 H2 H4/L2 
-****toca	verb	A1.1.1
 toca-discos	noun	A5.1+/A2.1
 tocar	verb	K1 K5.1 K5.2 K2 K3 A1.1.1 K6
 tocha	noun	O3/W2 O2/W2 O2/O4.6+
@@ -13003,12 +12589,9 @@ tolerância	noun	S7.4+ O4.1
 tolice	noun	S1.2.6- X9.1-
 tolo	adj	S1.2.6- E4.1+
 tolo	noun	S1.2.6-/S2mf E4.1+/S2mf F1
-****tolo	verb	G2.2- E4.1+
 tom	noun	E1 X3.2 K2 A4.1 O4.3 B1 M7/K5.1 N5 O1.2
-****tom	verb	B4 O4.3 A2.1+ B1 M2 K5.1 X7+ M1 X3.2 H1
 tomada	noun	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ G3 G3/S2mf K5.1 Y1 Q4.3 X8+ O2 X9.2+/G3 S7.1+ B2- O3
 tomada	pnoun	Z1
-****tomada	verb	A1.1.1 A9+ T1.3 C1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ G3 K5.1 Q4.3 A1.1.2 Q1.2 S1.2.6-%
 tomar	verb	F2/B1
 tomate	noun	F1
 tombadilho	noun	M4
@@ -13019,11 +12602,9 @@ tonelagem	noun	N3.5
 tontura	noun	B2- S1.2.6-
 topete	noun	N5-
 topo	noun	M6 N4 N5.1+ O2 B5 K6 N5.1- Q1.2
-****topo	verb	A1.1.1 O4.6-/A1.1.1
 topografia	noun	Y1/W3
 toque	adj	A1.1.1
 toque	noun	A1.1.1 X3.3 X4.2 N5-
-****toque	verb	X3.3 M6 Q2.2 E1 E2-
 toranja	noun	F1 L3
 torcer	verb	L3 X2.4
 torcida	noun	S2/E2+mf O2
@@ -13152,7 +12733,6 @@ travessura	noun	E4.1+ K1/E4.1+/S2mf K6/G2.2-
 travessura	verb	M1/E4.1+
 travesti	noun	S3.2/B5
 travão	noun	O2
-****travão	verb	M8
 traça	noun	L2mfn
 traçado	adj	X7+ C1/H1
 traçado	noun	X7+ C1/H1
@@ -13185,7 +12765,6 @@ tribunal	noun	G2.1 H3 M7/K5.2
 tributo	noun	I1.1/G1.1 S7.2+
 tributar	verb	I1.1/G1.1 
 tributário	adj	I1.1/G1.1 
-****tributário	noun	W3/M4
 tricô	noun	B5 S5+ B2+ B1
 tridimensional	adj	O4.4 N2
 trifólio	noun	L3
@@ -13225,7 +12804,6 @@ troféu	noun	O2
 trole	noun	M3/O2
 tromba	noun	B1 L2 K2
 trombeta	noun	K2
-****trombeta	verb	X3.2
 trompa	noun	O2/X3.2
 tronco	noun	B5 L2 Q1.3
 troncudo	adj	F1 O4.1
@@ -13237,7 +12815,6 @@ tropical	adj	M7 W4
 trote	noun	A5.2- M1/N3.8+
 trote	verb	M1/N3.8+
 trouxa	noun	O2 S1.2
-****trouxa	verb	A1.1.1 N5+ A1.8+ B3
 trovão	noun	W4 X3.2+
 trovão	verb	W4 X3.2+ Q2.2 E3-
 troço	noun	O1 O2
@@ -13278,9 +12855,7 @@ turismo	verb	K1
 turista	adj	M1/S2
 turista	noun	M1/S2mf
 turma	noun	S5+c S3.1 P1c A4.1 
-****turma	verb	M4
 turno	noun	A2.1+ S5+c T1.3/I3.1 N1 N5 T1.3 K5.1 M1 F2 B3 F1 K2% G3%
-****turno	verb	M2 M1 A2.1+ I2.2 N5 H4
 turquesa	adj	O4.3
 turquesa	noun	O4.3
 turvo	adj	O1.1 O4.3 F1
@@ -13319,7 +12894,6 @@ tônico	noun	F2 B3 K2@
 túmulo	adj	E4.1-
 túmulo	noun	L1-/H1 M7/L1- 
 túnel	noun	O2 M7
-****túnel	verb	A1.1.1
 túnica	noun	B5
 ucraniano	adj	Z2 Z2/Q3
 ucraniano	noun	Z2/S2mf
@@ -13370,7 +12944,6 @@ urinol	noun	H5/B4
 urro	noun	X3.2 Q2.2
 urro	verb	Q2.2/E3- X3.2+ X3.2 Q2.2
 urso	noun	L2mfn I2.1/S2mf
-****urso	verb	M2 E2+ A8 A9+ A1.1.1 M6 B1@
 urtiga	noun	L3
 urubu	noun	L2
 urze	noun	W3/L3
@@ -13442,7 +13015,6 @@ vapor	verb	O1.3 E3- M1 F1 A1.1.1
 vaqueiro	adj	F4/S2 I3.2-
 vaqueiro	noun	F4/S2.2m I3.2-/S2.2m
 vara	noun	I3.1/G2.1 I3.1 O2 
-****vara	verb	I3.1
 varanda	noun	H2
 varejista	noun	I2.2/S2mf
 variabilidade	noun	A6.3+
@@ -13455,7 +13027,6 @@ variável	noun	A6.3+ N2
 variância	noun	A6.1- A6.3+
 varredor	noun	I3.1
 varredura	noun	B4 B4/S2mf A4.1
-****varredura	verb	B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+
 varíola	noun	B2-
 vascular	adj	B1
 vaselina	noun	B4
@@ -13490,9 +13061,6 @@ velocidade	verb	M1 N3.8
 velocista	noun	K5.1/S2mf M3fn
 velocímetro	noun	N3.8/O2
 veloz	adj	N3.8+ X9.1+ L1+%
-****veloz	adv	N3.8+
-****veloz	noun	F1- L1+ W3/M4
-****veloz	verb	F1-
 veludo	noun	O1.1
 velório	noun	M4 N4 S1.1.3+/L1-
 velar	verb	L1-
@@ -13541,9 +13109,7 @@ vermelho	noun	O4.3 G1.2/S2mf
 verniz	noun	O1 O1.2
 verniz	verb	A1.1.1 B5
 verruga	noun	B2-
-****verruma	adj	X5.1+
 verruma	noun	O2
-****verruma	verb	X5.2- A1.1.1
 verso	noun	O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@
 verso	verb	A1.1.1
 versão	noun	A4.1 Q2.1
@@ -13562,7 +13128,6 @@ vestimenta	noun	B5 M4/O1 O4.2+
 vestir	verb	B5 O4.1
 vestiário	noun	H2/B5
 vestuário	noun	B5
-****vestuário	verb	B5
 vestígio	noun	N5- N5.2+/A1.5.1- L1- H1/T1.1.1
 veterano	adj	S7.1++ T3++
 veterano	noun	S7.1++/S2mf T3++/S2mf
@@ -13741,23 +13306,19 @@ vários	adj	A6.3+ N5+
 vândalo	noun	G2.1-/S2mf
 vão	adj	A1.5.2- S1.2.6- E4.1+ X9.2- S1.2.3+
 vão	noun	N3.3 H2
-****vão	verb	A1.8+ T1.3 N3.3 N3.7
 vértebra	noun	B1
 véspera	noun	T1.3-/N4 Z1
 véspera	pnoun	Z1
 véu	noun	B5
-****véu	verb	A10-
 vício	noun	B2- G2.2- G2.1- O2
 vício	prep	Z5
 vídeo	noun	Q4.3
-****vídeo	verb	Q4.3
 vírgula	noun	Q3
 vírus	noun	L2 Y2
 vítima	noun	A1.1.2/G2.1/S2mf B2-/S2mf
 vítreo	adj	O4.1
 vívido	adj	O4.3 A1.1.1 A4.2+ X5.2+ L1+%
 vómito	noun	B2-
-****vómito	verb	B2-
 vós	pron	Z8mf
 vômito	noun	B2-
 vomitar	verb	B2-
@@ -13766,7 +13327,6 @@ xadrez	adj	O4.3/B5
 xadrez	noun	K5.2
 xale	noun	B5
 xampu	noun	B4
-****xampu	verb	B4
 xarope	noun	O1.2
 xelim	noun	I1
 xenofobia	noun	E2--/M7
@@ -13799,9 +13359,7 @@ zombaria	verb	Q2.2/S1.2.4-
 zona	noun	M7 W3 T1.1 O4.4
 zoológico	adj	L2
 zoológico	noun	L2
-****zoom	adj	N3.3+
 zoom	noun	N3.3+/O2
-****zoom	verb	M1/N3.8+ A2.1/N5+ N3.3+
 zulú	adj	Z2
 zulú	noun	Z2/S2
 zumbido	intj	Z4
@@ -13854,7 +13412,6 @@ zíper	verb	A1.1.1
 áugure	verb	X2.6+
 ávido	adj	S1.2.2+
 ávido	noun	A9+ X7 S1.2
-****ávido	verb	A9+ X2.5+
 âmago	noun	A11.1+/M7 M6
 âmbito	noun	A6.3+ N5 N3.6 O2/M6 N3.7 S5+ A5.1 X9.1 A4.1 S7.1
 âncora	noun	A15+/M7 A10- H1/A10- H4/H1c M4/O2 Q4.3/S2mf
@@ -13921,7 +13478,6 @@ zíper	verb	A1.1.1
 órbita	noun	M7/W1 S7.1+
 órbita	verb	M1/W1
 órfão	noun	S4-/S2mf
-****órfão	verb	S4-
 órgão	noun	B1 K2 Q4.2 S5+c S7.1+ H1c S1.1.1 T2+
 ótico	adj	X3.4
 óxido	noun	O1
@@ -13930,7 +13486,6 @@ zíper	verb	A1.1.1
 ônibus	verb	M3
 ônus	noun	S6+ G2.2- G2.1 X7-
 último	adj	N4 T2++ T2- A11.1+ N4/K5.1 N4
-****último	adv	 K5.1 N4
 último	noun	N4/K5.1 N4 X9.2
 úmero	noun	B1
 úmido	adj	O4.1/O1.2 W4
@@ -13938,7 +13493,6 @@ zíper	verb	A1.1.1
 único	adj	A14 N5--- Z5 S5- S3.2- M3
 único	adv	S5- A14
 único	noun	B1 B5 L2mfnc F1c K3 S3.2-/S2mf H4 Q1.2/M3 K5.2
-****único	verb	A4.2+ B5
 útero	noun	B1
 útil	adj	A1.5.2+ N3.3- X9.1+ S8+
 

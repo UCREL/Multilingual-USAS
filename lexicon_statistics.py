@@ -41,6 +41,7 @@ if __name__ == '__main__':
     language_and_codes: List[str] = []
     single_lexicon_include_pos: List[bool] = []
     single_lexicon_number_entries: List[int] = []
+    autotag_lexicon_number_entries: List[int] = []
     mwe_lexicon_number_entries: List[int] = []
     resource_file_names: List[str] = []
 
@@ -55,6 +56,7 @@ if __name__ == '__main__':
             for resource in resources:
 
                 language_single_lexicon_entries = 0
+                language_autotag_lexicon_entries = 0
                 language_mwe_lexicon_entries = 0
                 language_single_lexicon_include_pos = False
 
@@ -66,6 +68,8 @@ if __name__ == '__main__':
                 if resource_type == 'single':
                     language_single_lexicon_include_pos = contains_pos_information(resource_file_path)
                     language_single_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
+                if resource_type == 'autotag':
+                    language_autotag_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
                 if resource_type == 'mwe':
                     language_mwe_lexicon_entries = number_entries_in_lexicon_file(resource_file_path)
                 if resource_type != 'pos':
@@ -75,6 +79,7 @@ if __name__ == '__main__':
                     language_and_codes.append(language_and_code)
                     single_lexicon_include_pos.append(language_single_lexicon_include_pos)
                     single_lexicon_number_entries.append(language_single_lexicon_entries)
+                    autotag_lexicon_number_entries.append(language_autotag_lexicon_entries)
                     mwe_lexicon_number_entries.append(language_mwe_lexicon_entries)
     
     
@@ -86,15 +91,18 @@ if __name__ == '__main__':
             formatted_single_lexicon_include_pos.append(':x:')
 
     formatted_single_lexicon_number_entries = format_number_lexicon_entries(single_lexicon_number_entries)
+    formatted_autotag_lexicon_number_entries = format_number_lexicon_entries(autotag_lexicon_number_entries)
     formatted_mwe_lexicon_number_entries = format_number_lexicon_entries(mwe_lexicon_number_entries)
     
     data_frame = {'Language (BCP 47 code)': language_and_codes,
                   'File Name': resource_file_names,
                   'Single Lexicon Number Entries': formatted_single_lexicon_number_entries,
                   'Single Lexicon Include POS': formatted_single_lexicon_include_pos,
+                  'Autotag Lexicon Number Entries': formatted_autotag_lexicon_number_entries,
                   'MWE Lexicon Number Entries': formatted_mwe_lexicon_number_entries}
     headers = ['Language (BCP 47 code)', 'File Name', 'Single Lexicon Number Entries', 
-               'Single Lexicon Include POS', 'MWE Lexicon Number Entries']
+               'Single Lexicon Include POS', 'Autotag Lexicon Number Entries',
+               'MWE Lexicon Number Entries']
     print(tabulate(data_frame, headers=headers, tablefmt="github"))
     
                     

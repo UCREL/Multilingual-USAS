@@ -1,0 +1,197 @@
+import argparse
+from pathlib import Path
+import csv
+import json
+from typing import List, Dict, Iterable, Tuple, Optional
+import re
+
+from test_collection import find_whitespace_problems, find_mwe_template_problems
+
+
+def read_txt_lexicon_with_line_numbers(txt_file_path: Path) -> Iterable[Tuple[int, Dict[str, str]]]:
+    '''
+    Given a lexicon text file path it will return all of the lexicon entries
+    in the text file along with the line number, starting at 1, that the entry
+    is on within the text file. Comment lines and empty lines are skipped.
+
+    A comment is any line that starts with a `#` and contains no tab (`\t`)
+    characters within the comment line, the same as in `txt_to_tsv.py`.
+
+    # Parameters
+
+    txt_file_path : `Path`
+        File path to the lexicon text file
+
+    # Returns
+
+    `Iterable[Tuple[int, Dict[str, str]]]`
+    '''
+    comment_pattern = re.compile(r'#.*')
+    tab_pattern = re.compile(r'\t')
+    field_names: List[str] = []
+    with txt_file_path.open('r', newline='', encoding='utf-8-sig') as text_file:
+        for line_number, line in enumerate(text_file, start=1):
+            if (comment_pattern.match(line) and
+                tab_pattern.search(line) is None):
+                continue
+            line = line.replace('\ufeff', '')
+            if not line.strip():
+                continue
+            values = next(csv.reader([line], delimiter='\t'))
+            if not field_names:
+                field_names = values
+                continue
+            yield line_number, dict(zip(field_names, values))
+
+
+FIELD_NAMES_TO_CHECK = ['lemma', 'token', 'pos', 'mwe_template']
+
+
+def find_field_problems(field_name: str, value: str) -> List[str]:
+    '''
+    Returns a description of each formatting problem in the `value` of the
+    field `field_name`, an empty list means there are no problems.
+
+    # Parameters
+
+    field_name : `str`
+        The name of the field the `value` comes from, one of
+        `FIELD_NAMES_TO_CHECK`.
+
+    value : `str`
+        The field value.
+
+    # Returns
+
+    `List[str]`
+    '''
+    if field_name == 'mwe_template':
+        return find_mwe_template_problems(value)
+    return find_whitespace_problems(value)
+
+
+def mechanical_fix(field_name: str, value: str, problems: List[str]) -> Optional[str]:
+    '''
+    Returns the fixed `value` when all of the `problems` can be fixed
+    mechanically, e.g. by removing surrounding whitespace, otherwise `None`
+    as someone who knows the language needs to decide on the fix.
+
+    # Parameters
+
+    field_name : `str`
+        The name of the field the `value` comes from.
+
+    value : `str`
+        The field value.
+
+    problems : `List[str]`
+        The problems found in the `value`.
+
+    # Returns
+
+    `Optional[str]`
+    '''
+    if any(problem.startswith('the token') for problem in problems):
+        return None
+    if field_name == 'mwe_template':
+        return ' '.join(value.split())
+    return value.strip()
+
+
+def suggest_fix(field_name: str, value: str, problems: List[str]) -> str:
+    '''
+    Returns a suggested fix for the `value`. A fix is only suggested when it
+    is mechanical, e.g. removing surrounding whitespace, otherwise
+    `needs review` is returned so that someone who knows the language can
+    decide on the fix.
+
+    # Parameters
+
+    field_name : `str`
+        The name of the field the `value` comes from.
+
+    value : `str`
+        The field value.
+
+    problems : `List[str]`
+        The problems found in the `value`.
+
+    # Returns
+
+    `str`
+    '''
+    fixed_value = mechanical_fix(field_name, value, problems)
+    if fixed_value is None:
+        return 'needs review'
+    return repr(fixed_value)
+
+
+def markdown_escape(value: str) -> str:
+    return value.replace('|', '\\|')
+
+
+if __name__ == '__main__':
+    description = '''
+    Finds all lexicon entries (single, autotag, and MWE) that are not
+    formatted correctly, e.g. a `pos` value that ends with whitespace or a MWE
+    template that uses a non-breaking space between its tokens. The lexicon
+    files are found through the meta data file (language_resources.json) and
+    the lexicon text files are checked, so that the line numbers in the report
+    are the line numbers within the text files.
+
+    The report is output to stdout in Markdown format, it lists each entry
+    and, where the fix is mechanical, a suggested fix, otherwise the entry
+    needs to be reviewed by someone who knows the language.
+    '''
+    arguments = argparse.ArgumentParser(description=description,
+                                        formatter_class=argparse.RawDescriptionHelpFormatter)
+    arguments.parse_args()
+
+    json_data = Path(__file__, '..', 'language_resources.json').resolve()
+    repository_folder = json_data.parent
+    valid_resource_types = set(['single', 'autotag', 'mwe'])
+
+    print('# Lexicon formatting issues\n')
+    print('Generated by `python find_formatting_issues.py`. Line numbers are '
+          'line numbers within the lexicon text (`.txt`) files. Values are '
+          'shown using Python `repr` so that whitespace such as a non-breaking '
+          'space (`\\xa0`) can be seen.\n')
+    total_issues = 0
+    with json_data.open('r') as json_fp:
+        data = json.load(json_fp)
+        for language_code, meta_data in data.items():
+            language_description: str = meta_data['language data']['description']
+            rows: List[str] = []
+            resources: List[Dict[str, str]] = meta_data['resources']
+            for resource in resources:
+                resource_type = resource['data type']
+                if resource_type not in valid_resource_types:
+                    continue
+                tsv_file_path = Path(repository_folder, resource['file path']).resolve()
+                txt_file_path = tsv_file_path.with_suffix('.txt')
+                relative_txt_file_path = txt_file_path.relative_to(repository_folder)
+                for line_number, entry in read_txt_lexicon_with_line_numbers(txt_file_path):
+                    for field_name in FIELD_NAMES_TO_CHECK:
+                        value = entry.get(field_name)
+                        if value is None:
+                            continue
+                        problems = find_field_problems(field_name, value)
+                        if not problems:
+                            continue
+                        suggested_fix = suggest_fix(field_name, value, problems)
+                        if suggested_fix != 'needs review':
+                            suggested_fix = f'`{markdown_escape(suggested_fix)}`'
+                        rows.append(f'| `{relative_txt_file_path}` | {line_number} '
+                                    f'| `{field_name}` | `{markdown_escape(repr(value))}` '
+                                    f'| {markdown_escape("; ".join(problems))} '
+                                    f'| {suggested_fix} |')
+            if not rows:
+                continue
+            total_issues += len(rows)
+            print(f'## {language_description} ({language_code})\n')
+            print('| File | Line | Field | Value | Problems | Suggested fix |')
+            print('|---|---|---|---|---|---|')
+            for row in rows:
+                print(row)
+            print()
+    print(f'Total number of issues: {total_issues}')
